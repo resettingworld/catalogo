@@ -1,0 +1,26 @@
+{
+  "rag_id": "compostatge-fertilitat-sol",
+  "name": "Compostatge i Fertilitat del Sòl",
+  "description": "Elaboració de compost, microbiologia del sòl, esmenes orgàniques, biofertilitzants i maneig nutricional de la terra.",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794277963.676834,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 1508,
+  "total_documents": 21,
+  "total_library_files": 21,
+  "total_images_extracted": 406,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "composta",
+    "agricultura",
+    "cultivo",
+    "plagas",
+    "collage-punk",
+    "smartlocal"
+  ]
+}

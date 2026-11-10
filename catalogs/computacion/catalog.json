@@ -1,0 +1,962 @@
+{
+  "topic": "Computacion",
+  "domain": "Tecnología e Informática",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 27,
+  "total_pages": 3318,
+  "total_size_mb": 129.8,
+  "books": [
+    {
+      "id": "computacion-manual-autoformativo-carlos-calderon-sedano-huancayo-1204",
+      "title": "Computación. Manual Autoformativo",
+      "author": "Carlos Calderon Sedano–Huancayo",
+      "filename": "computacion-manual-autoformativo-carlos-calderon-sedano-huancayo-1204.pdf",
+      "source_url": null,
+      "file_size_bytes": 3220281,
+      "sha256": "73b154e6aee0f41926f72d3e4ccfb92095edb029b3414b6ef345e374be07946c",
+      "total_pages": 162,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Computación. Manual Autoformativo dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Computación. Manual Autoformativo L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computación. Manual Autoformativo'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-manual-autoformativo-carlos-calderon-sedano-huancayo-1204.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-informatica-laura-angelone-y-diego-zaragueta-17692",
+      "title": "Introducción a la Informática",
+      "author": "Laura Angelone y Diego Zaragüeta",
+      "filename": "introduccion-a-la-informatica-laura-angelone-y-diego-zaragueta-17692.pdf",
+      "source_url": null,
+      "file_size_bytes": 4587862,
+      "sha256": "6333e7e0c16875f139feb0c12675a60d47f6d7a6fc5729670cb08508c38f3085",
+      "total_pages": 79,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introducción a la Informática dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducción a la Informática: curso introductorio  / Laura Angelone; Diego Zaragüeta. - 1a L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISBN 978-987-3662-59-1"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introducción a la Informática'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-informatica-laura-angelone-y-diego-zaragueta-17692.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-las-computadoras-universidad-nacional-de-san-luis-17705",
+      "title": "Introducción a las Computadoras",
+      "author": "Universidad Nacional de San Luis",
+      "filename": "introduccion-a-las-computadoras-universidad-nacional-de-san-luis-17705.pdf",
+      "source_url": null,
+      "file_size_bytes": 917480,
+      "sha256": "ca7ff552cadc78fdf5b17a8fcd813c4033993a31c5d4b22a7fdf423ef6371078",
+      "total_pages": 66,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introducción a las Computadoras dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducci´on a las Computadoras L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introducción a las Computadoras'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-las-computadoras-universidad-nacional-de-san-luis-17705.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-los-fundamentos-de-los-computadores-a-josep-velasco-gonzalez-17706",
+      "title": "Introducción a los Fundamentos de los Computadores",
+      "author": "A. Josep Velasco González",
+      "filename": "introduccion-a-los-fundamentos-de-los-computadores-a-josep-velasco-gonzalez-17706.pdf",
+      "source_url": null,
+      "file_size_bytes": 964547,
+      "sha256": "223d99363ae8caa6d1d2ffe5acd2ea3200860b99312c66daf20a6a87c5eb78eb",
+      "total_pages": 25,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introducción a los Fundamentos de los Computadores dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducción a los fundamentos de los computadores L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introducción a los Fundamentos de los Computadores'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-los-fundamentos-de-los-computadores-a-josep-velasco-gonzalez-17706.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "diccionario-de-terminos-informaticos-wikimedia-commons-17707",
+      "title": "Diccionario de Términos Informáticos",
+      "author": "Wikimedia Commons",
+      "filename": "diccionario-de-terminos-informaticos-wikimedia-commons-17707.pdf",
+      "source_url": null,
+      "file_size_bytes": 67821,
+      "sha256": "f4fef224d024612e1db86ed96681d5cb0a061f2d5964cc641a3c82c2fc77a1da",
+      "total_pages": 22,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Diccionario de Términos Informáticos dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Diccionario de términos informáticos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Diccionario de Términos Informáticos'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/diccionario-de-terminos-informaticos-wikimedia-commons-17707.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "abc-digital-manual-de-alfabetizacion-digital-municipalidad-de-lima-17693",
+      "title": "ABC Digital. Manual de Alfabetización Digital",
+      "author": "Municipalidad de Lima",
+      "filename": "abc-digital-manual-de-alfabetizacion-digital-municipalidad-de-lima-17693.pdf",
+      "source_url": null,
+      "file_size_bytes": 7586649,
+      "sha256": "6c624623aa3c2cd428aa714e49df27589af38b055b53c05af927d08822ef5032",
+      "total_pages": 60,
+      "short_description": "Manual Docent i Tècnic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de ABC Digital. Manual de Alfabetización Digital dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Manual de alfabetización digital L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'ABC Digital. Manual de Alfabetización Digital'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/abc-digital-manual-de-alfabetizacion-digital-municipalidad-de-lima-17693.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Manual Docent i Tècnic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "alfabetizacion-digital-basica-para-adultos-violeta-cardenas-hernandez-17694",
+      "title": "Alfabetización Digital Básica para Adultos",
+      "author": "Violeta Cárdenas Hernández",
+      "filename": "alfabetizacion-digital-basica-para-adultos-violeta-cardenas-hernandez-17694.pdf",
+      "source_url": null,
+      "file_size_bytes": 2743850,
+      "sha256": "91deb3009bc9f08cc4e4fc092996e09fc7623d5aa0982650e59b3f3b7b1e8857",
+      "total_pages": 48,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Alfabetización Digital Básica para Adultos dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Estudi exhaustiu de Alfabetización Digital Básica para Adultos amb fonaments teòrics i aplicacions pràctiques. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Alfabetización Digital Básica para Adultos'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/alfabetizacion-digital-basica-para-adultos-violeta-cardenas-hernandez-17694.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "informatica-basica-infotep-y-organizacion-de-estados-iberoamericanos-17695",
+      "title": "Informática Básica",
+      "author": "INFOTEP y Organización de Estados Iberoamericanos",
+      "filename": "informatica-basica-infotep-y-organizacion-de-estados-iberoamericanos-17695.pdf",
+      "source_url": null,
+      "file_size_bytes": 5362035,
+      "sha256": "de8f12acbd8ae67802e8610e8d3b22e5e0748cb8be8a4b41727e8f4211ffd150",
+      "total_pages": 21,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Informática Básica dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: El Instituto Nacional de Formación Técnico Profesional (INFOTEP) y L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Informática Básica'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/informatica-basica-infotep-y-organizacion-de-estados-iberoamericanos-17695.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "ciencias-de-la-computacion-para-el-aula-1-er-ciclo-de-primaria-libro-para-docentes-fundacion-sadosky-17696",
+      "title": "Ciencias de la Computación para el Aula: 1.er Ciclo de Primaria, libro para docentes",
+      "author": "Fundación Sadosky",
+      "filename": "ciencias-de-la-computacion-para-el-aula-1-er-ciclo-de-primaria-libro-para-docentes-fundacion-sadosky-17696.pdf",
+      "source_url": null,
+      "file_size_bytes": 20046327,
+      "sha256": "f87933370ec4bfd8ff5903cb5201bcb9bb317606f459820d70087ae0e4a40024",
+      "total_pages": 310,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Ciencias de la Computación para el Aula: 1.er Ciclo de Primaria, libro para docentes dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Hernán Czemerinski (capítulo 7) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-987-27416-6-2"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Ciencias de la Computación para el Aula: 1.er Ciclo de Primaria, libro para docentes'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-de-la-computacion-para-el-aula-1-er-ciclo-de-primaria-libro-para-docentes-fundacion-sadosky-17696.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "Ciencias-de-la-computaci-n-para-el-aula-2do_-ciclo-de-primaria-libro-para-docentes-Carlos-Areces-Luciana-Benotti-Joshep-Joel-Cortez-S-nchez",
+      "title": "Ciencias De La Computaci N Para El Aula 2Do. Ciclo De Primaria Libro Para Docentes Carlos Areces Luciana Benotti Joshep Joel Cortez S Nchez",
+      "author": "Desconegut / Institucional",
+      "filename": "Ciencias-de-la-computaci-n-para-el-aula-2do.-ciclo-de-primaria-libro-para-docentes-Carlos-Areces-Luciana-Benotti-Joshep-Joel-Cortez-S-nchez.pdf",
+      "source_url": null,
+      "file_size_bytes": 9020128,
+      "sha256": "e7b96c3a504b03cf226a55c5f936a1d85cc4e9b3a6f14759747f544a1723718f",
+      "total_pages": 300,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Ciencias De La Computaci N Para El Aula 2Do. Ciclo De Primaria Libro Para Docentes Carlos Areces Luciana Benotti Joshep Joel Cortez S Nchez dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Luciana Benotti (Introducción y Capítulo 5) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-987-27416-5-5"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Ciencias De La Computaci N Para El Aula 2Do. Ciclo De Primaria Libro Para Docentes Carlos Areces Luciana Benotti Joshep Joel Cortez S Nchez'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Ciencias-de-la-computaci-n-para-el-aula-2do_-ciclo-de-primaria-libro-para-docentes-Carlos-Areces-Luciana-Benotti-Joshep-Joel-Cortez-S-nchez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "ciencias-de-la-computacion-para-el-aula-fichas-de-1-er-ciclo-de-primaria-fundacion-sadosky-17697",
+      "title": "Ciencias de la Computación para el Aula: Fichas de 1.er Ciclo de Primaria",
+      "author": "Fundación Sadosky",
+      "filename": "ciencias-de-la-computacion-para-el-aula-fichas-de-1-er-ciclo-de-primaria-fundacion-sadosky-17697.pdf",
+      "source_url": null,
+      "file_size_bytes": 14516790,
+      "sha256": "124cd883e66ef1128eff6570e49503e3d991644a43b13cdaf0d132b28263814d",
+      "total_pages": 92,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Ciencias de la Computación para el Aula: Fichas de 1.er Ciclo de Primaria dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Hernán Czemerinski (capítulo 7) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-987-27416-6-2"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Ciencias de la Computación para el Aula: Fichas de 1.er Ciclo de Primaria'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-de-la-computacion-para-el-aula-fichas-de-1-er-ciclo-de-primaria-fundacion-sadosky-17697.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "ciencias-de-la-computacion-para-el-aula-1-er-ciclo-de-secundaria-libro-para-docentes-pablo-e-martinez-lopez-y-otros-17698",
+      "title": "Ciencias De La Computacion Para El Aula 1 Er Ciclo De Secundaria Libro Para Docentes Pablo E Martinez Lopez Y Otros 17698",
+      "author": "Desconegut / Institucional",
+      "filename": "ciencias-de-la-computacion-para-el-aula-1-er-ciclo-de-secundaria-libro-para-docentes-pablo-e-martinez-lopez-y-otros-17698.pdf",
+      "source_url": null,
+      "file_size_bytes": 31755414,
+      "sha256": "3c169cc949885629ef5382a9a426fe2783b597cfe14c864661ac77a2b60cf362",
+      "total_pages": 373,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Ciencias De La Computacion Para El Aula 1 Er Ciclo De Secundaria Libro Para Docentes Pablo E Martinez Lopez Y Otros 17698 dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Pablo E. “Fidel” Martínez López L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISBN 978-987-27416-7-9"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Ciencias De La Computacion Para El Aula 1 Er Ciclo De Secundaria Libro Para Docentes Pablo E Martinez Lopez Y Otros 17698'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-de-la-computacion-para-el-aula-1-er-ciclo-de-secundaria-libro-para-docentes-pablo-e-martinez-lopez-y-otros-17698.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "computacion-sin-computadora-actividades-para-primaria-tim-bell-ian-h-witten-y-mike-fellows-17699",
+      "title": "Computación sin Computadora: Actividades para Primaria",
+      "author": "Tim Bell, Ian H. Witten y Mike Fellows",
+      "filename": "computacion-sin-computadora-actividades-para-primaria-tim-bell-ian-h-witten-y-mike-fellows-17699.pdf",
+      "source_url": null,
+      "file_size_bytes": 4643132,
+      "sha256": "f75aa29aecac293d4d66ee14fac1f2806c4b67d51e58625dfe2b0affc69f7bd5",
+      "total_pages": 112,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Computación sin Computadora: Actividades para Primaria dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Tim Bell, Ian H. Witten y Mike Fellows L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computación sin Computadora: Actividades para Primaria'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-sin-computadora-actividades-para-primaria-tim-bell-ian-h-witten-y-mike-fellows-17699.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-computacion-sistema-estatal-de-telesecundaria-17708",
+      "title": "Introducción a la Computación",
+      "author": "Sistema Estatal de Telesecundaria",
+      "filename": "introduccion-a-la-computacion-sistema-estatal-de-telesecundaria-17708.pdf",
+      "source_url": null,
+      "file_size_bytes": 454405,
+      "sha256": "46273ff7255a05ea00c22a7583a77ec1e56a02f0ffc1c8ef2c932fdcfac5a582",
+      "total_pages": 51,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introducción a la Computación dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: SISTEMA ESTATAL DE TELESECUNDARIA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introducción a la Computación'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-computacion-sistema-estatal-de-telesecundaria-17708.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "historia-de-la-computacion-carlos-alberto-garrido-lopez-17709",
+      "title": "Historia de la Computación",
+      "author": "Carlos Alberto Garrido López",
+      "filename": "historia-de-la-computacion-carlos-alberto-garrido-lopez-17709.pdf",
+      "source_url": null,
+      "file_size_bytes": 1662672,
+      "sha256": "7b34189103496f0d48ab4a0184d40450ac03fc73ee104972920bc53c7069fb57",
+      "total_pages": 82,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Historia de la Computación dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Asesora: Dra. Olga María Cossich Mérida L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Historia de la Computación'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/historia-de-la-computacion-carlos-alberto-garrido-lopez-17709.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "09_-Historia-de-la-Computaci-n-Autor-Gerardo-Ignacio-Hern-ndez-Garc-a",
+      "title": "09. Historia De La Computaci N Autor Gerardo Ignacio Hern Ndez Garc A",
+      "author": "Desconegut / Institucional",
+      "filename": "09.-Historia-de-la-Computaci-n-Autor-Gerardo-Ignacio-Hern-ndez-Garc-a.pdf",
+      "source_url": null,
+      "file_size_bytes": 275046,
+      "sha256": "ee8ee201c481c8166c4fe531cc22d8a360d29ba94f545d688eaf3b8fbae02f60",
+      "total_pages": 27,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de 09. Historia De La Computaci N Autor Gerardo Ignacio Hern Ndez Garc A dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Gerardo Ignacio Hernández García L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '09. Historia De La Computaci N Autor Gerardo Ignacio Hern Ndez Garc A'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/09_-Historia-de-la-Computaci-n-Autor-Gerardo-Ignacio-Hern-ndez-Garc-a.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "antecedentes-historicos-de-la-informatica-universidad-nacional-autonoma-de-mexico-17700",
+      "title": "Antecedentes Históricos de la Informática",
+      "author": "Universidad Nacional Autónoma de México",
+      "filename": "antecedentes-historicos-de-la-informatica-universidad-nacional-autonoma-de-mexico-17700.pdf",
+      "source_url": null,
+      "file_size_bytes": 614446,
+      "sha256": "cdc2d3bae44d14cc9a5c5b6a62e340ac043174280709ae644ff9bf76011029bc",
+      "total_pages": 30,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Antecedentes Históricos de la Informática dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Al culminar el aprendizaje de la unidad, lograrás familiarizarte con la L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Antecedentes Históricos de la Informática'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/antecedentes-historicos-de-la-informatica-universidad-nacional-autonoma-de-mexico-17700.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "cronologia-de-la-historia-de-la-computacion-pablo-davila-silva-17710",
+      "title": "Cronología de la Historia de la Computación",
+      "author": "Pablo Dávila Silva",
+      "filename": "cronologia-de-la-historia-de-la-computacion-pablo-davila-silva-17710.pdf",
+      "source_url": null,
+      "file_size_bytes": 239133,
+      "sha256": "7cdcdeaeb2be819c80d1f1107793f0a01e3a7b369120cb91013c5d1e3dc998ce",
+      "total_pages": 27,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Cronología de la Historia de la Computación dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: La computadora u ordenador, no es un invento de alguien en particular, L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Cronología de la Historia de la Computación'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/cronologia-de-la-historia-de-la-computacion-pablo-davila-silva-17710.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "arquitectura-de-computadores-juan-carlos-granda-candas-jose-maria-lopez-lopez-y-manuel-garcia-vazquez-17711",
+      "title": "Arquitectura de Computadores",
+      "author": "Juan Carlos Granda Candás, José María López López y Manuel García Vázquez",
+      "filename": "arquitectura-de-computadores-juan-carlos-granda-candas-jose-maria-lopez-lopez-y-manuel-garcia-vazquez-17711.pdf",
+      "source_url": null,
+      "file_size_bytes": 1484143,
+      "sha256": "f722f7478f2db32ea8a0648f7a278533672f20e59f20968ca9b453cf5dba2ae4",
+      "total_pages": 228,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Arquitectura de Computadores dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Francisco Javier de la Calle Herrero L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Arquitectura de Computadores'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/arquitectura-de-computadores-juan-carlos-granda-candas-jose-maria-lopez-lopez-y-manuel-garcia-vazquez-17711.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "arquitectura-de-computadoras-david-patricio-lopez-carrillo-angel-marcelo-acuna-felix-y-otros-17712",
+      "title": "Arquitectura de Computadoras",
+      "author": "David Patricio López Carrillo, Ángel Marcelo Acuña Félix y otros",
+      "filename": "arquitectura-de-computadoras-david-patricio-lopez-carrillo-angel-marcelo-acuna-felix-y-otros-17712.pdf",
+      "source_url": null,
+      "file_size_bytes": 5568532,
+      "sha256": "05ab86bd34d4a768cf0ac6c6b59041a7dccb0fe57213d05e7b696e37b9ff3381",
+      "total_pages": 173,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Arquitectura de Computadoras dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Reservados todos los derechos. Está prohibido, bajo las L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Arquitectura de Computadoras'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/arquitectura-de-computadoras-david-patricio-lopez-carrillo-angel-marcelo-acuna-felix-y-otros-17712.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "arquitectura-de-computadoras-hardware-y-componentes-betsi-magaly-ocrospoma-callupe-17701",
+      "title": "Arquitectura de Computadoras: Hardware y Componentes",
+      "author": "Betsi Magaly Ocrospoma Callupe",
+      "filename": "arquitectura-de-computadoras-hardware-y-componentes-betsi-magaly-ocrospoma-callupe-17701.pdf",
+      "source_url": null,
+      "file_size_bytes": 1300039,
+      "sha256": "d07e335127d5cfa00b8a3bd6c09947360753edc65aa4b3a145b4ce240a1e95df",
+      "total_pages": 84,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Arquitectura de Computadoras: Hardware y Componentes dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Alma Máter del Magisterio Nacional L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Arquitectura de Computadoras: Hardware y Componentes'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/arquitectura-de-computadoras-hardware-y-componentes-betsi-magaly-ocrospoma-callupe-17701.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "teoria-de-la-computacion-jorge-eduardo-carrion-viramontes-1206",
+      "title": "Teoría de la Computación",
+      "author": "Jorge Eduardo Carrión Viramontes",
+      "filename": "teoria-de-la-computacion-jorge-eduardo-carrion-viramontes-1206.pdf",
+      "source_url": null,
+      "file_size_bytes": 1297633,
+      "sha256": "556a9a3510d2ae285295a0d9eaef5ae3f658e5ddd7938c3ec969af74cd55de57",
+      "total_pages": 285,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Teoría de la Computación dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: A P U N T E S  E L A B O R A D O S  P O R L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Teoría de la Computación'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/teoria-de-la-computacion-jorge-eduardo-carrion-viramontes-1206.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "teoria-de-la-computacion-lenguajes-automatas-y-gramaticas-rodrigo-de-castro-korgi-17702",
+      "title": "Teoría de la Computación: Lenguajes, Autómatas y Gramáticas",
+      "author": "Rodrigo De Castro Korgi",
+      "filename": "teoria-de-la-computacion-lenguajes-automatas-y-gramaticas-rodrigo-de-castro-korgi-17702.pdf",
+      "source_url": null,
+      "file_size_bytes": 6772305,
+      "sha256": "9b6d9b38b72ef4c10493426494e3edfb9de83d8268b0a4ac5fe6f6d39ff7b45f",
+      "total_pages": 223,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Teoría de la Computación: Lenguajes, Autómatas y Gramáticas dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Instituto de CienCias Naturales L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Teoría de la Computación: Lenguajes, Autómatas y Gramáticas'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/teoria-de-la-computacion-lenguajes-automatas-y-gramaticas-rodrigo-de-castro-korgi-17702.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "teoria-de-automatas-y-lenguajes-formales-elena-jurado-malaga-17703",
+      "title": "Teoría de Autómatas y Lenguajes Formales",
+      "author": "Elena Jurado Málaga",
+      "filename": "teoria-de-automatas-y-lenguajes-formales-elena-jurado-malaga-17703.pdf",
+      "source_url": null,
+      "file_size_bytes": 1818380,
+      "sha256": "c47da9c384a36d02d348e100fdd7c2a81a1a98239bf5faf95efece4beb5ce578",
+      "total_pages": 177,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Teoría de Autómatas y Lenguajes Formales dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Estudi exhaustiu de Teoría de Autómatas y Lenguajes Formales amb fonaments teòrics i aplicacions pràctiques. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Teoría de Autómatas y Lenguajes Formales'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/teoria-de-automatas-y-lenguajes-formales-elena-jurado-malaga-17703.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "Computaci-n-en-la-nube-Con-Google-Drive-Edgar-R_-Morales-Calu-a-Fernando-X_-Altamirano-Capelo",
+      "title": "Computaci N En La Nube Con Google Drive Edgar R. Morales Calu A Fernando X. Altamirano Capelo",
+      "author": "Desconegut / Institucional",
+      "filename": "Computaci-n-en-la-nube-Con-Google-Drive-Edgar-R.-Morales-Calu-a-Fernando-X.-Altamirano-Capelo.pdf",
+      "source_url": null,
+      "file_size_bytes": 2248126,
+      "sha256": "79cc09e5db2eb221ca6827bdc8765392be6445e4ffdb4f8d44d682e3fb759c21",
+      "total_pages": 124,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Computaci N En La Nube Con Google Drive Edgar R. Morales Calu A Fernando X. Altamirano Capelo dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Computación en la nube con Google Drive L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computaci N En La Nube Con Google Drive Edgar R. Morales Calu A Fernando X. Altamirano Capelo'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Computaci-n-en-la-nube-Con-Google-Drive-Edgar-R_-Morales-Calu-a-Fernando-X_-Altamirano-Capelo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "04_-Manual-de-Computaci-n-en-la-Nube-Autor-Mart-n-Antonio-Orjuela-Velasco-y-Leidy-Viviana-Cristancho-Cruz",
+      "title": "04. Manual De Computaci N En La Nube Autor Mart N Antonio Orjuela Velasco Y Leidy Viviana Cristancho Cruz",
+      "author": "Desconegut / Institucional",
+      "filename": "04.-Manual-de-Computaci-n-en-la-Nube-Autor-Mart-n-Antonio-Orjuela-Velasco-y-Leidy-Viviana-Cristancho-Cruz.pdf",
+      "source_url": null,
+      "file_size_bytes": 2253347,
+      "sha256": "c29914fa3f846a7b4108a5c23023af08687f4b849f6e9c31a7036bf13f6077fb",
+      "total_pages": 31,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de 04. Manual De Computaci N En La Nube Autor Mart N Antonio Orjuela Velasco Y Leidy Viviana Cristancho Cruz dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Consejero Presidencial para asuntos económicos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '04. Manual De Computaci N En La Nube Autor Mart N Antonio Orjuela Velasco Y Leidy Viviana Cristancho Cruz'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/04_-Manual-de-Computaci-n-en-la-Nube-Autor-Mart-n-Antonio-Orjuela-Velasco-y-Leidy-Viviana-Cristancho-Cruz.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "computacion-en-la-nube-introduccion-al-cloud-computing-ruben-teodoro-santillan-ramirez-17704",
+      "title": "Computación en la Nube: Introducción al Cloud Computing",
+      "author": "Rubén Teodoro Santillán Ramírez",
+      "filename": "computacion-en-la-nube-introduccion-al-cloud-computing-ruben-teodoro-santillan-ramirez-17704.pdf",
+      "source_url": null,
+      "file_size_bytes": 4680926,
+      "sha256": "6c14521038bbf1bb6b09cf51cef4492442cade7c8256eea258537d26f65cb72a",
+      "total_pages": 106,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Computación en la Nube: Introducción al Cloud Computing dins de Computacion.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: RUBÉN TEODORO SANTILLÁN RAMÍREZ L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computación en la Nube: Introducción al Cloud Computing'. Domain: Tecnología e Informática (Computacion). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-en-la-nube-introduccion-al-cloud-computing-ruben-teodoro-santillan-ramirez-17704.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    }
+  ]
+}

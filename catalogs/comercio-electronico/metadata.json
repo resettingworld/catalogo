@@ -1,0 +1,575 @@
+{
+  "schema_version": "1.0.0",
+  "id": "comercio-electronico",
+  "name": "Comercio Electronico",
+  "description": "Col·lecció completa de llibres i manuals de Comercio Electronico (Estil Collage Punk DIY).",
+  "category": {
+    "slug": "informatica",
+    "name": "Informatica",
+    "url": "https://infolibros.org/libros-pdf-gratis/informatica/"
+  },
+  "domain": "Tecnología e Informática",
+  "language": "es",
+  "portal_source": {
+    "name": "InfoLibros",
+    "url": "https://infolibros.org/libros-pdf-gratis/informatica/comercio-electronico/",
+    "scraped_at": "2026-11-10T00:36:50.259845+00:00"
+  },
+  "tags": [
+    "comercio-electronico",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "bf839aa1-f26c-435b-849e-81b7518fe4f9",
+      "title": "Analisis Espacial Del Ciberfraude Al Comercio Electronico Dominguez Arteaga Y Vera Vazquez 20889",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "analisis-espacial-del-ciberfraude-al-comercio-electronico-dominguez-arteaga-y-vera-vazquez-20889.pdf",
+      "source_url": null,
+      "file_size_bytes": 810379,
+      "sha256": "cd6e9c3f6c01beb5161d4b3ea8ff213a39cf5165e054140f0fd1d37aa0ca53c5",
+      "page_count": 21,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "3f9330f9-3f97-4107-8f3e-375838af3a1b",
+      "title": "Analisis Preliminar Del Comercio Electronico M Martin Moreno Y F Saez Vacas 20879",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "analisis-preliminar-del-comercio-electronico-m-martin-moreno-y-f-saez-vacas-20879.pdf",
+      "source_url": null,
+      "file_size_bytes": 415380,
+      "sha256": "b14ecdccddcf6d912b51346f949d88ef648aef6e4c6e15c8928b9e18f2d77108",
+      "page_count": 35,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_3f9330f9-3f97-4107-8f3e-375838af3a1b_p21_0.png",
+        "img_3f9330f9-3f97-4107-8f3e-375838af3a1b_p26_0.png",
+        "img_3f9330f9-3f97-4107-8f3e-375838af3a1b_p28_0.jpeg"
+      ]
+    },
+    {
+      "id": "64290255-8e1b-4441-b1ba-8e9eed1e2a00",
+      "title": "Beneficios Del Comercio Electronico Roxana Silva Murillo 20880",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "beneficios-del-comercio-electronico-roxana-silva-murillo-20880.pdf",
+      "source_url": null,
+      "file_size_bytes": 146107,
+      "sha256": "aaefcf47cff9b7b8adffcd306329efc0e0c8913a5b997959d8970f3c50ee12d1",
+      "page_count": 16,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "e3fd00fa-3977-4a9c-a8a8-54fc9993e8ed",
+      "title": "Casos De Exito Y Estrategias Efectivas En El Comercio Electronico Sandra San Roman Posada 20885",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "casos-de-exito-y-estrategias-efectivas-en-el-comercio-electronico-sandra-san-roman-posada-20885.pdf",
+      "source_url": null,
+      "file_size_bytes": 503832,
+      "sha256": "e5f7e75b7e21f96933865f09906c8bd7790813a0082d097a15d1711a1bf4b7c5",
+      "page_count": 34,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "63928fe5-58a3-4562-92f0-660b5d54020b",
+      "title": "Comercio Electronico Definiciones Evolucion Y Tipos Universidad Nacional Del Nordeste 20876",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "comercio-electronico-definiciones-evolucion-y-tipos-universidad-nacional-del-nordeste-20876.pdf",
+      "source_url": null,
+      "file_size_bytes": 199481,
+      "sha256": "5229652cf6ee751b5bd8047ae94dcadb2e6146fb3ad83243c457789e6195219f",
+      "page_count": 41,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "eb1bf860-9330-4e6f-92ea-f0de2b0a711e",
+      "title": "Comercio Electronico En El Mercosur Una Via Para Potenciar La Integracion Romina Gaya Y Nanno Mulder 20894",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "comercio-electronico-en-el-mercosur-una-via-para-potenciar-la-integracion-romina-gaya-y-nanno-mulder-20894.pdf",
+      "source_url": null,
+      "file_size_bytes": 483082,
+      "sha256": "adb56e937e93ba4f4babcb6a68a60ac3ede6b94720234234b6a5560783362b9b",
+      "page_count": 37,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_eb1bf860-9330-4e6f-92ea-f0de2b0a711e_p6_0.png",
+        "img_eb1bf860-9330-4e6f-92ea-f0de2b0a711e_p10_0.png",
+        "img_eb1bf860-9330-4e6f-92ea-f0de2b0a711e_p11_0.png",
+        "img_eb1bf860-9330-4e6f-92ea-f0de2b0a711e_p12_0.png",
+        "img_eb1bf860-9330-4e6f-92ea-f0de2b0a711e_p13_0.png",
+        "img_eb1bf860-9330-4e6f-92ea-f0de2b0a711e_p14_0.png",
+        "img_eb1bf860-9330-4e6f-92ea-f0de2b0a711e_p15_0.png",
+        "img_eb1bf860-9330-4e6f-92ea-f0de2b0a711e_p25_0.png",
+        "img_eb1bf860-9330-4e6f-92ea-f0de2b0a711e_p26_0.png",
+        "img_eb1bf860-9330-4e6f-92ea-f0de2b0a711e_p30_0.png",
+        "img_eb1bf860-9330-4e6f-92ea-f0de2b0a711e_p31_0.png"
+      ]
+    },
+    {
+      "id": "d9e4ce43-8b39-4923-8dfe-590c60db5c41",
+      "title": "Comercio Electronico Y Redes Sociales David Burin",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "comercio-electronico-y-redes-sociales-david-burin.pdf",
+      "source_url": null,
+      "file_size_bytes": 620969,
+      "sha256": "2d504ce873a65e08ded8c457e46606d620bdd2ce2a7d68775fd7e040ce964cfc",
+      "page_count": 20,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_d9e4ce43-8b39-4923-8dfe-590c60db5c41_p6_1.jpeg",
+        "img_d9e4ce43-8b39-4923-8dfe-590c60db5c41_p7_0.jpeg",
+        "img_d9e4ce43-8b39-4923-8dfe-590c60db5c41_p11_0.jpeg",
+        "img_d9e4ce43-8b39-4923-8dfe-590c60db5c41_p11_1.jpeg",
+        "img_d9e4ce43-8b39-4923-8dfe-590c60db5c41_p12_0.jpeg",
+        "img_d9e4ce43-8b39-4923-8dfe-590c60db5c41_p13_0.jpeg",
+        "img_d9e4ce43-8b39-4923-8dfe-590c60db5c41_p14_0.jpeg"
+      ]
+    },
+    {
+      "id": "868f6a50-40c1-482c-936a-f65ee8f69c2a",
+      "title": "Como Vender Online Guia Practica Para Montar Tu Negocio En Internet Camara Americana De Comercio De La Republica Dominicana 20895",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "como-vender-online-guia-practica-para-montar-tu-negocio-en-internet-camara-americana-de-comercio-de-la-republica-dominicana-20895.pdf",
+      "source_url": null,
+      "file_size_bytes": 7135206,
+      "sha256": "545c64d97a32b83d2a5e08c37773382227592a2d505855033feb630f0813a836",
+      "page_count": 63,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_868f6a50-40c1-482c-936a-f65ee8f69c2a_p6_0.jpeg",
+        "img_868f6a50-40c1-482c-936a-f65ee8f69c2a_p7_2.jpeg",
+        "img_868f6a50-40c1-482c-936a-f65ee8f69c2a_p20_0.jpeg",
+        "img_868f6a50-40c1-482c-936a-f65ee8f69c2a_p21_0.jpeg",
+        "img_868f6a50-40c1-482c-936a-f65ee8f69c2a_p23_0.jpeg",
+        "img_868f6a50-40c1-482c-936a-f65ee8f69c2a_p25_0.jpeg",
+        "img_868f6a50-40c1-482c-936a-f65ee8f69c2a_p38_0.jpeg",
+        "img_868f6a50-40c1-482c-936a-f65ee8f69c2a_p51_0.jpeg",
+        "img_868f6a50-40c1-482c-936a-f65ee8f69c2a_p52_0.jpeg",
+        "img_868f6a50-40c1-482c-936a-f65ee8f69c2a_p56_0.jpeg",
+        "img_868f6a50-40c1-482c-936a-f65ee8f69c2a_p57_0.jpeg"
+      ]
+    },
+    {
+      "id": "917833ae-d908-4015-812a-ad46f9c84193",
+      "title": "Conceptos Basicos Del Comercio Electronico Academia De Ciencias Administrativas 20877",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "conceptos-basicos-del-comercio-electronico-academia-de-ciencias-administrativas-20877.pdf",
+      "source_url": null,
+      "file_size_bytes": 83954,
+      "sha256": "0536f39c59343f713748d013e0e617ff3c4c65da1c1864d9f2be8ce288c01177",
+      "page_count": 31,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "eaddb743-803d-4fd1-ab88-fb9ed1b42c6f",
+      "title": "E Commerce Experiencia Seguridad Confianza Y Satisfaccion Vela Reyna Olmedo Noguera E Ibarra Cisneros 20886",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "e-commerce-experiencia-seguridad-confianza-y-satisfaccion-vela-reyna-olmedo-noguera-e-ibarra-cisneros-20886.pdf",
+      "source_url": null,
+      "file_size_bytes": 698496,
+      "sha256": "c11416e9f83e1b6df9229b56b2102cc7b960f37c82e55136eae4727165ee3e85",
+      "page_count": 18,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_eaddb743-803d-4fd1-ab88-fb9ed1b42c6f_p6_3.jpeg",
+        "img_eaddb743-803d-4fd1-ab88-fb9ed1b42c6f_p8_3.jpeg",
+        "img_eaddb743-803d-4fd1-ab88-fb9ed1b42c6f_p10_3.jpeg",
+        "img_eaddb743-803d-4fd1-ab88-fb9ed1b42c6f_p11_3.jpeg",
+        "img_eaddb743-803d-4fd1-ab88-fb9ed1b42c6f_p12_3.jpeg",
+        "img_eaddb743-803d-4fd1-ab88-fb9ed1b42c6f_p14_3.jpeg"
+      ]
+    },
+    {
+      "id": "27ce8e28-ea6d-4dfa-a611-ac9006f9ad88",
+      "title": "El Comercio Electronico Concepto Caracteristicas E Impotancia En Las Organizaciones Articulo Diana Maria Robayo Botiva",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "el-comercio-electronico-concepto-caracteristicas-e-impotancia-en-las-organizaciones-articulo-diana-maria-robayo-botiva.pdf",
+      "source_url": null,
+      "file_size_bytes": 178247,
+      "sha256": "ddb6188832a8b0878ff31db1b8f6e79f163131f4ba5b2c4ac76eb83318c26bb4",
+      "page_count": 9,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "7e90350c-82fb-4537-9c56-c49e7551e979",
+      "title": "El Comercio Electronico Daniel Garcia Aguilar",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "el-comercio-electronico-daniel-garcia-aguilar.pdf",
+      "source_url": null,
+      "file_size_bytes": 728100,
+      "sha256": "28bfc624d4d6a7d516c1945d11b90972984268ad59223cbcc99779dfb2d552c5",
+      "page_count": 24,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_7e90350c-82fb-4537-9c56-c49e7551e979_p1_0.jpeg",
+        "img_7e90350c-82fb-4537-9c56-c49e7551e979_p18_0.jpeg",
+        "img_7e90350c-82fb-4537-9c56-c49e7551e979_p18_1.jpeg",
+        "img_7e90350c-82fb-4537-9c56-c49e7551e979_p19_0.jpeg",
+        "img_7e90350c-82fb-4537-9c56-c49e7551e979_p20_0.jpeg",
+        "img_7e90350c-82fb-4537-9c56-c49e7551e979_p21_0.jpeg",
+        "img_7e90350c-82fb-4537-9c56-c49e7551e979_p21_1.jpeg"
+      ]
+    },
+    {
+      "id": "fead4d62-0328-4d08-9bbc-253fc692f39c",
+      "title": "El Comercio Electronico E Commerce Articulo Veronica Cortes Delgado 20881",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "el-comercio-electronico-e-commerce-articulo-veronica-cortes-delgado-20881.pdf",
+      "source_url": null,
+      "file_size_bytes": 399099,
+      "sha256": "da8833152e869f995bb556dd1d577b28882f67d6135b44b3eefb5c9c3b735430",
+      "page_count": 6,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_fead4d62-0328-4d08-9bbc-253fc692f39c_p3_0.png"
+      ]
+    },
+    {
+      "id": "ad8eeb97-e77f-468b-835a-2564f24fdcbf",
+      "title": "El Crecimiento Del Comercio Electronico Y Su Repercusion En El Comercio Tradicional Pablo Pulido Lopez 20882",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "el-crecimiento-del-comercio-electronico-y-su-repercusion-en-el-comercio-tradicional-pablo-pulido-lopez-20882.pdf",
+      "source_url": null,
+      "file_size_bytes": 5577968,
+      "sha256": "887ad743b32d82655627c866386946680ee100a2f643c1f1b07592fd8e55ed77",
+      "page_count": 43,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p2_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p11_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p17_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p19_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p21_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p25_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p27_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p27_1.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p28_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p30_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p33_1.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p34_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p34_1.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p35_0.jpeg",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p36_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p36_1.jpeg",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p37_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p37_1.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p38_0.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p38_1.png",
+        "img_ad8eeb97-e77f-468b-835a-2564f24fdcbf_p39_0.png"
+      ]
+    },
+    {
+      "id": "bb765572-8137-4c1c-9d92-b921a36d73e4",
+      "title": "El Panorama Legal Del Comercio Electronico Y Algunos De Sus Riesgos Castrillon Gonzalez Y Restrepo Martinez 20890",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "el-panorama-legal-del-comercio-electronico-y-algunos-de-sus-riesgos-castrillon-gonzalez-y-restrepo-martinez-20890.pdf",
+      "source_url": null,
+      "file_size_bytes": 633262,
+      "sha256": "9d6a56664e29f0dd0e3ac23a96a0f0b0719cd22956e18ca65e1d03822b6b80ed",
+      "page_count": 113,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63",
+      "title": "Estrategia De Implantacion Del E Commerce En Las Pymes Maria Dorao Huertas 20897",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "estrategia-de-implantacion-del-e-commerce-en-las-pymes-maria-dorao-huertas-20897.pdf",
+      "source_url": null,
+      "file_size_bytes": 1766316,
+      "sha256": "791c09872e7cd0334fa6813db5d040080d8fd2e9cd1e23afb793e857f3dd9c5a",
+      "page_count": 43,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p2_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p8_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p9_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p10_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p11_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p13_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p16_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p18_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p22_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p23_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p25_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p27_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p31_0.jpeg",
+        "img_dd1c59f8-5f6e-4215-8bb6-b0f01ec51c63_p32_0.jpeg"
+      ]
+    },
+    {
+      "id": "f3872ee9-ccea-49dc-b352-f76c13beac0b",
+      "title": "Factores Que Afectan La Confianza De Los Consumidores En El Comercio Electronico James Ariel Sanchez Alzate 20888",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "factores-que-afectan-la-confianza-de-los-consumidores-en-el-comercio-electronico-james-ariel-sanchez-alzate-20888.pdf",
+      "source_url": null,
+      "file_size_bytes": 1089939,
+      "sha256": "4fbd168c4b3e5f1ac529a51d239e37df1f3024b9f882617a9a009c7f7c47e023",
+      "page_count": 69,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p2_0.jpeg",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p29_0.png",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p29_1.jpeg",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p29_2.png",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p29_7.png",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p29_8.png",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p29_9.png",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p29_10.png",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p36_0.png",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p50_0.png",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p50_2.png",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p50_4.png",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p50_6.png",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p50_8.jpeg",
+        "img_f3872ee9-ccea-49dc-b352-f76c13beac0b_p50_10.png"
+      ]
+    },
+    {
+      "id": "c3b6f281-7550-4eb1-b604-9cafb995fbc4",
+      "title": "Introduccion Al Comercio Y Negocio Electronico David Palomar Delgado 20878",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "introduccion-al-comercio-y-negocio-electronico-david-palomar-delgado-20878.pdf",
+      "source_url": null,
+      "file_size_bytes": 849198,
+      "sha256": "d22672a0ad887a22b977f2c916aff26cf2f9877134582ec1edac3cb8a94a7680",
+      "page_count": 35,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_c3b6f281-7550-4eb1-b604-9cafb995fbc4_p8_12.png",
+        "img_c3b6f281-7550-4eb1-b604-9cafb995fbc4_p10_0.png",
+        "img_c3b6f281-7550-4eb1-b604-9cafb995fbc4_p11_0.png",
+        "img_c3b6f281-7550-4eb1-b604-9cafb995fbc4_p27_0.png",
+        "img_c3b6f281-7550-4eb1-b604-9cafb995fbc4_p27_1.jpeg",
+        "img_c3b6f281-7550-4eb1-b604-9cafb995fbc4_p28_0.png",
+        "img_c3b6f281-7550-4eb1-b604-9cafb995fbc4_p28_1.png",
+        "img_c3b6f281-7550-4eb1-b604-9cafb995fbc4_p29_0.png",
+        "img_c3b6f281-7550-4eb1-b604-9cafb995fbc4_p29_1.png",
+        "img_c3b6f281-7550-4eb1-b604-9cafb995fbc4_p30_0.png"
+      ]
+    },
+    {
+      "id": "80d0b33c-83fd-4898-aaa3-47f6d015c841",
+      "title": "La Proteccion De Datos Personales En El Comercio Electronico Anderson Gregorio Cuascota Farinango 20893",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "la-proteccion-de-datos-personales-en-el-comercio-electronico-anderson-gregorio-cuascota-farinango-20893.pdf",
+      "source_url": null,
+      "file_size_bytes": 1638334,
+      "sha256": "6b9cfcd015667d28b6b11380a653b887d3b9e25f26771937e7dfcf7d830cfee9",
+      "page_count": 51,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_80d0b33c-83fd-4898-aaa3-47f6d015c841_p3_0.jpeg",
+        "img_80d0b33c-83fd-4898-aaa3-47f6d015c841_p4_0.jpeg",
+        "img_80d0b33c-83fd-4898-aaa3-47f6d015c841_p5_0.jpeg"
+      ]
+    },
+    {
+      "id": "ceb9bcbb-112e-43ff-8de3-f14435aadc55",
+      "title": "Los Pasos Para El Desarrollo De Un E Commerce Manuel Jesus Feria Gomez 20896",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "los-pasos-para-el-desarrollo-de-un-e-commerce-manuel-jesus-feria-gomez-20896.pdf",
+      "source_url": null,
+      "file_size_bytes": 1657936,
+      "sha256": "fcf3b4070483ba550ef474e423bef6781fa4cb6ccb7bce6732e2e0032abc03f6",
+      "page_count": 50,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_ceb9bcbb-112e-43ff-8de3-f14435aadc55_p8_13.jpeg",
+        "img_ceb9bcbb-112e-43ff-8de3-f14435aadc55_p9_0.jpeg",
+        "img_ceb9bcbb-112e-43ff-8de3-f14435aadc55_p24_9.png",
+        "img_ceb9bcbb-112e-43ff-8de3-f14435aadc55_p34_12.jpeg",
+        "img_ceb9bcbb-112e-43ff-8de3-f14435aadc55_p38_0.jpeg",
+        "img_ceb9bcbb-112e-43ff-8de3-f14435aadc55_p39_2.jpeg",
+        "img_ceb9bcbb-112e-43ff-8de3-f14435aadc55_p42_0.jpeg",
+        "img_ceb9bcbb-112e-43ff-8de3-f14435aadc55_p42_1.jpeg",
+        "img_ceb9bcbb-112e-43ff-8de3-f14435aadc55_p43_0.jpeg",
+        "img_ceb9bcbb-112e-43ff-8de3-f14435aadc55_p43_1.jpeg",
+        "img_ceb9bcbb-112e-43ff-8de3-f14435aadc55_p43_2.jpeg"
+      ]
+    },
+    {
+      "id": "18c46ac2-6559-45cf-b360-81c5c26cfba5",
+      "title": "Los Principales Modelos De Negocios En El E Commerce Claudio Inacio 20884",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "los-principales-modelos-de-negocios-en-el-e-commerce-claudio-inacio-20884.pdf",
+      "source_url": null,
+      "file_size_bytes": 316864,
+      "sha256": "e08a2af27196f7e5d94192f3b050d42c5bef734b55ccc7cc69db8b3970e026eb",
+      "page_count": 17,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_18c46ac2-6559-45cf-b360-81c5c26cfba5_p15_0.png",
+        "img_18c46ac2-6559-45cf-b360-81c5c26cfba5_p16_0.png"
+      ]
+    },
+    {
+      "id": "fb12f453-b341-4758-bd6f-7e46614064a5",
+      "title": "Modelos De Negocio En E Commerce B2B B2C Y C2C Trummer 20883",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "modelos-de-negocio-en-e-commerce-b2b-b2c-y-c2c-trummer-20883.pdf",
+      "source_url": null,
+      "file_size_bytes": 754149,
+      "sha256": "0365353caf30cba9d2dc836c43dfc94524352cc780a1fe3818312a65d94cd56f",
+      "page_count": 11,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_fb12f453-b341-4758-bd6f-7e46614064a5_p2_3.jpeg",
+        "img_fb12f453-b341-4758-bd6f-7e46614064a5_p3_3.png",
+        "img_fb12f453-b341-4758-bd6f-7e46614064a5_p5_3.jpeg",
+        "img_fb12f453-b341-4758-bd6f-7e46614064a5_p6_5.jpeg",
+        "img_fb12f453-b341-4758-bd6f-7e46614064a5_p9_1.jpeg",
+        "img_fb12f453-b341-4758-bd6f-7e46614064a5_p9_2.png",
+        "img_fb12f453-b341-4758-bd6f-7e46614064a5_p10_1.jpeg",
+        "img_fb12f453-b341-4758-bd6f-7e46614064a5_p11_1.png"
+      ]
+    },
+    {
+      "id": "cbc4e69e-20ac-485a-9645-d6a0c6bb3bb6",
+      "title": "Negocios Electronicos Manual De Apoyo De La Materia De Negocios Electronicos Erick Emmanuel Tapia Herrera",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "negocios-electronicos-manual-de-apoyo-de-la-materia-de-negocios-electronicos-erick-emmanuel-tapia-herrera.pdf",
+      "source_url": null,
+      "file_size_bytes": 726378,
+      "sha256": "3f5097847e349b999f98869e60794da8ba1e1ec6a81f17c40ebbbfda0ebc0055",
+      "page_count": 16,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_cbc4e69e-20ac-485a-9645-d6a0c6bb3bb6_p1_0.jpeg",
+        "img_cbc4e69e-20ac-485a-9645-d6a0c6bb3bb6_p1_1.jpeg",
+        "img_cbc4e69e-20ac-485a-9645-d6a0c6bb3bb6_p12_0.jpeg"
+      ]
+    },
+    {
+      "id": "f8c7f3bd-9356-4386-93ab-3e3daa9c8066",
+      "title": "Principios Juridicos Que Inspiran El Comercio Electronico Virginia Vega Clemente 20892",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "principios-juridicos-que-inspiran-el-comercio-electronico-virginia-vega-clemente-20892.pdf",
+      "source_url": null,
+      "file_size_bytes": 205714,
+      "sha256": "61037d0a21fb821a23463b969055dc59ea063c053defdb4ad80f80bb90ea0241",
+      "page_count": 29,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "e746e4b3-675c-4f46-a358-b07fd75a3f83",
+      "title": "Proteccion Al Consumidor Y Plataformas De Comercio Electronico Diego Daniel Garcia Pulido 20891",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "proteccion-al-consumidor-y-plataformas-de-comercio-electronico-diego-daniel-garcia-pulido-20891.pdf",
+      "source_url": null,
+      "file_size_bytes": 803793,
+      "sha256": "fb6a42d1807f713c776c86f1b746df9aaf8ea0a02753a9d7efbbb7100201f133",
+      "page_count": 155,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_e746e4b3-675c-4f46-a358-b07fd75a3f83_p35_0.png",
+        "img_e746e4b3-675c-4f46-a358-b07fd75a3f83_p68_0.png"
+      ]
+    },
+    {
+      "id": "e5709c14-cf8f-429b-b598-e58623e686de",
+      "title": "Sistemas De Pago Para Comercio Electronico Sandra Mireya Monreal Mendoza 20887",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "sistemas-de-pago-para-comercio-electronico-sandra-mireya-monreal-mendoza-20887.pdf",
+      "source_url": null,
+      "file_size_bytes": 1646306,
+      "sha256": "108d06e2d654c397f6f1b7fab8d429d2ddad86927bea2542c0bd97c0db5a43c5",
+      "page_count": 41,
+      "key_topics": [
+        "Comercio Electronico"
+      ],
+      "images_extracted": [
+        "img_e5709c14-cf8f-429b-b598-e58623e686de_p2_0.png",
+        "img_e5709c14-cf8f-429b-b598-e58623e686de_p17_0.jpeg",
+        "img_e5709c14-cf8f-429b-b598-e58623e686de_p18_1.jpeg",
+        "img_e5709c14-cf8f-429b-b598-e58623e686de_p25_0.jpeg",
+        "img_e5709c14-cf8f-429b-b598-e58623e686de_p26_0.jpeg",
+        "img_e5709c14-cf8f-429b-b598-e58623e686de_p27_0.jpeg",
+        "img_e5709c14-cf8f-429b-b598-e58623e686de_p28_0.jpeg",
+        "img_e5709c14-cf8f-429b-b598-e58623e686de_p29_0.jpeg",
+        "img_e5709c14-cf8f-429b-b598-e58623e686de_p30_0.jpeg",
+        "img_e5709c14-cf8f-429b-b598-e58623e686de_p32_0.jpeg"
+      ]
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "comercio-electronico",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 26,
+    "total_chunks": 1156,
+    "total_images_extracted": 145
+  },
+  "stats": {
+    "total_books": 26,
+    "total_pages": 1028,
+    "total_size_mb": 28.68
+  },
+  "created_at": "2026-11-10T00:36:50.260394+00:00",
+  "updated_at": "2026-11-10T00:37:31.485373+00:00"
+}

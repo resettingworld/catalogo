@@ -1,0 +1,751 @@
+{
+  "topic": "Compostatge i Fertilitat del Sòl",
+  "domain": "Ciencias del Suelo y Agroecología",
+  "source_portal": "InfoLibros",
+  "category_slug": "temas-varios",
+  "capsule_slug": "composta",
+  "canonical_style_id": "bio-punk-v1",
+  "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+  "banner_cover": "images/banner.png",
+  "books": [
+    {
+      "id": "agricultura-organica-el-compost-ing-agr-adriana-van-konijnenburg",
+      "title": "Untitled-1",
+      "author": "Usuario",
+      "filename": "agricultura-organica-el-compost-ing-agr-adriana-van-konijnenburg.pdf",
+      "source_url": null,
+      "file_size_bytes": 117375,
+      "sha256": "aa7574bbca3e9bcc55d59a211fe987450ce97aed9b091fb2513b673d8eb3462a",
+      "total_pages": 17,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Untitled-1 dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Estación Experimental Agropecuaria L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Untitled-1'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/agricultura-organica-el-compost-ing-agr-adriana-van-konijnenburg.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "aspectos-fisico-quimicos-bioquimicos-y-microbiologicos-del-proceso-de-compostaje-emeterio-iglesias-jimenez",
+      "title": "Aspectos Fisico Quimicos Bioquimicos Y Microbiologicos Del Proceso De Compostaje Emeterio Iglesias Jimenez",
+      "author": "cramos",
+      "filename": "aspectos-fisico-quimicos-bioquimicos-y-microbiologicos-del-proceso-de-compostaje-emeterio-iglesias-jimenez.pdf",
+      "source_url": null,
+      "file_size_bytes": 1162062,
+      "sha256": "c3a5e0e6df8861c5b857cf999acf4f806a27af55035a1fb34bc04546b05b86f2",
+      "total_pages": 30,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Aspectos Fisico Quimicos Bioquimicos Y Microbiologicos Del Proceso De Compostaje Emeterio Iglesias Jimenez dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Inst. Recursos Naturales y Agrobiología L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Aspectos Fisico Quimicos Bioquimicos Y Microbiologicos Del Proceso De Compostaje Emeterio Iglesias Jimenez'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aspectos-fisico-quimicos-bioquimicos-y-microbiologicos-del-proceso-de-compostaje-emeterio-iglesias-jimenez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "compostagem-portugues-emidio-cantidio-almeida-de-oliveira-raul-henrique-sartoritiago-b-garcez",
+      "title": "(Microsoft Word - Revis\\343o Compostagem para entrega.doc)",
+      "author": "ADM",
+      "filename": "compostagem-portugues-emidio-cantidio-almeida-de-oliveira-raul-henrique-sartoritiago-b-garcez.pdf",
+      "source_url": null,
+      "file_size_bytes": 187338,
+      "sha256": "b6b9e04d2d5062ab07acb75e23d984f2c605f0f34556b015cb5b1620fa2dc60a",
+      "total_pages": 19,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de (Microsoft Word - Revis\\343o Compostagem para entrega.doc) dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ESCOLA SUPERIOR DE AGRICULTURA LUIZ DE QUIEROZ L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for '(Microsoft Word - Revis\\343o Compostagem para entrega.doc)'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/compostagem-portugues-emidio-cantidio-almeida-de-oliveira-raul-henrique-sartoritiago-b-garcez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "compostaje-de-residuos-solidos-organicos-raquel-barrera-gomez",
+      "title": "Compostaje de residuos sólidos orgánicos...",
+      "author": "Raquel Barrena Gómez",
+      "filename": "compostaje-de-residuos-solidos-organicos-raquel-barrera-gomez.pdf",
+      "source_url": null,
+      "file_size_bytes": 2998575,
+      "sha256": "806bdd509c27ebdc99a839074dcdf4080b2cbec8c86e15b9d0a8dfcb81219c54",
+      "total_pages": 315,
+      "short_description": "Tesi Acadèmica d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Compostaje de residuos sólidos orgánicos... dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Fundació Privada Estudis del Medi L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Compostaje de residuos sólidos orgánicos...'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/compostaje-de-residuos-solidos-organicos-raquel-barrera-gomez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tesi Acadèmica",
+        "Perú"
+      ]
+    },
+    {
+      "id": "composting-ingles-united-states-department-of-agriculture",
+      "title": "neh630.19cv",
+      "author": "NPSS54(Mattinson)",
+      "filename": "composting-ingles-united-states-department-of-agriculture.pdf",
+      "source_url": null,
+      "file_size_bytes": 628537,
+      "sha256": "97bdbd9b2a48b6c461fc0f05651ea9c7728bfdba3e57660fad5acf2fcf7e5ccf",
+      "total_pages": 88,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de neh630.19cv dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Part 637 Environmental Engineering L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'neh630.19cv'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/composting-ingles-united-states-department-of-agriculture.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "el-compostaje-en-agricultura-ecologica-produccion-agroalimentaria-ecologica-pae",
+      "title": "El Compostaje En Agricultura Ecologica Produccion Agroalimentaria Ecologica Pae",
+      "author": "Desconegut / Institucional",
+      "filename": "el-compostaje-en-agricultura-ecologica-produccion-agroalimentaria-ecologica-pae.pdf",
+      "source_url": null,
+      "file_size_bytes": 2102186,
+      "sha256": "d6625641e4045bd752c4b8ee1e8ab3c954dccc46066c5958f6c74cf0f82746cf",
+      "total_pages": 12,
+      "short_description": "Tesi Acadèmica d'abast a Perú que aprofundeix en els fonaments i desenvolupament de El Compostaje En Agricultura Ecologica Produccion Agroalimentaria Ecologica Pae dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: EL COMPOSTAJE EN AGRICULTURA ECOLÓGICA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'El Compostaje En Agricultura Ecologica Produccion Agroalimentaria Ecologica Pae'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-compostaje-en-agricultura-ecologica-produccion-agroalimentaria-ecologica-pae.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tesi Acadèmica",
+        "Perú"
+      ]
+    },
+    {
+      "id": "el-compostaje-es-bueno-para-su-jardin-y-el-medio-ambiente-articulo-university-of-california-agriculture-and-natural-resources",
+      "title": "El compostaje es bueno para su jardín y el medio ambiente",
+      "author": "Pamela M. Geisel, Donna C. Seaver",
+      "filename": "el-compostaje-es-bueno-para-su-jardin-y-el-medio-ambiente-articulo-university-of-california-agriculture-and-natural-resources.pdf",
+      "source_url": null,
+      "file_size_bytes": 1874684,
+      "sha256": "ec696fc951f100d85c861d60427c72b50563442e7aad2b470f55c4b2b797c989",
+      "total_pages": 7,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de El compostaje es bueno para su jardín y el medio ambiente dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: PAMELA M. GEISEL, Coordinadora Académica, Programa Estatal Jardineros Maestros de L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'El compostaje es bueno para su jardín y el medio ambiente'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-compostaje-es-bueno-para-su-jardin-y-el-medio-ambiente-articulo-university-of-california-agriculture-and-natural-resources.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "el-compostaje-y-su-utilizacion-en-agricultura-jorge-oryan-herreram-olivia-riffo-prado",
+      "title": "El Compostaje Y Su Utilizacion En Agricultura Jorge Oryan Herreram Olivia Riffo Prado",
+      "author": "Desconegut / Institucional",
+      "filename": "el-compostaje-y-su-utilizacion-en-agricultura-jorge-oryan-herreram-olivia-riffo-prado.pdf",
+      "source_url": null,
+      "file_size_bytes": 1213270,
+      "sha256": "9e6f0b478b5f028a9c91ab15b538564a8f829154ba97db0e1c81e4252fac7af8",
+      "total_pages": 40,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de El Compostaje Y Su Utilizacion En Agricultura Jorge Oryan Herreram Olivia Riffo Prado dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: Pa r a  P E Q U E Ñ O S ( A S )  P RO D U C TO R E S ( A S )  D E  L A  AG R I C U LTU R A  FA M I L I A R  C A M P E S I N A L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'El Compostaje Y Su Utilizacion En Agricultura Jorge Oryan Herreram Olivia Riffo Prado'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-compostaje-y-su-utilizacion-en-agricultura-jorge-oryan-herreram-olivia-riffo-prado.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "evaluacion-de-la-calidad-y-usos-del-compost-como-componente-de-sustratos-enmiendas-y-abonos-organicos-j-ansorena-e-batalla-y-d-merino",
+      "title": "Microsoft Word - Evaluación de la calidad y usosFinal web1.doc",
+      "author": "Desconegut / Institucional",
+      "filename": "evaluacion-de-la-calidad-y-usos-del-compost-como-componente-de-sustratos-enmiendas-y-abonos-organicos-j-ansorena-e-batalla-y-d-merino.pdf",
+      "source_url": null,
+      "file_size_bytes": 3145041,
+      "sha256": "e865affc3e18908730d6793b32f7830605baf8cf5339fcf06a64c91697ba911d",
+      "total_pages": 67,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Microsoft Word - Evaluación de la calidad y usosFinal web1.doc dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Evaluación de la calidad y usos del compost como componente de L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Ley de residuos",
+        "Ley \nde residuos",
+        "Ley de \nresiduos",
+        "Ley de rango"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Microsoft Word - Evaluación de la calidad y usosFinal web1.doc'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/evaluacion-de-la-calidad-y-usos-del-compost-como-componente-de-sustratos-enmiendas-y-abonos-organicos-j-ansorena-e-batalla-y-d-merino.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "guia-practica-para-el-manejo-de-los-residuos-organicos-utilizando-composteras-rotatorias-y-lombricompos-noelia-garita-sanchezjulian-rojas-vargas",
+      "title": "Guia Practica Para El Manejo De Los Residuos Organicos Utilizando Composteras Rotatorias Y Lombricompos Noelia Garita Sanchezjulian Rojas Vargas",
+      "author": "Desconegut / Institucional",
+      "filename": "guia-practica-para-el-manejo-de-los-residuos-organicos-utilizando-composteras-rotatorias-y-lombricompos-noelia-garita-sanchezjulian-rojas-vargas.pdf",
+      "source_url": null,
+      "file_size_bytes": 973435,
+      "sha256": "40e1caf3e74e9976b6cf9f90a5a26d31bed62b464bf3d3e63ff98f876fc9cbbc",
+      "total_pages": 16,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guia Practica Para El Manejo De Los Residuos Organicos Utilizando Composteras Rotatorias Y Lombricompos Noelia Garita Sanchezjulian Rojas Vargas dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: El Programa UNA-Campus Sostenible desde hace más de cinco años ha L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Guia Practica Para El Manejo De Los Residuos Organicos Utilizando Composteras Rotatorias Y Lombricompos Noelia Garita Sanchezjulian Rojas Vargas'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-practica-para-el-manejo-de-los-residuos-organicos-utilizando-composteras-rotatorias-y-lombricompos-noelia-garita-sanchezjulian-rojas-vargas.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "handbook-for-composting-and-compost-use-in-organic-horticulture-ingles-rob-jm-meijer",
+      "title": "Cost_Compost_Binnenwerk.indd",
+      "author": "Desconegut / Institucional",
+      "filename": "handbook-for-composting-and-compost-use-in-organic-horticulture-ingles-rob-jm-meijer.pdf",
+      "source_url": null,
+      "file_size_bytes": 4294050,
+      "sha256": "a4178fc92247cb6c55a48a1244e095bcbcb1ec2e3de2dc785dfc929420178c02",
+      "total_pages": 108,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Cost_Compost_Binnenwerk.indd dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Edited by André W.G. van der Wurff, Jacques G. Fuchs, Michael Raviv and Aad J. Termorshuizen L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Cost_Compost_Binnenwerk.indd'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/handbook-for-composting-and-compost-use-in-organic-horticulture-ingles-rob-jm-meijer.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "los-beneficios-del-compostaje-y-la-digestion-anaerobica-cuando-se-aplica-al-suelo-jane-gilbertmarco-ricci-jurgensen-aditi-ramola",
+      "title": "10545_Compost_&_Digestate_to_Soil_report_v3.indd",
+      "author": "Desconegut / Institucional",
+      "filename": "los-beneficios-del-compostaje-y-la-digestion-anaerobica-cuando-se-aplica-al-suelo-jane-gilbertmarco-ricci-jurgensen-aditi-ramola.pdf",
+      "source_url": null,
+      "file_size_bytes": 11009845,
+      "sha256": "792c1f6cbab7253de0c07907c0d57f02776e0b99bd922e3a372883f08c027e39",
+      "total_pages": 21,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de 10545_Compost_&_Digestate_to_Soil_report_v3.indd dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ISWA – Los beneficios del compostaje y la digestión anaeróbica cuando se aplica al suelo L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for '10545_Compost_&_Digestate_to_Soil_report_v3.indd'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/los-beneficios-del-compostaje-y-la-digestion-anaerobica-cuando-se-aplica-al-suelo-jane-gilbertmarco-ricci-jurgensen-aditi-ramola.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "making-and-using-compost-ingles-university-of-california-santa-cruz",
+      "title": "Making And Using Compost Ingles University Of California Santa Cruz",
+      "author": "Desconegut / Institucional",
+      "filename": "making-and-using-compost-ingles-university-of-california-santa-cruz.pdf",
+      "source_url": null,
+      "file_size_bytes": 1679328,
+      "sha256": "98cee3e9d574c33b31ef810f9e5a4b9a03d952e5c228a58f26df8e1e4f0341ca",
+      "total_pages": 46,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Making And Using Compost Ingles University Of California Santa Cruz dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Lecture 1: Making and Using Compost L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Making And Using Compost Ingles University Of California Santa Cruz'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/making-and-using-compost-ingles-university-of-california-santa-cruz.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-compostagem-portugues-gabriel-souza-liraigor-do-nascimento-quaresmaflavia-alencar-sarmentokhalil-grisi-veloso-mendes",
+      "title": "Manual Compostagem Portugues Gabriel Souza Liraigor Do Nascimento Quaresmaflavia Alencar Sarmentokhalil Grisi Veloso Mendes",
+      "author": "Khalil Grisi Velôso Mendes",
+      "filename": "manual-compostagem-portugues-gabriel-souza-liraigor-do-nascimento-quaresmaflavia-alencar-sarmentokhalil-grisi-veloso-mendes.pdf",
+      "source_url": null,
+      "file_size_bytes": 3509679,
+      "sha256": "6635232de776439cabd87aa0ba849e73f821a6d4240420f67e7b73441ef0e372",
+      "total_pages": 22,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual Compostagem Portugues Gabriel Souza Liraigor Do Nascimento Quaresmaflavia Alencar Sarmentokhalil Grisi Veloso Mendes dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Gabriel Souza Lira - Estudante de Engenharia Ambiental L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Manual Compostagem Portugues Gabriel Souza Liraigor Do Nascimento Quaresmaflavia Alencar Sarmentokhalil Grisi Veloso Mendes'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-compostagem-portugues-gabriel-souza-liraigor-do-nascimento-quaresmaflavia-alencar-sarmentokhalil-grisi-veloso-mendes.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-compostaje-del-agricultor-pilar-romanmaria-m-martinezalberto-pantoja",
+      "title": "Manual de compostaje del agricoltor",
+      "author": "FAO",
+      "filename": "manual-de-compostaje-del-agricultor-pilar-romanmaria-m-martinezalberto-pantoja.pdf",
+      "source_url": null,
+      "file_size_bytes": 3215797,
+      "sha256": "01a39f17864356992804f641e1f525e458cef0abd2fdfed543e729a310bc8d9f",
+      "total_pages": 112,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Manual de compostaje del agricoltor dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: Organización de las Naciones Unidas para la Alimentación y la Agricultura L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "ISBN 978-92-5-307844-8",
+        "ISBN 978-92-5-307845-5"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Manual de compostaje del agricoltor'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-compostaje-del-agricultor-pilar-romanmaria-m-martinezalberto-pantoja.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "manual-de-compostaje-ministerio-de-medio-ambiente-y-medio-rural-y-marino-espana",
+      "title": "COMPOSTAJE",
+      "author": "Desconegut / Institucional",
+      "filename": "manual-de-compostaje-ministerio-de-medio-ambiente-y-medio-rural-y-marino-espana.pdf",
+      "source_url": null,
+      "file_size_bytes": 21560298,
+      "sha256": "22dd069bbb565ab78e06699c20238a87dd2c2a5d640d7603829c470b381346e8",
+      "total_pages": 21,
+      "short_description": "Manual Docent i Tècnic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de COMPOSTAJE dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Paseo de la Infanta Isabel, 1 - 28014 Madrid L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'COMPOSTAJE'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-compostaje-ministerio-de-medio-ambiente-y-medio-rural-y-marino-espana.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Manual Docent i Tècnic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "manual-de-produccion-de-compost-associacion-catalana-denginyeria-sense-fronteres",
+      "title": "Manual De Produccion De Compost Associacion Catalana Denginyeria Sense Fronteres",
+      "author": "Desconegut / Institucional",
+      "filename": "manual-de-produccion-de-compost-associacion-catalana-denginyeria-sense-fronteres.pdf",
+      "source_url": null,
+      "file_size_bytes": 12363037,
+      "sha256": "ceedb298eeb0dfe73ec000e58ab6fa8b0d4b77b160b713de32bbf33893b4078d",
+      "total_pages": 24,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual De Produccion De Compost Associacion Catalana Denginyeria Sense Fronteres dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Manual de producción de compost L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Manual De Produccion De Compost Associacion Catalana Denginyeria Sense Fronteres'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-produccion-de-compost-associacion-catalana-denginyeria-sense-fronteres.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-para-la-elaboracion-de-compost-bases-conceptuales-y-procedimientos-ing-daniel-sztern-mga-lic-miguel-a-pravia",
+      "title": "Manual Para La Elaboracion De Compost Bases Conceptuales Y Procedimientos Ing Daniel Sztern Mga Lic Miguel A Pravia",
+      "author": "Unknown",
+      "filename": "manual-para-la-elaboracion-de-compost-bases-conceptuales-y-procedimientos-ing-daniel-sztern-mga-lic-miguel-a-pravia.pdf",
+      "source_url": null,
+      "file_size_bytes": 300351,
+      "sha256": "ba92fb99e7d7e72890b101a2091c0b82eee768c863cbc94620ad034bbb6c2578",
+      "total_pages": 69,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual Para La Elaboracion De Compost Bases Conceptuales Y Procedimientos Ing Daniel Sztern Mga Lic Miguel A Pravia dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: OFICINA DE PLANEAMIENTO Y PRESUPUESTO L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Manual Para La Elaboracion De Compost Bases Conceptuales Y Procedimientos Ing Daniel Sztern Mga Lic Miguel A Pravia'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-para-la-elaboracion-de-compost-bases-conceptuales-y-procedimientos-ing-daniel-sztern-mga-lic-miguel-a-pravia.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "pasado-presente-y-futuro-del-compost-montserrat-soliva-marga-lopez-oscar-huerta",
+      "title": "Microsoft Word - Soliva 2008 Soil Ace FINAL.doc",
+      "author": "Montse",
+      "filename": "pasado-presente-y-futuro-del-compost-montserrat-soliva-marga-lopez-oscar-huerta.pdf",
+      "source_url": null,
+      "file_size_bytes": 1020081,
+      "sha256": "9dc73834f361aae52c942e4028bfb6e688dc36d57fff06f1c88390199ab54ff8",
+      "total_pages": 19,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Microsoft Word - Soliva 2008 Soil Ace FINAL.doc dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: II INTERNATIONAL CONFERENCE on SOIL and COMPOST ECO-BIOLOGY L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Microsoft Word - Soliva 2008 Soil Ace FINAL.doc'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/pasado-presente-y-futuro-del-compost-montserrat-soliva-marga-lopez-oscar-huerta.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "producao-de-composto-organico-portugues-erasmo-cesar-ferreira-silva",
+      "title": "PRODUÇÃO DE COMPOSTOS ORGÂNICOS",
+      "author": "Administrador",
+      "filename": "producao-de-composto-organico-portugues-erasmo-cesar-ferreira-silva.pdf",
+      "source_url": null,
+      "file_size_bytes": 2285290,
+      "sha256": "0feca03ed0015e9ea049bcc5a8c95126db15d604d624b432bc2896ad2d9fbed0",
+      "total_pages": 31,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de PRODUÇÃO DE COMPOSTOS ORGÂNICOS dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: ESCOLA AGROTÉCNICA FEDERAL DE MUZAMBINHO L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'PRODUÇÃO DE COMPOSTOS ORGÂNICOS'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/producao-de-composto-organico-portugues-erasmo-cesar-ferreira-silva.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "use-el-compost-junta-de-andalucia",
+      "title": "Use El Compost Junta De Andalucia",
+      "author": "jmgc",
+      "filename": "use-el-compost-junta-de-andalucia.pdf",
+      "source_url": null,
+      "file_size_bytes": 1785006,
+      "sha256": "361b5531c05f9cc5976020fdaba0fd39255ce23a2ecb93b2e23543183ad77f72",
+      "total_pages": 12,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Use El Compost Junta De Andalucia dins de Compostatge i Fertilitat del Sòl.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Compostatge i Fertilitat del Sòl (Ciencias del Suelo y Agroecología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: \b\u0005\u000b\u0007\b\u0010\r\t\r\u0002\u0003\t\f\u0003\u000b\f\u0012\u0006\f\u0007\r\u000b\u0004\u0007\r\u0013\u0003\u0011\u0004\u0012\f\t\r\t\u0003\u000f\u0003\r\u000e\u0007 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Compostatge i Fertilitat del Sòl.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Use El Compost Junta De Andalucia'. Domain: Ciencias del Suelo y Agroecología (Compostatge i Fertilitat del Sòl). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/use-el-compost-junta-de-andalucia.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Compostatge i Fertilitat del Sòl",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "rag_id": "comercio-electronico",
+  "name": "Comercio Electronico",
+  "description": "Col·lecció completa de llibres i manuals de Comercio Electronico (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794271051.4865909,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 1156,
+  "total_documents": 26,
+  "total_library_files": 26,
+  "total_images_extracted": 145,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "comercio-electronico",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}
