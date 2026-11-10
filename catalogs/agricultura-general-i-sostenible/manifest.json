@@ -1,0 +1,26 @@
+{
+  "rag_id": "agricultura-general-i-sostenible",
+  "name": "Agricultura General i Bones Pràctiques",
+  "description": "Manuals agronòmics generals, bones pràctiques agrícoles (FAO, IICA), agricultura de precisió i sistemes de producció vegetal.",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794278423.696011,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 7284,
+  "total_documents": 34,
+  "total_library_files": 34,
+  "total_images_extracted": 2041,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "agricultura",
+    "agricultura",
+    "cultivo",
+    "plagas",
+    "collage-punk",
+    "smartlocal"
+  ]
+}

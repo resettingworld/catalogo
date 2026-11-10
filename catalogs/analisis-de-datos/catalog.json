@@ -1,0 +1,612 @@
+{
+  "topic": "Analisis De Datos",
+  "domain": "Tecnología e Informática",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 17,
+  "total_pages": 1932,
+  "total_size_mb": 29.83,
+  "books": [
+    {
+      "id": "analisis-de-datos-sandra-pena",
+      "title": "Analisis De Datos Sandra Pena",
+      "author": "Desconegut / Institucional",
+      "filename": "analisis-de-datos-sandra-pena.pdf",
+      "source_url": null,
+      "file_size_bytes": 3214044,
+      "sha256": "9a0fc0481a275fe19fc92d89d6cfb139e4706bff4293755d0276895c819348bb",
+      "total_pages": 187,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Analisis De Datos Sandra Pena dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Análisis de Datos / Sandra Peña, / Bogotá D.C., L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Analisis De Datos Sandra Pena'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/analisis-de-datos-sandra-pena.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "introduccion-al-analisis-de-datos-con-r-ruben-fernandez-casaljavier-roca-pardinasjulian-costa-bouzas",
+      "title": "Introducción al Análisis de Datos con R",
+      "author": "Rubén Fernández Casal (ruben.fcasal@udc.es); Javier Roca-Pardiñas (roca@uvigo.es); Julián Costa Bouzas (julian.costa@udc.es); Manuel Oviedo de la Fuente (manuel.oviedo@udc.es)",
+      "filename": "introduccion-al-analisis-de-datos-con-r-ruben-fernandez-casaljavier-roca-pardinasjulian-costa-bouzas.pdf",
+      "source_url": null,
+      "file_size_bytes": 2316336,
+      "sha256": "dc48db570ed998ccda0ebb48c78eacd63175a1655f7d9035bfff57a33214102a",
+      "total_pages": 182,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introducción al Análisis de Datos con R dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducción al Análisis de Datos con R L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introducción al Análisis de Datos con R'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-al-analisis-de-datos-con-r-ruben-fernandez-casaljavier-roca-pardinasjulian-costa-bouzas.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "metodos-de-analisis-de-datos-hernandez-martin-zenaida",
+      "title": "Métodos de análisis de datos: apuntes",
+      "author": "Zenaida Hernández Martín",
+      "filename": "metodos-de-analisis-de-datos-hernandez-martin-zenaida.pdf",
+      "source_url": null,
+      "file_size_bytes": 2810612,
+      "sha256": "dd9e3500e3fbfa8256e817056f69772b4ca82f87f97dd40c65a52ec4a4a9a588",
+      "total_pages": 176,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Métodos de análisis de datos: apuntes dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Estudi exhaustiu de Métodos de análisis de datos: apuntes amb fonaments teòrics i aplicacions pràctiques. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Métodos de análisis de datos: apuntes'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/metodos-de-analisis-de-datos-hernandez-martin-zenaida.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "estadisticas-descriptivas-con-uso-de-excel-para-la-investigacion-educativa-hector-francisco-ponce-renova-3980",
+      "title": "Estadísticas Descriptivas con uso de Excel para la Investigación Educativa",
+      "author": "Héctor Francisco Ponce Renova",
+      "filename": "estadisticas-descriptivas-con-uso-de-excel-para-la-investigacion-educativa-hector-francisco-ponce-renova-3980.pdf",
+      "source_url": null,
+      "file_size_bytes": 2917313,
+      "sha256": "672cf9b45cb26772c55911cf475eb83c848f42027435e52ead4a6656f663a02b",
+      "total_pages": 201,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Estadísticas Descriptivas con uso de Excel para la Investigación Educativa dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: H É C T O R  F R A N C I S C O  P O N C E  R E N O VA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Estadísticas Descriptivas con uso de Excel para la Investigación Educativa'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/estadisticas-descriptivas-con-uso-de-excel-para-la-investigacion-educativa-hector-francisco-ponce-renova-3980.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-al-analisis-multivariante-julio-meneses-1952",
+      "title": "Introducción al análisis multivariante",
+      "author": "Julio Meneses",
+      "filename": "introduccion-al-analisis-multivariante-julio-meneses-1952.pdf",
+      "source_url": null,
+      "file_size_bytes": 369993,
+      "sha256": "1e3ab869f91e3f63302f32f3614fa02df602e6acb20ea72cbe2baf804589996b",
+      "total_pages": 52,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Introducción al análisis multivariante dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Tiempo mínimo de dedicación recomendado: 4 horas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introducción al análisis multivariante'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-al-analisis-multivariante-julio-meneses-1952.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "analisis-de-datos-y-metodos-estadisticos-con-r-antonio-maurandi-lopez-y-aurora-gonzalez-vidal-1953",
+      "title": "Análisis de datos y métodos estadísticos con R",
+      "author": "Antonio Maurandi López y Aurora Gónzalez Vidal",
+      "filename": "analisis-de-datos-y-metodos-estadisticos-con-r-antonio-maurandi-lopez-y-aurora-gonzalez-vidal-1953.pdf",
+      "source_url": null,
+      "file_size_bytes": 4791562,
+      "sha256": "e0047948db25e50c321efa24fe614f8adebec71a0c72678be5d61d3f3ae14d1d",
+      "total_pages": 612,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Análisis de datos y métodos estadísticos con R dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Antonio Maurandi López y Aurora Gónzalez Vidal (Eds.) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Análisis de datos y métodos estadísticos con R'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/analisis-de-datos-y-metodos-estadisticos-con-r-antonio-maurandi-lopez-y-aurora-gonzalez-vidal-1953.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "analisis-de-datos-con-r-jordi-mas-elias-1954",
+      "title": "Análisis de datos con R",
+      "author": "Jordi Mas Elias",
+      "filename": "analisis-de-datos-con-r-jordi-mas-elias-1954.pdf",
+      "source_url": null,
+      "file_size_bytes": 333509,
+      "sha256": "d867760c2aca30778c8e31828081590e1d5472b3e00ff423751c748a4794b18a",
+      "total_pages": 42,
+      "short_description": "Compendi d'Exercicis i Problemes Resolts d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Análisis de datos con R dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un compendi d'exercicis i problemes resolts centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Tiempo mínimo de dedicación recomendado: 3 horas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Compendi d'Exercicis i Problemes Resolts",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Análisis de datos con R'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/analisis-de-datos-con-r-jordi-mas-elias-1954.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Compendi d'Exercicis i Problemes Resolts",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "metodos-de-analisis-estadistico-desde-lo-descriptivo-hasta-lo-inferencial-alata-linares-maldonado-pena-et-al-3981",
+      "title": "Métodos de análisis estadístico: Desde lo descriptivo hasta lo inferencial",
+      "author": "Alata Linares, Maldonado Peña et al.",
+      "filename": "metodos-de-analisis-estadistico-desde-lo-descriptivo-hasta-lo-inferencial-alata-linares-maldonado-pena-et-al-3981.pdf",
+      "source_url": null,
+      "file_size_bytes": 2241772,
+      "sha256": "6d4516ccb19389feb61173234c7dee0199653bfa4d5ca4c68805cae39fc070c6",
+      "total_pages": 106,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Métodos de análisis estadístico: Desde lo descriptivo hasta lo inferencial dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Métodos de análisis estadístico: Desde lo descriptivo hasta lo inferencial L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "código \nde conducta"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Métodos de análisis estadístico: Desde lo descriptivo hasta lo inferencial'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/metodos-de-analisis-estadistico-desde-lo-descriptivo-hasta-lo-inferencial-alata-linares-maldonado-pena-et-al-3981.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "el-analisis-exploratorio-de-datos-albert-padro-solanet-i-grau-1955",
+      "title": "El análisis exploratorio de datos",
+      "author": "Albert Padró-Solanet i Grau",
+      "filename": "el-analisis-exploratorio-de-datos-albert-padro-solanet-i-grau-1955.pdf",
+      "source_url": null,
+      "file_size_bytes": 555717,
+      "sha256": "0878cdca6fc81f7cdb7d0ae78dafd91220ffea53f05a1ef962794a69acff10c7",
+      "total_pages": 44,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de El análisis exploratorio de datos dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Tiempo mínimo de dedicación recomendado: 4 horas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'El análisis exploratorio de datos'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-analisis-exploratorio-de-datos-albert-padro-solanet-i-grau-1955.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "guia-practica-de-introduccion-al-analisis-exploratorio-de-datos-gobierno-de-espana-datos-gob-es-3982",
+      "title": "Guía práctica de introducción al Análisis Exploratorio de Datos",
+      "author": "Gobierno de España (datos.gob.es)",
+      "filename": "guia-practica-de-introduccion-al-analisis-exploratorio-de-datos-gobierno-de-espana-datos-gob-es-3982.pdf",
+      "source_url": null,
+      "file_size_bytes": 1147235,
+      "sha256": "f0eddd2275196d2e0d560ed5cb0f4fafa587c6f8c78c730fc42b26005263a023",
+      "total_pages": 28,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guía práctica de introducción al Análisis Exploratorio de Datos dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Guía práctica de introducción al Análisis Exploratorio de Datos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Guía práctica de introducción al Análisis Exploratorio de Datos'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-practica-de-introduccion-al-analisis-exploratorio-de-datos-gobierno-de-espana-datos-gob-es-3982.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "mineria-de-datos-introduccion-y-guia-de-estudio-patricia-carracedo-manuel-terradez-3983",
+      "title": "Minería de datos. Introducción y guía de estudio",
+      "author": "Patricia Carracedo, Manuel Terrádez",
+      "filename": "mineria-de-datos-introduccion-y-guia-de-estudio-patricia-carracedo-manuel-terradez-3983.pdf",
+      "source_url": null,
+      "file_size_bytes": 376714,
+      "sha256": "b7b408bb8f9d8adc68f48d23a66e565a65767f72c00cf5d22b20b88d2edde157",
+      "total_pages": 30,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Minería de datos. Introducción y guía de estudio dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Minería de datos. Introducción y guía de estudio L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Minería de datos. Introducción y guía de estudio'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/mineria-de-datos-introduccion-y-guia-de-estudio-patricia-carracedo-manuel-terradez-3983.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "analisis-exploratorio-de-datos-a-e-d-salvador-figueras-gargallo-3984",
+      "title": "Análisis Exploratorio de Datos (A.E.D.)",
+      "author": "Salvador Figueras, Gargallo",
+      "filename": "analisis-exploratorio-de-datos-a-e-d-salvador-figueras-gargallo-3984.pdf",
+      "source_url": null,
+      "file_size_bytes": 575577,
+      "sha256": "4d6b9794e1e63316201db048ec4557a9d6187587956586cb17c149e66dac2b56",
+      "total_pages": 68,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Análisis Exploratorio de Datos (A.E.D.) dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Salvador Figueras, M y Gargallo, P. (2003): \"Análisis Exploratorio de Datos\", [en línea] 5campus.com, L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Análisis Exploratorio de Datos (A.E.D.)'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/analisis-exploratorio-de-datos-a-e-d-salvador-figueras-gargallo-3984.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "guia-de-visualizacion-de-datos-generalitat-de-cataluna-3985",
+      "title": "Guía de visualización de datos",
+      "author": "Generalitat de Cataluña",
+      "filename": "guia-de-visualizacion-de-datos-generalitat-de-cataluna-3985.pdf",
+      "source_url": null,
+      "file_size_bytes": 4459089,
+      "sha256": "bb83588b09fb9179ca0eb3b7c098eeb1c769193f7604322237b8ef9d1b1741b4",
+      "total_pages": 101,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guía de visualización de datos dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Qué es la visualización de datos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Guía de visualización de datos'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-de-visualizacion-de-datos-generalitat-de-cataluna-3985.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "visualizacion-de-datos-definicion-tecnologias-y-herramientas-gobierno-de-espana-datos-gob-es-3986",
+      "title": "Visualización de datos: Definición, tecnologías y herramientas",
+      "author": "Gobierno de España (datos.gob.es)",
+      "filename": "visualizacion-de-datos-definicion-tecnologias-y-herramientas-gobierno-de-espana-datos-gob-es-3986.pdf",
+      "source_url": null,
+      "file_size_bytes": 3339145,
+      "sha256": "ffea3151f33fd252e068dbcb0aa3458df1c5add4b1fa2cb628d68d6a59c9becf",
+      "total_pages": 51,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Visualización de datos: Definición, tecnologías y herramientas dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: GUÍA METODOLÓGICA PARA PLANES OPEN L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Visualización de datos: Definición, tecnologías y herramientas'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/visualizacion-de-datos-definicion-tecnologias-y-herramientas-gobierno-de-espana-datos-gob-es-3986.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "principios-basicos-de-la-visualizacion-bid-telefonica-3987",
+      "title": "Principios básicos de la visualización",
+      "author": "BID / Telefónica",
+      "filename": "principios-basicos-de-la-visualizacion-bid-telefonica-3987.pdf",
+      "source_url": null,
+      "file_size_bytes": 579084,
+      "sha256": "6724c7b8070f591e7f7c32dfbe0006495fb5a340932aecfe6ca44b37377f9ed6",
+      "total_pages": 15,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Principios básicos de la visualización dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Principios básicos de la visualización L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Principios básicos de la visualización'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/principios-basicos-de-la-visualizacion-bid-telefonica-3987.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "visualizacion-de-datos-caminos-entre-arte-y-ciencia-roberto-theron-sanchez-3988",
+      "title": "Visualización de datos: caminos entre arte y ciencia",
+      "author": "Roberto Therón Sánchez",
+      "filename": "visualizacion-de-datos-caminos-entre-arte-y-ciencia-roberto-theron-sanchez-3988.pdf",
+      "source_url": null,
+      "file_size_bytes": 856159,
+      "sha256": "aa6c8ea84006f636a61c269ee58048f3d077d74c1bac50f3cd0718916720b965",
+      "total_pages": 22,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Visualización de datos: caminos entre arte y ciencia dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Fonseca, Journal of Communication, 23, 2021, pp. 39-60 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Visualización de datos: caminos entre arte y ciencia'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/visualizacion-de-datos-caminos-entre-arte-y-ciencia-roberto-theron-sanchez-3988.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "la-visualizacion-de-datos-jose-luis-valero-sancho-3989",
+      "title": "La visualización de datos",
+      "author": "José Luis Valero Sancho",
+      "filename": "la-visualizacion-de-datos-jose-luis-valero-sancho-3989.pdf",
+      "source_url": null,
+      "file_size_bytes": 397096,
+      "sha256": "307059614cd9b020f2cbe22ddd93f4afb2a80b8c7c586c360175bbdbedd7fa3d",
+      "total_pages": 15,
+      "short_description": "Tesi Acadèmica d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de La visualización de datos dins de Analisis De Datos.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Analisis De Datos (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Ámbitos, núm. 25, julio-diciembre, 2014 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Analisis De Datos.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'La visualización de datos'. Domain: Tecnología e Informática (Analisis De Datos). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-visualizacion-de-datos-jose-luis-valero-sancho-3989.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Analisis De Datos",
+        "Tesi Acadèmica",
+        "Espanya"
+      ]
+    }
+  ]
+}

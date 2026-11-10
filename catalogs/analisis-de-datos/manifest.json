@@ -1,0 +1,26 @@
+{
+  "rag_id": "analisis-de-datos",
+  "name": "Analisis De Datos",
+  "description": "Col·lecció completa de llibres i manuals de Analisis De Datos (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794270306.062698,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 2366,
+  "total_documents": 17,
+  "total_library_files": 17,
+  "total_images_extracted": 474,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "analisis-de-datos",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

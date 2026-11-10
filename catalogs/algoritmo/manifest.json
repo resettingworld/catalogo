@@ -1,0 +1,26 @@
+{
+  "rag_id": "algoritmo",
+  "name": "Algoritmo",
+  "description": "Col·lecció completa de llibres i manuals de Algoritmo (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794269094.26232,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 1982,
+  "total_documents": 10,
+  "total_library_files": 10,
+  "total_images_extracted": 431,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "algoritmo",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

@@ -1,0 +1,1202 @@
+{
+  "topic": "Agricultura General i Bones Pràctiques",
+  "domain": "Ciencias Agrícolas",
+  "source_portal": "InfoLibros",
+  "category_slug": "temas-varios",
+  "capsule_slug": "agricultura",
+  "canonical_style_id": "collage-punk-v1",
+  "style_name": "Collage Punk & Underground DIY Zine",
+  "banner_cover": "images/banner.png",
+  "books": [
+    {
+      "id": "agricultura-1_0_-asi-comienza-la-agricultura-alvaro-martinez-alvarez",
+      "title": "Agricultura 1.0. Asi comienza la Agricultura",
+      "author": "Alvaro Martinez Alvarez",
+      "filename": "agricultura-1.0.-asi-comienza-la-agricultura-alvaro-martinez-alvarez.pdf",
+      "source_url": null,
+      "file_size_bytes": 12428881,
+      "sha256": "44e53f0794844b7f4376a8633f40aad998394bc23491b039f32ba7038b7f69ca",
+      "total_pages": 260,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Agricultura 1.0. Asi comienza la Agricultura dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Desde sus inicios hasta la Edad del Bronce L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Agricultura 1.0. Asi comienza la Agricultura'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/agricultura-1_0_-asi-comienza-la-agricultura-alvaro-martinez-alvarez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "agricultura-4_0-santiago-santos-valle_-josef-kienzle",
+      "title": "Agricultura 4.0",
+      "author": "Santiago Santos Valle, Josef Kienzle",
+      "filename": "agricultura-4.0-santiago-santos-valle,-josef-kienzle.pdf",
+      "source_url": null,
+      "file_size_bytes": 5132140,
+      "sha256": "d712179f7810d0fc24c5502fcbb8aa00a043c27721a37fe25f82c47dc042b7d9",
+      "total_pages": 40,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Agricultura 4.0 dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Organización de las Naciones Unidas para la Alimentación y la Agricultura L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Agricultura 4.0'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/agricultura-4_0-santiago-santos-valle_-josef-kienzle.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "agricultura-de-conservacion-nele-verhulst_-isabelle-francois-y-bram-govaerts",
+      "title": "Agricultura de conservacion",
+      "author": "Nele Verhulst, Isabelle Francois y Bram Govaerts",
+      "filename": "agricultura-de-conservacion-nele-verhulst,-isabelle-francois-y-bram-govaerts.pdf",
+      "source_url": null,
+      "file_size_bytes": 620746,
+      "sha256": "01b35dd59d860dc07e58da68ffeb0991e21beefddda4ed6b829c7026e9b44c94",
+      "total_pages": 24,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Agricultura de conservacion dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: ¿mejora la calidad del suelo a fin de obtener L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Agricultura de conservacion'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/agricultura-de-conservacion-nele-verhulst_-isabelle-francois-y-bram-govaerts.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "agricultura-de-conservacion_-una-practica-innovadora-con-beneficios-economicos-y-medioambientales-jose-ramiro-benites-jump_-alexandra-bot",
+      "title": "Agricultura de Conservacion. Una practica innovadora con beneficios economicos y medioambientales",
+      "author": "Jose Ramiro Benites Jump, Alexandra Bot",
+      "filename": "agricultura-de-conservacion.-una-practica-innovadora-con-beneficios-economicos-y-medioambientales-jose-ramiro-benites-jump,-alexandra-bot.pdf",
+      "source_url": null,
+      "file_size_bytes": 11179497,
+      "sha256": "2ef493e33d3d96939e446d750fe38275a095199b799541aa27562fffb644cba3",
+      "total_pages": 344,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Agricultura de Conservacion. Una practica innovadora con beneficios economicos y medioambientales dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: José Ramiro Benites Jump /  Alexandra Bot L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Agricultura de Conservacion. Una practica innovadora con beneficios economicos y medioambientales'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/agricultura-de-conservacion_-una-practica-innovadora-con-beneficios-economicos-y-medioambientales-jose-ramiro-benites-jump_-alexandra-bot.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "agricultura-organica-enrique-salazar-sosa_-manuel-fortis-hernandez_-antonio-vazquez-alarcon",
+      "title": "Agricultura Organica",
+      "author": "Enrique Salazar Sosa, Manuel Fortis Hernandez, Antonio Vazquez Alarcon",
+      "filename": "agricultura-organica-enrique-salazar-sosa,-manuel-fortis-hernandez,-antonio-vazquez-alarcon.pdf",
+      "source_url": null,
+      "file_size_bytes": 2519592,
+      "sha256": "192d56f59f1fbf977e94aac0473cb5b13a23db85ae3cb28f48cff339dbb8f8e4",
+      "total_pages": 258,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Agricultura Organica dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Editado por: Enrique Salazar Sosa L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Agricultura Organica'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/agricultura-organica-enrique-salazar-sosa_-manuel-fortis-hernandez_-antonio-vazquez-alarcon.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "agricultura-sostenible-como-base-para-los-agronegocios-ramon-jarquin-galvez_-arturo-huerta-de-la-pena",
+      "title": "Agricultura Sostenible como base para los agronegocios",
+      "author": "Ramon Jarquin Galvez, Arturo Huerta de la Pena",
+      "filename": "agricultura-sostenible-como-base-para-los-agronegocios-ramon-jarquin-galvez,-arturo-huerta-de-la-pena.pdf",
+      "source_url": null,
+      "file_size_bytes": 40320434,
+      "sha256": "673ff8198c6fdb1860488ce8f13b523667f6131e2470a251d6c888bdb1ed6fd2",
+      "total_pages": 1522,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Agricultura Sostenible como base para los agronegocios dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: Metropolitana, Maestro en Ciencias en Recursos Naturales y desarrollo rural (1996) por el Colegio L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Agricultura Sostenible como base para los agronegocios'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/agricultura-sostenible-como-base-para-los-agronegocios-ramon-jarquin-galvez_-arturo-huerta-de-la-pena.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "agricultura-sostenible-sonia-villalva-quintana-y-joaquin-fuentes-pila-estrada",
+      "title": "Agricultura Sostenible",
+      "author": "Sonia Villalva Quintana y Joaquin Fuentes-Pila Estrada",
+      "filename": "agricultura-sostenible-sonia-villalva-quintana-y-joaquin-fuentes-pila-estrada.pdf",
+      "source_url": null,
+      "file_size_bytes": 1543683,
+      "sha256": "b5ae214d9f8a14fe7a67362c1ba4103f356546c3c741e0501b23919ac9793da6",
+      "total_pages": 32,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Agricultura Sostenible dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Ingeniero Agrónomo. AMA de la Comunidad de Madrid L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Agricultura Sostenible'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/agricultura-sostenible-sonia-villalva-quintana-y-joaquin-fuentes-pila-estrada.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "apuntes-tecnicos-para-el-vivero-familiar-carolina-gonzalez-cilia_-laura-de-luca-y-manuel-manzoni",
+      "title": "Apuntes tecnicos para el vivero familiar",
+      "author": "Carolina Gonzalez Cilia, Laura De Luca y Manuel Manzoni",
+      "filename": "apuntes-tecnicos-para-el-vivero-familiar-carolina-gonzalez-cilia,-laura-de-luca-y-manuel-manzoni.pdf",
+      "source_url": null,
+      "file_size_bytes": 5302267,
+      "sha256": "0504c8e850e39986c7c9b462d75f3c1b9706e6e33ff5cf5a8883f3907d61a5bd",
+      "total_pages": 96,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Apuntes tecnicos para el vivero familiar dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Apuntes técnicos para el vivero familiar: con L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-987-521-436-1"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Apuntes tecnicos para el vivero familiar'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/apuntes-tecnicos-para-el-vivero-familiar-carolina-gonzalez-cilia_-laura-de-luca-y-manuel-manzoni.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "buenas-practicas-agricolas-para-una-agricultura-mas-resiliente-iica",
+      "title": "Buenas practicas agricolas para una agricultura mas resiliente",
+      "author": "IICA",
+      "filename": "buenas-practicas-agricolas-para-una-agricultura-mas-resiliente-iica.pdf",
+      "source_url": null,
+      "file_size_bytes": 2438384,
+      "sha256": "bd3db22b3146b3ab85a9e35b22821fa0d4eeb02e9c8017f59c555226bc2984cc",
+      "total_pages": 73,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Buenas practicas agricolas para una agricultura mas resiliente dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Alejandra Díaz, Luciano Gebler, Lucia Maia, L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Buenas practicas agricolas para una agricultura mas resiliente'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/buenas-practicas-agricolas-para-una-agricultura-mas-resiliente-iica.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "el-estado-mundial-de-la-agricultura-y-la-alimentacion-fao",
+      "title": "El estado mundial de la agricultura y la alimentacion",
+      "author": "FAO",
+      "filename": "el-estado-mundial-de-la-agricultura-y-la-alimentacion-fao.pdf",
+      "source_url": null,
+      "file_size_bytes": 3912028,
+      "sha256": "bc8bec2440951ff85e6908039b5421abbbc30c59a411b56606555a2de30d71b7",
+      "total_pages": 201,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de El estado mundial de la agricultura y la alimentacion dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Las denominaciones empleadas en este producto informativo y la forma en que L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISBN 978-92-5-309873-6"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'El estado mundial de la agricultura y la alimentacion'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-estado-mundial-de-la-agricultura-y-la-alimentacion-fao.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "el-manejo-integrado-de-plagas-fausto-cisneros-v-13945",
+      "title": "El Manejo Integrado de Plagas",
+      "author": "Fausto Cisneros V.",
+      "filename": "el-manejo-integrado-de-plagas-fausto-cisneros-v-13945.pdf",
+      "source_url": null,
+      "file_size_bytes": 1460754,
+      "sha256": "760c7a49a46c8ed5e70ba6ec916b945016a98b22ee5326124ee787a8e1097376",
+      "total_pages": 37,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de El Manejo Integrado de Plagas dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: El Manejo de Integrado de Plagas (MIP) es un sistema de protección de cultivos orientado a L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'El Manejo Integrado de Plagas'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-manejo-integrado-de-plagas-fausto-cisneros-v-13945.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "fundamentos-de-la-permacultura-holger-hieronimi-13936",
+      "title": "Fundamentos de la Permacultura",
+      "author": "Holger Hieronimi",
+      "filename": "fundamentos-de-la-permacultura-holger-hieronimi-13936.pdf",
+      "source_url": null,
+      "file_size_bytes": 3835616,
+      "sha256": "5d8f604bd8235c57afd82445887c767faa36b73664608874d111840ad13c36dd",
+      "total_pages": 99,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Fundamentos de la Permacultura dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Jacarandas # 5-9, Barrio Santiago, Erongaricuaro, Michoacán, México, C.P. 61630 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Fundamentos de la Permacultura'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-la-permacultura-holger-hieronimi-13936.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "guia-de-formacion-en-buenas-practicas-agricolas-para-hortalizas-natalia-curcio-y-ana-sartor",
+      "title": "Guia de formacion en buenas practicas agricolas para hortalizas",
+      "author": "Natalia Curcio y Ana Sartor",
+      "filename": "guia-de-formacion-en-buenas-practicas-agricolas-para-hortalizas-natalia-curcio-y-ana-sartor.pdf",
+      "source_url": null,
+      "file_size_bytes": 17731218,
+      "sha256": "f6967c58496bd87deb2ecd382ba2049078ae598b07bdd1d4b486a041e9c31dad",
+      "total_pages": 115,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Guia de formacion en buenas practicas agricolas para hortalizas dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: LIC. EN COMUNICACIÓN ANA SARTORI L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Guia de formacion en buenas practicas agricolas para hortalizas'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-de-formacion-en-buenas-practicas-agricolas-para-hortalizas-natalia-curcio-y-ana-sartor.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "guia-para-la-descripcion-de-suelos-fao-13938",
+      "title": "Guía para la descripción de suelos",
+      "author": "FAO",
+      "filename": "guia-para-la-descripcion-de-suelos-fao-13938.pdf",
+      "source_url": null,
+      "file_size_bytes": 468100,
+      "sha256": "c67a47434a933273dc072f5ed0673a32a943ab56c893cf2b1c6767154e375693",
+      "total_pages": 111,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guía para la descripción de suelos dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Traducido y adaptado al castellano por Ronald Vargas Rojas (Proyecto FAO- L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Guía para la descripción de suelos'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-para-la-descripcion-de-suelos-fao-13938.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-permacultura-colectivo-tierramor-13937",
+      "title": "Introducción a la Permacultura",
+      "author": "Colectivo Tierramor",
+      "filename": "introduccion-a-la-permacultura-colectivo-tierramor-13937.pdf",
+      "source_url": null,
+      "file_size_bytes": 4630974,
+      "sha256": "d005db8e961f5d8f95649ad0c467b03b09d429aa3fe34d70d69c61572386554a",
+      "total_pages": 45,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Introducción a la Permacultura dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Jacarandas # 5, Barrio Santiago, Erongaricuaro, Michoacán, México, C.P. 61630 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Introducción a la Permacultura'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-permacultura-colectivo-tierramor-13937.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "introduccion-a-las-buenas-practicas-agricolas-y-de-manufactura-para-la-pequena-agricultura-accion-contra-el-hambre",
+      "title": "Introduccion a las buenas practicas agricolas y de manufactura para la pequena agricultura",
+      "author": "Accion contra el Hambre",
+      "filename": "introduccion-a-las-buenas-practicas-agricolas-y-de-manufactura-para-la-pequena-agricultura-accion-contra-el-hambre.pdf",
+      "source_url": null,
+      "file_size_bytes": 2768576,
+      "sha256": "c233b9d3e18e8c996eaacc3c07d6967d2ece3395575c89133774918882285580",
+      "total_pages": 83,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Introduccion a las buenas practicas agricolas y de manufactura para la pequena agricultura dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: INTRODUCCIÓN A LAS BUENAS PRÁCTICAS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Introduccion a las buenas practicas agricolas y de manufactura para la pequena agricultura'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-las-buenas-practicas-agricolas-y-de-manufactura-para-la-pequena-agricultura-accion-contra-el-hambre.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "la-insostenible-agricultura-4_0-pat-mooney",
+      "title": "La insostenible Agricultura 4.0",
+      "author": "Pat Mooney",
+      "filename": "la-insostenible-agricultura-4.0-pat-mooney.pdf",
+      "source_url": null,
+      "file_size_bytes": 1163860,
+      "sha256": "df5d4e079673cb1e5df469534c2c5c0d484962ae5903e62bafb5c33a2c972896",
+      "total_pages": 52,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de La insostenible Agricultura 4.0 dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: La insostenible Agricultura 4.0 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'La insostenible Agricultura 4.0'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-insostenible-agricultura-4_0-pat-mooney.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "los-desafios-de-la-agricultura-fernando-h_-andrade",
+      "title": "Los desafios de la agricultura",
+      "author": "Fernando H. Andrade",
+      "filename": "los-desafios-de-la-agricultura-fernando-h.-andrade.pdf",
+      "source_url": null,
+      "file_size_bytes": 2209112,
+      "sha256": "0a1cf173de11caf97bab9a1a0a34b762604a9c3996168a832f5aebfb5990a72e",
+      "total_pages": 136,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Los desafios de la agricultura dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: INTA Balcarce- Facultad de Ciencias Agrarias UNMP - CONICET. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-987-46277-0-4"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Los desafios de la agricultura'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/los-desafios-de-la-agricultura-fernando-h_-andrade.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "manejo-de-suelos-y-agua-fao-13939",
+      "title": "Manejo de suelos y agua",
+      "author": "FAO",
+      "filename": "manejo-de-suelos-y-agua-fao-13939.pdf",
+      "source_url": null,
+      "file_size_bytes": 3486349,
+      "sha256": "463b486556b99e1e73ce02459ea8a7085d51755d774a8a616a197d55cb8e413b",
+      "total_pages": 105,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manejo de suelos y agua dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Tecnologías y metodología validadas para mejorar la seguridad alimentaria en las zonas secas de Honduras L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manejo de suelos y agua'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manejo-de-suelos-y-agua-fao-13939.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manejo-integrado-de-plagas-las-bases-los-conceptos-su-mercantilizacion-felipe-romero-r-13946",
+      "title": "Manejo Integrado de Plagas: las bases, los conceptos, su mercantilización",
+      "author": "Felipe Romero R.",
+      "filename": "manejo-integrado-de-plagas-las-bases-los-conceptos-su-mercantilizacion-felipe-romero-r-13946.pdf",
+      "source_url": null,
+      "file_size_bytes": 492602,
+      "sha256": "07803a2e6e077945fca18a704b16b3bde2b248575b90c38362cd050e59783602",
+      "total_pages": 110,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Manejo Integrado de Plagas: las bases, los conceptos, su mercantilización dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Colegio de Postgraduados: Instituto de Fitosanidad, Montecillo. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manejo Integrado de Plagas: las bases, los conceptos, su mercantilización'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manejo-integrado-de-plagas-las-bases-los-conceptos-su-mercantilizacion-felipe-romero-r-13946.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "manual-basico-de-agricultura-ecologica-junta-de-andalucia-13933",
+      "title": "Manual Básico de Agricultura Ecológica",
+      "author": "Junta de Andalucía",
+      "filename": "manual-basico-de-agricultura-ecologica-junta-de-andalucia-13933.pdf",
+      "source_url": null,
+      "file_size_bytes": 5483960,
+      "sha256": "fbba9cc30f551e628af08d1cd7e29f042a58001dcae3cfd6bc3e8518e5746963",
+      "total_pages": 92,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual Básico de Agricultura Ecológica dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: MANUAL BÁSICO DE AGRICULTURA ECOLÓGICA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual Básico de Agricultura Ecológica'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-basico-de-agricultura-ecologica-junta-de-andalucia-13933.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-agricultura-de-precision-evandro-chartuni-mantovani_-carlos-magdalena",
+      "title": "Manual de Agricultura de Precision",
+      "author": "Evandro Chartuni Mantovani, Carlos Magdalena",
+      "filename": "manual-de-agricultura-de-precision-evandro-chartuni-mantovani,-carlos-magdalena.pdf",
+      "source_url": null,
+      "file_size_bytes": 3861508,
+      "sha256": "83cd37da4ef6df1d588b318acbcf6d723e190b3812738942b651be6e17129321",
+      "total_pages": 178,
+      "short_description": "Manual Docent i Tècnic d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Manual de Agricultura de Precision dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: Programa Cooperativo para el Desarrollo Tecnológico L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual de Agricultura de Precision'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-agricultura-de-precision-evandro-chartuni-mantovani_-carlos-magdalena.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Manual Docent i Tècnic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "manual-de-agricultura-organica-sostenible-avocado-source-13934",
+      "title": "Manual de Agricultura Orgánica Sostenible",
+      "author": "Avocado Source",
+      "filename": "manual-de-agricultura-organica-sostenible-avocado-source-13934.pdf",
+      "source_url": null,
+      "file_size_bytes": 1544266,
+      "sha256": "1b65402b36e2d34ae2f4800c54cd59f8998502bf8bcaef70873c89bbbecbe59f",
+      "total_pages": 142,
+      "short_description": "Manual Docent i Tècnic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Manual de Agricultura Orgánica Sostenible dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: CAPÍTULO 2. FERTILIDAD Y MANEJO DEL SUELO: BASES PARA LA AGRICULTURA ORGÁNICA. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual de Agricultura Orgánica Sostenible'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-agricultura-organica-sostenible-avocado-source-13934.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Manual Docent i Tècnic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "manual-de-agricultura-urbana-ecoagricultor-13947",
+      "title": "Manual de Agricultura Urbana",
+      "author": "Ecoagricultor",
+      "filename": "manual-de-agricultura-urbana-ecoagricultor-13947.pdf",
+      "source_url": null,
+      "file_size_bytes": 2713693,
+      "sha256": "4e2ebf40cf68cafa7c55484dd3f5e57a4aa5b3feca3fe0f7bfe082af84f18be9",
+      "total_pages": 45,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual de Agricultura Urbana dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: 1. La Agricultura Urbana y la producción de hortalizas de forma orgánica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual de Agricultura Urbana'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-agricultura-urbana-ecoagricultor-13947.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-buenas-practicas-agricolas-para-el-productor-hortofruticola-fao",
+      "title": "Manual de Buenas Practicas Agricolas para el Productor Hortofruticola",
+      "author": "FAO",
+      "filename": "manual-de-buenas-practicas-agricolas-para-el-productor-hortofruticola-fao.pdf",
+      "source_url": null,
+      "file_size_bytes": 3755171,
+      "sha256": "daf2555e35507c59b1333535b0c28d8783b4e82e3a7f61ac3d8b7dca932cb229",
+      "total_pages": 84,
+      "short_description": "Manual Docent i Tècnic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Manual de Buenas Practicas Agricolas para el Productor Hortofruticola dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: para el Productor Hortofrutícola L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual de Buenas Practicas Agricolas para el Productor Hortofruticola'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-buenas-practicas-agricolas-para-el-productor-hortofruticola-fao.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Manual Docent i Tècnic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "manual-de-buenas-practicas-agricolas_-buenas-practicas-agricolas-para-frutas-y-hortalizas-frescas-centro-de-investigacion-en-alimentacion-y-desarrollo",
+      "title": "Manual de buenas practicas agricolas. Buenas practicas agricolas para frutas y hortalizas frescas",
+      "author": "Centro de Investigacion en Alimentacion y Desarrollo",
+      "filename": "manual-de-buenas-practicas-agricolas.-buenas-practicas-agricolas-para-frutas-y-hortalizas-frescas-centro-de-investigacion-en-alimentacion-y-desarrollo.pdf",
+      "source_url": null,
+      "file_size_bytes": 3001970,
+      "sha256": "c98182fe487c46435068801c57ab37469ae180c424cf5d4ba6acb83018aa66a0",
+      "total_pages": 71,
+      "short_description": "Manual Docent i Tècnic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Manual de buenas practicas agricolas. Buenas practicas agricolas para frutas y hortalizas frescas dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Manual de Buenas Prácticas Agrícolas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "ISBN 970-18-7941-4"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual de buenas practicas agricolas. Buenas practicas agricolas para frutas y hortalizas frescas'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-buenas-practicas-agricolas_-buenas-practicas-agricolas-para-frutas-y-hortalizas-frescas-centro-de-investigacion-en-alimentacion-y-desarrollo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Manual Docent i Tècnic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "manual-de-capacitacion-en-agricultura-organica-para-los-tropicos-frank-eyhorn-marlene-heeb-gilles-weidmann-13935",
+      "title": "Manual de capacitación en Agricultura Orgánica para los Trópicos",
+      "author": "Frank Eyhorn, Marlene Heeb, Gilles Weidmann",
+      "filename": "manual-de-capacitacion-en-agricultura-organica-para-los-tropicos-frank-eyhorn-marlene-heeb-gilles-weidmann-13935.pdf",
+      "source_url": null,
+      "file_size_bytes": 9134106,
+      "sha256": "1ff627c34e5ab1d831f88e119c7dbe17c3ff6f39443c1283f0d80ca51aaf6c5d",
+      "total_pages": 233,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual de capacitación en Agricultura Orgánica para los Trópicos dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Frank Eyhorn, Marlene Heeb, Gilles Weidmann L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISBN 3-934055-74-5"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual de capacitación en Agricultura Orgánica para los Trópicos'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-capacitacion-en-agricultura-organica-para-los-tropicos-frank-eyhorn-marlene-heeb-gilles-weidmann-13935.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-consulta-del-productor-urbano-fao-13948",
+      "title": "Manual de consulta del productor urbano",
+      "author": "FAO",
+      "filename": "manual-de-consulta-del-productor-urbano-fao-13948.pdf",
+      "source_url": null,
+      "file_size_bytes": 2411989,
+      "sha256": "9319329b6eb83fafc26b0606aa3002449e9e21337f916672332a1947986b3bea",
+      "total_pages": 190,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual de consulta del productor urbano dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Una guía práctica para trabajar con organizaciones de L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISBN 978-92-5-305751-1"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual de consulta del productor urbano'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-consulta-del-productor-urbano-fao-13948.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-iniciacion-al-huerto-urbano-firabcn-13949",
+      "title": "Manual de iniciación al huerto urbano",
+      "author": "FiraBcn",
+      "filename": "manual-de-iniciacion-al-huerto-urbano-firabcn-13949.pdf",
+      "source_url": null,
+      "file_size_bytes": 11994525,
+      "sha256": "e07bf8de9dc37f36f76899086c8aa231c6877245823c23cd11e37fe43359b72f",
+      "total_pages": 24,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual de iniciación al huerto urbano dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Cultivar hortalizas es posible en la ciudad. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual de iniciación al huerto urbano'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-iniciacion-al-huerto-urbano-firabcn-13949.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-riego-herramientas-agronomicas-y-soluciones-tecnologicas-plataforma-de-extension-inia-13943",
+      "title": "Manual de Riego: herramientas agronómicas y soluciones tecnológicas",
+      "author": "Plataforma de Extensión INIA",
+      "filename": "manual-de-riego-herramientas-agronomicas-y-soluciones-tecnologicas-plataforma-de-extension-inia-13943.pdf",
+      "source_url": null,
+      "file_size_bytes": 8672836,
+      "sha256": "e155958efd23f554a1d59af9fba8d4089158e19ee0b7921e2a50f83b834d208a",
+      "total_pages": 104,
+      "short_description": "Manual Docent i Tècnic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Manual de Riego: herramientas agronómicas y soluciones tecnológicas dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Proyecto: “Transferencia y difusión de herramientas agronómicas y L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual de Riego: herramientas agronómicas y soluciones tecnológicas'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-riego-herramientas-agronomicas-y-soluciones-tecnologicas-plataforma-de-extension-inia-13943.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Manual Docent i Tècnic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "manual-de-riego-para-agricultores-fundamentos-del-riego-rafael-fernandez-gomez-13942",
+      "title": "Manual de Riego para Agricultores: Fundamentos del Riego",
+      "author": "Rafael Fernández Gómez",
+      "filename": "manual-de-riego-para-agricultores-fundamentos-del-riego-rafael-fernandez-gomez-13942.pdf",
+      "source_url": null,
+      "file_size_bytes": 6099855,
+      "sha256": "3212e599cc3ee8e9409a6bd5a957803ee171fff459e599a93a50af8d1976a455",
+      "total_pages": 106,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual de Riego para Agricultores: Fundamentos del Riego dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Manual de Riego para Agricultores L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISBN 978-84-8474-133-6"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual de Riego para Agricultores: Fundamentos del Riego'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-riego-para-agricultores-fundamentos-del-riego-rafael-fernandez-gomez-13942.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-practico-para-el-diseno-de-sistemas-de-minirriego-julian-carrazon-alocen-13944",
+      "title": "Manual práctico para el diseño de sistemas de minirriego",
+      "author": "Julián Carrazón Alocén",
+      "filename": "manual-practico-para-el-diseno-de-sistemas-de-minirriego-julian-carrazon-alocen-13944.pdf",
+      "source_url": null,
+      "file_size_bytes": 2739173,
+      "sha256": "fa1e1ba6b552fde6fe9b7650e7b5e63e1301c92ae759e57a2f879f4f4c538ec5",
+      "total_pages": 219,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual práctico para el diseño de sistemas de minirriego dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Programa Especial para la Seguridad Alimentaria (PESA) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual práctico para el diseño de sistemas de minirriego'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-practico-para-el-diseno-de-sistemas-de-minirriego-julian-carrazon-alocen-13944.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "practicas-de-conservacion-de-suelos-y-agua-para-la-adaptacion-productiva-fao-13940",
+      "title": "Prácticas de conservación de suelos y agua para la adaptación productiva",
+      "author": "FAO",
+      "filename": "practicas-de-conservacion-de-suelos-y-agua-para-la-adaptacion-productiva-fao-13940.pdf",
+      "source_url": null,
+      "file_size_bytes": 1846899,
+      "sha256": "e03fd411205b3456ea8de3544de6660d820c3b5a3278722d99a7833f80f44f69",
+      "total_pages": 33,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Prácticas de conservación de suelos y agua para la adaptación productiva dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: Prácticas de Conservación de Suelos y Agua para la Adaptación Productiva a la Variabilidad Climática L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Prácticas de conservación de suelos y agua para la adaptación productiva'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/practicas-de-conservacion-de-suelos-y-agua-para-la-adaptacion-productiva-fao-13940.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "suelos-bases-para-su-manejo-y-conservacion-helena-cotler-avalos-ignacio-daniel-gonzalez-mora-13941",
+      "title": "Suelos: bases para su manejo y conservación",
+      "author": "Helena Cotler Ávalos, Ignacio Daniel González Mora",
+      "filename": "suelos-bases-para-su-manejo-y-conservacion-helena-cotler-avalos-ignacio-daniel-gonzalez-mora-13941.pdf",
+      "source_url": null,
+      "file_size_bytes": 2278038,
+      "sha256": "afb649e74b3c082f18c8dd1de0793eca4a5314d09d9c1dc7a6cd06a9698356f9",
+      "total_pages": 44,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Suelos: bases para su manejo y conservación dins de Agricultura General i Bones Pràctiques.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Agricultura General i Bones Pràctiques (Ciencias Agrícolas), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Cuadernos de divulgación ambiental L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Agricultura General i Bones Pràctiques.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Suelos: bases para su manejo y conservación'. Domain: Ciencias Agrícolas (Agricultura General i Bones Pràctiques). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/suelos-bases-para-su-manejo-y-conservacion-helena-cotler-avalos-ignacio-daniel-gonzalez-mora-13941.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Agricultura General i Bones Pràctiques",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    }
+  ]
+}

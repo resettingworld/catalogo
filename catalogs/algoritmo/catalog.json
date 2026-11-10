@@ -1,0 +1,367 @@
+{
+  "topic": "Algoritmo",
+  "domain": "Tecnología e Informática",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 10,
+  "total_pages": 1578,
+  "total_size_mb": 29.93,
+  "books": [
+    {
+      "id": "introduccion-al-analisis-y-al-diseno-de-algoritmos-dra-maria-del-carmen-gomez-fuentes-dr-jorge-cervantes-ojeda-3304",
+      "title": "Introducción al Análisis y al Diseño de Algoritmos",
+      "author": "Dra. María del Carmen Gómez Fuentes, Dr. Jorge Cervantes Ojeda",
+      "filename": "introduccion-al-analisis-y-al-diseno-de-algoritmos-dra-maria-del-carmen-gomez-fuentes-dr-jorge-cervantes-ojeda-3304.pdf",
+      "source_url": null,
+      "file_size_bytes": 7918258,
+      "sha256": "3c376e46d5250d00dde74f30295cc4eea188d7d065941c6cc8b3a58787e942d4",
+      "total_pages": 166,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Introducción al Análisis y al Diseño de Algoritmos dins de Algoritmo.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Algoritmo (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducción al Análisis y al Diseño de Algoritmos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Algoritmo.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introducción al Análisis y al Diseño de Algoritmos'. Domain: Tecnología e Informática (Algoritmo). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-al-analisis-y-al-diseno-de-algoritmos-dra-maria-del-carmen-gomez-fuentes-dr-jorge-cervantes-ojeda-3304.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Algoritmo",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "algoritmos-y-programacion-julio-cesar-rodriguez-casas-3305",
+      "title": "Algoritmos y Programación",
+      "author": "Julio Cesar Rodríguez Casas",
+      "filename": "algoritmos-y-programacion-julio-cesar-rodriguez-casas-3305.pdf",
+      "source_url": null,
+      "file_size_bytes": 3972312,
+      "sha256": "67fdc0e97d0f99ca0c76ba5640a136077b52545a4f3cf16fe85dc00be38c4213",
+      "total_pages": 104,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Algoritmos y Programación dins de Algoritmo.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Algoritmo (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: © Fundación Universitaria del Área Andina. Bogotá, septiembre de 2018 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Algoritmo.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Algoritmos y Programación'. Domain: Tecnología e Informática (Algoritmo). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/algoritmos-y-programacion-julio-cesar-rodriguez-casas-3305.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Algoritmo",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "problemario-de-algoritmos-resueltos-con-diagramas-de-flujo-y-pseudocodigo-francisco-javier-pinales-delgado-cesar-eduardo-velazquez-amador-3303",
+      "title": "Problemario de algoritmos resueltos con diagramas de flujo y pseudocódigo",
+      "author": "Francisco Javier Pinales Delgado, César Eduardo Velázquez Amador",
+      "filename": "problemario-de-algoritmos-resueltos-con-diagramas-de-flujo-y-pseudocodigo-francisco-javier-pinales-delgado-cesar-eduardo-velazquez-amador-3303.pdf",
+      "source_url": null,
+      "file_size_bytes": 1528298,
+      "sha256": "3448aa5fdf1a093758fed7bb7159a7f7e1607eb7bd83ec3f196ec716bf3b645c",
+      "total_pages": 172,
+      "short_description": "Compendi d'Exercicis i Problemes Resolts d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Problemario de algoritmos resueltos con diagramas de flujo y pseudocódigo dins de Algoritmo.",
+      "long_description": "Aquesta obra constitueix un compendi d'exercicis i problemes resolts centrat en la disciplina de Algoritmo (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Francisco Javier Pinales Delgado L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Compendi d'Exercicis i Problemes Resolts",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Algoritmo.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Problemario de algoritmos resueltos con diagramas de flujo y pseudocódigo'. Domain: Tecnología e Informática (Algoritmo). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/problemario-de-algoritmos-resueltos-con-diagramas-de-flujo-y-pseudocodigo-francisco-javier-pinales-delgado-cesar-eduardo-velazquez-amador-3303.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Algoritmo",
+        "Compendi d'Exercicis i Problemes Resolts",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "problemas-y-algoritmos-un-enfoque-practico-edith-lovos-martin-goin-3302",
+      "title": "Problemas y algoritmos. Un enfoque práctico",
+      "author": "Edith Lovos, Martín Goin",
+      "filename": "problemas-y-algoritmos-un-enfoque-practico-edith-lovos-martin-goin-3302.pdf",
+      "source_url": null,
+      "file_size_bytes": 2616717,
+      "sha256": "60dc4a5de148ce6f73623ca6a45be5aac75bdf06697d7138cd9b875f33967fcd",
+      "total_pages": 122,
+      "short_description": "Compendi d'Exercicis i Problemes Resolts d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Problemas y algoritmos. Un enfoque práctico dins de Algoritmo.",
+      "long_description": "Aquesta obra constitueix un compendi d'exercicis i problemes resolts centrat en la disciplina de Algoritmo (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Estudi exhaustiu de Problemas y algoritmos. Un enfoque práctico amb fonaments teòrics i aplicacions pràctiques. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Compendi d'Exercicis i Problemes Resolts",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Algoritmo.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Problemas y algoritmos. Un enfoque práctico'. Domain: Tecnología e Informática (Algoritmo). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/problemas-y-algoritmos-un-enfoque-practico-edith-lovos-martin-goin-3302.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Algoritmo",
+        "Compendi d'Exercicis i Problemes Resolts",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "algoritmos-resueltos-con-python-enrique-edgardo-condor-tinoco-marco-antonio-de-la-cruz-rocca-3306",
+      "title": "Algoritmos resueltos con Python",
+      "author": "Enrique Edgardo Condor Tinoco, Marco Antonio De la cruz Rocca",
+      "filename": "algoritmos-resueltos-con-python-enrique-edgardo-condor-tinoco-marco-antonio-de-la-cruz-rocca-3306.pdf",
+      "source_url": null,
+      "file_size_bytes": 5314749,
+      "sha256": "cc65dab4c5f662615631d958099a60abb65fd10e8f0844e6000371e8effbe207",
+      "total_pages": 257,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Algoritmos resueltos con Python dins de Algoritmo.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Algoritmo (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Algoritmos resueltos con Python L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Algoritmo.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Algoritmos resueltos con Python'. Domain: Tecnología e Informática (Algoritmo). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/algoritmos-resueltos-con-python-enrique-edgardo-condor-tinoco-marco-antonio-de-la-cruz-rocca-3306.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Algoritmo",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "analisis-y-diseno-de-algoritmos-juan-bernardo-vazquez-gomez-3307",
+      "title": "Análisis y diseño de algoritmos",
+      "author": "Juan Bernardo Vazquez Gomez",
+      "filename": "analisis-y-diseno-de-algoritmos-juan-bernardo-vazquez-gomez-3307.pdf",
+      "source_url": null,
+      "file_size_bytes": 1437559,
+      "sha256": "de8bac8a689cc17f1b7b63ab201a1161f49673e5ed71641fabdfe33bc6654d58",
+      "total_pages": 213,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Análisis y diseño de algoritmos dins de Algoritmo.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Algoritmo (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ANÁLISIS Y DISEÑO DE ALGORITMOS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Algoritmo.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Análisis y diseño de algoritmos'. Domain: Tecnología e Informática (Algoritmo). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/analisis-y-diseno-de-algoritmos-juan-bernardo-vazquez-gomez-3307.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Algoritmo",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "problemas-y-algoritmos-luis-e-vargas-azcona",
+      "title": "Problemas Y Algoritmos Luis E Vargas Azcona",
+      "author": "Desconegut / Institucional",
+      "filename": "problemas-y-algoritmos-luis-e-vargas-azcona.pdf",
+      "source_url": null,
+      "file_size_bytes": 1301904,
+      "sha256": "e9a827139246bb0150ec75e98e255f230aa7da7b413ee9a23404b0d39e81eb72",
+      "total_pages": 315,
+      "short_description": "Compendi d'Exercicis i Problemes Resolts d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Problemas Y Algoritmos Luis E Vargas Azcona dins de Algoritmo.",
+      "long_description": "Aquesta obra constitueix un compendi d'exercicis i problemes resolts centrat en la disciplina de Algoritmo (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Algunas imagenes por Roberto López L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Compendi d'Exercicis i Problemes Resolts",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Algoritmo.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Problemas Y Algoritmos Luis E Vargas Azcona'. Domain: Tecnología e Informática (Algoritmo). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/problemas-y-algoritmos-luis-e-vargas-azcona.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Algoritmo",
+        "Compendi d'Exercicis i Problemes Resolts",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "logica-y-algoritmos-yois-s-pascuas-rengifo",
+      "title": "Logica Y Algoritmos Yois S Pascuas Rengifo",
+      "author": "Yois Pascuas",
+      "filename": "logica-y-algoritmos-yois-s-pascuas-rengifo.pdf",
+      "source_url": null,
+      "file_size_bytes": 2608305,
+      "sha256": "b251a258fdd0fab60795fe65ba69c680b21c6c9a542ff9fe57e49d1f59c984b4",
+      "total_pages": 81,
+      "short_description": "Compendi d'Exercicis i Problemes Resolts d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Logica Y Algoritmos Yois S Pascuas Rengifo dins de Algoritmo.",
+      "long_description": "Aquesta obra constitueix un compendi d'exercicis i problemes resolts centrat en la disciplina de Algoritmo (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Compilado unidad temática Lógica y algoritmos I                                                         6 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Compendi d'Exercicis i Problemes Resolts",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Algoritmo.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Logica Y Algoritmos Yois S Pascuas Rengifo'. Domain: Tecnología e Informática (Algoritmo). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/logica-y-algoritmos-yois-s-pascuas-rengifo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Algoritmo",
+        "Compendi d'Exercicis i Problemes Resolts",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "algoritmos-y-programacion-juan-carlos-lopez-garcia",
+      "title": "Microsoft Word - AlgoritmosProgramacion_Ver21b.doc",
+      "author": "Juanc",
+      "filename": "algoritmos-y-programacion-juan-carlos-lopez-garcia.pdf",
+      "source_url": null,
+      "file_size_bytes": 4206861,
+      "sha256": "afca33eb23aef2ba9292d0aab44844e77d20f04e31db418c0d12a35f7be38a55",
+      "total_pages": 96,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Microsoft Word - AlgoritmosProgramacion_Ver21b.doc dins de Algoritmo.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Algoritmo (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: escargue gratuitamente esta Guía:  http://www.eduteka.org/G L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Algoritmo.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Microsoft Word - AlgoritmosProgramacion_Ver21b.doc'. Domain: Tecnología e Informática (Algoritmo). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/algoritmos-y-programacion-juan-carlos-lopez-garcia.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Algoritmo",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "algoritmos-y-presentadores-aritmeticos-universidad-del-pais-vasco",
+      "title": "Microsoft Word - arit0304.doc",
+      "author": "Nestor@SIPB48",
+      "filename": "algoritmos-y-presentadores-aritmeticos-universidad-del-pais-vasco.pdf",
+      "source_url": null,
+      "file_size_bytes": 483503,
+      "sha256": "00ee1978330fef691bc544e91c748adc647490d9e4fa7a0d6d747e180ef625dd",
+      "total_pages": 52,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Microsoft Word - arit0304.doc dins de Algoritmo.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Algoritmo (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Algoritmos y Procesadores Aritméticos   -I- L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Algoritmo.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Microsoft Word - arit0304.doc'. Domain: Tecnología e Informática (Algoritmo). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/algoritmos-y-presentadores-aritmeticos-universidad-del-pais-vasco.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Algoritmo",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}
