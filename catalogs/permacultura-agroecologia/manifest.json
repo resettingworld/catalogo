@@ -1,0 +1,26 @@
+{
+  "rag_id": "permacultura-agroecologia",
+  "name": "Permacultura i Agroecologia",
+  "description": "Mètodes de disseny resilient, agricultura regenerativa (Fukuoka, Mollison), horts de baix manteniment i cicles naturals.",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794278063.849138,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 1306,
+  "total_documents": 14,
+  "total_library_files": 14,
+  "total_images_extracted": 561,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "permacultura",
+    "agricultura",
+    "cultivo",
+    "plagas",
+    "collage-punk",
+    "smartlocal"
+  ]
+}

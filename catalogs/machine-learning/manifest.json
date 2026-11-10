@@ -1,0 +1,26 @@
+{
+  "rag_id": "machine-learning",
+  "name": "Machine Learning",
+  "description": "Col·lecció completa de llibres i manuals de Machine Learning (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794269402.564762,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 3309,
+  "total_documents": 30,
+  "total_library_files": 30,
+  "total_images_extracted": 493,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "machine-learning",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

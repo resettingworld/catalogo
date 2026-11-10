@@ -1,0 +1,291 @@
+{
+  "topic": "Ciencias y Filosofía Natural",
+  "domain": "Ciencias de la Naturaleza",
+  "source_portal": "PlanetaLibro",
+  "tag": "ciencia",
+  "canonical_style_id": "bio-punk-v1",
+  "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+  "banner_cover": "images/banner.png",
+  "books": [
+    {
+      "id": "alfred-marshall-principios-de-economia",
+      "title": "Alfred Marshall Principios De Economia",
+      "author": "Desconegut / Institucional",
+      "filename": "alfred-marshall-principios-de-economia.pdf",
+      "source_url": null,
+      "file_size_bytes": 140589,
+      "sha256": "f2a737e001aa2403283ca5c401191d32bd8a1bd19233ca01ae88e6a9b82dfa89",
+      "total_pages": 29,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Alfred Marshall Principios De Economia dins de Ciencias y Filosofía Natural.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias y Filosofía Natural (Ciencias de la Naturaleza), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Versión resumida: La esencia del libro en menos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias y Filosofía Natural.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Alfred Marshall Principios De Economia'. Domain: Ciencias de la Naturaleza (Ciencias y Filosofía Natural). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/alfred-marshall-principios-de-economia.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias y Filosofía Natural",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "freud-sigmund-la-interpretacion-de-los-suenos",
+      "title": "Freud Sigmund La Interpretacion De Los Suenos",
+      "author": "Desconegut / Institucional",
+      "filename": "freud-sigmund-la-interpretacion-de-los-suenos.pdf",
+      "source_url": null,
+      "file_size_bytes": 101368,
+      "sha256": "f48590aace7aae53d0629cd9f0c65040876be8be3379ed9623d8f2407634d5ce",
+      "total_pages": 1,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Freud Sigmund La Interpretacion De Los Suenos dins de Ciencias y Filosofía Natural.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias y Filosofía Natural (Ciencias de la Naturaleza), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: No quiero abandonar los sueños infantiles, que son L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias y Filosofía Natural.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Freud Sigmund La Interpretacion De Los Suenos'. Domain: Ciencias de la Naturaleza (Ciencias y Filosofía Natural). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/freud-sigmund-la-interpretacion-de-los-suenos.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias y Filosofía Natural",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "joe-dispenza-sobrenatural",
+      "title": "Joe Dispenza Sobrenatural",
+      "author": "Desconegut / Institucional",
+      "filename": "joe-dispenza-sobrenatural.pdf",
+      "source_url": null,
+      "file_size_bytes": 118428,
+      "sha256": "a25ea460713c7edd949bd59cb8f6645ef5092d0dd3d2184beed7f22ada1aff1c",
+      "total_pages": 14,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Joe Dispenza Sobrenatural dins de Ciencias y Filosofía Natural.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias y Filosofía Natural (Ciencias de la Naturaleza), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ¿Te gustaría salir de tu realidad física y explorar un L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias y Filosofía Natural.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Joe Dispenza Sobrenatural'. Domain: Ciencias de la Naturaleza (Ciencias y Filosofía Natural). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/joe-dispenza-sobrenatural.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias y Filosofía Natural",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "jose-silva-el-metodo-silva-para-obtener-ayuda-del-otro-lado",
+      "title": "Jose Silva El Metodo Silva Para Obtener Ayuda Del Otro Lado",
+      "author": "Desconegut / Institucional",
+      "filename": "jose-silva-el-metodo-silva-para-obtener-ayuda-del-otro-lado.pdf",
+      "source_url": null,
+      "file_size_bytes": 98742,
+      "sha256": "ffeec89abf20966f3abb4ab9abf20c661f6182345f0c693dc477f6dd2d73c55c",
+      "total_pages": 25,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Jose Silva El Metodo Silva Para Obtener Ayuda Del Otro Lado dins de Ciencias y Filosofía Natural.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias y Filosofía Natural (Ciencias de la Naturaleza), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Versión resumida: La esencia del libro en menos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias y Filosofía Natural.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Jose Silva El Metodo Silva Para Obtener Ayuda Del Otro Lado'. Domain: Ciencias de la Naturaleza (Ciencias y Filosofía Natural). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/jose-silva-el-metodo-silva-para-obtener-ayuda-del-otro-lado.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias y Filosofía Natural",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "mark-wolynn-este-dolor-no-es-mio",
+      "title": "Mark Wolynn Este Dolor No Es Mio",
+      "author": "Desconegut / Institucional",
+      "filename": "mark-wolynn-este-dolor-no-es-mio.pdf",
+      "source_url": null,
+      "file_size_bytes": 89382,
+      "sha256": "d8887db60e1928dc90aebb2f4fce6595a86250e2e5fd053510c997943bb4f457",
+      "total_pages": 19,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Mark Wolynn Este Dolor No Es Mio dins de Ciencias y Filosofía Natural.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias y Filosofía Natural (Ciencias de la Naturaleza), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: En \"Este dolor no es mío\" , Mark Wolynn explora L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias y Filosofía Natural.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Mark Wolynn Este Dolor No Es Mio'. Domain: Ciencias de la Naturaleza (Ciencias y Filosofía Natural). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/mark-wolynn-este-dolor-no-es-mio.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias y Filosofía Natural",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "smith-adam-la-riqueza-de-las-naciones",
+      "title": "Smith Adam La Riqueza De Las Naciones",
+      "author": "Desconegut / Institucional",
+      "filename": "smith-adam-la-riqueza-de-las-naciones.pdf",
+      "source_url": null,
+      "file_size_bytes": 66732,
+      "sha256": "f078deed4abf22bb228c537ead1a250fbfc79644eae70cf31542efd04f2d1bd3",
+      "total_pages": 2,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Smith Adam La Riqueza De Las Naciones dins de Ciencias y Filosofía Natural.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias y Filosofía Natural (Ciencias de la Naturaleza), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Como el transporte por agua abre para todos los L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias y Filosofía Natural.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Smith Adam La Riqueza De Las Naciones'. Domain: Ciencias de la Naturaleza (Ciencias y Filosofía Natural). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/smith-adam-la-riqueza-de-las-naciones.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias y Filosofía Natural",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "viktor-frankl-el-hombre-en-busca-de-sentido",
+      "title": "Viktor Frankl El Hombre En Busca De Sentido",
+      "author": "Desconegut / Institucional",
+      "filename": "viktor-frankl-el-hombre-en-busca-de-sentido.pdf",
+      "source_url": null,
+      "file_size_bytes": 84378,
+      "sha256": "3ed51831461b270b7dbe1dd0c805ae0e59eaad628d04338a641eecf2c2de182c",
+      "total_pages": 15,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Viktor Frankl El Hombre En Busca De Sentido dins de Ciencias y Filosofía Natural.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias y Filosofía Natural (Ciencias de la Naturaleza), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Versión resumida: La esencia del libro en menos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias y Filosofía Natural.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Viktor Frankl El Hombre En Busca De Sentido'. Domain: Ciencias de la Naturaleza (Ciencias y Filosofía Natural). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/viktor-frankl-el-hombre-en-busca-de-sentido.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias y Filosofía Natural",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "yuval-noah-harari-nexus",
+      "title": "Yuval Noah Harari Nexus",
+      "author": "Desconegut / Institucional",
+      "filename": "yuval-noah-harari-nexus.pdf",
+      "source_url": null,
+      "file_size_bytes": 140660,
+      "sha256": "43890fb0bd480e9414b3bd6be7300e0e71ae60959376d820b96236e534cccc98",
+      "total_pages": 29,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Yuval Noah Harari Nexus dins de Ciencias y Filosofía Natural.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias y Filosofía Natural (Ciencias de la Naturaleza), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Versión resumida: La esencia del libro en menos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias y Filosofía Natural.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Yuval Noah Harari Nexus'. Domain: Ciencias de la Naturaleza (Ciencias y Filosofía Natural). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/yuval-noah-harari-nexus.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias y Filosofía Natural",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "rag_id": "planetalibro-ciencia",
+  "name": "Ciencias y Filosofía Natural",
+  "description": "Observacions de la naturalesa, mètode científic i cosmologia empírica.",
+  "version": "1.0.0",
+  "author": "SmartLocal / PlanetaLibro",
+  "created_at": 1794275568.680073,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 134,
+  "total_documents": 8,
+  "total_library_files": 8,
+  "total_images_extracted": 0,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "ciencia",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}

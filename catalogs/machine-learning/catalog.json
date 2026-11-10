@@ -1,0 +1,1067 @@
+{
+  "topic": "Machine Learning",
+  "domain": "Tecnología e Informática",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 30,
+  "total_pages": 2759,
+  "total_size_mb": 35.26,
+  "books": [
+    {
+      "id": "machine-learning-una-pieza-clave-en-la-transformacion-de-los-modelos-de-negocio-management-solutions",
+      "title": "Machine learning, una pieza clave en la transformación de los modelos de negocio",
+      "author": "Management Solutions",
+      "filename": "machine-learning-una-pieza-clave-en-la-transformacion-de-los-modelos-de-negocio-management-solutions.pdf",
+      "source_url": null,
+      "file_size_bytes": 4357245,
+      "sha256": "9664670b2c43acba25c58e5ef3eede6e28fb96eae4b5f233798142f32107c3d6",
+      "total_pages": 44,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Machine learning, una pieza clave en la transformación de los modelos de negocio dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: una pieza clave en la transformación L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Machine learning, una pieza clave en la transformación de los modelos de negocio'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/machine-learning-una-pieza-clave-en-la-transformacion-de-los-modelos-de-negocio-management-solutions.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "inteligencia-artificial-avanzada-raul-benitez-andres-cencerrado-barraque-gerard-escudero",
+      "title": "Inteligencia Artificial Avanzada Raul Benitez Andres Cencerrado Barraque Gerard Escudero",
+      "author": "Desconegut / Institucional",
+      "filename": "inteligencia-artificial-avanzada-raul-benitez-andres-cencerrado-barraque-gerard-escudero.pdf",
+      "source_url": null,
+      "file_size_bytes": 2991417,
+      "sha256": "26ca4b76fa26c499bb82fcf0dcf56a163a03e432c17edec92364f1d5c168c0b2",
+      "total_pages": 250,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Inteligencia Artificial Avanzada Raul Benitez Andres Cencerrado Barraque Gerard Escudero dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Tiempo mínimo de dedicación recomendado: 19 horas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Inteligencia Artificial Avanzada Raul Benitez Andres Cencerrado Barraque Gerard Escudero'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/inteligencia-artificial-avanzada-raul-benitez-andres-cencerrado-barraque-gerard-escudero.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "aprendizaje-automatico-antonio-moreno-eva-armengol-javier-bejar",
+      "title": "Aprendizaje Automatico Antonio Moreno Eva Armengol Javier Bejar",
+      "author": "Desconegut / Institucional",
+      "filename": "aprendizaje-automatico-antonio-moreno-eva-armengol-javier-bejar.pdf",
+      "source_url": null,
+      "file_size_bytes": 1325438,
+      "sha256": "f9e3ca28054a5de5bc6a280e0254b4b4bef9d4d1945bb7a926cf979cb1b51216",
+      "total_pages": 244,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Aprendizaje Automatico Antonio Moreno Eva Armengol Javier Bejar dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Antonio Moreno - Eva Armengol - Javier Béjar L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aprendizaje Automatico Antonio Moreno Eva Armengol Javier Bejar'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aprendizaje-automatico-antonio-moreno-eva-armengol-javier-bejar.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "introduccion-al-aprendizaje-computacional-andres-cencerrado-barraque-carles-ventura-royo",
+      "title": "Introduccion Al Aprendizaje Computacional Andres Cencerrado Barraque Carles Ventura Royo",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-al-aprendizaje-computacional-andres-cencerrado-barraque-carles-ventura-royo.pdf",
+      "source_url": null,
+      "file_size_bytes": 430474,
+      "sha256": "5807ba7da4cf1b1bfb58531f154dfafd1f12d30b5afedb1c5f4278a8cf3a40c3",
+      "total_pages": 40,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Introduccion Al Aprendizaje Computacional Andres Cencerrado Barraque Carles Ventura Royo dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Tiempo mínimo de dedicación recomendado: 3 horas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introduccion Al Aprendizaje Computacional Andres Cencerrado Barraque Carles Ventura Royo'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-al-aprendizaje-computacional-andres-cencerrado-barraque-carles-ventura-royo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "introduccion-al-machine-learning-con-tensorflow-iria-alvarez-fidalgo",
+      "title": "Introduccion Al Machine Learning Con Tensorflow Iria Alvarez Fidalgo",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-al-machine-learning-con-tensorflow-iria-alvarez-fidalgo.pdf",
+      "source_url": null,
+      "file_size_bytes": 831947,
+      "sha256": "b26f84d674ced07f983af8abd11ba8fcd4a0a6e0451f3ef961abc3f49808d2ac",
+      "total_pages": 72,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introduccion Al Machine Learning Con Tensorflow Iria Alvarez Fidalgo dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducción al Machine Learning L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introduccion Al Machine Learning Con Tensorflow Iria Alvarez Fidalgo'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-al-machine-learning-con-tensorflow-iria-alvarez-fidalgo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "aprendizaje-automatico-enrique-vidal-ruiz-francisco-casacuberta-nolla",
+      "title": "Aprendizaje Automatico Enrique Vidal Ruiz Francisco Casacuberta Nolla",
+      "author": "Desconegut / Institucional",
+      "filename": "aprendizaje-automatico-enrique-vidal-ruiz-francisco-casacuberta-nolla.pdf",
+      "source_url": null,
+      "file_size_bytes": 133728,
+      "sha256": "12d4dbc09c452600f9b1821fd5cc1f5288f4549fc5ef0621dc542e7629008291",
+      "total_pages": 15,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Aprendizaje Automatico Enrique Vidal Ruiz Francisco Casacuberta Nolla dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: 1. Introducci´on al Aprendizaje Autom´atico L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aprendizaje Automatico Enrique Vidal Ruiz Francisco Casacuberta Nolla'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aprendizaje-automatico-enrique-vidal-ruiz-francisco-casacuberta-nolla.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "deep-learning-alba-centeno-franco",
+      "title": "Deep Learning Alba Centeno Franco",
+      "author": "Desconegut / Institucional",
+      "filename": "deep-learning-alba-centeno-franco.pdf",
+      "source_url": null,
+      "file_size_bytes": 684909,
+      "sha256": "c2ef564dd30ff9b7a2d19fac71ce87198b473c9fded9b0edf7e796c921eabd2c",
+      "total_pages": 69,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Deep Learning Alba Centeno Franco dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Resumen . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Deep Learning Alba Centeno Franco'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/deep-learning-alba-centeno-franco.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "aprendizaje-machine-learning-rip-tutorial",
+      "title": "Aprendizaje Machine Learning Rip Tutorial",
+      "author": "Desconegut / Institucional",
+      "filename": "aprendizaje-machine-learning-rip-tutorial.pdf",
+      "source_url": null,
+      "file_size_bytes": 967557,
+      "sha256": "5a2047e84db37858e250fd6b27bb4535f6731db792bdff422b8520a2d8b39bcc",
+      "total_pages": 76,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Aprendizaje Machine Learning Rip Tutorial dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Capítulo 1: Empezando con el aprendizaje automático. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aprendizaje Machine Learning Rip Tutorial'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aprendizaje-machine-learning-rip-tutorial.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "deep-learning-eduardo-morales-y-hugo-jair-escalante",
+      "title": "Deep Learning Eduardo Morales Y Hugo Jair Escalante",
+      "author": "Desconegut / Institucional",
+      "filename": "deep-learning-eduardo-morales-y-hugo-jair-escalante.pdf",
+      "source_url": null,
+      "file_size_bytes": 1163122,
+      "sha256": "8854933e7e9cad03ccd6592fe385cea0031496da148fb9c27a9955ad646c02cb",
+      "total_pages": 145,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Deep Learning Eduardo Morales Y Hugo Jair Escalante dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Eduardo Morales y Hugo Jair Escalante L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Deep Learning Eduardo Morales Y Hugo Jair Escalante'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/deep-learning-eduardo-morales-y-hugo-jair-escalante.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "clasificacion-arboles-de-decision-ramon-sanguesa-i-sole",
+      "title": " Clasificación: árboles de decisión",
+      "author": "Ramon Sangüesa i Solé",
+      "filename": "clasificacion-arboles-de-decision-ramon-sanguesa-i-sole.pdf",
+      "source_url": null,
+      "file_size_bytes": 771060,
+      "sha256": "72416192cf45c28061c39a18b7885a749f01d4b9be03a6657177844cd469cb28",
+      "total_pages": 54,
+      "short_description": "Compendi d'Exercicis i Problemes Resolts d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de  Clasificación: árboles de decisión dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un compendi d'exercicis i problemes resolts centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Clasificación: árboles de decisión L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Compendi d'Exercicis i Problemes Resolts",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for ' Clasificación: árboles de decisión'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/clasificacion-arboles-de-decision-ramon-sanguesa-i-sole.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Compendi d'Exercicis i Problemes Resolts",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "arboles-de-regresion-algunos-algoritmos-y-extensiones-a-metodos-de-consenso-david-gonzalo-ejea-carbonell",
+      "title": "Arboles De Regresion Algunos Algoritmos Y Extensiones A Metodos De Consenso David Gonzalo Ejea Carbonell",
+      "author": "Desconegut / Institucional",
+      "filename": "arboles-de-regresion-algunos-algoritmos-y-extensiones-a-metodos-de-consenso-david-gonzalo-ejea-carbonell.pdf",
+      "source_url": null,
+      "file_size_bytes": 279475,
+      "sha256": "2a1dec7e39d378cc49c1a15d5a1bab9ecbfe2798f771ffc81a016906b64321b1",
+      "total_pages": 34,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Arboles De Regresion Algunos Algoritmos Y Extensiones A Metodos De Consenso David Gonzalo Ejea Carbonell dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Árboles de Regresión. Algunos algoritmos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Arboles De Regresion Algunos Algoritmos Y Extensiones A Metodos De Consenso David Gonzalo Ejea Carbonell'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/arboles-de-regresion-algunos-algoritmos-y-extensiones-a-metodos-de-consenso-david-gonzalo-ejea-carbonell.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "algoritmos-de-machine-learning-universidad-politecnica-de-madrid",
+      "title": "Newsletter Trimestral Cátedra iDanae - 1T21 - Algoritmos de Machine Learning",
+      "author": "Management Solutions",
+      "filename": "algoritmos-de-machine-learning-universidad-politecnica-de-madrid.pdf",
+      "source_url": null,
+      "file_size_bytes": 2012308,
+      "sha256": "891ebcfb4f44f9fdda64b6ef8e7faf587fb4d8276661c8c916f3265f4f3685f9",
+      "total_pages": 18,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Newsletter Trimestral Cátedra iDanae - 1T21 - Algoritmos de Machine Learning dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: 2 | Newsletter Trimestral -  Algoritmos de Machine Learning L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Newsletter Trimestral Cátedra iDanae - 1T21 - Algoritmos de Machine Learning'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/algoritmos-de-machine-learning-universidad-politecnica-de-madrid.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "algunos-clasificadores-bayesianos-monica-godoy-amado",
+      "title": "Algunos Clasificadores Bayesianos Monica Godoy Amado",
+      "author": "Desconegut / Institucional",
+      "filename": "algunos-clasificadores-bayesianos-monica-godoy-amado.pdf",
+      "source_url": null,
+      "file_size_bytes": 269192,
+      "sha256": "c405a4fc6bc731b4295b904c16b8650ea5950b3ac01516e9e1586febf2b46102",
+      "total_pages": 19,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Algunos Clasificadores Bayesianos Monica Godoy Amado dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: ALGUNOS CLASIFICADORES BAYESIANOS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Algunos Clasificadores Bayesianos Monica Godoy Amado'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/algunos-clasificadores-bayesianos-monica-godoy-amado.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "aprendizaje-supervisado-metodos-propiedades-y-aplicaciones-gema-valenzuela-gonzalez",
+      "title": "Aprendizaje Supervisado Metodos Propiedades Y Aplicaciones Gema Valenzuela Gonzalez",
+      "author": "Desconegut / Institucional",
+      "filename": "aprendizaje-supervisado-metodos-propiedades-y-aplicaciones-gema-valenzuela-gonzalez.pdf",
+      "source_url": null,
+      "file_size_bytes": 713401,
+      "sha256": "2370020ba1e08d3948c7443bd629195348ab68cb3be5e2b4fd89cbed3ab4b1a6",
+      "total_pages": 63,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Aprendizaje Supervisado Metodos Propiedades Y Aplicaciones Gema Valenzuela Gonzalez dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Aprendizaje Supervisado: M´etodos, L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aprendizaje Supervisado Metodos Propiedades Y Aplicaciones Gema Valenzuela Gonzalez'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aprendizaje-supervisado-metodos-propiedades-y-aplicaciones-gema-valenzuela-gonzalez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "aprendizaje-supervisado-modelos-de-clasificacion-hugo-franco",
+      "title": "Aprendizaje Supervisado Modelos De Clasificacion Hugo Franco",
+      "author": "Desconegut / Institucional",
+      "filename": "aprendizaje-supervisado-modelos-de-clasificacion-hugo-franco.pdf",
+      "source_url": null,
+      "file_size_bytes": 431043,
+      "sha256": "d1830a8c81989abe9572a600bda9b70fa26478eb92cb07918487b20804fcfe89",
+      "total_pages": 32,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Aprendizaje Supervisado Modelos De Clasificacion Hugo Franco dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Repaso: Aprendizaje supervisado L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aprendizaje Supervisado Modelos De Clasificacion Hugo Franco'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aprendizaje-supervisado-modelos-de-clasificacion-hugo-franco.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "fundamentos-de-aprendizaje-supervisado-pablo-huijses-personal-website",
+      "title": "Fundamentos De Aprendizaje Supervisado Pablo Huijses Personal Website",
+      "author": "Desconegut / Institucional",
+      "filename": "fundamentos-de-aprendizaje-supervisado-pablo-huijses-personal-website.pdf",
+      "source_url": null,
+      "file_size_bytes": 214027,
+      "sha256": "488296671ed4032b1c31a3b4fb79e3088b313dede698a1da505d8d71c4fb4635",
+      "total_pages": 6,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Fundamentos De Aprendizaje Supervisado Pablo Huijses Personal Website dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: 1. Fundamentos de Aprendizaje Supervisado — Aprendizaje de Máquinas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Fundamentos De Aprendizaje Supervisado Pablo Huijses Personal Website'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-aprendizaje-supervisado-pablo-huijses-personal-website.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "aprendizaje-supervisado-i-regresion-javier-rasero",
+      "title": "Aprendizaje Supervisado I Regresion Javier Rasero",
+      "author": "Desconegut / Institucional",
+      "filename": "aprendizaje-supervisado-i-regresion-javier-rasero.pdf",
+      "source_url": null,
+      "file_size_bytes": 314475,
+      "sha256": "1ed70f32597619ca57a9bd5a5fcc47782e440d7f6a2f5e750c39fcc546605206",
+      "total_pages": 26,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Aprendizaje Supervisado I Regresion Javier Rasero dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Programa de doctorado en investigación L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aprendizaje Supervisado I Regresion Javier Rasero'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aprendizaje-supervisado-i-regresion-javier-rasero.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "aprendizaje-por-refuerzo-elementos-basicos-y-algoritmos-lorien-lascorz-lozano",
+      "title": "Aprendizaje Por Refuerzo Elementos Basicos Y Algoritmos Lorien Lascorz Lozano",
+      "author": "Desconegut / Institucional",
+      "filename": "aprendizaje-por-refuerzo-elementos-basicos-y-algoritmos-lorien-lascorz-lozano.pdf",
+      "source_url": null,
+      "file_size_bytes": 270211,
+      "sha256": "284e901dfbd5138f6c413a30a2390d072f6b264baddc10e3dc76d032d59efb99",
+      "total_pages": 52,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Aprendizaje Por Refuerzo Elementos Basicos Y Algoritmos Lorien Lascorz Lozano dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Trabajo de ﬁn de grado en Matemáticas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aprendizaje Por Refuerzo Elementos Basicos Y Algoritmos Lorien Lascorz Lozano'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aprendizaje-por-refuerzo-elementos-basicos-y-algoritmos-lorien-lascorz-lozano.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "aprendizaje-por-refuerzo-eduardo-morales-jesus-gonzalez",
+      "title": "Aprendizaje Por Refuerzo Eduardo Morales Jesus Gonzalez",
+      "author": "Desconegut / Institucional",
+      "filename": "aprendizaje-por-refuerzo-eduardo-morales-jesus-gonzalez.pdf",
+      "source_url": null,
+      "file_size_bytes": 299638,
+      "sha256": "c56aab22b355d7c877534d341acdd0af6bc32835e2c07bac6ec57326b4fdd31d",
+      "total_pages": 75,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Aprendizaje Por Refuerzo Eduardo Morales Jesus Gonzalez dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Eduardo Morales, Jes´us Gonz´alez L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aprendizaje Por Refuerzo Eduardo Morales Jesus Gonzalez'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aprendizaje-por-refuerzo-eduardo-morales-jesus-gonzalez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-al-aprendizaje-por-refuerzo-luis-esteve-elfau",
+      "title": "Introduccion Al Aprendizaje Por Refuerzo Luis Esteve Elfau",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-al-aprendizaje-por-refuerzo-luis-esteve-elfau.pdf",
+      "source_url": null,
+      "file_size_bytes": 208913,
+      "sha256": "e4ad7527e605fe4cc168e425192faaa96742f8207b6b10ac8253ecb47f7ea508",
+      "total_pages": 38,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Introduccion Al Aprendizaje Por Refuerzo Luis Esteve Elfau dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Tiempo mínimo de dedicación recomendado: 3 horas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introduccion Al Aprendizaje Por Refuerzo Luis Esteve Elfau'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-al-aprendizaje-por-refuerzo-luis-esteve-elfau.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "redes-neuronales-artificiales-antonio-j-serrano-emilio-soria-jose-d-martin",
+      "title": "Redes Neuronales Artificiales Antonio J Serrano Emilio Soria Jose D Martin",
+      "author": "Desconegut / Institucional",
+      "filename": "redes-neuronales-artificiales-antonio-j-serrano-emilio-soria-jose-d-martin.pdf",
+      "source_url": null,
+      "file_size_bytes": 2997139,
+      "sha256": "d31dd859ee50494efd12adfe823d189c7e7b3809717ec4fcdd322cb9fdbea829",
+      "total_pages": 145,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Redes Neuronales Artificiales Antonio J Serrano Emilio Soria Jose D Martin dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: \u0007\u0005\u000b\u0007\u0000\u000e\u000f\u0000\u0004\u0002\u0001\u0001\b\u0005\u0007\u0010\u0000\u0002\u0011\u000b\t\u000b\u0007\u0000\u0004\u0007\u0001\u000b\b\u0010\u0000\u000e\u0007\u0004\u0012\u0000\u0003\u000f\u0000\u0011\b\u0001 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Redes Neuronales Artificiales Antonio J Serrano Emilio Soria Jose D Martin'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/redes-neuronales-artificiales-antonio-j-serrano-emilio-soria-jose-d-martin.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-los-metodos-deep-learning-basados-en-redes-neuronales-edward-joseph-velo-fuentes",
+      "title": "Introduccion A Los Metodos Deep Learning Basados En Redes Neuronales Edward Joseph Velo Fuentes",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-los-metodos-deep-learning-basados-en-redes-neuronales-edward-joseph-velo-fuentes.pdf",
+      "source_url": null,
+      "file_size_bytes": 1010131,
+      "sha256": "534b4d734ad88c14e2302c475ae22fe20c3ad35461e7e3df6867da210aacb5e7",
+      "total_pages": 72,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introduccion A Los Metodos Deep Learning Basados En Redes Neuronales Edward Joseph Velo Fuentes dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducci´on a los m´etodos Deep L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introduccion A Los Metodos Deep Learning Basados En Redes Neuronales Edward Joseph Velo Fuentes'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-los-metodos-deep-learning-basados-en-redes-neuronales-edward-joseph-velo-fuentes.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "redes-neuronales-conceptos-basicos-y-aplicaciones-carlos-alberto-ruiz-marta-susana-basualdo",
+      "title": "Redes Neuronales Conceptos Basicos Y Aplicaciones Carlos Alberto Ruiz Marta Susana Basualdo",
+      "author": "Desconegut / Institucional",
+      "filename": "redes-neuronales-conceptos-basicos-y-aplicaciones-carlos-alberto-ruiz-marta-susana-basualdo.pdf",
+      "source_url": null,
+      "file_size_bytes": 389216,
+      "sha256": "4e731502ad2ea4c4185de3d888383d443f5520db31781ae44bfc53a6fb20effb",
+      "total_pages": 55,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Redes Neuronales Conceptos Basicos Y Aplicaciones Carlos Alberto Ruiz Marta Susana Basualdo dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Departamento de Ingeniería Química L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Redes Neuronales Conceptos Basicos Y Aplicaciones Carlos Alberto Ruiz Marta Susana Basualdo'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/redes-neuronales-conceptos-basicos-y-aplicaciones-carlos-alberto-ruiz-marta-susana-basualdo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "clasificacion-redes-neuronales-ramon-sanguesa-i-sole",
+      "title": "Clasificacion Redes Neuronales Ramon Sanguesa I Sole",
+      "author": "Desconegut / Institucional",
+      "filename": "clasificacion-redes-neuronales-ramon-sanguesa-i-sole.pdf",
+      "source_url": null,
+      "file_size_bytes": 1159016,
+      "sha256": "ee66aafbb6256fa800ed79870b2123ad080c47e9e758dfa0c8ac9aae6fded449",
+      "total_pages": 46,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Clasificacion Redes Neuronales Ramon Sanguesa I Sole dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Clasificación: redes neuronales L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Clasificacion Redes Neuronales Ramon Sanguesa I Sole'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/clasificacion-redes-neuronales-ramon-sanguesa-i-sole.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "interpretable-machine-learning-christoph-molnar",
+      "title": "Interpretable Machine Learning Christoph Molnar",
+      "author": "Desconegut / Institucional",
+      "filename": "interpretable-machine-learning-christoph-molnar.pdf",
+      "source_url": null,
+      "file_size_bytes": 3567032,
+      "sha256": "0528fe0c35616b476abe80f8bab64db7974bb39dbb52112ea4c30f8f9475572e",
+      "total_pages": 251,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Interpretable Machine Learning Christoph Molnar dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: A Guide for Making Black Box Models Explainable L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Interpretable Machine Learning Christoph Molnar'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/interpretable-machine-learning-christoph-molnar.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "python-machine-learning-projects-lisa-tagliaferri-michelle-morales-ellie-birbeck-alvin-wan",
+      "title": "Python Machine Learning Projects Lisa Tagliaferri Michelle Morales Ellie Birbeck Alvin Wan",
+      "author": "Desconegut / Institucional",
+      "filename": "python-machine-learning-projects-lisa-tagliaferri-michelle-morales-ellie-birbeck-alvin-wan.pdf",
+      "source_url": null,
+      "file_size_bytes": 809476,
+      "sha256": "6068ade01ffc0851614e343d9e069c300398951a3a2fd949f98bf4ea578aca59",
+      "total_pages": 135,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Python Machine Learning Projects Lisa Tagliaferri Michelle Morales Ellie Birbeck Alvin Wan dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISBN 978-0-9997730-2-4"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Python Machine Learning Projects Lisa Tagliaferri Michelle Morales Ellie Birbeck Alvin Wan'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/python-machine-learning-projects-lisa-tagliaferri-michelle-morales-ellie-birbeck-alvin-wan.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "reinforcement-learning-richard-s-sutton-and-andrew-g-barto",
+      "title": "Reinforcement Learning Richard S Sutton And Andrew G Barto",
+      "author": "Desconegut / Institucional",
+      "filename": "reinforcement-learning-richard-s-sutton-and-andrew-g-barto.pdf",
+      "source_url": null,
+      "file_size_bytes": 5743086,
+      "sha256": "8d4fc4251db310503046a2751e7628eb2ab6df7289a733f8af3c6a93b2b77e85",
+      "total_pages": 548,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Reinforcement Learning Richard S Sutton And Andrew G Barto dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Richard S. Sutton and Andrew G. Barto L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Reinforcement Learning Richard S Sutton And Andrew G Barto'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/reinforcement-learning-richard-s-sutton-and-andrew-g-barto.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "tecnologias-emergentes-aprendizado-de-maquina-jose-ramon-da-conceicao-monteiro-renato-hidaka-torres",
+      "title": "Tecnologias Emergentes Aprendizado De Maquina Jose Ramon Da Conceicao Monteiro Renato Hidaka Torres",
+      "author": "Desconegut / Institucional",
+      "filename": "tecnologias-emergentes-aprendizado-de-maquina-jose-ramon-da-conceicao-monteiro-renato-hidaka-torres.pdf",
+      "source_url": null,
+      "file_size_bytes": 476093,
+      "sha256": "d77a4302f028b3a617e1f02d1557bd90a89a4ac8dcbdc423857fa8d61ca72d65",
+      "total_pages": 20,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Tecnologias Emergentes Aprendizado De Maquina Jose Ramon Da Conceicao Monteiro Renato Hidaka Torres dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Instituto de Filosofia e Ciências Humanas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Tecnologias Emergentes Aprendizado De Maquina Jose Ramon Da Conceicao Monteiro Renato Hidaka Torres'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/tecnologias-emergentes-aprendizado-de-maquina-jose-ramon-da-conceicao-monteiro-renato-hidaka-torres.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "apostila-de-machine-learning-william-ludovico-homem",
+      "title": "Apostila De Machine Learning William Ludovico Homem",
+      "author": "Desconegut / Institucional",
+      "filename": "apostila-de-machine-learning-william-ludovico-homem.pdf",
+      "source_url": null,
+      "file_size_bytes": 751443,
+      "sha256": "7e6c0d8f0c5eb83d731bc5ee16e21feed1e230b1dba02044836c5146b0911cd3",
+      "total_pages": 46,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Apostila De Machine Learning William Ludovico Homem dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: PROGRAMA DE EDUCAÇÃO TUTORIAL ENGENHARIA MECÂNICA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Apostila De Machine Learning William Ludovico Homem'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/apostila-de-machine-learning-william-ludovico-homem.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "deep-learning-renato-assuncao",
+      "title": "Deep Learning Renato Assuncao",
+      "author": "Desconegut / Institucional",
+      "filename": "deep-learning-renato-assuncao.pdf",
+      "source_url": null,
+      "file_size_bytes": 1395668,
+      "sha256": "ebdb519d2edb2931094b85d979a495257fe26de2ad1fa985e8768063476927ea",
+      "total_pages": 69,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Deep Learning Renato Assuncao dins de Machine Learning.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Machine Learning (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Começou com um workshop em Dartmouth College em 1956. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Machine Learning.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Deep Learning Renato Assuncao'. Domain: Tecnología e Informática (Machine Learning). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/deep-learning-renato-assuncao.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Machine Learning",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

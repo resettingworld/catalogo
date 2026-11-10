@@ -1,0 +1,159 @@
+{
+  "schema_version": "1.0.0",
+  "id": "planetalibro-ciencia",
+  "name": "Ciencias y Filosofía Natural",
+  "description": "Observacions de la naturalesa, mètode científic i cosmologia empírica.",
+  "category": {
+    "slug": "ciencia",
+    "name": "Ciencias y Filosofía Natural",
+    "url": "https://planetalibro.net/tema/ciencia"
+  },
+  "domain": "Ciencias de la Naturaleza",
+  "language": "es",
+  "portal_source": {
+    "name": "PlanetaLibro",
+    "url": "https://planetalibro.net/tema/ciencia",
+    "scraped_at": "2026-11-10T01:52:45.019153+00:00"
+  },
+  "tags": [
+    "ciencia",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "9387c4b9-77b6-4d00-9943-3a86fffd36b8",
+      "title": "Alfred Marshall Principios De Economia",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "alfred-marshall-principios-de-economia.pdf",
+      "source_url": null,
+      "file_size_bytes": 140589,
+      "sha256": "f2a737e001aa2403283ca5c401191d32bd8a1bd19233ca01ae88e6a9b82dfa89",
+      "page_count": 29,
+      "key_topics": [
+        "Ciencias y Filosofía Natural"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "60b68517-dd04-4ccb-91c2-4aa07163d15c",
+      "title": "Freud Sigmund La Interpretacion De Los Suenos",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "freud-sigmund-la-interpretacion-de-los-suenos.pdf",
+      "source_url": null,
+      "file_size_bytes": 101368,
+      "sha256": "f48590aace7aae53d0629cd9f0c65040876be8be3379ed9623d8f2407634d5ce",
+      "page_count": 1,
+      "key_topics": [
+        "Ciencias y Filosofía Natural"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "efb2f2a2-72ef-4685-ab05-095993a45b20",
+      "title": "Joe Dispenza Sobrenatural",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "joe-dispenza-sobrenatural.pdf",
+      "source_url": null,
+      "file_size_bytes": 118428,
+      "sha256": "a25ea460713c7edd949bd59cb8f6645ef5092d0dd3d2184beed7f22ada1aff1c",
+      "page_count": 14,
+      "key_topics": [
+        "Ciencias y Filosofía Natural"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "652b7cd3-e5be-4a1c-903a-48d05de8bf8b",
+      "title": "Jose Silva El Metodo Silva Para Obtener Ayuda Del Otro Lado",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "jose-silva-el-metodo-silva-para-obtener-ayuda-del-otro-lado.pdf",
+      "source_url": null,
+      "file_size_bytes": 98742,
+      "sha256": "ffeec89abf20966f3abb4ab9abf20c661f6182345f0c693dc477f6dd2d73c55c",
+      "page_count": 25,
+      "key_topics": [
+        "Ciencias y Filosofía Natural"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "e08c5744-bb2a-4e38-b20d-0404e231cecd",
+      "title": "Mark Wolynn Este Dolor No Es Mio",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "mark-wolynn-este-dolor-no-es-mio.pdf",
+      "source_url": null,
+      "file_size_bytes": 89382,
+      "sha256": "d8887db60e1928dc90aebb2f4fce6595a86250e2e5fd053510c997943bb4f457",
+      "page_count": 19,
+      "key_topics": [
+        "Ciencias y Filosofía Natural"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "a0264f89-c2e7-4181-9d08-cae65f70de9b",
+      "title": "Smith Adam La Riqueza De Las Naciones",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "smith-adam-la-riqueza-de-las-naciones.pdf",
+      "source_url": null,
+      "file_size_bytes": 66732,
+      "sha256": "f078deed4abf22bb228c537ead1a250fbfc79644eae70cf31542efd04f2d1bd3",
+      "page_count": 2,
+      "key_topics": [
+        "Ciencias y Filosofía Natural"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "688ff5bb-4809-4834-b6b2-6b07eef874d1",
+      "title": "Viktor Frankl El Hombre En Busca De Sentido",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "viktor-frankl-el-hombre-en-busca-de-sentido.pdf",
+      "source_url": null,
+      "file_size_bytes": 84378,
+      "sha256": "3ed51831461b270b7dbe1dd0c805ae0e59eaad628d04338a641eecf2c2de182c",
+      "page_count": 15,
+      "key_topics": [
+        "Ciencias y Filosofía Natural"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "0c71aa89-7d20-40eb-b158-72b5e201c181",
+      "title": "Yuval Noah Harari Nexus",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "yuval-noah-harari-nexus.pdf",
+      "source_url": null,
+      "file_size_bytes": 140660,
+      "sha256": "43890fb0bd480e9414b3bd6be7300e0e71ae60959376d820b96236e534cccc98",
+      "page_count": 29,
+      "key_topics": [
+        "Ciencias y Filosofía Natural"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "planetalibro-ciencia",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 8,
+    "total_chunks": 134,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 8,
+    "total_pages": 134,
+    "total_size_mb": 0.8
+  },
+  "created_at": "2026-11-10T01:52:45.019208+00:00",
+  "updated_at": "2026-11-10T01:52:48.679399+00:00"
+}

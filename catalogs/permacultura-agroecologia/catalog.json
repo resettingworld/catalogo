@@ -1,0 +1,502 @@
+{
+  "topic": "Permacultura i Agroecologia",
+  "domain": "Diseño Agroecológico",
+  "source_portal": "InfoLibros",
+  "category_slug": "temas-varios",
+  "capsule_slug": "permacultura",
+  "canonical_style_id": "bio-punk-v1",
+  "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+  "banner_cover": "images/banner.png",
+  "books": [
+    {
+      "id": "abc-de-permacultura-coas-4081",
+      "title": "ABC de Permacultura",
+      "author": "COAS",
+      "filename": "abc-de-permacultura-coas-4081.pdf",
+      "source_url": null,
+      "file_size_bytes": 1136695,
+      "sha256": "c1b2518424a751cd548c96de8367842daa421962ff287d72c0c7d0d527e20c26",
+      "total_pages": 50,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de ABC de Permacultura dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Como parte del programa de Permacultura L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de Geodèsia, Geofísica, Geologia i Ciències Ambientals.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'ABC de Permacultura'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/abc-de-permacultura-coas-4081.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "el-proceso-de-diseno-en-permacultura-antonio-scotti-4080",
+      "title": "El proceso de diseño en permacultura",
+      "author": "Antonio Scotti",
+      "filename": "el-proceso-de-diseno-en-permacultura-antonio-scotti-4080.pdf",
+      "source_url": null,
+      "file_size_bytes": 109966,
+      "sha256": "76486d1aa514e702b27b716f2e1befb01bafd8abcf2c7da42da18bda6184c594",
+      "total_pages": 10,
+      "short_description": "Tesi Acadèmica d'abast a Perú que aprofundeix en els fonaments i desenvolupament de El proceso de diseño en permacultura dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: El pr oceso de diseñ o en  per m acu lt u r a L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'El proceso de diseño en permacultura'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-proceso-de-diseno-en-permacultura-antonio-scotti-4080.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tesi Acadèmica",
+        "Perú"
+      ]
+    },
+    {
+      "id": "fundamentos-de-la-permacultura-h-hieronimi-tierramor-4083",
+      "title": "Fundamentos de la Permacultura",
+      "author": "H. Hieronimi / Tierramor",
+      "filename": "fundamentos-de-la-permacultura-h-hieronimi-tierramor-4083.pdf",
+      "source_url": null,
+      "file_size_bytes": 2328424,
+      "sha256": "a9f0d0dcc8cccb0b6f3de29e047a662445d10aef882ede7a0a563dfa54dca7b8",
+      "total_pages": 60,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Fundamentos de la Permacultura dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Jacarandas # 5-9, Barrio Santiago, Erongaricuaro, Michoacán, México, C.P. 61630 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Fundamentos de la Permacultura'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-la-permacultura-h-hieronimi-tierramor-4083.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "fundamentos-de-permacultura-tierramor-1738",
+      "title": "Fundamentos de Permacultura",
+      "author": "Tierramor",
+      "filename": "fundamentos-de-permacultura-tierramor-1738.pdf",
+      "source_url": null,
+      "file_size_bytes": 2923707,
+      "sha256": "e4ec1f122e38a41ed58d2c6afced9fe77b0e26881b817a328371e1f1d38b4970",
+      "total_pages": 162,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Fundamentos de Permacultura dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Permacultura es un término genérico para la aplicación de L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Fundamentos de Permacultura'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-permacultura-tierramor-1738.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-permacultura-bill-mollison-4079",
+      "title": "Introducción a la Permacultura",
+      "author": "Bill Mollison",
+      "filename": "introduccion-a-la-permacultura-bill-mollison-4079.pdf",
+      "source_url": null,
+      "file_size_bytes": 11138088,
+      "sha256": "8bfb733dabd89f6f420f122903c325880256e5b943fa829dcfcdc456b26a8d3a",
+      "total_pages": 207,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introducción a la Permacultura dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Estudi exhaustiu de Introducción a la Permacultura amb fonaments teòrics i aplicacions pràctiques. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introducción a la Permacultura'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-permacultura-bill-mollison-4079.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-permacultura-erongaricuaro-1739",
+      "title": "Introducción a la Permacultura",
+      "author": "Erongaricuaro",
+      "filename": "introduccion-a-la-permacultura-erongaricuaro-1739.pdf",
+      "source_url": null,
+      "file_size_bytes": 4441804,
+      "sha256": "433d4febad3cc3a10b18e1eeb30630aec3e013203fc71a5b40b04a9c36a634e3",
+      "total_pages": 45,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Introducción a la Permacultura dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Jacarandas # 5, Barrio Santiago, Erongaricuaro, Michoacán, México, C.P. 61630 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introducción a la Permacultura'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-permacultura-erongaricuaro-1739.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "la-esencia-de-permacultura-david-holmgren",
+      "title": "(Microsoft Word - La Esencia de la PermaCultura - versi\\363n 2.doc)",
+      "author": "Max",
+      "filename": "la-esencia-de-permacultura-david-holmgren.pdf",
+      "source_url": null,
+      "file_size_bytes": 343665,
+      "sha256": "794085d83df77d3bae492d78bb0d3d2c6a5f8b4fca876663a3110f2cb4d02f13",
+      "total_pages": 22,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de (Microsoft Word - La Esencia de la PermaCultura - versi\\363n 2.doc) dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Traducción Jordi Alemany;  revisada por Alan López y Antonio Scotti, del grupo de permacultura  urbana de la L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for '(Microsoft Word - La Esencia de la PermaCultura - versi\\363n 2.doc)'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-esencia-de-permacultura-david-holmgren.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "la-revolucion-de-una-brizna-de-paja-masanobu-fukuoka-4078",
+      "title": "La revolución de una brizna de paja",
+      "author": "Masanobu Fukuoka",
+      "filename": "la-revolucion-de-una-brizna-de-paja-masanobu-fukuoka-4078.pdf",
+      "source_url": null,
+      "file_size_bytes": 718902,
+      "sha256": "93fb9379fb1e1fb14d0fe64ef6ee7c0c77db87a75b9350145388d951359ad38b",
+      "total_pages": 65,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de La revolución de una brizna de paja dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: LA REVOLUCIÓN DE UNA BRIZNA DE PAJA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'La revolución de una brizna de paja'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-revolucion-de-una-brizna-de-paja-masanobu-fukuoka-4078.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "manual-de-livingstem-y-permacultura-livingstem",
+      "title": "FINAL_MANUAL_LivingStem_ES2",
+      "author": "Gigi",
+      "filename": "manual-de-livingstem-y-permacultura-livingstem.pdf",
+      "source_url": null,
+      "file_size_bytes": 3053117,
+      "sha256": "0498be3ad1fc2a30c192b31dba7e7ea78ad72149dfca661ff15cd2408d6c8d25",
+      "total_pages": 101,
+      "short_description": "Manual Docent i Tècnic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de FINAL_MANUAL_LivingStem_ES2 dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: The #livingSTEM project (2019-1-BE01-KA201-050529) was funded with L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'FINAL_MANUAL_LivingStem_ES2'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-livingstem-y-permacultura-livingstem.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Manual Docent i Tècnic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "manual-de-permacultura-francisco-arroyo-4082",
+      "title": "Manual de Permacultura",
+      "author": "Francisco Arroyo",
+      "filename": "manual-de-permacultura-francisco-arroyo-4082.pdf",
+      "source_url": null,
+      "file_size_bytes": 2751187,
+      "sha256": "b53ba31ff8d6f0c08aeb09f486201a642fdf420f4209dd06487e9a88f7709645",
+      "total_pages": 30,
+      "short_description": "Apunts de Càtedra Universitària d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual de Permacultura dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un apunts de càtedra universitària centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Francisco Javier Arroyo y Galván Duque. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Apunts de Càtedra Universitària",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Manual de Permacultura'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-permacultura-francisco-arroyo-4082.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Apunts de Càtedra Universitària",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-permacultura-y-ecologia-para-ninos-ecoescuela-itinerante-mma-chile-4084",
+      "title": "Manual de permacultura y ecología para niños",
+      "author": "Ecoescuela Itinerante / MMA Chile",
+      "filename": "manual-de-permacultura-y-ecologia-para-ninos-ecoescuela-itinerante-mma-chile-4084.pdf",
+      "source_url": null,
+      "file_size_bytes": 4839740,
+      "sha256": "9eafaeed606b7de4fa59e4d2d6e9af1fb52c157ac2b621fc8ab8fc32ecdb979e",
+      "total_pages": 54,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual de permacultura y ecología para niños dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Ecoescuela Itinerante de Bioregión Valle Maipo L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Manual de permacultura y ecología para niños'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-permacultura-y-ecologia-para-ninos-ecoescuela-itinerante-mma-chile-4084.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "metodos-y-herramientas-en-permacultura-maia-permacultura-1740",
+      "title": "Métodos y Herramientas en Permacultura",
+      "author": " Maïa Permacultura",
+      "filename": "metodos-y-herramientas-en-permacultura-maia-permacultura-1740.pdf",
+      "source_url": null,
+      "file_size_bytes": 3541305,
+      "sha256": "700403e7ac57e9e577b6e26091171cfee8b4d40eb11c7013565f57da759c6649",
+      "total_pages": 71,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Métodos y Herramientas en Permacultura dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Métodos de diseño en permacultura L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de Geodèsia, Geofísica, Geologia i Ciències Ambientals.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Métodos y Herramientas en Permacultura'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/metodos-y-herramientas-en-permacultura-maia-permacultura-1740.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "permacultura-rosalba-fonteriz",
+      "title": "Fonteriz_Permacultua",
+      "author": "epi",
+      "filename": "permacultura-rosalba-fonteriz.pdf",
+      "source_url": null,
+      "file_size_bytes": 2843273,
+      "sha256": "4d55918e6984bd090acda1c27307203f92e655d0e6bb818e524ded2365ec656e",
+      "total_pages": 33,
+      "short_description": "Tesi Acadèmica d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Fonteriz_Permacultua dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: “Permacultura es un modelo de diseño para la L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Fonteriz_Permacultua'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/permacultura-rosalba-fonteriz.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tesi Acadèmica",
+        "Perú"
+      ]
+    },
+    {
+      "id": "permacultura-y-sostenibilidad-agricola-rosa-de-lima-acosta-gutierrez-4085",
+      "title": "Permacultura y sostenibilidad agrícola",
+      "author": "Rosa de Lima Acosta Gutiérrez",
+      "filename": "permacultura-y-sostenibilidad-agricola-rosa-de-lima-acosta-gutierrez-4085.pdf",
+      "source_url": null,
+      "file_size_bytes": 2006914,
+      "sha256": "37fb6edaf96bb9def8a1b8badd895cb0c4ea7df3906b8274eb5a0b62d5a2d17d",
+      "total_pages": 50,
+      "short_description": "Tesi Acadèmica d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Permacultura y sostenibilidad agrícola dins de Permacultura i Agroecologia.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Permacultura i Agroecologia (Diseño Agroecológico), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Permacultura y sostenibilidad agrícola L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Permacultura i Agroecologia.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Permacultura y sostenibilidad agrícola'. Domain: Diseño Agroecológico (Permacultura i Agroecologia). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/permacultura-y-sostenibilidad-agricola-rosa-de-lima-acosta-gutierrez-4085.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Permacultura i Agroecologia",
+        "Tesi Acadèmica",
+        "Perú"
+      ]
+    }
+  ]
+}
