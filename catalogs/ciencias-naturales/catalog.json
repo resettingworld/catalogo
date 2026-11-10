@@ -1,0 +1,997 @@
+{
+  "topic": "Ciencias Naturales",
+  "domain": "Ciencias Exactas y Naturales",
+  "canonical_style_id": "bio-punk-v1",
+  "canonical_style_name": "Bio-Punk Zine (Ciencias Naturales)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "bio-punk-v1",
+    "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+    "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free."
+  },
+  "total_books": 28,
+  "total_pages": 6286,
+  "total_size_mb": 315.57,
+  "books": [
+    {
+      "id": "introduccion-al-estudio-de-las-ciencias-naturales-alejandro-lozano-9266",
+      "title": "Introducción al estudio de las Ciencias Naturales",
+      "author": "Alejandro Lozano",
+      "filename": "introduccion-al-estudio-de-las-ciencias-naturales-alejandro-lozano-9266.pdf",
+      "source_url": null,
+      "file_size_bytes": 3631907,
+      "sha256": "1d44ae46db1c96ae3f1ddbe7f0ba43ed105be918b16831682e6449f091b036e5",
+      "total_pages": 199,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introducción al estudio de las Ciencias Naturales dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducción al estudio de las Ciencias L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introducción al estudio de las Ciencias Naturales'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-al-estudio-de-las-ciencias-naturales-alejandro-lozano-9266.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "ciencias-naturales-i-silvia-armani-adriana-cacciavillani-cristina-zamorano-alejandra-acevedo-9267",
+      "title": "Ciencias Naturales I",
+      "author": "Silvia Armani, Adriana Cacciavillani, Cristina Zamorano, Alejandra Acevedo",
+      "filename": "ciencias-naturales-i-silvia-armani-adriana-cacciavillani-cristina-zamorano-alejandra-acevedo-9267.pdf",
+      "source_url": null,
+      "file_size_bytes": 1743406,
+      "sha256": "e6d451134f9746cd46b0eb1baea0307064abd6458150c9335986d3cbc9b4b8d6",
+      "total_pages": 119,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Ciencias Naturales I dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: SILVIA ARMANI, ADRIANA CACCIAVILLANI, CRISTINA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Ciencias Naturales I'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-naturales-i-silvia-armani-adriana-cacciavillani-cristina-zamorano-alejandra-acevedo-9267.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "ciencias-naturales-9-texto-del-estudiante-ana-cristina-villalba-batallas",
+      "title": "Ciencias Naturales 9 Texto Del Estudiante Ana Cristina Villalba Batallas",
+      "author": "Desconegut / Institucional",
+      "filename": "ciencias-naturales-9-texto-del-estudiante-ana-cristina-villalba-batallas.pdf",
+      "source_url": null,
+      "file_size_bytes": 47225611,
+      "sha256": "5376001680d5e7461b3a48c064599f472f064a7b080f7d0eea624af7cb93ef38",
+      "total_pages": 225,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Ciencias Naturales 9 Texto Del Estudiante Ana Cristina Villalba Batallas dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Educación General Básica - Subnivel Superior L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Ciencias Naturales 9 Texto Del Estudiante Ana Cristina Villalba Batallas'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-naturales-9-texto-del-estudiante-ana-cristina-villalba-batallas.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "ciencias-naturales-material-de-apoyo-octavo-grado-usaid",
+      "title": "Ciencias Naturales Material De Apoyo Octavo Grado Usaid",
+      "author": "Desconegut / Institucional",
+      "filename": "ciencias-naturales-material-de-apoyo-octavo-grado-usaid.pdf",
+      "source_url": null,
+      "file_size_bytes": 4670958,
+      "sha256": "d6b2fe8cc35b362486e9a7f7d4d4188e123ca9bebeb38d81a1ba0e030806340e",
+      "total_pages": 164,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Ciencias Naturales Material De Apoyo Octavo Grado Usaid dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: PROYECTO EDUCACIÓN PARA LA NIÑEZ Y JUVENTUD L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Ciencias Naturales Material De Apoyo Octavo Grado Usaid'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-naturales-material-de-apoyo-octavo-grado-usaid.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "ciencias-naturales-basica-superior-8-9-y-10-grado-byron-patricio-villarreal-ramirez-freddy-tituana-andrea-paola-zarate-oviedo",
+      "title": "Ciencias Naturales Basica Superior 8 9 Y 10 Grado Byron Patricio Villarreal Ramirez Freddy Tituana Andrea Paola Zarate Oviedo",
+      "author": "Desconegut / Institucional",
+      "filename": "ciencias-naturales-basica-superior-8-9-y-10-grado-byron-patricio-villarreal-ramirez-freddy-tituana-andrea-paola-zarate-oviedo.pdf",
+      "source_url": null,
+      "file_size_bytes": 18213667,
+      "sha256": "2304036a8c40148c4b235fc986a62185e36872c200456aa7e4aa5d6924339298",
+      "total_pages": 160,
+      "short_description": "Tesi Acadèmica d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Ciencias Naturales Basica Superior 8 9 Y 10 Grado Byron Patricio Villarreal Ramirez Freddy Tituana Andrea Paola Zarate Oviedo dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Alfredo Edmundo Astorga Bastidas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Ciencias Naturales Basica Superior 8 9 Y 10 Grado Byron Patricio Villarreal Ramirez Freddy Tituana Andrea Paola Zarate Oviedo'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-naturales-basica-superior-8-9-y-10-grado-byron-patricio-villarreal-ramirez-freddy-tituana-andrea-paola-zarate-oviedo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tesi Acadèmica",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "ciencias-naturales-quinto-grado-secretaria-de-educacion-publica-mexico-9261",
+      "title": "Ciencias Naturales. Quinto Grado",
+      "author": "Secretaría de Educación Pública (México)",
+      "filename": "ciencias-naturales-quinto-grado-secretaria-de-educacion-publica-mexico-9261.pdf",
+      "source_url": null,
+      "file_size_bytes": 30341187,
+      "sha256": "78aaae1c4f9092b3cf31ce8ff3d1922d1fbd32fd1a17a0ffcc140458f5d8966b",
+      "total_pages": 162,
+      "short_description": "Llibre de Text Universitari d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Ciencias Naturales. Quinto Grado dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un llibre de text universitari centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: En los materiales dirigidos a las educadoras, las maestras, los maestros, las madres y los padres de familia L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Llibre de Text Universitari",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Ciencias Naturales. Quinto Grado'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-naturales-quinto-grado-secretaria-de-educacion-publica-mexico-9261.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Llibre de Text Universitari",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "ciencias-naturales-sexto-grado-secretaria-de-educacion-publica-mexico-9262",
+      "title": "Ciencias Naturales Sexto Grado Secretaria De Educacion Publica Mexico 9262",
+      "author": "Desconegut / Institucional",
+      "filename": "ciencias-naturales-sexto-grado-secretaria-de-educacion-publica-mexico-9262.pdf",
+      "source_url": null,
+      "file_size_bytes": 14202311,
+      "sha256": "c8cf9f54f53e1920b7bbf713c2471dab3c73e335de869e6e6ee73c7ed5c8f89c",
+      "total_pages": 178,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Ciencias Naturales Sexto Grado Secretaria De Educacion Publica Mexico 9262 dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Estudi exhaustiu de Ciencias Naturales Sexto Grado Secretaria De Educacion Publica Mexico 9262 amb fonaments teòrics i aplicacions pràctiques. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Ciencias Naturales Sexto Grado Secretaria De Educacion Publica Mexico 9262'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-naturales-sexto-grado-secretaria-de-educacion-publica-mexico-9262.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "ciencias-naturales-sexto-grado-cuba-editorial-pueblo-y-educacion-9263",
+      "title": "Ciencias Naturales. Sexto Grado (Cuba)",
+      "author": "Editorial Pueblo y Educación",
+      "filename": "ciencias-naturales-sexto-grado-cuba-editorial-pueblo-y-educacion-9263.pdf",
+      "source_url": null,
+      "file_size_bytes": 6949370,
+      "sha256": "9a3d42e1fc1762a190148c90930d2cc77c21c548e8ebb3367c2219f2b0045e62",
+      "total_pages": 178,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Ciencias Naturales. Sexto Grado (Cuba) dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Prof. Virginia Martín-Viaña Cuervo L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-959-13-0971-6"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Ciencias Naturales. Sexto Grado (Cuba)'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-naturales-sexto-grado-cuba-editorial-pueblo-y-educacion-9263.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "ciencias-naturales-septimo-grado-cuba-editorial-pueblo-y-educacion-9264",
+      "title": "Ciencias Naturales. Séptimo Grado (Cuba)",
+      "author": "Editorial Pueblo y Educación",
+      "filename": "ciencias-naturales-septimo-grado-cuba-editorial-pueblo-y-educacion-9264.pdf",
+      "source_url": null,
+      "file_size_bytes": 30025578,
+      "sha256": "3d9d915a438ffca11b96da4a402dccdd33a64884c31692a2d466925af8ac03af",
+      "total_pages": 136,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Ciencias Naturales. Séptimo Grado (Cuba) dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: 1SB-007 Ciencias Naturales 7mo grado.qxp  1/1/70  07:29  Página I L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Ciencias Naturales. Séptimo Grado (Cuba)'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-naturales-septimo-grado-cuba-editorial-pueblo-y-educacion-9264.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "ciencias-naturales-5-basico-texto-del-estudiante-luz-pavez-aedo-carolina-molina-millan-9265",
+      "title": "Ciencias Naturales. 5° Básico. Texto del Estudiante",
+      "author": "Luz Pavez Aedo, Carolina Molina Millán",
+      "filename": "ciencias-naturales-5-basico-texto-del-estudiante-luz-pavez-aedo-carolina-molina-millan-9265.pdf",
+      "source_url": null,
+      "file_size_bytes": 15811591,
+      "sha256": "68eef490924d98750e9006f51632289e8c102e40dba139b7e9d1f9d0e817e208",
+      "total_pages": 202,
+      "short_description": "Tesi Acadèmica d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Ciencias Naturales. 5° Básico. Texto del Estudiante dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: Luz Pavez Aedo • Carolina Molina Millán L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Ciencias Naturales. 5° Básico. Texto del Estudiante'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciencias-naturales-5-basico-texto-del-estudiante-luz-pavez-aedo-carolina-molina-millan-9265.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tesi Acadèmica",
+        "Xile"
+      ]
+    },
+    {
+      "id": "biologia-conceptos-y-fundamentos-basicos-luis-ernesto-beltran-ana-maria-campos-german-ricardo-diaz",
+      "title": "Biología: conceptos y fundamentos básicos",
+      "author": "Luis Ernesto Beltrán",
+      "filename": "biologia-conceptos-y-fundamentos-basicos-luis-ernesto-beltran-ana-maria-campos-german-ricardo-diaz.pdf",
+      "source_url": null,
+      "file_size_bytes": 35775954,
+      "sha256": "a6a51fabbe6e8aaf15b6b31dee2b35a17aa94bd57ff0bcc072b8449d8b190686",
+      "total_pages": 258,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Biología: conceptos y fundamentos básicos dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: \u000e\u000f\u000b\u0010\t\u0010\u0011\t\u0012\u0013\u0011\u0014\f\u0013\u000b\u0015\t\u0016\u000b\u000f\r\u0017\u000b\u000e\u0011\u0015\t\u0011\t\u0003\u0014\u0018\u0011\u0014\u0013\u0011\u0017\u0019 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Biología: conceptos y fundamentos básicos'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/biologia-conceptos-y-fundamentos-basicos-luis-ernesto-beltran-ana-maria-campos-german-ricardo-diaz.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "biologia-conceptos-basicos-ana-maria-gagneten-alba-imhof-maria-del-rocio-marini-juan-marcelo-zabala",
+      "title": "Biologia Conceptos Basicos Ana Maria Gagneten Alba Imhof Maria Del Rocio Marini Juan Marcelo Zabala",
+      "author": "Desconegut / Institucional",
+      "filename": "biologia-conceptos-basicos-ana-maria-gagneten-alba-imhof-maria-del-rocio-marini-juan-marcelo-zabala.pdf",
+      "source_url": null,
+      "file_size_bytes": 2779978,
+      "sha256": "bb6fe290528d7ef15ed69e212af32aeafc6e53fc67c0a800175d4a36ae3f283f",
+      "total_pages": 118,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Biologia Conceptos Basicos Ana Maria Gagneten Alba Imhof Maria Del Rocio Marini Juan Marcelo Zabala dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ ∙ L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISBN 978-987-749-215-6"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Biologia Conceptos Basicos Ana Maria Gagneten Alba Imhof Maria Del Rocio Marini Juan Marcelo Zabala'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/biologia-conceptos-basicos-ana-maria-gagneten-alba-imhof-maria-del-rocio-marini-juan-marcelo-zabala.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-biologia-universidad-catolica-de-la-santisima-concepcion",
+      "title": "Manual De Biologia Universidad Catolica De La Santisima Concepcion",
+      "author": "Desconegut / Institucional",
+      "filename": "manual-de-biologia-universidad-catolica-de-la-santisima-concepcion.pdf",
+      "source_url": null,
+      "file_size_bytes": 5020688,
+      "sha256": "d89f608d393717d429ef0d55d34f7e7500504eb84a424ce1b4b96120811c5e16",
+      "total_pages": 54,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual De Biologia Universidad Catolica De La Santisima Concepcion dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: 1. Organización, estructura y actividad celular L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Manual De Biologia Universidad Catolica De La Santisima Concepcion'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-biologia-universidad-catolica-de-la-santisima-concepcion.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-quimica-dra-maria-de-los-angeles-alvarez-dr-jorge-r-a-diaz",
+      "title": "INTRODUCCIÓN A LA QUÍMICA. Conceptos teóricos y ejercicios prácticos",
+      "author": "jesica",
+      "filename": "introduccion-a-la-quimica-dra-maria-de-los-angeles-alvarez-dr-jorge-r-a-diaz.pdf",
+      "source_url": null,
+      "file_size_bytes": 2102025,
+      "sha256": "d87d076b8f78d535e83897680e8fc9296ab825110a2e67b0be9764505b915f04",
+      "total_pages": 118,
+      "short_description": "Compendi d'Exercicis i Problemes Resolts d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de INTRODUCCIÓN A LA QUÍMICA. Conceptos teóricos y ejercicios prácticos dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un compendi d'exercicis i problemes resolts centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Dra. María de los Ángeles Álvarez- Dr. Jorge R. A. Díaz L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Compendi d'Exercicis i Problemes Resolts",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'INTRODUCCIÓN A LA QUÍMICA. Conceptos teóricos y ejercicios prácticos'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-quimica-dra-maria-de-los-angeles-alvarez-dr-jorge-r-a-diaz.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Compendi d'Exercicis i Problemes Resolts",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "quimica-general-un-enfoque-en-competencias-javier-cruz-guardado-maria-elena-osuna-sanchez",
+      "title": "Quimica General Un Enfoque En Competencias Javier Cruz Guardado Maria Elena Osuna Sanchez",
+      "author": "Desconegut / Institucional",
+      "filename": "quimica-general-un-enfoque-en-competencias-javier-cruz-guardado-maria-elena-osuna-sanchez.pdf",
+      "source_url": null,
+      "file_size_bytes": 4991520,
+      "sha256": "c122c032fc7173bcb1b681b8928e5b2f2cf6e918d7a2e104e8c8dc6f93a51917",
+      "total_pages": 217,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Quimica General Un Enfoque En Competencias Javier Cruz Guardado Maria Elena Osuna Sanchez dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Corrección de estilo y ortografía: L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Quimica General Un Enfoque En Competencias Javier Cruz Guardado Maria Elena Osuna Sanchez'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/quimica-general-un-enfoque-en-competencias-javier-cruz-guardado-maria-elena-osuna-sanchez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "fundamentos-de-quimica-general-el-atomo-tabla-periodica-y-enlace-quimico-martinez-santa-manuel-mejia-quintero-marisol",
+      "title": "FUNDAMENTOS DE QÍMICA PARA INGENIERÍA DEL PETRÓLEO",
+      "author": "Sergio Martín Correa",
+      "filename": "fundamentos-de-quimica-general-el-atomo-tabla-periodica-y-enlace-quimico-martinez-santa-manuel-mejia-quintero-marisol.pdf",
+      "source_url": null,
+      "file_size_bytes": 3132177,
+      "sha256": "6983d3fac91ddc59105da1011df85a862a24e5384bc2ac5f76d2359704b5ea42",
+      "total_pages": 113,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Veneçuela que aprofundeix en els fonaments i desenvolupament de FUNDAMENTOS DE QÍMICA PARA INGENIERÍA DEL PETRÓLEO dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Veneçuela. El document aborda de manera sistemàtica els conceptes teòrics clau: Estudi exhaustiu de FUNDAMENTOS DE QÍMICA PARA INGENIERÍA DEL PETRÓLEO amb fonaments teòrics i aplicacions pràctiques. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Veneçuela",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'FUNDAMENTOS DE QÍMICA PARA INGENIERÍA DEL PETRÓLEO'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-quimica-general-el-atomo-tabla-periodica-y-enlace-quimico-martinez-santa-manuel-mejia-quintero-marisol.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Veneçuela"
+      ]
+    },
+    {
+      "id": "fisica-universitaria-volumen-1-samuel-j-ling-jeff-sanny-william-moebs",
+      "title": "Física Universitaria Volumen 1",
+      "author": "Desconegut / Institucional",
+      "filename": "fisica-universitaria-volumen-1-samuel-j-ling-jeff-sanny-william-moebs.pdf",
+      "source_url": null,
+      "file_size_bytes": 23788436,
+      "sha256": "d4234059801697b54bc7b849e4db2787a64d33674f233da3ee7cbf0975dc30da",
+      "total_pages": 1023,
+      "short_description": "Llibre de Text Universitari d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Física Universitaria Volumen 1 dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un llibre de text universitari centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Para obtener más información sobre OpenStax, visite https://openstax.org. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Llibre de Text Universitari",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Física Universitaria Volumen 1'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fisica-universitaria-volumen-1-samuel-j-ling-jeff-sanny-william-moebs.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Llibre de Text Universitari",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "fisica-general-ignacio-martin-bragado-9272",
+      "title": "Física General",
+      "author": "Ignacio Martín Bragado",
+      "filename": "fisica-general-ignacio-martin-bragado-9272.pdf",
+      "source_url": null,
+      "file_size_bytes": 957184,
+      "sha256": "f587315fee9eefab468e005fdd4ec88a966500f585f6c6c4e86ee302d1288cd0",
+      "total_pages": 200,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Física General dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: (C) Ignacio Mart´ın Bragado. imartin@ele.uva.es L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Física General'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fisica-general-ignacio-martin-bragado-9272.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "fisica-universitaria-volumen-2-samuel-j-ling-jeff-sanny-william-moebs",
+      "title": "Física Universitaria Volumen 2",
+      "author": "Desconegut / Institucional",
+      "filename": "fisica-universitaria-volumen-2-samuel-j-ling-jeff-sanny-william-moebs.pdf",
+      "source_url": null,
+      "file_size_bytes": 19161595,
+      "sha256": "d724cd8f77210b03bead6f9fd26789ae40c8aa443e0e94f0b4d3a0cb76b9f552",
+      "total_pages": 831,
+      "short_description": "Llibre de Text Universitari d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Física Universitaria Volumen 2 dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un llibre de text universitari centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Para obtener más información sobre OpenStax, visite https://openstax.org. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Llibre de Text Universitari",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Física Universitaria Volumen 2'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fisica-universitaria-volumen-2-samuel-j-ling-jeff-sanny-william-moebs.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Llibre de Text Universitari",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "100-conceptos-basicos-de-astronomia-julia-alfonso-garzon-david-galadi-enriquez-carmen-morales-duran",
+      "title": "untitled",
+      "author": "Desconegut / Institucional",
+      "filename": "100-conceptos-basicos-de-astronomia-julia-alfonso-garzon-david-galadi-enriquez-carmen-morales-duran.pdf",
+      "source_url": null,
+      "file_size_bytes": 7056441,
+      "sha256": "0000aa95256e92c5cd0cbbbcd4047184a28a03bf3df3206e1bea7424dd63e0f7",
+      "total_pages": 102,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya (Universidad del País Vasco / EHU) que aprofundeix en els fonaments i desenvolupament de untitled dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Espanya (Universidad del País Vasco / EHU). El document aborda de manera sistemàtica els conceptes teòrics clau: 100 Conceptos básicos de Astronomía L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya (Universidad del País Vasco / EHU)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'untitled'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/100-conceptos-basicos-de-astronomia-julia-alfonso-garzon-david-galadi-enriquez-carmen-morales-duran.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-astronomia-y-a-la-astrofisica-j-eduardo-mendoza-torres-9274",
+      "title": "Introducción a la Astronomía y a la Astrofísica",
+      "author": "J. Eduardo Mendoza Torres",
+      "filename": "introduccion-a-la-astronomia-y-a-la-astrofisica-j-eduardo-mendoza-torres-9274.pdf",
+      "source_url": null,
+      "file_size_bytes": 1173893,
+      "sha256": "58e752f8f1d3657314dcb3aa4b3ea00215f851fe3229213d75cb616733ad5fef",
+      "total_pages": 161,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introducción a la Astronomía y a la Astrofísica dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: INTRODUCCI´ON A LA ASTRONOM´IA Y A LA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introducción a la Astronomía y a la Astrofísica'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-astronomia-y-a-la-astrofisica-j-eduardo-mendoza-torres-9274.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "grandes-ideas-de-la-astronomia-joao-retre-pedro-russo-hyunju-lee",
+      "title": "Grandes Ideas De La Astronomia Joao Retre Pedro Russo Hyunju Lee",
+      "author": "Desconegut / Institucional",
+      "filename": "grandes-ideas-de-la-astronomia-joao-retre-pedro-russo-hyunju-lee.pdf",
+      "source_url": null,
+      "file_size_bytes": 12327488,
+      "sha256": "3d970931fc3876bbfab778cee93f3c8ecd46ab8c9861db8bc84da7761f87ebd3",
+      "total_pages": 72,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Veneçuela que aprofundeix en els fonaments i desenvolupament de Grandes Ideas De La Astronomia Joao Retre Pedro Russo Hyunju Lee dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Veneçuela. El document aborda de manera sistemàtica els conceptes teòrics clau: Una propuesta para la alfabetización en Astronomía L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Veneçuela",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Grandes Ideas De La Astronomia Joao Retre Pedro Russo Hyunju Lee'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/grandes-ideas-de-la-astronomia-joao-retre-pedro-russo-hyunju-lee.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Veneçuela"
+      ]
+    },
+    {
+      "id": "elementos-de-geologia-general-fundacion-de-historia-natural-felix-de-azara",
+      "title": "Elementos De Geologia General Fundacion De Historia Natural Felix De Azara",
+      "author": "Desconegut / Institucional",
+      "filename": "elementos-de-geologia-general-fundacion-de-historia-natural-felix-de-azara.pdf",
+      "source_url": null,
+      "file_size_bytes": 5650952,
+      "sha256": "63ae9322f72573e9a65a534fcf20968c970f99812bbcfa055f9d33f5fbb18dfb",
+      "total_pages": 472,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Elementos De Geologia General Fundacion De Historia Natural Felix De Azara dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Elementos de Geología General. 1a ed. - Buenos Aires : Fundación de Historia Natural Félix de L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-987-22121-6-2"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Elementos De Geologia General Fundacion De Historia Natural Felix De Azara'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/elementos-de-geologia-general-fundacion-de-historia-natural-felix-de-azara.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "manual-de-geologia-para-ingenieros-gonzalo-duque-escobar-9277",
+      "title": "Manual de Geología para Ingenieros",
+      "author": "Gonzalo Duque-Escobar",
+      "filename": "manual-de-geologia-para-ingenieros-gonzalo-duque-escobar-9277.pdf",
+      "source_url": null,
+      "file_size_bytes": 14179818,
+      "sha256": "c60a1cfd992a07e8346a26aab89e0728177d56dc6929f4d7284d840d45cba40d",
+      "total_pages": 456,
+      "short_description": "Manual Docent i Tècnic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Manual de Geología para Ingenieros dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Paisaje cafetero y Nevado del Ruiz al fondo. Fotografía de Jaime Duque Escobar L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Manual de Geología para Ingenieros'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-geologia-para-ingenieros-gonzalo-duque-escobar-9277.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Manual Docent i Tècnic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "gelogia-estructural-metodos-modernos-dr-ricardo-jose-padilla-y-sanchez",
+      "title": "Gelogia Estructural Metodos Modernos Dr Ricardo Jose Padilla Y Sanchez",
+      "author": "Desconegut / Institucional",
+      "filename": "gelogia-estructural-metodos-modernos-dr-ricardo-jose-padilla-y-sanchez.pdf",
+      "source_url": null,
+      "file_size_bytes": 10481316,
+      "sha256": "b5b068b0795dda2367ab7e434b57ccbb046ef9ca39bdbff65622f400e557d6a5",
+      "total_pages": 183,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic (UNAM) que aprofundeix en els fonaments i desenvolupament de Gelogia Estructural Metodos Modernos Dr Ricardo Jose Padilla Y Sanchez dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic (UNAM). El document aborda de manera sistemàtica els conceptes teòrics clau: DIVISIÓN DE INGENIERÍA EN CIENCIAS DE LA TIERRA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic (UNAM)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Gelogia Estructural Metodos Modernos Dr Ricardo Jose Padilla Y Sanchez'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gelogia-estructural-metodos-modernos-dr-ricardo-jose-padilla-y-sanchez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-meteorologia-general-lic-horacio-e-sarochar-9280",
+      "title": "Introducción a la meteorología general",
+      "author": "Lic. Horacio E. Sarochar",
+      "filename": "introduccion-a-la-meteorologia-general-lic-horacio-e-sarochar-9280.pdf",
+      "source_url": null,
+      "file_size_bytes": 2635405,
+      "sha256": "0903e7a7eace9cf59e706aa5fbc779b4c3f489586e1c86ef7b4496d7ad5ba5c5",
+      "total_pages": 26,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Introducción a la meteorología general dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: FORMACIÓN, ESTRUCTURA, PRESIÓN Y TEMPERATURA DE LA ATMÓSFERA.................2 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introducción a la meteorología general'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-meteorologia-general-lic-horacio-e-sarochar-9280.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "la-metereologia-conceptos-basicos-al-alcance-de-todos-juan-luis-mahiques-zaragoza-9281",
+      "title": "La metereologia: conceptos básicos al alcance de todos",
+      "author": "Juan Luis Mahiques Zaragoza",
+      "filename": "la-metereologia-conceptos-basicos-al-alcance-de-todos-juan-luis-mahiques-zaragoza-9281.pdf",
+      "source_url": null,
+      "file_size_bytes": 188738,
+      "sha256": "f78bc04c796be56ca3389d08d2aa242ecd512e01280d2bda4169e3b46ff2687a",
+      "total_pages": 20,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de La metereologia: conceptos básicos al alcance de todos dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Editada por Área de Innovación y Desarrollo, S.L. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'La metereologia: conceptos básicos al alcance de todos'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-metereologia-conceptos-basicos-al-alcance-de-todos-juan-luis-mahiques-zaragoza-9281.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "curso-de-meteorologia-basica-t-i-c-maritimo-pesquera-9279",
+      "title": "Curso de Meteorologia Basica",
+      "author": "T.I.C. Marítimo-Pesquera",
+      "filename": "curso-de-meteorologia-basica-t-i-c-maritimo-pesquera-9279.pdf",
+      "source_url": null,
+      "file_size_bytes": 6682384,
+      "sha256": "211efad53a56ba69845fc31e2e59a1d5a075313a20aff45b1c164ae38dfcc865",
+      "total_pages": 139,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Curso de Meteorologia Basica dins de Ciencias Naturales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Naturales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: La Tierra está dotada de dos movimientos principales estrechamente L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Naturales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Curso de Meteorologia Basica'. Domain: Ciencias Exactas y Naturales (Ciencias Naturales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/curso-de-meteorologia-basica-t-i-c-maritimo-pesquera-9279.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Naturales",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "rag_id": "ciencias-naturales",
+  "name": "Ciencias Naturales",
+  "description": "Col·lecció completa de llibres i manuals de Ciencias Naturales (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794268695.701376,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 10391,
+  "total_documents": 28,
+  "total_library_files": 28,
+  "total_images_extracted": 3868,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "ciencias-naturales",
+    "ciencias",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

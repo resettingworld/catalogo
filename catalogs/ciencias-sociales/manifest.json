@@ -1,0 +1,26 @@
+{
+  "rag_id": "ciencias-sociales",
+  "name": "Ciencias Sociales",
+  "description": "Col·lecció completa de llibres i manuals de Ciencias Sociales (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794269011.380332,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 7232,
+  "total_documents": 29,
+  "total_library_files": 29,
+  "total_images_extracted": 722,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "ciencias-sociales",
+    "ciencias",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

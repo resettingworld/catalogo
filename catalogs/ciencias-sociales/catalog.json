@@ -1,0 +1,1033 @@
+{
+  "topic": "Ciencias Sociales",
+  "domain": "Ciencias Exactas y Naturales",
+  "canonical_style_id": "bio-punk-v1",
+  "canonical_style_name": "Bio-Punk Zine (Ciencias Naturales)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "bio-punk-v1",
+    "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+    "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free."
+  },
+  "total_books": 29,
+  "total_pages": 6670,
+  "total_size_mb": 95.02,
+  "books": [
+    {
+      "id": "introduccion-a-las-ciencias-sociales-i-humberto-romero-rivas-y-ramon-sangerman-jarquin",
+      "title": "Introduccion A Las Ciencias Sociales I Humberto Romero Rivas Y Ramon Sangerman Jarquin",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-las-ciencias-sociales-i-humberto-romero-rivas-y-ramon-sangerman-jarquin.pdf",
+      "source_url": null,
+      "file_size_bytes": 902714,
+      "sha256": "d3d18f8772305420d60e5117ad62f5483abd32661dadaf52147f52256585db67",
+      "total_pages": 210,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Introduccion A Las Ciencias Sociales I Humberto Romero Rivas Y Ramon Sangerman Jarquin dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: SOCIALES A PARTIR DEL SIGLO XIX. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "ISBN 970-632-205-1"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introduccion A Las Ciencias Sociales I Humberto Romero Rivas Y Ramon Sangerman Jarquin'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-las-ciencias-sociales-i-humberto-romero-rivas-y-ramon-sangerman-jarquin.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "introduccion-a-las-ciencias-sociales-jose-pedro-cortes-xiqui",
+      "title": "Introduccion A Las Ciencias Sociales Jose Pedro Cortes Xiqui",
+      "author": "norma_gonzalez",
+      "filename": "introduccion-a-las-ciencias-sociales-jose-pedro-cortes-xiqui.pdf",
+      "source_url": null,
+      "file_size_bytes": 8134639,
+      "sha256": "760b9554877aadcb4f5cfafb877737007c42bb308e433510b453f070050a1368",
+      "total_pages": 144,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Introduccion A Las Ciencias Sociales Jose Pedro Cortes Xiqui dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Distribución gratuita, prohibida su venta L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introduccion A Las Ciencias Sociales Jose Pedro Cortes Xiqui'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-las-ciencias-sociales-jose-pedro-cortes-xiqui.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "fundamentos-en-ciencias-sociales-mauricio-jose-lopez-caicedo",
+      "title": "F UNDAMENTOS EN CIENCIAS SOCIALES ",
+      "author": "MAURICIO  JOSÉ LÓPEZ CAICEDO ACTUALIZACIÓN DE JORGE O. BLANCO SUÁREZ",
+      "filename": "fundamentos-en-ciencias-sociales-mauricio-jose-lopez-caicedo.pdf",
+      "source_url": null,
+      "file_size_bytes": 457938,
+      "sha256": "cf9397edc3c6faecededce987fde6ceb8fa54356d894d6f9cb09a29ebd9d9e58",
+      "total_pages": 182,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de F UNDAMENTOS EN CIENCIAS SOCIALES  dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: PROGRAMA ADMINISTRACIÓN PÚBLICA TERRITORIAL L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'F UNDAMENTOS EN CIENCIAS SOCIALES '. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-en-ciencias-sociales-mauricio-jose-lopez-caicedo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "introduccion-a-las-ciencias-sociales-dra-patricia-aranda-gallegos-dra-maria-del-carmen-castro-vasquez-dra-gabriela-garcia-figueroa-y-dra-mercedes-zuniga-elizalde",
+      "title": "Introduccion A Las Ciencias Sociales Dra Patricia Aranda Gallegos Dra Maria Del Carmen Castro Vasquez Dra Gabriela Garcia Figueroa Y Dra Mercedes Zuniga Elizalde",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-las-ciencias-sociales-dra-patricia-aranda-gallegos-dra-maria-del-carmen-castro-vasquez-dra-gabriela-garcia-figueroa-y-dra-mercedes-zuniga-elizalde.pdf",
+      "source_url": null,
+      "file_size_bytes": 5934965,
+      "sha256": "d203bbaf74922e57353c230fd80bcee2a54156ae6cf1c4922c00a4363b46f22e",
+      "total_pages": 146,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Introduccion A Las Ciencias Sociales Dra Patricia Aranda Gallegos Dra Maria Del Carmen Castro Vasquez Dra Gabriela Garcia Figueroa Y Dra Mercedes Zuniga Elizalde dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducción a las Ciencias Sociales L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introduccion A Las Ciencias Sociales Dra Patricia Aranda Gallegos Dra Maria Del Carmen Castro Vasquez Dra Gabriela Garcia Figueroa Y Dra Mercedes Zuniga Elizalde'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-las-ciencias-sociales-dra-patricia-aranda-gallegos-dra-maria-del-carmen-castro-vasquez-dra-gabriela-garcia-figueroa-y-dra-mercedes-zuniga-elizalde.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "introduccion-a-las-ciencias-sociales-cemsa",
+      "title": "Microsoft Word - INTRODUCCION A LAS CIENCIAS SOCIALES",
+      "author": "Cemsasis",
+      "filename": "introduccion-a-las-ciencias-sociales-cemsa.pdf",
+      "source_url": null,
+      "file_size_bytes": 4732418,
+      "sha256": "30f4e3d1d8936666496e2c0c4c587151f889cca999ba52eaace9c8d7ee076789",
+      "total_pages": 148,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Microsoft Word - INTRODUCCION A LAS CIENCIAS SOCIALES dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: BLOQUE 1 LA CONSTRUCCIÓN DEL CONOCIMIENTO L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Microsoft Word - INTRODUCCION A LAS CIENCIAS SOCIALES'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-las-ciencias-sociales-cemsa.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-psicologia-marcela-velasco-salamanca",
+      "title": "Introduccion A La Psicologia Marcela Velasco Salamanca",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-la-psicologia-marcela-velasco-salamanca.pdf",
+      "source_url": null,
+      "file_size_bytes": 1274982,
+      "sha256": "2d209d70f8391903b95b974a37971eadc3111a8499e35be0a7a846de4a2eb13c",
+      "total_pages": 117,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Introduccion A La Psicologia Marcela Velasco Salamanca dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Autor: Marcela Velasco Salamanca L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introduccion A La Psicologia Marcela Velasco Salamanca'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-psicologia-marcela-velasco-salamanca.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "fundamentos-de-psicologia-maribel-correal",
+      "title": "Fundamentos De Psicologia Maribel Correal",
+      "author": "Desconegut / Institucional",
+      "filename": "fundamentos-de-psicologia-maribel-correal.pdf",
+      "source_url": null,
+      "file_size_bytes": 3372884,
+      "sha256": "5ee3f1383617cc81798e519fdf6b5e4e42e524d5f65e9b8c30b56280239fd173",
+      "total_pages": 155,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Fundamentos De Psicologia Maribel Correal dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Fundamentos de Psicología / Maribel Correal, / L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Fundamentos De Psicologia Maribel Correal'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-psicologia-maribel-correal.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "fundamentos-de-la-psicologia-manual-autoformativo-veronica-sotelo-narvaez",
+      "title": "Fundamentos De La Psicologia Manual Autoformativo Veronica Sotelo Narvaez",
+      "author": "Desconegut / Institucional",
+      "filename": "fundamentos-de-la-psicologia-manual-autoformativo-veronica-sotelo-narvaez.pdf",
+      "source_url": null,
+      "file_size_bytes": 2469179,
+      "sha256": "232873c08d1f976e4018198ffec9c51267ebb0c8cd87360451cb830c66250717",
+      "total_pages": 196,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Fundamentos De La Psicologia Manual Autoformativo Veronica Sotelo Narvaez dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Fundamentos de la Psicología. Manual Autoformativo L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Fundamentos De La Psicologia Manual Autoformativo Veronica Sotelo Narvaez'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-la-psicologia-manual-autoformativo-veronica-sotelo-narvaez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-sociologia-ernesto-villanueva-maria-laura-eberhardt-lucila-nejamkis",
+      "title": "Introduccion A La Sociologia Ernesto Villanueva Maria Laura Eberhardt Lucila Nejamkis",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-la-sociologia-ernesto-villanueva-maria-laura-eberhardt-lucila-nejamkis.pdf",
+      "source_url": null,
+      "file_size_bytes": 859093,
+      "sha256": "c37a795d0f951c9b72e5b6490ba7adc371d0044d17f2579b1f2e5c27b61b02c2",
+      "total_pages": 126,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Introduccion A La Sociologia Ernesto Villanueva Maria Laura Eberhardt Lucila Nejamkis dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: Diseño interior: Critina Amado - Anabel Perassi L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "ISBN 978-987-26618-9-2"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introduccion A La Sociologia Ernesto Villanueva Maria Laura Eberhardt Lucila Nejamkis'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-sociologia-ernesto-villanueva-maria-laura-eberhardt-lucila-nejamkis.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "nociones-de-sociologia-alicia-garcia",
+      "title": "Nociones De Sociologia Alicia Garcia",
+      "author": "Grupo Familia",
+      "filename": "nociones-de-sociologia-alicia-garcia.pdf",
+      "source_url": null,
+      "file_size_bytes": 6905102,
+      "sha256": "18d842a06220f1d4d9a018a1fd98cdf4c8c444c7b819f5a26638d606e9d4eb41",
+      "total_pages": 102,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Nociones De Sociologia Alicia Garcia dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Responsables Módulo Contenido Disciplinar. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Nociones De Sociologia Alicia Garcia'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/nociones-de-sociologia-alicia-garcia.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "panorama-de-la-sociologia-contemporanea-jose-medina-echavarria",
+      "title": "Panorama De La Sociologia Contemporanea Jose Medina Echavarria",
+      "author": "win98",
+      "filename": "panorama-de-la-sociologia-contemporanea-jose-medina-echavarria.pdf",
+      "source_url": null,
+      "file_size_bytes": 563218,
+      "sha256": "8815fc8cb43be153bda07f6737a6ace83cffc51389cfb891a549934878c68ac5",
+      "total_pages": 116,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Panorama De La Sociologia Contemporanea Jose Medina Echavarria dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Panorama de la sociología contemporánea L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Panorama De La Sociologia Contemporanea Jose Medina Echavarria'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/panorama-de-la-sociologia-contemporanea-jose-medina-echavarria.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "historia-de-la-antropologia-manuel-m-marzal",
+      "title": "Historia De La Antropologia Manuel M Marzal",
+      "author": "Desconegut / Institucional",
+      "filename": "historia-de-la-antropologia-manuel-m-marzal.pdf",
+      "source_url": null,
+      "file_size_bytes": 2493293,
+      "sha256": "071fa88763ecc40411e85f09a9fe80e8f6d6c87ce0e581eb3d6c479e9b7fbf2a",
+      "total_pages": 618,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Historia De La Antropologia Manuel M Marzal dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Volumen I: Antropología Indigenista L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Historia De La Antropologia Manuel M Marzal'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/historia-de-la-antropologia-manuel-m-marzal.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "la-antropologia-socio-cultural-y-sus-metodos-eloy-gomez-pellon",
+      "title": "tema1-antropologia",
+      "author": "Eloy Gómez Pellón",
+      "filename": "la-antropologia-socio-cultural-y-sus-metodos-eloy-gomez-pellon.pdf",
+      "source_url": null,
+      "file_size_bytes": 244091,
+      "sha256": "c9e0a3f25d55866865b6e027b8f062270c604118991b6e3355963d7ae58e20c6",
+      "total_pages": 18,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de tema1-antropologia dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: INTRODUCCIÓN A LA ANTROPOLOGÍA SOCIAL Y CULTURAL L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'tema1-antropologia'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-antropologia-socio-cultural-y-sus-metodos-eloy-gomez-pellon.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-antropologia-biologica-lorena-madrigal",
+      "title": "Introducción a la AntropologÕa Biológica",
+      "author": "Lorena Madrigal and Rolando González-José",
+      "filename": "introduccion-a-la-antropologia-biologica-lorena-madrigal.pdf",
+      "source_url": null,
+      "file_size_bytes": 6812866,
+      "sha256": "1368d12edd35c16a041fe51c705150632246b0352337ac513102cfc27d2808da",
+      "total_pages": 680,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introducción a la AntropologÕa Biológica dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Digital Commons @ University of L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISBN 978-987-33-9562-8"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introducción a la AntropologÕa Biológica'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-antropologia-biologica-lorena-madrigal.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "curso-de-ciencia-politica-salvador-marti-i-puig-juan-mario-solis-delgadillo-y-francisco-sanchez",
+      "title": "Curso De Ciencia Politica Salvador Marti I Puig Juan Mario Solis Delgadillo Y Francisco Sanchez",
+      "author": "Desconegut / Institucional",
+      "filename": "curso-de-ciencia-politica-salvador-marti-i-puig-juan-mario-solis-delgadillo-y-francisco-sanchez.pdf",
+      "source_url": null,
+      "file_size_bytes": 6316335,
+      "sha256": "a4375c791d12386bcff16317a07d8c8c451ba2a0b50aeaeff6b2a45c332fe71c",
+      "total_pages": 753,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Curso De Ciencia Politica Salvador Marti I Puig Juan Mario Solis Delgadillo Y Francisco Sanchez dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Comisión de Biblioteca y Asuntos Editoriales L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Curso De Ciencia Politica Salvador Marti I Puig Juan Mario Solis Delgadillo Y Francisco Sanchez'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/curso-de-ciencia-politica-salvador-marti-i-puig-juan-mario-solis-delgadillo-y-francisco-sanchez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "que-es-la-ciencia-politica-hector-zamitiz-gamboa",
+      "title": "Que Es La Ciencia Politica Hector Zamitiz Gamboa",
+      "author": "Desconegut / Institucional",
+      "filename": "que-es-la-ciencia-politica-hector-zamitiz-gamboa.pdf",
+      "source_url": null,
+      "file_size_bytes": 1837419,
+      "sha256": "4cbeab7a0be6810bd577a6af90ae80a26c4d99a7a72fb6339f7b92f7a9548112",
+      "total_pages": 54,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic (UNAM) que aprofundeix en els fonaments i desenvolupament de Que Es La Ciencia Politica Hector Zamitiz Gamboa dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic (UNAM). El document aborda de manera sistemàtica els conceptes teòrics clau: Abogada General • Mónica González Contró L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic (UNAM)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Que Es La Ciencia Politica Hector Zamitiz Gamboa'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/que-es-la-ciencia-politica-hector-zamitiz-gamboa.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-ciencia-politica-emerson-calderon-guzman",
+      "title": "INTRODUCCIÓN A LA CIENCIA POLÍTICA",
+      "author": "Colossus User",
+      "filename": "introduccion-a-la-ciencia-politica-emerson-calderon-guzman.pdf",
+      "source_url": null,
+      "file_size_bytes": 590943,
+      "sha256": "a11ad7d0df3124bbcf9d683e96e359f85bca1e6578aaaab25cb93950a35eedfc",
+      "total_pages": 124,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de INTRODUCCIÓN A LA CIENCIA POLÍTICA dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: FACULTAD DE DERECHO Y CIENCIAS POLÍTICAS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'INTRODUCCIÓN A LA CIENCIA POLÍTICA'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-ciencia-politica-emerson-calderon-guzman.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "economia-para-no-economistas-torello-mariella-y-otros",
+      "title": "Economia Para No Economistas Torello Mariella Y Otros",
+      "author": "Desconegut / Institucional",
+      "filename": "economia-para-no-economistas-torello-mariella-y-otros.pdf",
+      "source_url": null,
+      "file_size_bytes": 1557210,
+      "sha256": "62e482a076ead535985e89f0cf1ac98f77055fced7e8f1c1e618d4ddc6488846",
+      "total_pages": 354,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Economia Para No Economistas Torello Mariella Y Otros dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Triunfo, Patricia - Autor/a;  Torello, Mariella - Autor/a;  Berretta, Nora - Autor/a; L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Economia Para No Economistas Torello Mariella Y Otros'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/economia-para-no-economistas-torello-mariella-y-otros.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-economia-teoria-y-aplicaciones-miguel-angel-freaza",
+      "title": "Microsoft Word - Freaza-Administraci.n.doc",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-la-economia-teoria-y-aplicaciones-miguel-angel-freaza.pdf",
+      "source_url": null,
+      "file_size_bytes": 904634,
+      "sha256": "cb36770bedfb8f8ce09cebe22031847a7a7294905cb583162599d142371b6a64",
+      "total_pages": 128,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Microsoft Word - Freaza-Administraci.n.doc dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: FACULTAD DE CIENCIAS ECONÓMICAS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Microsoft Word - Freaza-Administraci.n.doc'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-economia-teoria-y-aplicaciones-miguel-angel-freaza.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-economia-social-de-mercado-marcelo-f-resico",
+      "title": "Introduccion A La Economia Social De Mercado Marcelo F Resico",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-la-economia-social-de-mercado-marcelo-f-resico.pdf",
+      "source_url": null,
+      "file_size_bytes": 1172954,
+      "sha256": "3097b18310efcb13fe66dba26e088290045e8c977492aaca856bf603a86912d7",
+      "total_pages": 384,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Introduccion A La Economia Social De Mercado Marcelo F Resico dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Hecho el depósito que establece la Ley 11.723 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-987-1285-21-1"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introduccion A La Economia Social De Mercado Marcelo F Resico'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-economia-social-de-mercado-marcelo-f-resico.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "etapas-de-la-historia-universal-cinthia-rodriguez-toledo",
+      "title": "Etapas De La Historia Universal Cinthia Rodriguez Toledo",
+      "author": "Desconegut / Institucional",
+      "filename": "etapas-de-la-historia-universal-cinthia-rodriguez-toledo.pdf",
+      "source_url": null,
+      "file_size_bytes": 3906186,
+      "sha256": "d02fad831800b5d0ba21b90253db57e492395b3d820cb5d67051d42e8b95148c",
+      "total_pages": 138,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Etapas De La Historia Universal Cinthia Rodriguez Toledo dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: Avda. Bernardo O`Higgins 1371, Santiago de Chile L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Etapas De La Historia Universal Cinthia Rodriguez Toledo'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/etapas-de-la-historia-universal-cinthia-rodriguez-toledo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "historia-mundial-contemporanea-cristina-fernandez-de-kirchner-y-otros",
+      "title": "Historia mundial contemporánea.",
+      "author": "Argentina. Ministerio de Educación. Dirección Nacional de Fortalecimiento y Ampliación de Derechos Educativos. Plan Finalización de estudios primarios y secundarios para jóvenes y adultos FINES",
+      "filename": "historia-mundial-contemporanea-cristina-fernandez-de-kirchner-y-otros.pdf",
+      "source_url": null,
+      "file_size_bytes": 7128314,
+      "sha256": "67ff4e7c0ffa0e8441aa26701375a38cbb664cc4c01b16e08e55b9a94b56025d",
+      "total_pages": 204,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Historia mundial contemporánea. dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Dra. Cristina Fernández de Kirchner L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-950-00-1097-9"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Historia mundial contemporánea.'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/historia-mundial-contemporanea-cristina-fernandez-de-kirchner-y-otros.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "la-historia-como-ciencia-sanchez-jaramillo-y-luis-fernando",
+      "title": "Redalyc.LA HISTORIA COMO CIENCIA",
+      "author": "Sánchez Jaramillo, Luis Fernando\n\n",
+      "filename": "la-historia-como-ciencia-sanchez-jaramillo-y-luis-fernando.pdf",
+      "source_url": null,
+      "file_size_bytes": 152687,
+      "sha256": "d9545d10b087cff5a076b8d198a7de5d7915c3b640592d284ca475679cb8448a",
+      "total_pages": 30,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Redalyc.LA HISTORIA COMO CIENCIA dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Revista Latinoamericana de Estudios L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Redalyc.LA HISTORIA COMO CIENCIA'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-historia-como-ciencia-sanchez-jaramillo-y-luis-fernando.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "teorias-pedagogicas-contemporaneas-luis-martin-trujillo-florez",
+      "title": "Teorias Pedagogicas Contemporaneas Luis Martin Trujillo Florez",
+      "author": "Desconegut / Institucional",
+      "filename": "teorias-pedagogicas-contemporaneas-luis-martin-trujillo-florez.pdf",
+      "source_url": null,
+      "file_size_bytes": 2377527,
+      "sha256": "cdc7d7b189f16803b27a7bae6879a847f7c34e8827bd7c3c02e1279249dc232b",
+      "total_pages": 150,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Teorias Pedagogicas Contemporaneas Luis Martin Trujillo Florez dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Autor: Luis Martin Trujillo Florez L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Teorias Pedagogicas Contemporaneas Luis Martin Trujillo Florez'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/teorias-pedagogicas-contemporaneas-luis-martin-trujillo-florez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "pedagogia-y-formacion-docente-martha-elizabeth-velasquez-de-bustamante-alejandro-de-leon-cruz-y-raul-francisco-diaz-mendoza",
+      "title": "Pedagogia Y Formacion Docente Martha Elizabeth Velasquez De Bustamante Alejandro De Leon Cruz Y Raul Francisco Diaz Mendoza",
+      "author": "Desconegut / Institucional",
+      "filename": "pedagogia-y-formacion-docente-martha-elizabeth-velasquez-de-bustamante-alejandro-de-leon-cruz-y-raul-francisco-diaz-mendoza.pdf",
+      "source_url": null,
+      "file_size_bytes": 15410273,
+      "sha256": "3b8a6884e22166e5105ea79075bb510b06beaaa6b8c01f8a4548c72b84f070ab",
+      "total_pages": 132,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Pedagogia Y Formacion Docente Martha Elizabeth Velasquez De Bustamante Alejandro De Leon Cruz Y Raul Francisco Diaz Mendoza dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Colección Pedagógica Formación Inicial de Docentes L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "LEY DE DERECHOS",
+        "ISBN 978-9968-818-48-3"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Pedagogia Y Formacion Docente Martha Elizabeth Velasquez De Bustamante Alejandro De Leon Cruz Y Raul Francisco Diaz Mendoza'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/pedagogia-y-formacion-docente-martha-elizabeth-velasquez-de-bustamante-alejandro-de-leon-cruz-y-raul-francisco-diaz-mendoza.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "pedagogia-social-y-educacion-popular-perspectivas-y-estrategias-sobre-la-inclusion-y-el-derecho-a-la-educacion-krichesky-marcelo-y-otros",
+      "title": "Pedagogia Social Y Educacion Popular Perspectivas Y Estrategias Sobre La Inclusion Y El Derecho A La Educacion Krichesky Marcelo Y Otros",
+      "author": "Desconegut / Institucional",
+      "filename": "pedagogia-social-y-educacion-popular-perspectivas-y-estrategias-sobre-la-inclusion-y-el-derecho-a-la-educacion-krichesky-marcelo-y-otros.pdf",
+      "source_url": null,
+      "file_size_bytes": 761351,
+      "sha256": "ac14e7ca4b04fdf17d7ad6cd46529abcd460a5a2f24f32540380c355c381b149",
+      "total_pages": 106,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad Nacional de La Plata) que aprofundeix en els fonaments i desenvolupament de Pedagogia Social Y Educacion Popular Perspectivas Y Estrategias Sobre La Inclusion Y El Derecho A La Educacion Krichesky Marcelo Y Otros dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad Nacional de La Plata). El document aborda de manera sistemàtica els conceptes teòrics clau: Pedagogía social y educación popular : perspectivas y estrategias sobre la inclusión y L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad Nacional de La Plata)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Pedagogia Social Y Educacion Popular Perspectivas Y Estrategias Sobre La Inclusion Y El Derecho A La Educacion Krichesky Marcelo Y Otros'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/pedagogia-social-y-educacion-popular-perspectivas-y-estrategias-sobre-la-inclusion-y-el-derecho-a-la-educacion-krichesky-marcelo-y-otros.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "teoria-de-las-relaciones-internacionales-gabriel-gutierrez-pantoja-9324",
+      "title": "Teoría de las Relaciones Internacionales",
+      "author": "Gabriel Gutiérrez Pantoja",
+      "filename": "teoria-de-las-relaciones-internacionales-gabriel-gutierrez-pantoja-9324.pdf",
+      "source_url": null,
+      "file_size_bytes": 1281832,
+      "sha256": "9bef6ce6e95a93905804726dba67995dd26f905f1ae9a9b6855e1fc24249a8b0",
+      "total_pages": 332,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Teoría de las Relaciones Internacionales dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: TEORÍA DE LAS RELACIONES INTERNACIONALES L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Teoría de las Relaciones Internacionales'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/teoria-de-las-relaciones-internacionales-gabriel-gutierrez-pantoja-9324.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-las-relaciones-internacionales-america-latina-y-la-politica-global-thomas-legler-arturo-santa-cruz-laura-zamudio-gonzalez-editores-9325",
+      "title": "Introducción a las Relaciones Internacionales: América Latina y la Política Global",
+      "author": "Thomas Legler, Arturo Santa Cruz, Laura Zamudio González (editores)",
+      "filename": "introduccion-a-las-relaciones-internacionales-america-latina-y-la-politica-global-thomas-legler-arturo-santa-cruz-laura-zamudio-gonzalez-editores-9325.pdf",
+      "source_url": null,
+      "file_size_bytes": 1905872,
+      "sha256": "609ff646bc9be7b7960eb920b164773237270c04830ebddc3ef46768f5975e07",
+      "total_pages": 287,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Introducción a las Relaciones Internacionales: América Latina y la Política Global dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: America Latina y la Política Global L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Introducción a las Relaciones Internacionales: América Latina y la Política Global'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-las-relaciones-internacionales-america-latina-y-la-politica-global-thomas-legler-arturo-santa-cruz-laura-zamudio-gonzalez-editores-9325.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "manual-de-relaciones-internacionales-mariana-colotta-patricio-degiorgis-julio-lascano-y-vedia-angeles-rodriguez-comps-9327",
+      "title": "Manual de Relaciones Internacionales",
+      "author": "Mariana Colotta, Patricio Degiorgis, Julio Lascano y Vedia, Ángeles Rodríguez (comps.)",
+      "filename": "manual-de-relaciones-internacionales-mariana-colotta-patricio-degiorgis-julio-lascano-y-vedia-angeles-rodriguez-comps-9327.pdf",
+      "source_url": null,
+      "file_size_bytes": 9171718,
+      "sha256": "d1261685a315409d4c2c9e4afb765733552640a692f03c4f5b76cb8f87791116",
+      "total_pages": 536,
+      "short_description": "Manual Docent i Tècnic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Manual de Relaciones Internacionales dins de Ciencias Sociales.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Ciencias Sociales (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: MANUAL DE RELACIONES INTERNACIONALES L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-987-723-301-8"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Sociales.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Manual de Relaciones Internacionales'. Domain: Ciencias Exactas y Naturales (Ciencias Sociales). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-relaciones-internacionales-mariana-colotta-patricio-degiorgis-julio-lascano-y-vedia-angeles-rodriguez-comps-9327.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Sociales",
+        "Manual Docent i Tècnic",
+        "Argentina"
+      ]
+    }
+  ]
+}

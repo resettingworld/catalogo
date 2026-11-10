@@ -1,0 +1,26 @@
+{
+  "rag_id": "cloud-computing",
+  "name": "Cloud Computing",
+  "description": "Col·lecció completa de llibres i manuals de Cloud Computing (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794270969.7815528,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 7291,
+  "total_documents": 70,
+  "total_library_files": 70,
+  "total_images_extracted": 1687,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "cloud-computing",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}
