@@ -1,0 +1,25 @@
+{
+  "rag_id": "textos-info-politica",
+  "name": "Teoría Política y Estado",
+  "description": "Doctrina política clàssica, organització social, sobirania i tractats sobre l'Estat.",
+  "version": "1.0.0",
+  "author": "SmartLocal / textos.info",
+  "created_at": 1794271368.270126,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 899,
+  "total_documents": 8,
+  "total_library_files": 8,
+  "total_images_extracted": 216,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "politica",
+    "textos-info",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}

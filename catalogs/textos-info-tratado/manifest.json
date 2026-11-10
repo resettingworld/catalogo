@@ -1,0 +1,25 @@
+{
+  "rag_id": "textos-info-tratado",
+  "name": "Tratados y Metodología",
+  "description": "Compendis metodològics, regles d'art i ciència pràctica.",
+  "version": "1.0.0",
+  "author": "SmartLocal / textos.info",
+  "created_at": 1794272441.386299,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 311,
+  "total_documents": 2,
+  "total_library_files": 2,
+  "total_images_extracted": 152,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "tratado",
+    "textos-info",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}

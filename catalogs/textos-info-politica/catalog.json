@@ -1,0 +1,291 @@
+{
+  "topic": "Teoría Política y Estado",
+  "domain": "Ciencias Políticas y Sociedad",
+  "source_portal": "textos.info",
+  "tag": "politica",
+  "canonical_style_id": "collage-punk-v1",
+  "style_name": "Collage Punk & Underground DIY Zine",
+  "banner_cover": "images/banner.png",
+  "books": [
+    {
+      "id": "arturo-robsy-confia-en-espana",
+      "title": "Confía en España",
+      "author": "Arturo Robsy",
+      "filename": "arturo-robsy-confia-en-espana.pdf",
+      "source_url": null,
+      "file_size_bytes": 269209,
+      "sha256": "077a24ddc02d323c0e111ade91d28888b95c28d2ec724a980ad1a6cb7ec0001a",
+      "total_pages": 44,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Confía en España dins de Teoría Política y Estado.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Teoría Política y Estado (Ciencias Políticas y Sociedad), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Fecha de creación: 1 de septiembre de 2023 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Teoría Política y Estado.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Confía en España'. Domain: Ciencias Políticas y Sociedad (Teoría Política y Estado). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/arturo-robsy-confia-en-espana.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Teoría Política y Estado",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "cesar-vallejo-el-arte-y-la-revolucion",
+      "title": "El Arte y la Revolución",
+      "author": "César Vallejo",
+      "filename": "cesar-vallejo-el-arte-y-la-revolucion.pdf",
+      "source_url": null,
+      "file_size_bytes": 198394,
+      "sha256": "1540ee43c5d21d73a3a47d469f044969a436bd5c61faa962b43f153a18290ac6",
+      "total_pages": 82,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de El Arte y la Revolución dins de Teoría Política y Estado.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Teoría Política y Estado (Ciencias Políticas y Sociedad), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Título: El Arte y la Revolución L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Teoría Política y Estado.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'El Arte y la Revolución'. Domain: Ciencias Políticas y Sociedad (Teoría Política y Estado). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/cesar-vallejo-el-arte-y-la-revolucion.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Teoría Política y Estado",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "emma-goldman-anarquismo-lo-que-significa-realmente",
+      "title": "Anarquismo: lo que significa realmente",
+      "author": "Emma Goldman",
+      "filename": "emma-goldman-anarquismo-lo-que-significa-realmente.pdf",
+      "source_url": null,
+      "file_size_bytes": 313871,
+      "sha256": "f7414212b2be997d85df12411881bc275c1429cd80945f948f78d971141ff0e0",
+      "total_pages": 20,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Anarquismo: lo que significa realmente dins de Teoría Política y Estado.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Teoría Política y Estado (Ciencias Políticas y Sociedad), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Título: Anarquismo: lo que significa realmente L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Teoría Política y Estado.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Anarquismo: lo que significa realmente'. Domain: Ciencias Políticas y Sociedad (Teoría Política y Estado). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/emma-goldman-anarquismo-lo-que-significa-realmente.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Teoría Política y Estado",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "jean-jacques-rousseau-el-contrato-social",
+      "title": "El Contrato Social",
+      "author": "Jean-Jacques Rousseau",
+      "filename": "jean-jacques-rousseau-el-contrato-social.pdf",
+      "source_url": null,
+      "file_size_bytes": 218090,
+      "sha256": "63c7a4d7f2a2e70e89f9044e7d1b04a4372f3ead433a84063b85133f5476860f",
+      "total_pages": 138,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de El Contrato Social dins de Teoría Política y Estado.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Teoría Política y Estado (Ciencias Políticas y Sociedad), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Fecha de creación: 18 de octubre de 2017 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Teoría Política y Estado.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'El Contrato Social'. Domain: Ciencias Políticas y Sociedad (Teoría Política y Estado). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/jean-jacques-rousseau-el-contrato-social.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Teoría Política y Estado",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "jose-antonio-primo-de-rivera-discurso-fundacional-de-falange",
+      "title": "Discurso Fundacional de Falange",
+      "author": "José Antonio Primo de Rivera",
+      "filename": "jose-antonio-primo-de-rivera-discurso-fundacional-de-falange.pdf",
+      "source_url": null,
+      "file_size_bytes": 249794,
+      "sha256": "f8bdaefa09237c17038a48ea7df657da76c7c16dcc1b4adfc0254d57d651468e",
+      "total_pages": 12,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Discurso Fundacional de Falange dins de Teoría Política y Estado.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Teoría Política y Estado (Ciencias Políticas y Sociedad), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Discurso Fundacional de Falange L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Teoría Política y Estado.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Discurso Fundacional de Falange'. Domain: Ciencias Políticas y Sociedad (Teoría Política y Estado). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/jose-antonio-primo-de-rivera-discurso-fundacional-de-falange.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Teoría Política y Estado",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "jose-cadalso-cartas-marruecas",
+      "title": "Cartas Marruecas",
+      "author": "José Cadalso",
+      "filename": "jose-cadalso-cartas-marruecas.pdf",
+      "source_url": null,
+      "file_size_bytes": 326983,
+      "sha256": "3b55162f785e328ab0da2aa45f5e255677f895b5c48bbc0a0e1d0c240ac0a675",
+      "total_pages": 200,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Cartas Marruecas dins de Teoría Política y Estado.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Teoría Política y Estado (Ciencias Políticas y Sociedad), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Fecha de creación: 11 de octubre de 2016 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Teoría Política y Estado.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Cartas Marruecas'. Domain: Ciencias Políticas y Sociedad (Teoría Política y Estado). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/jose-cadalso-cartas-marruecas.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Teoría Política y Estado",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "jose-maria-blanco-white-cartas-de-juan-sintierra",
+      "title": "Cartas de Juan Sintierra",
+      "author": "José María Blanco White",
+      "filename": "jose-maria-blanco-white-cartas-de-juan-sintierra.pdf",
+      "source_url": null,
+      "file_size_bytes": 166851,
+      "sha256": "dc6624525baef66408f47b747b18736a6301ef1e879f6434561eff74ace9d70a",
+      "total_pages": 80,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Cartas de Juan Sintierra dins de Teoría Política y Estado.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Teoría Política y Estado (Ciencias Políticas y Sociedad), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Título: Cartas de Juan Sintierra L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Teoría Política y Estado.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Cartas de Juan Sintierra'. Domain: Ciencias Políticas y Sociedad (Teoría Política y Estado). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/jose-maria-blanco-white-cartas-de-juan-sintierra.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Teoría Política y Estado",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "mijail-bakunin-dios-y-el-estado",
+      "title": "Dios y el Estado",
+      "author": "Mijaíl Bakunin",
+      "filename": "mijail-bakunin-dios-y-el-estado.pdf",
+      "source_url": null,
+      "file_size_bytes": 215840,
+      "sha256": "c143a1592c78e374e1d1b3d2dd1c8138d250c55601d87cc91adac2c6fb0cb07e",
+      "total_pages": 107,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Dios y el Estado dins de Teoría Política y Estado.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Teoría Política y Estado (Ciencias Políticas y Sociedad), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Fecha de creación: 27 de septiembre de 2016 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Teoría Política y Estado.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Dios y el Estado'. Domain: Ciencias Políticas y Sociedad (Teoría Política y Estado). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/mijail-bakunin-dios-y-el-estado.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Teoría Política y Estado",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    }
+  ]
+}
