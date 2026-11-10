@@ -1,0 +1,962 @@
+{
+  "topic": "Ciencias De La Tierra",
+  "domain": "Ciencias Exactas y Naturales",
+  "canonical_style_id": "geo-punk-v1",
+  "canonical_style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "geo-punk-v1",
+    "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+    "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free."
+  },
+  "total_books": 27,
+  "total_pages": 3765,
+  "total_size_mb": 149.32,
+  "books": [
+    {
+      "id": "la-tierra-nuestro-dinamico-hogar-ciencias-de-la-tierra-5to-ano-desiree-yaguare-valladare-freddy-jose-oropeza-r-gloria-guilarte-cisneros",
+      "title": "La Tierra Nuestro Dinamico Hogar Ciencias De La Tierra 5To Ano Desiree Yaguare Valladare Freddy Jose Oropeza R Gloria Guilarte Cisneros",
+      "author": "Desconegut / Institucional",
+      "filename": "la-tierra-nuestro-dinamico-hogar-ciencias-de-la-tierra-5to-ano-desiree-yaguare-valladare-freddy-jose-oropeza-r-gloria-guilarte-cisneros.pdf",
+      "source_url": null,
+      "file_size_bytes": 6781065,
+      "sha256": "5a9ffc7a53aea36e58a94759d328a542c7af9d9274b4678472de7d7db798b7d2",
+      "total_pages": 139,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Veneçuela que aprofundeix en els fonaments i desenvolupament de La Tierra Nuestro Dinamico Hogar Ciencias De La Tierra 5To Ano Desiree Yaguare Valladare Freddy Jose Oropeza R Gloria Guilarte Cisneros dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Veneçuela. El document aborda de manera sistemàtica els conceptes teòrics clau: Mensaje a las y los estudiantes L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Veneçuela",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'La Tierra Nuestro Dinamico Hogar Ciencias De La Tierra 5To Ano Desiree Yaguare Valladare Freddy Jose Oropeza R Gloria Guilarte Cisneros'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-tierra-nuestro-dinamico-hogar-ciencias-de-la-tierra-5to-ano-desiree-yaguare-valladare-freddy-jose-oropeza-r-gloria-guilarte-cisneros.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Veneçuela"
+      ]
+    },
+    {
+      "id": "el-impacto-de-las-ciencias-de-la-tierra-en-la-sociedad-ignacio-mora-gonzalez",
+      "title": "El Impacto De Las Ciencias De La Tierra En La Sociedad Ignacio Mora Gonzalez",
+      "author": "Desconegut / Institucional",
+      "filename": "el-impacto-de-las-ciencias-de-la-tierra-en-la-sociedad-ignacio-mora-gonzalez.pdf",
+      "source_url": null,
+      "file_size_bytes": 1705339,
+      "sha256": "4e0b804c4265393ac3c04b53422212276bf8f62c057036ea0c21739445c562ce",
+      "total_pages": 117,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic (Universidad Veracruzana) que aprofundeix en els fonaments i desenvolupament de El Impacto De Las Ciencias De La Tierra En La Sociedad Ignacio Mora Gonzalez dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic (Universidad Veracruzana). El document aborda de manera sistemàtica els conceptes teòrics clau: Hidalgo núm. 9, Centro, CP 91000 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic (Universidad Veracruzana)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'El Impacto De Las Ciencias De La Tierra En La Sociedad Ignacio Mora Gonzalez'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-impacto-de-las-ciencias-de-la-tierra-en-la-sociedad-ignacio-mora-gonzalez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "las-ciencias-de-la-tierra-cinna-lomnitz",
+      "title": "pags 026-035 ciencias tierra",
+      "author": "Desconegut / Institucional",
+      "filename": "las-ciencias-de-la-tierra-cinna-lomnitz.pdf",
+      "source_url": null,
+      "file_size_bytes": 197952,
+      "sha256": "42842c81a3ec7ec3028e518f1d2303212ea3595cf14580bbc402a1713b9c3a1f",
+      "total_pages": 10,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de pags 026-035 ciencias tierra dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: La ciencia mexicana en el siglo XX L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de Geodèsia, Geofísica, Geologia i Ciències Ambientals.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'pags 026-035 ciencias tierra'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/las-ciencias-de-la-tierra-cinna-lomnitz.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-hidrologia-santiago-b",
+      "title": "Introduccion A La Hidrologia Santiago B",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-la-hidrologia-santiago-b.pdf",
+      "source_url": null,
+      "file_size_bytes": 2381270,
+      "sha256": "f7404cf336478d6ed94c85031b4d35d021664ff6c2d7349695b888d7c5b2d14d",
+      "total_pages": 239,
+      "short_description": "Llibre de Text Universitari d'abast a Argentina (Universidad Nacional de La Pampa) que aprofundeix en els fonaments i desenvolupament de Introduccion A La Hidrologia Santiago B dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un llibre de text universitari centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad Nacional de La Pampa). El document aborda de manera sistemàtica els conceptes teòrics clau: [ 2008 ]   LIBRO DE TEXTO PARA ESTUDIANTES UNIVERSITARIOS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad Nacional de La Pampa)",
+      "normatives_and_standards": [
+        "ISBN 978-950-863-108-4"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Llibre de Text Universitari",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Introduccion A La Hidrologia Santiago B'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-hidrologia-santiago-b.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Llibre de Text Universitari",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "hidrologia-para-estudiantes-de-ingenieria-civil-wendor-chereque-moran",
+      "title": "Hidrologia Para Estudiantes De Ingenieria Civil Wendor Chereque Moran",
+      "author": "Desconegut / Institucional",
+      "filename": "hidrologia-para-estudiantes-de-ingenieria-civil-wendor-chereque-moran.pdf",
+      "source_url": null,
+      "file_size_bytes": 3957477,
+      "sha256": "88c15c0d0391aa13ca0966cc80852d18f43b6154dfea77105d615bf8603c9c3f",
+      "total_pages": 236,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Hidrologia Para Estudiantes De Ingenieria Civil Wendor Chereque Moran dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: para estudiantes de Ingeniería civil L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Hidrologia Para Estudiantes De Ingenieria Civil Wendor Chereque Moran'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/hidrologia-para-estudiantes-de-ingenieria-civil-wendor-chereque-moran.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "texto-basico-de-hidrologia-gamez-morales-william-r",
+      "title": "Texto Basico De Hidrologia Gamez Morales William R",
+      "author": "Desconegut / Institucional",
+      "filename": "texto-basico-de-hidrologia-gamez-morales-william-r.pdf",
+      "source_url": null,
+      "file_size_bytes": 3760652,
+      "sha256": "e0c72cac45957d66a7f81cc5420a92aac17ed226c32084d56d37770fd9051598",
+      "total_pages": 152,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Texto Basico De Hidrologia Gamez Morales William R dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: FACULTAD DE RECURSOS NATURALES Y DEL AMBIENTE L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Texto Basico De Hidrologia Gamez Morales William R'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/texto-basico-de-hidrologia-gamez-morales-william-r.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "hidrologia-aplicada-escorrentia-estilita-ruiz-romera-miren-martinez-santos",
+      "title": "Microsoft Word - Tema 5 _2_.docx",
+      "author": "iapruroe",
+      "filename": "hidrologia-aplicada-escorrentia-estilita-ruiz-romera-miren-martinez-santos.pdf",
+      "source_url": null,
+      "file_size_bytes": 907194,
+      "sha256": "55922aca47e5f83f37b954cd6e3a08b4803276836bd4e28abf9af083b03d29f7",
+      "total_pages": 57,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Microsoft Word - Tema 5 _2_.docx dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Hidrología Aplicada: Escorrentía L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Microsoft Word - Tema 5 _2_.docx'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/hidrologia-aplicada-escorrentia-estilita-ruiz-romera-miren-martinez-santos.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "hidrologia-basica-y-aplicada-allen-bateman",
+      "title": "(Microsoft Word - HIDROLOG\\315A B\\301SICA.doc)",
+      "author": "Allen Bateman",
+      "filename": "hidrologia-basica-y-aplicada-allen-bateman.pdf",
+      "source_url": null,
+      "file_size_bytes": 1383907,
+      "sha256": "9a704c2e6ed3b84657492d84c9b6530d588f925381602fbf099781b3259fe019",
+      "total_pages": 70,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de (Microsoft Word - HIDROLOG\\315A B\\301SICA.doc) dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Es el ciclo fundamental para entender los procesos que se suceden en la tierra. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for '(Microsoft Word - HIDROLOG\\315A B\\301SICA.doc)'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/hidrologia-basica-y-aplicada-allen-bateman.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "apuntes-de-sismologia-luis-a-estrada",
+      "title": "Sismologia para Ingenieros",
+      "author": "estradalof",
+      "filename": "apuntes-de-sismologia-luis-a-estrada.pdf",
+      "source_url": null,
+      "file_size_bytes": 1863805,
+      "sha256": "2bd36017986e16293821a1e98167d1a0b8cb81b723d5802223487d16fb164a5c",
+      "total_pages": 52,
+      "short_description": "Apunts de Càtedra Universitària d'abast a Argentina (Universidad Nacional de Tucumán) que aprofundeix en els fonaments i desenvolupament de Sismologia para Ingenieros dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un apunts de càtedra universitària centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad Nacional de Tucumán). El document aborda de manera sistemàtica els conceptes teòrics clau: FACULTAD DE CIENCIAS EXACTAS Y TECNOLOGÍA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad Nacional de Tucumán)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Apunts de Càtedra Universitària",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Sismologia para Ingenieros'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/apuntes-de-sismologia-luis-a-estrada.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Apunts de Càtedra Universitària",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "el-papel-de-la-geofisica-en-la-prospeccion-de-minerales-victor-a-quinzano",
+      "title": "El papel de la Geofísica en la prospección",
+      "author": ".-",
+      "filename": "el-papel-de-la-geofisica-en-la-prospeccion-de-minerales-victor-a-quinzano.pdf",
+      "source_url": null,
+      "file_size_bytes": 372006,
+      "sha256": "ff9bdf4e3d8075fc616ff51ab10c1f2c84d57ea2ddeff170348a03dcb2d74768",
+      "total_pages": 51,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de El papel de la Geofísica en la prospección dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: UNIDAD V: “EXPLORACIÓN GEOFÍSICA” L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'El papel de la Geofísica en la prospección'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-papel-de-la-geofisica-en-la-prospeccion-de-minerales-victor-a-quinzano.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "curso-caracterizacion-de-volcanes-y-su-incidencia-en-el-tipo-de-peligro-solange-sanchez-kaiser",
+      "title": "Curso Caracterizacion De Volcanes Y Su Incidencia En El Tipo De Peligro Solange Sanchez Kaiser",
+      "author": "Emily Nicole Sanchez Zambrano",
+      "filename": "curso-caracterizacion-de-volcanes-y-su-incidencia-en-el-tipo-de-peligro-solange-sanchez-kaiser.pdf",
+      "source_url": null,
+      "file_size_bytes": 927716,
+      "sha256": "3acda8afda5e76ba0e9eb6f9448c2bf13f40dd535eaafbfd4da6e2939502ab82",
+      "total_pages": 30,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic (UNAM) que aprofundeix en els fonaments i desenvolupament de Curso Caracterizacion De Volcanes Y Su Incidencia En El Tipo De Peligro Solange Sanchez Kaiser dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic (UNAM). El document aborda de manera sistemàtica els conceptes teòrics clau: Curso Caracterización de volcanes y L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic (UNAM)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Curso Caracterizacion De Volcanes Y Su Incidencia En El Tipo De Peligro Solange Sanchez Kaiser'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/curso-caracterizacion-de-volcanes-y-su-incidencia-en-el-tipo-de-peligro-solange-sanchez-kaiser.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "guia-sobre-gases-volcanicos-y-aerosoles-ivhhn",
+      "title": "Microsoft Word - INDICADORES SOBRE GASES VOLCANICOS Y AEROSOLES.doc",
+      "author": "cjh",
+      "filename": "guia-sobre-gases-volcanicos-y-aerosoles-ivhhn.pdf",
+      "source_url": null,
+      "file_size_bytes": 178107,
+      "sha256": "3e86955fd5c59e97b96e43eacdeb5c31751e5b549d4251e9c5295d771a115e32",
+      "total_pages": 47,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Microsoft Word - INDICADORES SOBRE GASES VOLCANICOS Y AEROSOLES.doc dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: GUIA SOBRE GASES VOLCANICOS Y AEROSOLES L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Microsoft Word - INDICADORES SOBRE GASES VOLCANICOS Y AEROSOLES.doc'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-sobre-gases-volcanicos-y-aerosoles-ivhhn.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "notas-de-ciencias-planetarias-tabare-gallardo",
+      "title": "Notas De Ciencias Planetarias Tabare Gallardo",
+      "author": "Desconegut / Institucional",
+      "filename": "notas-de-ciencias-planetarias-tabare-gallardo.pdf",
+      "source_url": null,
+      "file_size_bytes": 13146932,
+      "sha256": "3ca5112cd8f32c2b428a0b514709ab2e8ef4faf09815680a48df8708445cfd1f",
+      "total_pages": 298,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Notas De Ciencias Planetarias Tabare Gallardo dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: para estudiantes de Ciencias Físicas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Notas De Ciencias Planetarias Tabare Gallardo'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/notas-de-ciencias-planetarias-tabare-gallardo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "los-satelites-y-su-utilidad-en-nuestro-dia-a-dia-maria-jose-gonzalez-bonilla",
+      "title": "Los Satelites Y Su Utilidad En Nuestro Dia A Dia Maria Jose Gonzalez Bonilla",
+      "author": "PAZ-Ciencia",
+      "filename": "los-satelites-y-su-utilidad-en-nuestro-dia-a-dia-maria-jose-gonzalez-bonilla.pdf",
+      "source_url": null,
+      "file_size_bytes": 1535375,
+      "sha256": "50d2b386c733686e1a4beb06c9ffc86d8616c0b94b8ad212d5ae46e1f4866747",
+      "total_pages": 43,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Los Satelites Y Su Utilidad En Nuestro Dia A Dia Maria Jose Gonzalez Bonilla dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: INSTITUTO ESPACIAL DE TÉCNICA AEROESPACIAL L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Los Satelites Y Su Utilidad En Nuestro Dia A Dia Maria Jose Gonzalez Bonilla'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/los-satelites-y-su-utilidad-en-nuestro-dia-a-dia-maria-jose-gonzalez-bonilla.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "los-cielos-de-los-planetas-y-satelites-del-sistema-solar-julio-solis-garcia",
+      "title": "Cielos-Sistema-Solar",
+      "author": "XPHome",
+      "filename": "los-cielos-de-los-planetas-y-satelites-del-sistema-solar-julio-solis-garcia.pdf",
+      "source_url": null,
+      "file_size_bytes": 1278316,
+      "sha256": "67a28c84ffdc093753b32d443747ef7fa8cbf8fb154230b9cba22c35b43d9597",
+      "total_pages": 29,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Cielos-Sistema-Solar dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Los cielos de los planetas y satélites del Sistema Solar L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Cielos-Sistema-Solar'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/los-cielos-de-los-planetas-y-satelites-del-sistema-solar-julio-solis-garcia.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "fundamentos-de-ecologia-y-ambiente-leonardo-malacalza-fernando-r-momo-carlos-e-coviella",
+      "title": "Fundamentos De Ecologia Y Ambiente Leonardo Malacalza Fernando R Momo Carlos E Coviella",
+      "author": "Desconegut / Institucional",
+      "filename": "fundamentos-de-ecologia-y-ambiente-leonardo-malacalza-fernando-r-momo-carlos-e-coviella.pdf",
+      "source_url": null,
+      "file_size_bytes": 856890,
+      "sha256": "b2b42bf6327f4a00c920986a268c2daad218f1ccf94e412aa3bfbb7fffac351b",
+      "total_pages": 166,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Fundamentos De Ecologia Y Ambiente Leonardo Malacalza Fernando R Momo Carlos E Coviella dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Hecho el depósito que marca la ley 11723 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISBN 978-987-3941-21-4"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Fundamentos De Ecologia Y Ambiente Leonardo Malacalza Fernando R Momo Carlos E Coviella'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-ecologia-y-ambiente-leonardo-malacalza-fernando-r-momo-carlos-e-coviella.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "conceptos-basicos-de-ecologia-universidad-nacional-de-la-plata",
+      "title": "Conceptos básicos de Ecología",
+      "author": "Author",
+      "filename": "conceptos-basicos-de-ecologia-universidad-nacional-de-la-plata.pdf",
+      "source_url": null,
+      "file_size_bytes": 3645486,
+      "sha256": "7a98efcbe958b4f3ff67476fd36804981444382da673c5537c92270264c181eb",
+      "total_pages": 62,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Conceptos básicos de Ecología dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: 2. Ambiente y Factores ecológicos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Conceptos básicos de Ecología'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/conceptos-basicos-de-ecologia-universidad-nacional-de-la-plata.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "ecologia-colegio-de-bachilleres",
+      "title": "COLEGIO DE BACHILLERES",
+      "author": ".",
+      "filename": "ecologia-colegio-de-bachilleres.pdf",
+      "source_url": null,
+      "file_size_bytes": 6600562,
+      "sha256": "23637338daf183701d919d714c25e555aeef50213cc9e3303d89c1232f1ee52f",
+      "total_pages": 259,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de COLEGIO DE BACHILLERES dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: FASCÍCULO 1.    INTRODUCCIÓN A LA ECOLOGÍA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'COLEGIO DE BACHILLERES'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ecologia-colegio-de-bachilleres.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "el-oceano-maravilla-terrestre-secretaria-ejecutiva-comision-colombiana-del-oceano",
+      "title": "El Oceano Maravilla Terrestre Secretaria Ejecutiva Comision Colombiana Del Oceano",
+      "author": "Desconegut / Institucional",
+      "filename": "el-oceano-maravilla-terrestre-secretaria-ejecutiva-comision-colombiana-del-oceano.pdf",
+      "source_url": null,
+      "file_size_bytes": 20661987,
+      "sha256": "151492b36110c3d8d3bc8c2732d9febedb74e4370de89831e2781a3f9bb4d9d4",
+      "total_pages": 484,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de El Oceano Maravilla Terrestre Secretaria Ejecutiva Comision Colombiana Del Oceano dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Secretaría Ejecutiva Comisión Colombiana del Océano L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'El Oceano Maravilla Terrestre Secretaria Ejecutiva Comision Colombiana Del Oceano'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-oceano-maravilla-terrestre-secretaria-ejecutiva-comision-colombiana-del-oceano.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "ensenanza-practica-de-conceptos-de-oceanografia-fisica-lee-karp-boss-emmanuel-boss-herman-weller-james-loftin",
+      "title": "Ensenanza Practica De Conceptos De Oceanografia Fisica Lee Karp Boss Emmanuel Boss Herman Weller James Loftin",
+      "author": "Desconegut / Institucional",
+      "filename": "ensenanza-practica-de-conceptos-de-oceanografia-fisica-lee-karp-boss-emmanuel-boss-herman-weller-james-loftin.pdf",
+      "source_url": null,
+      "file_size_bytes": 1979291,
+      "sha256": "5c795b811a93738a60ed940c19992175319bd64e57916ebe81247e1aae4ea238",
+      "total_pages": 58,
+      "short_description": "Tesi Acadèmica d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Ensenanza Practica De Conceptos De Oceanografia Fisica Lee Karp Boss Emmanuel Boss Herman Weller James Loftin dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Por Lee Karp-Boss, Emmanuel Boss, Herman Weller, James Loftin, and Jennifer Albright L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Ensenanza Practica De Conceptos De Oceanografia Fisica Lee Karp Boss Emmanuel Boss Herman Weller James Loftin'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ensenanza-practica-de-conceptos-de-oceanografia-fisica-lee-karp-boss-emmanuel-boss-herman-weller-james-loftin.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tesi Acadèmica",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "temas-de-quimica-oceanografica-jose-lopez-ruiz",
+      "title": "Temas De Quimica Oceanografica Jose Lopez Ruiz",
+      "author": "Desconegut / Institucional",
+      "filename": "temas-de-quimica-oceanografica-jose-lopez-ruiz.pdf",
+      "source_url": null,
+      "file_size_bytes": 8012715,
+      "sha256": "2c921d06c8e03d7c50ccada9dd283cf38c867284627331c54df22ce5df8e73e6",
+      "total_pages": 278,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Temas De Quimica Oceanografica Jose Lopez Ruiz dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Agradecemos a la Lda. Gema Mira la eficaz L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "ISBN 84-7786-577-9"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Temas De Quimica Oceanografica Jose Lopez Ruiz'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/temas-de-quimica-oceanografica-jose-lopez-ruiz.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-meteorologia-general-lic-horacio-e-sarochar",
+      "title": "Introduccion A La Meteorologia General Lic Horacio E Sarochar",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-la-meteorologia-general-lic-horacio-e-sarochar.pdf",
+      "source_url": null,
+      "file_size_bytes": 2682691,
+      "sha256": "2cf33b7cdf5f0e3d54e26e9d671596fbb278321c75ceff06ad92c322f0aa1ef6",
+      "total_pages": 25,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Introduccion A La Meteorologia General Lic Horacio E Sarochar dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: FORMACIÓN, ESTRUCTURA, PRESIÓN Y TEMPERATURA DE LA ATMÓSFERA.................2 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Introduccion A La Meteorologia General Lic Horacio E Sarochar'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-meteorologia-general-lic-horacio-e-sarochar.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "la-metereologia-conceptos-basicos-al-alcance-de-todos-juan-luis-mahiques-zaragoza",
+      "title": "La Metereologia Conceptos Basicos Al Alcance De Todos Juan Luis Mahiques Zaragoza",
+      "author": "silvia climent",
+      "filename": "la-metereologia-conceptos-basicos-al-alcance-de-todos-juan-luis-mahiques-zaragoza.pdf",
+      "source_url": null,
+      "file_size_bytes": 187403,
+      "sha256": "a28e3438e1fe9131ae596224d18ddcb37347b7a3957f9114826c3d789fab46f7",
+      "total_pages": 19,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de La Metereologia Conceptos Basicos Al Alcance De Todos Juan Luis Mahiques Zaragoza dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Editada por Área de Innovación y Desarrollo, S.L. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'La Metereologia Conceptos Basicos Al Alcance De Todos Juan Luis Mahiques Zaragoza'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-metereologia-conceptos-basicos-al-alcance-de-todos-juan-luis-mahiques-zaragoza.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "curso-de-meteorologia-basica-tic-maritimo-pesquera",
+      "title": "Curso De Meteorologia Basica Tic Maritimo Pesquera",
+      "author": "Desconegut / Institucional",
+      "filename": "curso-de-meteorologia-basica-tic-maritimo-pesquera.pdf",
+      "source_url": null,
+      "file_size_bytes": 6894176,
+      "sha256": "ccf02d4dab06bc75fad35fb3a1244fd84623cfb78de921e0c7100500db7d3613",
+      "total_pages": 138,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Curso De Meteorologia Basica Tic Maritimo Pesquera dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: La Tierra está dotada de dos movimientos principales estrechamente L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Curso De Meteorologia Basica Tic Maritimo Pesquera'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/curso-de-meteorologia-basica-tic-maritimo-pesquera.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "fundamentos-de-paleontologia-daniel-perea-ed-fernanda-cabrera-andrea-corona",
+      "title": "Fundamentos De Paleontologia Daniel Perea Ed Fernanda Cabrera Andrea Corona",
+      "author": "Desconegut / Institucional",
+      "filename": "fundamentos-de-paleontologia-daniel-perea-ed-fernanda-cabrera-andrea-corona.pdf",
+      "source_url": null,
+      "file_size_bytes": 3763260,
+      "sha256": "7ad19fb44d1f9c152ee21c5a4b04fe15af7b40eba682ff08d3226f7e0ed8ea80",
+      "total_pages": 104,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Fundamentos De Paleontologia Daniel Perea Ed Fernanda Cabrera Andrea Corona dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: COMISIÓN SECTORIAL DE ENSEÑANZA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Fundamentos De Paleontologia Daniel Perea Ed Fernanda Cabrera Andrea Corona'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-paleontologia-daniel-perea-ed-fernanda-cabrera-andrea-corona.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "que-es-la-paleontologia-rene-hernandez-rivera",
+      "title": "Que Es La Paleontologia Rene Hernandez Rivera",
+      "author": "Desconegut / Institucional",
+      "filename": "que-es-la-paleontologia-rene-hernandez-rivera.pdf",
+      "source_url": null,
+      "file_size_bytes": 10238164,
+      "sha256": "3bb883ef38898d0eabc11361ad319885207cff0bd418da0aab8ccb27c787aa25",
+      "total_pages": 76,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Que Es La Paleontologia Rene Hernandez Rivera dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Elaborado por René Hernández Rivera L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Que Es La Paleontologia Rene Hernandez Rivera'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/que-es-la-paleontologia-rene-hernandez-rivera.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "los-invertebrados-fosiles-horacio-h-camacho",
+      "title": "invertebrados_parteA_imprenta_demasia.pmd",
+      "author": "MM",
+      "filename": "los-invertebrados-fosiles-horacio-h-camacho.pdf",
+      "source_url": null,
+      "file_size_bytes": 50674621,
+      "sha256": "0f414857c1173f93927d7e79e06ba303942c32a487d011c3ec0f59c5e7df5341",
+      "total_pages": 526,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de invertebrados_parteA_imprenta_demasia.pmd dins de Ciencias De La Tierra.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias De La Tierra (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: *Museo Argentino de Ciencias Naturales «Bernardino Rivadavia» L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-987-22121-7-9"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias De La Tierra.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'invertebrados_parteA_imprenta_demasia.pmd'. Domain: Ciencias Exactas y Naturales (Ciencias De La Tierra). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/los-invertebrados-fosiles-horacio-h-camacho.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias De La Tierra",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    }
+  ]
+}

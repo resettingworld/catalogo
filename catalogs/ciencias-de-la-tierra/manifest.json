@@ -1,0 +1,26 @@
+{
+  "rag_id": "ciencias-de-la-tierra",
+  "name": "Ciencias De La Tierra",
+  "description": "Col·lecció completa de llibres i manuals de Ciencias De La Tierra (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794267735.62383,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 5944,
+  "total_documents": 27,
+  "total_library_files": 27,
+  "total_images_extracted": 2284,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "ciencias-de-la-tierra",
+    "ciencias",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

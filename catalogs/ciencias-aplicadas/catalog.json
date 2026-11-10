@@ -1,0 +1,647 @@
+{
+  "topic": "Ciencias Aplicadas",
+  "domain": "Ciencias Exactas y Naturales",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 18,
+  "total_pages": 4831,
+  "total_size_mb": 80.07,
+  "books": [
+    {
+      "id": "introduccion-a-la-ingenieria-julio-alberto-castillo-ramirez",
+      "title": "Introduccion A La Ingenieria Julio Alberto Castillo Ramirez",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-la-ingenieria-julio-alberto-castillo-ramirez.pdf",
+      "source_url": null,
+      "file_size_bytes": 836524,
+      "sha256": "4b426fcafd25c4a9f75615a250aa709db1414aa19add095a73496ff583ccc931",
+      "total_pages": 98,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Introduccion A La Ingenieria Julio Alberto Castillo Ramirez dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Autor: Julio Alberto Castillo Ramírez L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introduccion A La Ingenieria Julio Alberto Castillo Ramirez'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-ingenieria-julio-alberto-castillo-ramirez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-ingenieria-ano-cero-formando-ingenieros-dr-eduardo-galvez-soto",
+      "title": "INTRODUCCIÓN A LA INGENIERÍA",
+      "author": "UTAHP2011",
+      "filename": "introduccion-a-la-ingenieria-ano-cero-formando-ingenieros-dr-eduardo-galvez-soto.pdf",
+      "source_url": null,
+      "file_size_bytes": 6468873,
+      "sha256": "ba2a061f1cf7b46f0b164dbb747417453e72d39ed07e70ec134d9d0f8689c797",
+      "total_pages": 368,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de INTRODUCCIÓN A LA INGENIERÍA dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: CAPÍTULO I   Historia y desafíos de la ingeniería L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'INTRODUCCIÓN A LA INGENIERÍA'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-ingenieria-ano-cero-formando-ingenieros-dr-eduardo-galvez-soto.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-ingenieria-industrial-felipe-gutarra-meza",
+      "title": "Introduccion A La Ingenieria Industrial Felipe Gutarra Meza",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-la-ingenieria-industrial-felipe-gutarra-meza.pdf",
+      "source_url": null,
+      "file_size_bytes": 979752,
+      "sha256": "d9cefd9255d2b625fee14ef8c7cf58cd745883ee5dd9f2707b10d5fa9c647e8f",
+      "total_pages": 174,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Introduccion A La Ingenieria Industrial Felipe Gutarra Meza dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Cada autor es responsable del contenido de su propio texto. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introduccion A La Ingenieria Industrial Felipe Gutarra Meza'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-ingenieria-industrial-felipe-gutarra-meza.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "semiologia-medica-luis-jorge-gajardo-navarrete",
+      "title": "Semiologia Medica Luis Jorge Gajardo Navarrete",
+      "author": "Desconegut / Institucional",
+      "filename": "semiologia-medica-luis-jorge-gajardo-navarrete.pdf",
+      "source_url": null,
+      "file_size_bytes": 2425696,
+      "sha256": "72caec1f996bdd94fa1f412567b34120c4bf17d59372bde6aabd1552b7689573",
+      "total_pages": 90,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Semiologia Medica Luis Jorge Gajardo Navarrete dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: LUIS JORGE GAJARDO NAVARRETE, editor L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "ISBN 978-956-227-532-3"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Semiologia Medica Luis Jorge Gajardo Navarrete'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/semiologia-medica-luis-jorge-gajardo-navarrete.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "manual-de-pediatria-dra-cecilia-perret-p",
+      "title": "Manual De Pediatria Dra Cecilia Perret P",
+      "author": "Desconegut / Institucional",
+      "filename": "manual-de-pediatria-dra-cecilia-perret-p.pdf",
+      "source_url": null,
+      "file_size_bytes": 10832472,
+      "sha256": "3ef672592a9adf5973df966dbbbab8776d973b741af545b40ff0d365b9151c17",
+      "total_pages": 518,
+      "short_description": "Manual Docent i Tècnic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Manual De Pediatria Dra Cecilia Perret P dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: Este Manual ha sido elaborado a partir de la transcripción de las clases dictadas por docentes de L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Manual De Pediatria Dra Cecilia Perret P'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-pediatria-dra-cecilia-perret-p.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Manual Docent i Tècnic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "nociones-de-inmunologia-bruno-lomonte-v",
+      "title": "Microsoft Word - 2009_Nociones.DOC",
+      "author": "Owner",
+      "filename": "nociones-de-inmunologia-bruno-lomonte-v.pdf",
+      "source_url": null,
+      "file_size_bytes": 1287400,
+      "sha256": "b6fa7fea6285ecc5331c168f59f7686cb40091186f357acb4d01cc987accc198",
+      "total_pages": 54,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Microsoft Word - 2009_Nociones.DOC dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Este folleto puede descargarse gratuitamente por internet, en la siguiente dirección: L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Microsoft Word - 2009_Nociones.DOC'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/nociones-de-inmunologia-bruno-lomonte-v.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "fundamentos-de-informatica-jose-r-villar",
+      "title": "Fundamentos De Informatica Jose R Villar",
+      "author": "Desconegut / Institucional",
+      "filename": "fundamentos-de-informatica-jose-r-villar.pdf",
+      "source_url": null,
+      "file_size_bytes": 2991322,
+      "sha256": "09b1277aa9d9c94a9bc92cc4c5edd14bbbb4411158720a710ed0d6e8e5e9cf75",
+      "total_pages": 168,
+      "short_description": "Compendi d'Exercicis i Problemes Resolts d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Fundamentos De Informatica Jose R Villar dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un compendi d'exercicis i problemes resolts centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Visión general de la Informática . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Compendi d'Exercicis i Problemes Resolts",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Fundamentos De Informatica Jose R Villar'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-informatica-jose-r-villar.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Compendi d'Exercicis i Problemes Resolts",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-informatica-i-dr-francisco-jose-villazan-olivarez",
+      "title": "MANUAL DE INFORMÁTICA I",
+      "author": "Dr. Francisco José Villazán Olivarez",
+      "filename": "manual-de-informatica-i-dr-francisco-jose-villazan-olivarez.pdf",
+      "source_url": null,
+      "file_size_bytes": 5812662,
+      "sha256": "1e14aa63e3e9ca1f62f0705b1efa05d9f75dea51334f7c66b9cb9cf24b7f2e0b",
+      "total_pages": 261,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de MANUAL DE INFORMÁTICA I dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Dr. Francisco José Villazán Olivarez L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'MANUAL DE INFORMÁTICA I'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-informatica-i-dr-francisco-jose-villazan-olivarez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "guia-del-taller-de-iniciacion-a-la-informatica-fundacion-upc",
+      "title": "Guia Del Taller De Iniciacion A La Informatica Fundacion Upc",
+      "author": "Desconegut / Institucional",
+      "filename": "guia-del-taller-de-iniciacion-a-la-informatica-fundacion-upc.pdf",
+      "source_url": null,
+      "file_size_bytes": 4118275,
+      "sha256": "dde263f6e98b84762aeb0329c048800a2adeff69ce765f5ac92085e5a5cc46af",
+      "total_pages": 258,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Guia Del Taller De Iniciacion A La Informatica Fundacion Upc dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Av. Diagonal, 621 - 08028 Barcelona L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Guia Del Taller De Iniciacion A La Informatica Fundacion Upc'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-del-taller-de-iniciacion-a-la-informatica-fundacion-upc.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "conceptos-basicos-de-representacion-en-arquitectura-cesar-andres-rosales-caicedo-jeinstom-jensen-gomez-y-luis-david-cardona-jimenez",
+      "title": "Conceptos Basicos De Representacion En Arquitectura Cesar Andres Rosales Caicedo Jeinstom Jensen Gomez Y Luis David Cardona Jimenez",
+      "author": "Desconegut / Institucional",
+      "filename": "conceptos-basicos-de-representacion-en-arquitectura-cesar-andres-rosales-caicedo-jeinstom-jensen-gomez-y-luis-david-cardona-jimenez.pdf",
+      "source_url": null,
+      "file_size_bytes": 4022586,
+      "sha256": "3a292c2bb03d51844b045eedfd0a5f986daa5575a39c9187268b356ac752cb8e",
+      "total_pages": 80,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Conceptos Basicos De Representacion En Arquitectura Cesar Andres Rosales Caicedo Jeinstom Jensen Gomez Y Luis David Cardona Jimenez dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: CONCEPTOS BÁSICOS DE REPRESENTACIÓN L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Conceptos Basicos De Representacion En Arquitectura Cesar Andres Rosales Caicedo Jeinstom Jensen Gomez Y Luis David Cardona Jimenez'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/conceptos-basicos-de-representacion-en-arquitectura-cesar-andres-rosales-caicedo-jeinstom-jensen-gomez-y-luis-david-cardona-jimenez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "hacia-una-teoria-arquitectonica-del-habitar-nestor-casanova-berna",
+      "title": "Imprimir",
+      "author": "Desconegut / Institucional",
+      "filename": "hacia-una-teoria-arquitectonica-del-habitar-nestor-casanova-berna.pdf",
+      "source_url": null,
+      "file_size_bytes": 609159,
+      "sha256": "b70c1f46c90995e1b9c626f84f498128b64e30b4319c42184127fa2f3237f514",
+      "total_pages": 122,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Imprimir dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Hacia una teoría arquitectónica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Imprimir'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/hacia-una-teoria-arquitectonica-del-habitar-nestor-casanova-berna.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "concepciones-de-la-funcion-en-la-arquitectura-moderna-damian-plouganou",
+      "title": "Concepciones De La Funcion En La Arquitectura Moderna Damian Plouganou",
+      "author": "Desconegut / Institucional",
+      "filename": "concepciones-de-la-funcion-en-la-arquitectura-moderna-damian-plouganou.pdf",
+      "source_url": null,
+      "file_size_bytes": 8750923,
+      "sha256": "6613ef306b04121279acf8dde01013856578b2f329a750c26d35462b059e4b8c",
+      "total_pages": 304,
+      "short_description": "Tesi Acadèmica d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Concepciones De La Funcion En La Arquitectura Moderna Damian Plouganou dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: ESCUELA TÉCNICA SUPERIOR DE ARQUITECTURA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Concepciones De La Funcion En La Arquitectura Moderna Damian Plouganou'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/concepciones-de-la-funcion-en-la-arquitectura-moderna-damian-plouganou.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tesi Acadèmica",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "agricultura-sostenible-como-base-para-los-agronegocios-ramon-jarquin-galvez-y-arturo-huerta-de-la-pena",
+      "title": "Agricultura Sostenible Como Base Para Los Agronegocios Ramon Jarquin Galvez Y Arturo Huerta De La Pena",
+      "author": "viridiana isabel serna madrid",
+      "filename": "agricultura-sostenible-como-base-para-los-agronegocios-ramon-jarquin-galvez-y-arturo-huerta-de-la-pena.pdf",
+      "source_url": null,
+      "file_size_bytes": 18888064,
+      "sha256": "b4b15810c48e6874007837c789577629a8fd7c5b2b650f5c7256c44ef518b1a9",
+      "total_pages": 1522,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Agricultura Sostenible Como Base Para Los Agronegocios Ramon Jarquin Galvez Y Arturo Huerta De La Pena dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: Metropolitana, Maestro en Ciencias en Recursos Naturales y desarrollo rural (1996) por el Colegio L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Agricultura Sostenible Como Base Para Los Agronegocios Ramon Jarquin Galvez Y Arturo Huerta De La Pena'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/agricultura-sostenible-como-base-para-los-agronegocios-ramon-jarquin-galvez-y-arturo-huerta-de-la-pena.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "guia-de-las-normas-basicas-para-la-agricultura-organica-angela-diaz-montoya-y-jutta-krawinkel",
+      "title": "Guia De Las Normas Basicas Para La Agricultura Organica Angela Diaz Montoya Y Jutta Krawinkel",
+      "author": "Desconegut / Institucional",
+      "filename": "guia-de-las-normas-basicas-para-la-agricultura-organica-angela-diaz-montoya-y-jutta-krawinkel.pdf",
+      "source_url": null,
+      "file_size_bytes": 1991910,
+      "sha256": "f0e8857651c5f486ce32d4982d52e9ada4bc5772ee3fb43524e3f514310867ea",
+      "total_pages": 110,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Guia De Las Normas Basicas Para La Agricultura Organica Angela Diaz Montoya Y Jutta Krawinkel dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Normas básicas para la Agricultura Orgánica, L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Guia De Las Normas Basicas Para La Agricultura Organica Angela Diaz Montoya Y Jutta Krawinkel'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-de-las-normas-basicas-para-la-agricultura-organica-angela-diaz-montoya-y-jutta-krawinkel.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "manual-de-horticultura-ministerio-de-agroindustria-argentina",
+      "title": "Manual De Horticultura Ministerio De Agroindustria Argentina",
+      "author": "Marianela Zaccaro",
+      "filename": "manual-de-horticultura-ministerio-de-agroindustria-argentina.pdf",
+      "source_url": null,
+      "file_size_bytes": 4166912,
+      "sha256": "629062716af9a68ec82999232fb4b1204ac0e043bf5cc5a811f0a62782f4dc78",
+      "total_pages": 101,
+      "short_description": "Manual Docent i Tècnic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Manual De Horticultura Ministerio De Agroindustria Argentina dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: La colección de Manuales para las Escuelas Agrarias de la Provincia de Buenos Aires, es L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Manual De Horticultura Ministerio De Agroindustria Argentina'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-horticultura-ministerio-de-agroindustria-argentina.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Manual Docent i Tècnic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "fundamentos-de-administracion-francisco-hernandez-mendoza-gabriela-montero-montiel-y-cora-yolanda-narcia-constandse",
+      "title": "Fundamentos De Administracion Francisco Hernandez Mendoza Gabriela Montero Montiel Y Cora Yolanda Narcia Constandse",
+      "author": "Desconegut / Institucional",
+      "filename": "fundamentos-de-administracion-francisco-hernandez-mendoza-gabriela-montero-montiel-y-cora-yolanda-narcia-constandse.pdf",
+      "source_url": null,
+      "file_size_bytes": 7585572,
+      "sha256": "d6a959bfcf9f78993465d917db58f5e9e7573c50eab719864be72e2f28234aac",
+      "total_pages": 401,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Fundamentos De Administracion Francisco Hernandez Mendoza Gabriela Montero Montiel Y Cora Yolanda Narcia Constandse dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Mtro. Francisco Hernández Mendoza L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Fundamentos De Administracion Francisco Hernandez Mendoza Gabriela Montero Montiel Y Cora Yolanda Narcia Constandse'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-administracion-francisco-hernandez-mendoza-gabriela-montero-montiel-y-cora-yolanda-narcia-constandse.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-teoria-de-la-administracion-nestor-c-kirchner",
+      "title": "Introducción a la teoría de la administración ",
+      "author": "Instituto Nacional de Educación Tecnológica (Argentina)",
+      "filename": "introduccion-a-la-teoria-de-la-administracion-nestor-c-kirchner.pdf",
+      "source_url": null,
+      "file_size_bytes": 987463,
+      "sha256": "acb0de1aafcf3cd8de58c04ce6f2645da316ce4993039fa593fbfa92352a8a14",
+      "total_pages": 121,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Introducción a la teoría de la administración  dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: colección/gestión de las organizaciones L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introducción a la teoría de la administración '. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-teoria-de-la-administracion-nestor-c-kirchner.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "administracion-de-empresas-diana-mondragon-puerto",
+      "title": "Administracion De Empresas Diana Mondragon Puerto",
+      "author": "Desconegut / Institucional",
+      "filename": "administracion-de-empresas-diana-mondragon-puerto.pdf",
+      "source_url": null,
+      "file_size_bytes": 1208172,
+      "sha256": "b9296ed0842c99ebf5b326462e1b0475312510118a84495285266395be1fee19",
+      "total_pages": 81,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Administracion De Empresas Diana Mondragon Puerto dins de Ciencias Aplicadas.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ciencias Aplicadas (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Administración de Empresas / Diana Mondragon Puerto, / Bogotá L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Ciencias Aplicadas.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Administracion De Empresas Diana Mondragon Puerto'. Domain: Ciencias Exactas y Naturales (Ciencias Aplicadas). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/administracion-de-empresas-diana-mondragon-puerto.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ciencias Aplicadas",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,469 @@
+{
+  "schema_version": "1.0.0",
+  "id": "blockchain",
+  "name": "Blockchain",
+  "description": "Col·lecció completa de llibres i manuals de Blockchain (Estil Collage Punk DIY).",
+  "category": {
+    "slug": "informatica",
+    "name": "Informatica",
+    "url": "https://infolibros.org/libros-pdf-gratis/informatica/"
+  },
+  "domain": "Tecnología e Informática",
+  "language": "es",
+  "portal_source": {
+    "name": "InfoLibros",
+    "url": "https://infolibros.org/libros-pdf-gratis/informatica/blockchain/",
+    "scraped_at": "2026-11-10T00:28:55.772695+00:00"
+  },
+  "tags": [
+    "blockchain",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "b94db738-ba2b-4e4b-8691-a4d886e927b8",
+      "title": "Blockchain A Brief Overview Ingles Presentacion Dr Cathy Mulligan",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "blockchain-a-brief-overview-ingles-presentacion-dr-cathy-mulligan.pdf",
+      "source_url": null,
+      "file_size_bytes": 2025426,
+      "sha256": "a5e6c6b7dc7dbfd59b216881d8a906f8d86efcb1284beca2b254e6f69276b38b",
+      "page_count": 19,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_b94db738-ba2b-4e4b-8691-a4d886e927b8_p1_1.jpeg",
+        "img_b94db738-ba2b-4e4b-8691-a4d886e927b8_p2_1.png",
+        "img_b94db738-ba2b-4e4b-8691-a4d886e927b8_p4_1.jpeg",
+        "img_b94db738-ba2b-4e4b-8691-a4d886e927b8_p6_1.png",
+        "img_b94db738-ba2b-4e4b-8691-a4d886e927b8_p12_1.png",
+        "img_b94db738-ba2b-4e4b-8691-a4d886e927b8_p13_1.png",
+        "img_b94db738-ba2b-4e4b-8691-a4d886e927b8_p14_1.png",
+        "img_b94db738-ba2b-4e4b-8691-a4d886e927b8_p15_1.jpeg"
+      ]
+    },
+    {
+      "id": "1f996e1f-20d3-4fb1-8cd3-0c2217ac5745",
+      "title": "Blockchain A Internet Da Confianca Portugues Nuno Pereira Y Fabio Hashimoto",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "blockchain-a-internet-da-confianca-portugues-nuno-pereira-y-fabio-hashimoto.pdf",
+      "source_url": null,
+      "file_size_bytes": 623309,
+      "sha256": "09c6beace4dfbd93ee7879701ef137b9da1ca2779cac2778609bcf87ac2040f0",
+      "page_count": 16,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_1f996e1f-20d3-4fb1-8cd3-0c2217ac5745_p1_0.png",
+        "img_1f996e1f-20d3-4fb1-8cd3-0c2217ac5745_p3_0.png",
+        "img_1f996e1f-20d3-4fb1-8cd3-0c2217ac5745_p4_0.jpeg",
+        "img_1f996e1f-20d3-4fb1-8cd3-0c2217ac5745_p7_0.jpeg"
+      ]
+    },
+    {
+      "id": "75c71d2c-4d59-4dc1-82db-968d9ca58f0b",
+      "title": "Blockchain Articulo Ministerio De Economia Fomento Y Turismo Del Gobierno De Chile",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "blockchain-articulo-ministerio-de-economia-fomento-y-turismo-del-gobierno-de-chile.pdf",
+      "source_url": null,
+      "file_size_bytes": 186534,
+      "sha256": "d35724824ffc338effcde0d7fdc749d1170de32a3e5db86b732f4f669ac904ee",
+      "page_count": 4,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "fee2627a-dab1-451a-8186-4db1533808ac",
+      "title": "Blockchain Ciberseguridad Eric Piscini David Dalton Y Lory Kehoe",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "blockchain-ciberseguridad-eric-piscini-david-dalton-y-lory-kehoe.pdf",
+      "source_url": null,
+      "file_size_bytes": 7808831,
+      "sha256": "9f3d5d9d1394e30b84d06ac91dbe228821380ee6055855a83584acea2fbadfa5",
+      "page_count": 16,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_fee2627a-dab1-451a-8186-4db1533808ac_p3_0.jpeg",
+        "img_fee2627a-dab1-451a-8186-4db1533808ac_p4_0.jpeg",
+        "img_fee2627a-dab1-451a-8186-4db1533808ac_p7_0.jpeg",
+        "img_fee2627a-dab1-451a-8186-4db1533808ac_p8_0.jpeg",
+        "img_fee2627a-dab1-451a-8186-4db1533808ac_p10_0.jpeg",
+        "img_fee2627a-dab1-451a-8186-4db1533808ac_p12_0.jpeg",
+        "img_fee2627a-dab1-451a-8186-4db1533808ac_p14_0.jpeg"
+      ]
+    },
+    {
+      "id": "60c17f6d-77e5-44d3-89fb-cc5c78a67117",
+      "title": "Blockchain Disrupcion Valor Y Seguridad Vector Itc",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "blockchain-disrupcion-valor-y-seguridad-vector-itc.pdf",
+      "source_url": null,
+      "file_size_bytes": 32550036,
+      "sha256": "f569e1c892bd78eff4d0856d36f1ba4e950e3b13fb2a30427cc6495135cc61f7",
+      "page_count": 48,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p2_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p4_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p5_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p6_0.png",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p6_1.png",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p6_2.png",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p6_3.png",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p7_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p11_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p16_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p17_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p18_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p19_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p20_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p22_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p25_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p27_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p30_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p34_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p35_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p42_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p45_0.jpeg",
+        "img_60c17f6d-77e5-44d3-89fb-cc5c78a67117_p47_0.jpeg"
+      ]
+    },
+    {
+      "id": "64a7e99f-e8bc-4c89-ba73-9e174c0aa914",
+      "title": "Blockchain La Descentralizacion Del Poder Y Su Aplicacion En La Defensa Ricardo Palomo   Zurdo",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "blockchain-la-descentralizacion-del-poder-y-su-aplicacion-en-la-defensa-ricardo-palomo---zurdo.pdf",
+      "source_url": null,
+      "file_size_bytes": 939011,
+      "sha256": "2e345300096fd1defca2a0eb3ee697d9d4131639d5ce59399f377f7b3ca01cea",
+      "page_count": 20,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_64a7e99f-e8bc-4c89-ba73-9e174c0aa914_p1_0.jpeg",
+        "img_64a7e99f-e8bc-4c89-ba73-9e174c0aa914_p15_1.jpeg",
+        "img_64a7e99f-e8bc-4c89-ba73-9e174c0aa914_p17_0.jpeg"
+      ]
+    },
+    {
+      "id": "f69bb9de-3790-4d2b-91ab-57ccf3358d68",
+      "title": "Blockchain La Tecnologia Que Esta En Boca De Todos Articulo Joan Berenguer",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "blockchain-la-tecnologia-que-esta-en-boca-de-todos-articulo-joan-berenguer.pdf",
+      "source_url": null,
+      "file_size_bytes": 112161,
+      "sha256": "ee754be8e9d8015cc53eeeef824b5fe199902d7e0b034df2fa0be3c086b40f50",
+      "page_count": 3,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "20799320-f4d2-4e0a-9e6c-abaa910b5bf9",
+      "title": "Blockchain Technology Ingles Varios Autores",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "blockchain-technology-ingles-varios-autores.pdf",
+      "source_url": null,
+      "file_size_bytes": 1763994,
+      "sha256": "7e85f0ac82d28c2f4bb1d85e5084cb716f15a904eed378b7e2dbb99ef89b5b89",
+      "page_count": 35,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p1_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p1_1.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p6_1.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p7_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p9_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p10_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p11_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p20_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p21_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p22_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p27_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p29_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p29_1.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p30_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p31_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p32_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p33_0.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p33_1.jpeg",
+        "img_20799320-f4d2-4e0a-9e6c-abaa910b5bf9_p34_0.jpeg"
+      ]
+    },
+    {
+      "id": "f5b82dcd-247c-4d42-85aa-7a243890de23",
+      "title": "Blockchain Y Sus Aplicaciones Benjamin Yahari Navarro",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "blockchain-y-sus-aplicaciones-benjamin-yahari-navarro.pdf",
+      "source_url": null,
+      "file_size_bytes": 1091435,
+      "sha256": "f93623fd5e1b4903bcafda16028ccdb4ddcfa5d35fca9b26ea4487df561d6ca2",
+      "page_count": 19,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_f5b82dcd-247c-4d42-85aa-7a243890de23_p2_0.png",
+        "img_f5b82dcd-247c-4d42-85aa-7a243890de23_p4_0.png",
+        "img_f5b82dcd-247c-4d42-85aa-7a243890de23_p5_0.jpeg",
+        "img_f5b82dcd-247c-4d42-85aa-7a243890de23_p8_0.png",
+        "img_f5b82dcd-247c-4d42-85aa-7a243890de23_p9_0.png",
+        "img_f5b82dcd-247c-4d42-85aa-7a243890de23_p10_0.png",
+        "img_f5b82dcd-247c-4d42-85aa-7a243890de23_p11_0.png",
+        "img_f5b82dcd-247c-4d42-85aa-7a243890de23_p13_0.jpeg",
+        "img_f5b82dcd-247c-4d42-85aa-7a243890de23_p15_0.png",
+        "img_f5b82dcd-247c-4d42-85aa-7a243890de23_p17_0.png"
+      ]
+    },
+    {
+      "id": "c3bd900f-64ec-431d-bd9f-5dfe00e22b82",
+      "title": "Descubriendo Las Claves De Blockchain Alejandro Alija",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "descubriendo-las-claves-de-blockchain-alejandro-alija.pdf",
+      "source_url": null,
+      "file_size_bytes": 1621904,
+      "sha256": "84c924591f009ee2ade3214c9ccf78af36ebe99b0543c60c78aada4f0c533560",
+      "page_count": 14,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_c3bd900f-64ec-431d-bd9f-5dfe00e22b82_p6_0.jpeg",
+        "img_c3bd900f-64ec-431d-bd9f-5dfe00e22b82_p11_0.jpeg",
+        "img_c3bd900f-64ec-431d-bd9f-5dfe00e22b82_p12_0.jpeg"
+      ]
+    },
+    {
+      "id": "bd204841-2788-43d2-b261-9c95e1fd94e1",
+      "title": "La Cadena De Bloques Blockchain Una Tecnologia Disruptiva Con El Poder De Revolucionar El Sector Financiero Equisoft",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "la-cadena-de-bloques-blockchain-una-tecnologia-disruptiva-con-el-poder-de-revolucionar-el-sector-financiero-equisoft.pdf",
+      "source_url": null,
+      "file_size_bytes": 399648,
+      "sha256": "3e0b3fa7ba7dd1b37bb99fc3bfdba6f61698d999128291aa0fb5d27fc2c4f889",
+      "page_count": 12,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_bd204841-2788-43d2-b261-9c95e1fd94e1_p1_0.jpeg"
+      ]
+    },
+    {
+      "id": "35e0b14f-3b2c-4a05-82c0-a2a28dd926aa",
+      "title": "Limitaciones Del Blockchain En Contratacion Y Propiedad Benito Arrunada",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "limitaciones-del-blockchain-en-contratacion-y-propiedad-benito-arrunada.pdf",
+      "source_url": null,
+      "file_size_bytes": 546029,
+      "sha256": "c2a6b07dc412b962cc85eec7befd28651c8a7342644f399b15cdeb7da51ffd38",
+      "page_count": 17,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_35e0b14f-3b2c-4a05-82c0-a2a28dd926aa_p1_0.jpeg"
+      ]
+    },
+    {
+      "id": "b5b79c49-dee9-4bc1-be47-80e4a5ffd2d3",
+      "title": "Oportunidades Que Ofrece El Blockchain Articulo Francisco Perez Bes",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "oportunidades-que-ofrece-el-blockchain-articulo-francisco-perez-bes.pdf",
+      "source_url": null,
+      "file_size_bytes": 104372,
+      "sha256": "edda171ef2a1b955f2139130d64ca8761bbb47276f2f14c6b2a249567cb0e36c",
+      "page_count": 5,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "a1a3591e-bffe-4292-9da2-76980986a3d4",
+      "title": "Que Es Blockchain Universidad De Murcia",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "que-es-blockchain-universidad-de-murcia.pdf",
+      "source_url": null,
+      "file_size_bytes": 451126,
+      "sha256": "5fb58a3620ad141be293c849f9ac4e783ae94624770179c8096dac455b2c4c09",
+      "page_count": 20,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p3_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p4_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p6_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p7_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p8_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p9_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p10_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p11_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p12_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p13_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p15_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p16_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p19_0.jpeg",
+        "img_a1a3591e-bffe-4292-9da2-76980986a3d4_p20_0.jpeg"
+      ]
+    },
+    {
+      "id": "05bdf4a3-001c-4298-9ad7-9d6e11390acd",
+      "title": "Sintese Blockchain Portugues Jose Carrijo",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "sintese-blockchain-portugues-jose-carrijo.pdf",
+      "source_url": null,
+      "file_size_bytes": 108569,
+      "sha256": "c1deea9010879c99817c1fa46f1f222ddbcd88df04a0dc6591f82c99e39ac719",
+      "page_count": 20,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "146b9c1c-1221-4b7d-b16c-bc56dd13d11b",
+      "title": "Tecnologia Blockchain Elementos Basicos Aplicaciones Y Marcos Regulatorios Articulo Fabiola Cabrera Valencia",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "tecnologia-blockchain-elementos-basicos-aplicaciones-y-marcos-regulatorios-articulo-fabiola-cabrera-valencia.pdf",
+      "source_url": null,
+      "file_size_bytes": 285328,
+      "sha256": "aac648857e8de8e140261164eaf9b7c67c2fe9f5eea8a3f911546905bac44850",
+      "page_count": 8,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "f63202c1-d82d-436b-bc4e-7baa84207bf5",
+      "title": "Tecnologia Blockchain Funcionamiento Aplicaciones Y Retos Juridicos Relacionados Nuria Porxas Y Maria Conejero",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "tecnologia-blockchain-funcionamiento-aplicaciones-y-retos-juridicos-relacionados-nuria-porxas-y-maria-conejero.pdf",
+      "source_url": null,
+      "file_size_bytes": 786356,
+      "sha256": "290d7d1b75793868f62defada928f6132741610ad6ff75ec2dc5b43d91d77ca2",
+      "page_count": 13,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "7d7a8dbb-d63c-4884-93f2-f53c6b2cc634",
+      "title": "Tecnologia Blockchain Presentacion Bbva   Banco Bilbao Vizcaya Argentaria",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "tecnologia-blockchain-presentacion-bbva---banco-bilbao-vizcaya-argentaria.pdf",
+      "source_url": null,
+      "file_size_bytes": 3306417,
+      "sha256": "2e144093457fbfb08255ef378d58887791832aa224fbc0ba38a937cd85d74c68",
+      "page_count": 25,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p1_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p2_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p3_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p5_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p6_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p7_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p7_1.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p7_2.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p8_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p8_2.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p9_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p10_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p10_2.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p11_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p12_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p13_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p14_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p15_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p17_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p17_1.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p18_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p20_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p21_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p21_1.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p22_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p24_0.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p24_1.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p24_2.jpeg",
+        "img_7d7a8dbb-d63c-4884-93f2-f53c6b2cc634_p24_3.jpeg"
+      ]
+    },
+    {
+      "id": "6d87f279-8dfa-4e55-80cd-40e508acb4e1",
+      "title": "Tecnologia Blockchain Uma Visao Geral Portugues Varios Autores",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "tecnologia-blockchain-uma-visao-geral-portugues-varios-autores.pdf",
+      "source_url": null,
+      "file_size_bytes": 1579550,
+      "sha256": "13bfdd6922250611d7c1dd7e442d715adb235c62503f085b989e7c71131ab3c0",
+      "page_count": 30,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": [
+        "img_6d87f279-8dfa-4e55-80cd-40e508acb4e1_p1_0.jpeg",
+        "img_6d87f279-8dfa-4e55-80cd-40e508acb4e1_p4_0.jpeg",
+        "img_6d87f279-8dfa-4e55-80cd-40e508acb4e1_p8_0.jpeg",
+        "img_6d87f279-8dfa-4e55-80cd-40e508acb4e1_p17_0.jpeg",
+        "img_6d87f279-8dfa-4e55-80cd-40e508acb4e1_p19_0.jpeg",
+        "img_6d87f279-8dfa-4e55-80cd-40e508acb4e1_p19_1.jpeg"
+      ]
+    },
+    {
+      "id": "c4c98b8b-aa25-482b-99ad-ce8230a6a89c",
+      "title": "What Is Blockchain Ingles Articulo Deloitte Venezuela",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "what-is-blockchain-ingles-articulo-deloitte-venezuela.pdf",
+      "source_url": null,
+      "file_size_bytes": 319781,
+      "sha256": "fdd203d0e43602e91f6bbacc2dd84f18f90f3195c9613badfbc10dcd6f15b432",
+      "page_count": 4,
+      "key_topics": [
+        "Blockchain"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "blockchain",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 20,
+    "total_chunks": 479,
+    "total_images_extracted": 128
+  },
+  "stats": {
+    "total_books": 20,
+    "total_pages": 348,
+    "total_size_mb": 53.99
+  },
+  "created_at": "2026-11-10T00:28:55.772734+00:00",
+  "updated_at": "2026-11-10T00:29:25.614863+00:00"
+}

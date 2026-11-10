@@ -1,0 +1,26 @@
+{
+  "rag_id": "ciencias-aplicadas",
+  "name": "Ciencias Aplicadas",
+  "description": "Col·lecció completa de llibres i manuals de Ciencias Aplicadas (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794268028.6624992,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 6334,
+  "total_documents": 18,
+  "total_library_files": 18,
+  "total_images_extracted": 1548,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "ciencias-aplicadas",
+    "ciencias",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

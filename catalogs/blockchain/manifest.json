@@ -1,0 +1,26 @@
+{
+  "rag_id": "blockchain",
+  "name": "Blockchain",
+  "description": "Col·lecció completa de llibres i manuals de Blockchain (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794270565.615603,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 479,
+  "total_documents": 20,
+  "total_library_files": 20,
+  "total_images_extracted": 128,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "blockchain",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

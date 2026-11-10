@@ -1,0 +1,717 @@
+{
+  "topic": "Blockchain",
+  "domain": "Tecnología e Informática",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 20,
+  "total_pages": 348,
+  "total_size_mb": 53.99,
+  "books": [
+    {
+      "id": "blockchain-disrupcion-valor-y-seguridad-vector-itc",
+      "title": "Blockchain Disrupcion Valor Y Seguridad Vector Itc",
+      "author": "Desconegut / Institucional",
+      "filename": "blockchain-disrupcion-valor-y-seguridad-vector-itc.pdf",
+      "source_url": null,
+      "file_size_bytes": 32550036,
+      "sha256": "f569e1c892bd78eff4d0856d36f1ba4e950e3b13fb2a30427cc6495135cc61f7",
+      "total_pages": 48,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Blockchain Disrupcion Valor Y Seguridad Vector Itc dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: BLOCKCHAIN:  DISRUPCIÓN, VALOR Y SEGURIDAD L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Blockchain Disrupcion Valor Y Seguridad Vector Itc'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/blockchain-disrupcion-valor-y-seguridad-vector-itc.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "tecnologia-blockchain-presentacion-bbva---banco-bilbao-vizcaya-argentaria",
+      "title": "Ebook Tecnología Blockchain CIBBVA",
+      "author": "BBVA Innovation Center",
+      "filename": "tecnologia-blockchain-presentacion-bbva---banco-bilbao-vizcaya-argentaria.pdf",
+      "source_url": null,
+      "file_size_bytes": 3306417,
+      "sha256": "2e144093457fbfb08255ef378d58887791832aa224fbc0ba38a937cd85d74c68",
+      "total_pages": 25,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Ebook Tecnología Blockchain CIBBVA dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: FINTECH SERIE BY innovation edge L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Ebook Tecnología Blockchain CIBBVA'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/tecnologia-blockchain-presentacion-bbva---banco-bilbao-vizcaya-argentaria.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "blockchain-la-descentralizacion-del-poder-y-su-aplicacion-en-la-defensa-ricardo-palomo---zurdo",
+      "title": "‘Blockchain’: la descentralización del poder y su aplicación en la defensa",
+      "author": "Desconegut / Institucional",
+      "filename": "blockchain-la-descentralizacion-del-poder-y-su-aplicacion-en-la-defensa-ricardo-palomo---zurdo.pdf",
+      "source_url": null,
+      "file_size_bytes": 939011,
+      "sha256": "2e345300096fd1defca2a0eb3ee697d9d4131639d5ce59399f377f7b3ca01cea",
+      "total_pages": 20,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de ‘Blockchain’: la descentralización del poder y su aplicación en la defensa dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: *NOTA: Las ideas contenidas en los Documentos de Opinión son de responsabilidad de sus autores, sin L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '‘Blockchain’: la descentralización del poder y su aplicación en la defensa'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/blockchain-la-descentralizacion-del-poder-y-su-aplicacion-en-la-defensa-ricardo-palomo---zurdo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "que-es-blockchain-universidad-de-murcia",
+      "title": "Que Es Blockchain Universidad De Murcia",
+      "author": "Desconegut / Institucional",
+      "filename": "que-es-blockchain-universidad-de-murcia.pdf",
+      "source_url": null,
+      "file_size_bytes": 451126,
+      "sha256": "5fb58a3620ad141be293c849f9ac4e783ae94624770179c8096dac455b2c4c09",
+      "total_pages": 20,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Que Es Blockchain Universidad De Murcia dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: A menos que te escondas bajo una piedra, estoy seguro de que has oído hablar de L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Que Es Blockchain Universidad De Murcia'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/que-es-blockchain-universidad-de-murcia.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "blockchain-y-sus-aplicaciones-benjamin-yahari-navarro",
+      "title": "Blockchain Y Sus Aplicaciones Benjamin Yahari Navarro",
+      "author": "Desconegut / Institucional",
+      "filename": "blockchain-y-sus-aplicaciones-benjamin-yahari-navarro.pdf",
+      "source_url": null,
+      "file_size_bytes": 1091435,
+      "sha256": "f93623fd5e1b4903bcafda16028ccdb4ddcfa5d35fca9b26ea4487df561d6ca2",
+      "total_pages": 19,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Blockchain Y Sus Aplicaciones Benjamin Yahari Navarro dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Abstract. Art´ıculo que trata sobre la tecnolog´ıa Blockchain y las apli- L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Blockchain Y Sus Aplicaciones Benjamin Yahari Navarro'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/blockchain-y-sus-aplicaciones-benjamin-yahari-navarro.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "limitaciones-del-blockchain-en-contratacion-y-propiedad-benito-arrunada",
+      "title": "Limitaciones Del Blockchain En Contratacion Y Propiedad Benito Arrunada",
+      "author": "Usuario de Microsoft Office",
+      "filename": "limitaciones-del-blockchain-en-contratacion-y-propiedad-benito-arrunada.pdf",
+      "source_url": null,
+      "file_size_bytes": 546029,
+      "sha256": "c2a6b07dc412b962cc85eec7befd28651c8a7342644f399b15cdeb7da51ffd38",
+      "total_pages": 17,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Limitaciones Del Blockchain En Contratacion Y Propiedad Benito Arrunada dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: IEF Observatorio de Divulgación Financiera (ODF) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Limitaciones Del Blockchain En Contratacion Y Propiedad Benito Arrunada'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/limitaciones-del-blockchain-en-contratacion-y-propiedad-benito-arrunada.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "blockchain-ciberseguridad-eric-piscini-david-dalton-y-lory-kehoe",
+      "title": "Blockchain Ciberseguridad Eric Piscini David Dalton Y Lory Kehoe",
+      "author": "Desconegut / Institucional",
+      "filename": "blockchain-ciberseguridad-eric-piscini-david-dalton-y-lory-kehoe.pdf",
+      "source_url": null,
+      "file_size_bytes": 7808831,
+      "sha256": "9f3d5d9d1394e30b84d06ac91dbe228821380ee6055855a83584acea2fbadfa5",
+      "total_pages": 16,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Blockchain Ciberseguridad Eric Piscini David Dalton Y Lory Kehoe dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: Panorama de Blockchain y Ciberseguridad L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Blockchain Ciberseguridad Eric Piscini David Dalton Y Lory Kehoe'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/blockchain-ciberseguridad-eric-piscini-david-dalton-y-lory-kehoe.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "descubriendo-las-claves-de-blockchain-alejandro-alija",
+      "title": "Descubriendo Las Claves De Blockchain Alejandro Alija",
+      "author": "Desconegut / Institucional",
+      "filename": "descubriendo-las-claves-de-blockchain-alejandro-alija.pdf",
+      "source_url": null,
+      "file_size_bytes": 1621904,
+      "sha256": "84c924591f009ee2ade3214c9ccf78af36ebe99b0543c60c78aada4f0c533560",
+      "total_pages": 14,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Descubriendo Las Claves De Blockchain Alejandro Alija dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Contenido elaborado por Alejandro Alija, experto en L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Descubriendo Las Claves De Blockchain Alejandro Alija'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/descubriendo-las-claves-de-blockchain-alejandro-alija.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "tecnologia-blockchain-funcionamiento-aplicaciones-y-retos-juridicos-relacionados-nuria-porxas-y-maria-conejero",
+      "title": "28991_ActJURIDICA_48.indd",
+      "author": "Desconegut / Institucional",
+      "filename": "tecnologia-blockchain-funcionamiento-aplicaciones-y-retos-juridicos-relacionados-nuria-porxas-y-maria-conejero.pdf",
+      "source_url": null,
+      "file_size_bytes": 786356,
+      "sha256": "290d7d1b75793868f62defada928f6132741610ad6ff75ec2dc5b43d91d77ca2",
+      "total_pages": 13,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de 28991_ActJURIDICA_48.indd dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Actualidad Jurídica Uría Menéndez / ISSN: 1578-956X / 48-2018 / 24-36 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '28991_ActJURIDICA_48.indd'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/tecnologia-blockchain-funcionamiento-aplicaciones-y-retos-juridicos-relacionados-nuria-porxas-y-maria-conejero.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "la-cadena-de-bloques-blockchain-una-tecnologia-disruptiva-con-el-poder-de-revolucionar-el-sector-financiero-equisoft",
+      "title": "La Cadena De Bloques Blockchain Una Tecnologia Disruptiva Con El Poder De Revolucionar El Sector Financiero Equisoft",
+      "author": "Desconegut / Institucional",
+      "filename": "la-cadena-de-bloques-blockchain-una-tecnologia-disruptiva-con-el-poder-de-revolucionar-el-sector-financiero-equisoft.pdf",
+      "source_url": null,
+      "file_size_bytes": 399648,
+      "sha256": "3e0b3fa7ba7dd1b37bb99fc3bfdba6f61698d999128291aa0fb5d27fc2c4f889",
+      "total_pages": 12,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de La Cadena De Bloques Blockchain Una Tecnologia Disruptiva Con El Poder De Revolucionar El Sector Financiero Equisoft dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: La cadena de bloques (blockchain) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'La Cadena De Bloques Blockchain Una Tecnologia Disruptiva Con El Poder De Revolucionar El Sector Financiero Equisoft'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-cadena-de-bloques-blockchain-una-tecnologia-disruptiva-con-el-poder-de-revolucionar-el-sector-financiero-equisoft.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "tecnologia-blockchain-elementos-basicos-aplicaciones-y-marcos-regulatorios-articulo-fabiola-cabrera-valencia",
+      "title": "Microsoft Word - Bolckchain_conceptos_impacto_en_industrias_y_marcos_regulatorios Final SUP.docx",
+      "author": "Desconegut / Institucional",
+      "filename": "tecnologia-blockchain-elementos-basicos-aplicaciones-y-marcos-regulatorios-articulo-fabiola-cabrera-valencia.pdf",
+      "source_url": null,
+      "file_size_bytes": 285328,
+      "sha256": "aac648857e8de8e140261164eaf9b7c67c2fe9f5eea8a3f911546905bac44850",
+      "total_pages": 8,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Microsoft Word - Bolckchain_conceptos_impacto_en_industrias_y_marcos_regulatorios Final SUP.docx dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: BIBLIOTECA DEL CONGRESO NACIONAL DE CHILE L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Microsoft Word - Bolckchain_conceptos_impacto_en_industrias_y_marcos_regulatorios Final SUP.docx'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/tecnologia-blockchain-elementos-basicos-aplicaciones-y-marcos-regulatorios-articulo-fabiola-cabrera-valencia.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "oportunidades-que-ofrece-el-blockchain-articulo-francisco-perez-bes",
+      "title": "Oportunidades Que Ofrece El Blockchain Articulo Francisco Perez Bes",
+      "author": "Desconegut / Institucional",
+      "filename": "oportunidades-que-ofrece-el-blockchain-articulo-francisco-perez-bes.pdf",
+      "source_url": null,
+      "file_size_bytes": 104372,
+      "sha256": "edda171ef2a1b955f2139130d64ca8761bbb47276f2f14c6b2a249567cb0e36c",
+      "total_pages": 5,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad Nacional de La Plata) que aprofundeix en els fonaments i desenvolupament de Oportunidades Que Ofrece El Blockchain Articulo Francisco Perez Bes dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad Nacional de La Plata). El document aborda de manera sistemàtica els conceptes teòrics clau: Advertencia legal: Este análisis sólo contiene información general y no se refiere a un supuesto en particular. Su contenido no se puede L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad Nacional de La Plata)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Oportunidades Que Ofrece El Blockchain Articulo Francisco Perez Bes'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/oportunidades-que-ofrece-el-blockchain-articulo-francisco-perez-bes.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "blockchain-articulo-ministerio-de-economia-fomento-y-turismo-del-gobierno-de-chile",
+      "title": "Blockchain Articulo Ministerio De Economia Fomento Y Turismo Del Gobierno De Chile",
+      "author": "Desconegut / Institucional",
+      "filename": "blockchain-articulo-ministerio-de-economia-fomento-y-turismo-del-gobierno-de-chile.pdf",
+      "source_url": null,
+      "file_size_bytes": 186534,
+      "sha256": "d35724824ffc338effcde0d7fdc749d1170de32a3e5db86b732f4f669ac904ee",
+      "total_pages": 4,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Blockchain Articulo Ministerio De Economia Fomento Y Turismo Del Gobierno De Chile dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: Documento de trabajo elaborado por la mesa de Blockchain del Ministerio de Economía, Fomento y Turismo del Gobierno de Chile. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Blockchain Articulo Ministerio De Economia Fomento Y Turismo Del Gobierno De Chile'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/blockchain-articulo-ministerio-de-economia-fomento-y-turismo-del-gobierno-de-chile.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "blockchain-la-tecnologia-que-esta-en-boca-de-todos-articulo-joan-berenguer",
+      "title": "Blockchain La Tecnologia Que Esta En Boca De Todos Articulo Joan Berenguer",
+      "author": "MERITXELL ROCA UTRERA",
+      "filename": "blockchain-la-tecnologia-que-esta-en-boca-de-todos-articulo-joan-berenguer.pdf",
+      "source_url": null,
+      "file_size_bytes": 112161,
+      "sha256": "ee754be8e9d8015cc53eeeef824b5fe199902d7e0b034df2fa0be3c086b40f50",
+      "total_pages": 3,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Blockchain La Tecnologia Que Esta En Boca De Todos Articulo Joan Berenguer dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Blockchain la tecnología que está en boca de todos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Blockchain La Tecnologia Que Esta En Boca De Todos Articulo Joan Berenguer'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/blockchain-la-tecnologia-que-esta-en-boca-de-todos-articulo-joan-berenguer.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "blockchain-technology-ingles-varios-autores",
+      "title": "Blockchain Technology Ingles Varios Autores",
+      "author": "Desconegut / Institucional",
+      "filename": "blockchain-technology-ingles-varios-autores.pdf",
+      "source_url": null,
+      "file_size_bytes": 1763994,
+      "sha256": "7e85f0ac82d28c2f4bb1d85e5084cb716f15a904eed378b7e2dbb99ef89b5b89",
+      "total_pages": 35,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Blockchain Technology Ingles Varios Autores dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: A blockchain is essentially a distributed database of records or public ledger of all transactions or L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Blockchain Technology Ingles Varios Autores'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/blockchain-technology-ingles-varios-autores.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "blockchain-a-brief-overview-ingles-presentacion-dr-cathy-mulligan",
+      "title": "PowerPoint Presentation",
+      "author": "Ashraf El-Gammal",
+      "filename": "blockchain-a-brief-overview-ingles-presentacion-dr-cathy-mulligan.pdf",
+      "source_url": null,
+      "file_size_bytes": 2025426,
+      "sha256": "a5e6c6b7dc7dbfd59b216881d8a906f8d86efcb1284beca2b254e6f69276b38b",
+      "total_pages": 19,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de PowerPoint Presentation dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Imperial College Centre for Cryptocurrency Research and Engineering L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'PowerPoint Presentation'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/blockchain-a-brief-overview-ingles-presentacion-dr-cathy-mulligan.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "what-is-blockchain-ingles-articulo-deloitte-venezuela",
+      "title": "What Is Blockchain Ingles Articulo Deloitte Venezuela",
+      "author": "Desconegut / Institucional",
+      "filename": "what-is-blockchain-ingles-articulo-deloitte-venezuela.pdf",
+      "source_url": null,
+      "file_size_bytes": 319781,
+      "sha256": "fdd203d0e43602e91f6bbacc2dd84f18f90f3195c9613badfbc10dcd6f15b432",
+      "total_pages": 4,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de What Is Blockchain Ingles Articulo Deloitte Venezuela dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Figure 1. How the Bitcoin blockchain works L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'What Is Blockchain Ingles Articulo Deloitte Venezuela'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/what-is-blockchain-ingles-articulo-deloitte-venezuela.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "tecnologia-blockchain-uma-visao-geral-portugues-varios-autores",
+      "title": "cpqd-whitepaper-blockchain-impresso",
+      "author": "Desconegut / Institucional",
+      "filename": "tecnologia-blockchain-uma-visao-geral-portugues-varios-autores.pdf",
+      "source_url": null,
+      "file_size_bytes": 1579550,
+      "sha256": "13bfdd6922250611d7c1dd7e442d715adb235c62503f085b989e7c71131ab3c0",
+      "total_pages": 30,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de cpqd-whitepaper-blockchain-impresso dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Em 2008, foi apresentado ao grupo de discussão “The Cryptography Mailing” L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'cpqd-whitepaper-blockchain-impresso'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/tecnologia-blockchain-uma-visao-geral-portugues-varios-autores.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "sintese-blockchain-portugues-jose-carrijo",
+      "title": "Sintese Blockchain Portugues Jose Carrijo",
+      "author": "Desconegut / Institucional",
+      "filename": "sintese-blockchain-portugues-jose-carrijo.pdf",
+      "source_url": null,
+      "file_size_bytes": 108569,
+      "sha256": "c1deea9010879c99817c1fa46f1f222ddbcd88df04a0dc6591f82c99e39ac719",
+      "total_pages": 20,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Sintese Blockchain Portugues Jose Carrijo dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Palavas-chave: Blockchain, cripto moeda, moeda digital, bitcoin, L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Sintese Blockchain Portugues Jose Carrijo'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/sintese-blockchain-portugues-jose-carrijo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "blockchain-a-internet-da-confianca-portugues-nuno-pereira-y-fabio-hashimoto",
+      "title": "Blockchain A Internet Da Confianca Portugues Nuno Pereira Y Fabio Hashimoto",
+      "author": "Desconegut / Institucional",
+      "filename": "blockchain-a-internet-da-confianca-portugues-nuno-pereira-y-fabio-hashimoto.pdf",
+      "source_url": null,
+      "file_size_bytes": 623309,
+      "sha256": "09c6beace4dfbd93ee7879701ef137b9da1ca2779cac2778609bcf87ac2040f0",
+      "total_pages": 16,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Blockchain A Internet Da Confianca Portugues Nuno Pereira Y Fabio Hashimoto dins de Blockchain.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Blockchain (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Análises independentes de tendências L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Blockchain.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Blockchain A Internet Da Confianca Portugues Nuno Pereira Y Fabio Hashimoto'. Domain: Tecnología e Informática (Blockchain). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/blockchain-a-internet-da-confianca-portugues-nuno-pereira-y-fabio-hashimoto.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Blockchain",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}
