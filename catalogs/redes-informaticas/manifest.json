@@ -1,0 +1,26 @@
+{
+  "rag_id": "redes-informaticas",
+  "name": "Redes Informaticas",
+  "description": "Col·lecció completa de llibres i manuals de Redes Informaticas (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794270197.850542,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 5693,
+  "total_documents": 18,
+  "total_library_files": 18,
+  "total_images_extracted": 3876,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "redes-informaticas",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

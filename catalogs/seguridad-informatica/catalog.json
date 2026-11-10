@@ -1,0 +1,895 @@
+{
+  "topic": "Seguridad Informatica",
+  "domain": "Tecnología e Informática",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 25,
+  "total_pages": 4004,
+  "total_size_mb": 135.11,
+  "books": [
+    {
+      "id": "guia-de-ciberseguridad-la-ciberseguridad-al-alcance-de-todos-incibe-22809",
+      "title": "Guía de ciberseguridad: la ciberseguridad al alcance de todos",
+      "author": "INCIBE",
+      "filename": "guia-de-ciberseguridad-la-ciberseguridad-al-alcance-de-todos-incibe-22809.pdf",
+      "source_url": null,
+      "file_size_bytes": 7338488,
+      "sha256": "4a6f17e3be4162dbab91317f572464505e96faf4557a8eda3774f9f20bf9bc1b",
+      "total_pages": 71,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guía de ciberseguridad: la ciberseguridad al alcance de todos dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: La ciberseguridad al alcance de todos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Guía de ciberseguridad: la ciberseguridad al alcance de todos'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-de-ciberseguridad-la-ciberseguridad-al-alcance-de-todos-incibe-22809.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "02_-Ciberseguridad_-Una-estrategia-Inform-tico-Militar-autor-Alejandro-Corletti-Estrada",
+      "title": "02. Ciberseguridad. Una Estrategia Inform Tico Militar Autor Alejandro Corletti Estrada",
+      "author": "Desconegut / Institucional",
+      "filename": "02.-Ciberseguridad.-Una-estrategia-Inform-tico-Militar-autor-Alejandro-Corletti-Estrada.pdf",
+      "source_url": null,
+      "file_size_bytes": 4180912,
+      "sha256": "04ba256ceadf1c8a634177fa88accf60d761acf659649445f206402769496248",
+      "total_pages": 245,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de 02. Ciberseguridad. Una Estrategia Inform Tico Militar Autor Alejandro Corletti Estrada dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: (Una Estrategia Informático/Militar) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '02. Ciberseguridad. Una Estrategia Inform Tico Militar Autor Alejandro Corletti Estrada'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/02_-Ciberseguridad_-Una-estrategia-Inform-tico-Militar-autor-Alejandro-Corletti-Estrada.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "manual-de-ciberseguridad-para-organizaciones-de-la-sociedad-civil-evan-summers-sarah-moulton-y-chris-doten-ndi-22810",
+      "title": "Manual de ciberseguridad para organizaciones de la sociedad civil",
+      "author": "Evan Summers, Sarah Moulton y Chris Doten (NDI)",
+      "filename": "manual-de-ciberseguridad-para-organizaciones-de-la-sociedad-civil-evan-summers-sarah-moulton-y-chris-doten-ndi-22810.pdf",
+      "source_url": null,
+      "file_size_bytes": 12157366,
+      "sha256": "53ddb620b8dc44f55687aba35cb16ca2a779888f5a5c31604e2e3e1facf7ef22",
+      "total_pages": 87,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual de ciberseguridad para organizaciones de la sociedad civil dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Organizaciones de la Sociedad Civil L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Manual de ciberseguridad para organizaciones de la sociedad civil'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-ciberseguridad-para-organizaciones-de-la-sociedad-civil-evan-summers-sarah-moulton-y-chris-doten-ndi-22810.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "11_-Protecci-n-de-la-informaci-n-autor-INCIBE",
+      "title": "11. Protecci N De La Informaci N Autor Incibe",
+      "author": "Desconegut / Institucional",
+      "filename": "11.-Protecci-n-de-la-informaci-n-autor-INCIBE.pdf",
+      "source_url": null,
+      "file_size_bytes": 770517,
+      "sha256": "1c1df5d739504b2e11a0b60ca346a687381934a46f9268ca2232a255398f0e29",
+      "total_pages": 33,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de 11. Protecci N De La Informaci N Autor Incibe dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: 1- INTRODUCCIÓN....................................................................................03 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '11. Protecci N De La Informaci N Autor Incibe'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/11_-Protecci-n-de-la-informaci-n-autor-INCIBE.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "ciberseguridad-y-comunicacion-guia-para-una-comunicacion-segura-juan-ignacio-cantero-de-julian-coord-22811",
+      "title": "Ciberseguridad y comunicación: guía para una comunicación segura",
+      "author": "Juan Ignacio Cantero de Julián (coord.)",
+      "filename": "ciberseguridad-y-comunicacion-guia-para-una-comunicacion-segura-juan-ignacio-cantero-de-julian-coord-22811.pdf",
+      "source_url": null,
+      "file_size_bytes": 7906027,
+      "sha256": "b78eab8acd768d97887617612c59bef3d51a22541d58b3f0f19c754dc9ced0c7",
+      "total_pages": 52,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Ciberseguridad y comunicación: guía para una comunicación segura dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Juan Ignacio Cantero de Julián (coord.) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Ciberseguridad y comunicación: guía para una comunicación segura'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ciberseguridad-y-comunicacion-guia-para-una-comunicacion-segura-juan-ignacio-cantero-de-julian-coord-22811.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "reporte-ciberseguridad-2020-riesgos-avances-y-el-camino-a-seguir-en-america-latina-y-el-caribe-bid-y-oea-22812",
+      "title": "Reporte Ciberseguridad 2020: riesgos, avances y el camino a seguir en América Latina y el Caribe",
+      "author": "BID y OEA",
+      "filename": "reporte-ciberseguridad-2020-riesgos-avances-y-el-camino-a-seguir-en-america-latina-y-el-caribe-bid-y-oea-22812.pdf",
+      "source_url": null,
+      "file_size_bytes": 7345387,
+      "sha256": "ba07f1a9704a9fce81ddbdf0b9ab2763b3574e643a9386e8e54128b296191c8e",
+      "total_pages": 204,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Reporte Ciberseguridad 2020: riesgos, avances y el camino a seguir en América Latina y el Caribe dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: www.observatoriociberseguridad.com L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Reporte Ciberseguridad 2020: riesgos, avances y el camino a seguir en América Latina y el Caribe'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/reporte-ciberseguridad-2020-riesgos-avances-y-el-camino-a-seguir-en-america-latina-y-el-caribe-bid-y-oea-22812.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "01_-Seguridad-Inform-tica-y-Alta-Disponibilidad-autor-Arturo-Mart-n-Romero",
+      "title": "01. Seguridad Inform Tica Y Alta Disponibilidad Autor Arturo Mart N Romero",
+      "author": "Desconegut / Institucional",
+      "filename": "01.-Seguridad-Inform-tica-y-Alta-Disponibilidad-autor-Arturo-Mart-n-Romero.pdf",
+      "source_url": null,
+      "file_size_bytes": 4792131,
+      "sha256": "481dc2d6bddb17e809a81aded73ffee8347b0544986a76de579bd1a768962a8d",
+      "total_pages": 403,
+      "short_description": "Manual Docent i Tècnic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de 01. Seguridad Inform Tica Y Alta Disponibilidad Autor Arturo Mart N Romero dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Seguridad Informática y Alta Disponibilidad – amartinromero@gmail.com   1 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '01. Seguridad Inform Tica Y Alta Disponibilidad Autor Arturo Mart N Romero'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/01_-Seguridad-Inform-tica-y-Alta-Disponibilidad-autor-Arturo-Mart-n-Romero.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Manual Docent i Tècnic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "Fundamentos-de-seguridad-inform-tica-Amadeu-Alb-s-Raya",
+      "title": "Fundamentos De Seguridad Inform Tica Amadeu Alb S Raya",
+      "author": "Desconegut / Institucional",
+      "filename": "Fundamentos-de-seguridad-inform-tica-Amadeu-Alb-s-Raya.pdf",
+      "source_url": null,
+      "file_size_bytes": 379344,
+      "sha256": "c775ca2f8be98c94888f3dde83cc2e84866d65edef81bcec5ebe46e5ff15116f",
+      "total_pages": 64,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Fundamentos De Seguridad Inform Tica Amadeu Alb S Raya dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Tiempo mínimo de dedicación recomendado: 5 horas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Fundamentos De Seguridad Inform Tica Amadeu Alb S Raya'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Fundamentos-de-seguridad-inform-tica-Amadeu-Alb-s-Raya.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "Fundamentos-de-seguridad-inform-tica-Carlos-Arturo-Aven-a-Delgado",
+      "title": "Fundamentos De Seguridad Inform Tica Carlos Arturo Aven A Delgado",
+      "author": "Desconegut / Institucional",
+      "filename": "Fundamentos-de-seguridad-inform-tica-Carlos-Arturo-Aven-a-Delgado.pdf",
+      "source_url": null,
+      "file_size_bytes": 969721,
+      "sha256": "9885dfd3fb32c2539cbce79558b0d1ce42933e8d94c45f5daf2a8291e994c577",
+      "total_pages": 98,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Fundamentos De Seguridad Inform Tica Carlos Arturo Aven A Delgado dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Autor: Carlos Arturo Avenía Delgado L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Fundamentos De Seguridad Inform Tica Carlos Arturo Aven A Delgado'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Fundamentos-de-seguridad-inform-tica-Carlos-Arturo-Aven-a-Delgado.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "seguridad-informatica-jordi-serra-ruiz-guillermo-navarro-arribas-sergio-castillo-perez-22813",
+      "title": "Seguridad Informática",
+      "author": "Jordi Serra Ruiz, Guillermo Navarro Arribas, Sergio Castillo Pérez",
+      "filename": "seguridad-informatica-jordi-serra-ruiz-guillermo-navarro-arribas-sergio-castillo-perez-22813.pdf",
+      "source_url": null,
+      "file_size_bytes": 788019,
+      "sha256": "b096e46ede786d80c8ed7ff71cf07831f9a8dc66d32bd7e3d79a59e7693ce1a2",
+      "total_pages": 73,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Seguridad Informática dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: JORDI SERRA RUIZ, GUILLERMO NAVARRO L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Seguridad Informática'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/seguridad-informatica-jordi-serra-ruiz-guillermo-navarro-arribas-sergio-castillo-perez-22813.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "seguridad-informatica-maximiliano-cristia-22814",
+      "title": "Seguridad Informática",
+      "author": "Maximiliano Cristiá",
+      "filename": "seguridad-informatica-maximiliano-cristia-22814.pdf",
+      "source_url": null,
+      "file_size_bytes": 504508,
+      "sha256": "9d0addd024ea7a42456d4bb6d92500b14dd5601a50984a4b5236eb975e5b152e",
+      "total_pages": 91,
+      "short_description": "Tesi Acadèmica d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Seguridad Informática dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: Licenciatura en Ciencias de la Computación L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Seguridad Informática'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/seguridad-informatica-maximiliano-cristia-22814.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tesi Acadèmica",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "seguridad-en-los-sistemas-operativos-gabriela-mojsiejczuk-22815",
+      "title": "Seguridad en los Sistemas Operativos",
+      "author": "Gabriela Mojsiejczuk",
+      "filename": "seguridad-en-los-sistemas-operativos-gabriela-mojsiejczuk-22815.pdf",
+      "source_url": null,
+      "file_size_bytes": 384003,
+      "sha256": "0254d05f5daad170201f142d1aca1982e338d1ca74954f259845bbc87ff8edf0",
+      "total_pages": 63,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Seguridad en los Sistemas Operativos dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: Facultad de Ciencias Exactas, Naturales y Agrimensura L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Seguridad en los Sistemas Operativos'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/seguridad-en-los-sistemas-operativos-gabriela-mojsiejczuk-22815.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "seguridad-en-redes-alejandro-corletti-estrada-22816",
+      "title": "Seguridad en Redes",
+      "author": "Alejandro Corletti Estrada",
+      "filename": "seguridad-en-redes-alejandro-corletti-estrada-22816.pdf",
+      "source_url": null,
+      "file_size_bytes": 17105363,
+      "sha256": "4456fbe928fd540de6a28ff6e5394fd0503c6db5ef229ecdd53a0211f32523e6",
+      "total_pages": 354,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Seguridad en Redes dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: (acorletti@DarFe.es - acorletti@hotmail.com) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Seguridad en Redes'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/seguridad-en-redes-alejandro-corletti-estrada-22816.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "seguridad-en-redes-joaquin-garcia-alfaro-y-otros-22817",
+      "title": "Seguridad en redes",
+      "author": "Joaquín García Alfaro y otros",
+      "filename": "seguridad-en-redes-joaquin-garcia-alfaro-y-otros-22817.pdf",
+      "source_url": null,
+      "file_size_bytes": 5022225,
+      "sha256": "2d41686f7a3a3cc3a428fb49964cbba6e97477786988ec870729eca7bae681b1",
+      "total_pages": 315,
+      "short_description": "Tesi Acadèmica d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Seguridad en redes dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: doctorales y ha liderado varios L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Seguridad en redes'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/seguridad-en-redes-joaquin-garcia-alfaro-y-otros-22817.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tesi Acadèmica",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "aspectos-avanzados-de-seguridad-en-redes-jordi-herrera-joancomarti-coord-joaquin-garcia-alfaro-y-xavier-perramon-tornil-22818",
+      "title": "Aspectos avanzados de seguridad en redes",
+      "author": "Jordi Herrera Joancomartí (coord.), Joaquín García Alfaro y Xavier Perramón Tornil",
+      "filename": "aspectos-avanzados-de-seguridad-en-redes-jordi-herrera-joancomarti-coord-joaquin-garcia-alfaro-y-xavier-perramon-tornil-22818.pdf",
+      "source_url": null,
+      "file_size_bytes": 5436822,
+      "sha256": "fe6f2a2b2373062c393d6743eb86e46815ccd841a2f6ddd30050dbb5e12ca83c",
+      "total_pages": 292,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Aspectos avanzados de seguridad en redes dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Jordi Herrera Joancomartí (coord.) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aspectos avanzados de seguridad en redes'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aspectos-avanzados-de-seguridad-en-redes-jordi-herrera-joancomarti-coord-joaquin-garcia-alfaro-y-xavier-perramon-tornil-22818.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "seguridad-en-redes-wifi-una-guia-de-aproximacion-para-el-empresario-incibe-22819",
+      "title": "Seguridad en redes wifi: una guía de aproximación para el empresario",
+      "author": "INCIBE",
+      "filename": "seguridad-en-redes-wifi-una-guia-de-aproximacion-para-el-empresario-incibe-22819.pdf",
+      "source_url": null,
+      "file_size_bytes": 5400864,
+      "sha256": "8cce1ea69dbfcbc49f29e7e4237e50fc8f4bed88ac6139a4f423d189e73a7d01",
+      "total_pages": 30,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Seguridad en redes wifi: una guía de aproximación para el empresario dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: una guía de aproximación para el empresario L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Seguridad en redes wifi: una guía de aproximación para el empresario'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/seguridad-en-redes-wifi-una-guia-de-aproximacion-para-el-empresario-incibe-22819.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gestion-de-la-seguridad-de-la-informacion-flavia-estelia-silva-coelho-luiz-geraldo-segadas-de-araujo-y-edson-kowask-bezerra-22820",
+      "title": "Gestión de la seguridad de la información",
+      "author": "Flávia Estélia Silva Coelho, Luiz Geraldo Segadas de Araújo y Edson Kowask Bezerra",
+      "filename": "gestion-de-la-seguridad-de-la-informacion-flavia-estelia-silva-coelho-luiz-geraldo-segadas-de-araujo-y-edson-kowask-bezerra-22820.pdf",
+      "source_url": null,
+      "file_size_bytes": 10280821,
+      "sha256": "f721d12d672ed1f99f7fad6ba8945e94733a92410b4effb75cc82b1c1a018ae8",
+      "total_pages": 266,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Gestión de la seguridad de la información dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Todos los derechos reservados para la versión en castellano son para RENATA. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Gestión de la seguridad de la información'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gestion-de-la-seguridad-de-la-informacion-flavia-estelia-silva-coelho-luiz-geraldo-segadas-de-araujo-y-edson-kowask-bezerra-22820.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "Seguridad-de-la-informaci-n-Edgar-Vega-Brice-o",
+      "title": "Seguridad De La Informaci N Edgar Vega Brice O",
+      "author": "Desconegut / Institucional",
+      "filename": "Seguridad-de-la-informaci-n-Edgar-Vega-Brice-o.pdf",
+      "source_url": null,
+      "file_size_bytes": 957301,
+      "sha256": "bf055e60844231f4a24dc7329c6294e2b054024107496cbd86ba9adc35cd4b96",
+      "total_pages": 112,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Seguridad De La Informaci N Edgar Vega Brice O dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Editorial Área de Innovación y Desarrollo,S.L. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Seguridad De La Informaci N Edgar Vega Brice O'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Seguridad-de-la-informaci-n-Edgar-Vega-Brice-o.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "implantacion-de-un-sgsi-segun-la-norma-iso-27001-colegio-oficial-de-ingenieros-de-telecomunicacion-22821",
+      "title": "Implantación de un SGSI según la norma ISO 27001",
+      "author": "Colegio Oficial de Ingenieros de Telecomunicación",
+      "filename": "implantacion-de-un-sgsi-segun-la-norma-iso-27001-colegio-oficial-de-ingenieros-de-telecomunicacion-22821.pdf",
+      "source_url": null,
+      "file_size_bytes": 1323081,
+      "sha256": "b9e834697e24d8b521032f56c9ed40f8738ea9ef8b4e952093da30374000951b",
+      "total_pages": 47,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Implantación de un SGSI según la norma ISO 27001 dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: COLEGIO OFICIAL DE INGENIEROS DE L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISO 27001"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Implantación de un SGSI según la norma ISO 27001'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/implantacion-de-un-sgsi-segun-la-norma-iso-27001-colegio-oficial-de-ingenieros-de-telecomunicacion-22821.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "magerit-version-3-0-metodologia-de-analisis-y-gestion-de-riesgos-de-los-sistemas-de-informacion-ministerio-de-hacienda-y-administraciones-publicas-22822",
+      "title": "MAGERIT versión 3.0: Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información",
+      "author": "Ministerio de Hacienda y Administraciones Públicas",
+      "filename": "magerit-version-3-0-metodologia-de-analisis-y-gestion-de-riesgos-de-los-sistemas-de-informacion-ministerio-de-hacienda-y-administraciones-publicas-22822.pdf",
+      "source_url": null,
+      "file_size_bytes": 1462953,
+      "sha256": "bcb728cb76a958b1c85778c7e41307f1e4b97d6800392d3995047936166a97ab",
+      "total_pages": 128,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de MAGERIT versión 3.0: Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Metodología de Análisis y Gestión L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'MAGERIT versión 3.0: Metodología de Análisis y Gestión de Riesgos de los Sistemas de Información'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/magerit-version-3-0-metodologia-de-analisis-y-gestion-de-riesgos-de-los-sistemas-de-informacion-ministerio-de-hacienda-y-administraciones-publicas-22822.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "auditoria-de-sistemas-de-informacion-yolfaris-naidit-fuertes-arroyo-22823",
+      "title": "Auditoría de sistemas de información",
+      "author": "Yolfaris Naidit Fuertes Arroyo",
+      "filename": "auditoria-de-sistemas-de-informacion-yolfaris-naidit-fuertes-arroyo-22823.pdf",
+      "source_url": null,
+      "file_size_bytes": 2427247,
+      "sha256": "75c57b86e3f04e0c5b23fa7a574d65c177426fd51c81f52cfb20e0bf6252d73f",
+      "total_pages": 83,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Auditoría de sistemas de información dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Auditoría de sistemas de información L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "ISO 9001",
+        "ISO \n27001",
+        "ISO 25000",
+        "ISO 27001"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Auditoría de sistemas de información'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/auditoria-de-sistemas-de-informacion-yolfaris-naidit-fuertes-arroyo-22823.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "el-rastro-digital-del-delito-aspectos-tecnicos-legales-y-estrategicos-de-la-informatica-forense-ana-haydee-di-iorio-y-otros-22824",
+      "title": "El rastro digital del delito: aspectos técnicos, legales y estratégicos de la informática forense",
+      "author": "Ana Haydée Di Iorio y otros",
+      "filename": "el-rastro-digital-del-delito-aspectos-tecnicos-legales-y-estrategicos-de-la-informatica-forense-ana-haydee-di-iorio-y-otros-22824.pdf",
+      "source_url": null,
+      "file_size_bytes": 10339601,
+      "sha256": "be529bffe7d7d3d557bd6938ec76228af1c22f9a0a0b831e0b12684ffede3447",
+      "total_pages": 556,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de El rastro digital del delito: aspectos técnicos, legales y estratégicos de la informática forense dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Ana Haydée Di Iorio - Martín Alfredo Castellote L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'El rastro digital del delito: aspectos técnicos, legales y estratégicos de la informática forense'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-rastro-digital-del-delito-aspectos-tecnicos-legales-y-estrategicos-de-la-informatica-forense-ana-haydee-di-iorio-y-otros-22824.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "la-informatica-forense-desde-un-enfoque-practico-martha-irene-romero-castro-y-otros-22825",
+      "title": "La informática forense desde un enfoque práctico",
+      "author": "Martha Irene Romero Castro y otros",
+      "filename": "la-informatica-forense-desde-un-enfoque-practico-martha-irene-romero-castro-y-otros-22825.pdf",
+      "source_url": null,
+      "file_size_bytes": 20048031,
+      "sha256": "83b903d0ba6531ef79c3d963584439314205da12ff9c814fee9341501d9a42fd",
+      "total_pages": 126,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de La informática forense desde un enfoque práctico dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Editorial Área de Innovación y Desarrollo,S.L. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'La informática forense desde un enfoque práctico'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-informatica-forense-desde-un-enfoque-practico-martha-irene-romero-castro-y-otros-22825.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "guia-tecnica-sobre-analisis-forense-y-evidencia-digital-pan-american-development-foundation-padf-22826",
+      "title": "Guía técnica sobre análisis forense y evidencia digital",
+      "author": "Pan American Development Foundation (PADF)",
+      "filename": "guia-tecnica-sobre-analisis-forense-y-evidencia-digital-pan-american-development-foundation-padf-22826.pdf",
+      "source_url": null,
+      "file_size_bytes": 11065285,
+      "sha256": "5e3f88c34f06f9e2949b66c5505fe2aa65e5b0e2e554c9815aa3b697e106ecb4",
+      "total_pages": 96,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guía técnica sobre análisis forense y evidencia digital dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: CON EL APOYO DE LA OFICINA INTERNACIONAL DE ASUNTOS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Guía técnica sobre análisis forense y evidencia digital'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-tecnica-sobre-analisis-forense-y-evidencia-digital-pan-american-development-foundation-padf-22826.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "guia-de-actuacion-para-la-adquisicion-preservacion-y-presentacion-de-la-prueba-digital-ana-haydee-di-iorio-y-mario-adaro-eds-22827",
+      "title": "Guía de actuación para la adquisición, preservación y presentación de la prueba digital",
+      "author": "Ana Haydée Di Iorio y Mario Adaro (eds.)",
+      "filename": "guia-de-actuacion-para-la-adquisicion-preservacion-y-presentacion-de-la-prueba-digital-ana-haydee-di-iorio-y-mario-adaro-eds-22827.pdf",
+      "source_url": null,
+      "file_size_bytes": 3287701,
+      "sha256": "99ec2c0e3fa9fea436e18e16d06bec71edd0e16a4e3ffd3cd2dcc1c88bc1d06b",
+      "total_pages": 115,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guía de actuación para la adquisición, preservación y presentación de la prueba digital dins de Seguridad Informatica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Seguridad Informatica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: GUÍA DE ACTUACIÓN PARA LA ADQUISICIÓN, PRESERVACIÓN L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ISBN 978-631-90546-6-8"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Seguridad Informatica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Guía de actuación para la adquisición, preservación y presentación de la prueba digital'. Domain: Tecnología e Informática (Seguridad Informatica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-de-actuacion-para-la-adquisicion-preservacion-y-presentacion-de-la-prueba-digital-ana-haydee-di-iorio-y-mario-adaro-eds-22827.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Seguridad Informatica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

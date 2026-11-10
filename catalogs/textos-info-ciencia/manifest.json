@@ -1,0 +1,25 @@
+{
+  "rag_id": "textos-info-ciencia",
+  "name": "Ciencia",
+  "description": "Compendio de obras técnicas y ensayos sobre ciencia",
+  "version": "1.0.0",
+  "author": "SmartLocal / textos.info",
+  "created_at": 1794274983.43913,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 424,
+  "total_documents": 5,
+  "total_library_files": 5,
+  "total_images_extracted": 178,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "ciencia",
+    "textos-info",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}

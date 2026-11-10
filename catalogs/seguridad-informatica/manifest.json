@@ -1,0 +1,26 @@
+{
+  "rag_id": "seguridad-informatica",
+  "name": "Seguridad Informatica",
+  "description": "Col·lecció completa de llibres i manuals de Seguridad Informatica (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794269721.103584,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 5277,
+  "total_documents": 25,
+  "total_library_files": 25,
+  "total_images_extracted": 1335,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "seguridad-informatica",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}
