@@ -1,0 +1,26 @@
+{
+  "rag_id": "jardineria-horticultura-urbana",
+  "name": "Jardineria i Horticultura Urbana",
+  "description": "Tècniques de cultiu tant en interior com en exterior, horts urbans en recipients, reproducció vegetal i manteniment de plantes.",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794277814.551122,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 4523,
+  "total_documents": 29,
+  "total_library_files": 29,
+  "total_images_extracted": 1772,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "jardineria",
+    "agricultura",
+    "cultivo",
+    "plagas",
+    "collage-punk",
+    "smartlocal"
+  ]
+}

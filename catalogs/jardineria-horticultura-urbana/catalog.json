@@ -1,0 +1,1028 @@
+{
+  "topic": "Jardineria i Horticultura Urbana",
+  "domain": "Horticultura y Jardinería",
+  "source_portal": "InfoLibros",
+  "category_slug": "oficios",
+  "capsule_slug": "jardineria",
+  "canonical_style_id": "collage-punk-v1",
+  "style_name": "Collage Punk & Underground DIY Zine",
+  "banner_cover": "images/banner.png",
+  "books": [
+    {
+      "id": "abonos-organicos-protegen-el-suelo-y-garantizan-alimentacion-sana-byron-mosquera",
+      "title": "Abonos Organicos Protegen El Suelo Y Garantizan Alimentacion Sana Byron Mosquera",
+      "author": "Desconegut / Institucional",
+      "filename": "abonos-organicos-protegen-el-suelo-y-garantizan-alimentacion-sana-byron-mosquera.pdf",
+      "source_url": null,
+      "file_size_bytes": 616400,
+      "sha256": "5635f0c1ae82c5938034cc041852915eeef3514fd3e09784f5186e10b05a8b70",
+      "total_pages": 25,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Abonos Organicos Protegen El Suelo Y Garantizan Alimentacion Sana Byron Mosquera dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Manual para la elaborar y aplicar L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Abonos Organicos Protegen El Suelo Y Garantizan Alimentacion Sana Byron Mosquera'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/abonos-organicos-protegen-el-suelo-y-garantizan-alimentacion-sana-byron-mosquera.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "como-cultivar-tus-plantas-multiplicacion-y-cuidado-de-especies-vegetales-marcela-demaestri-susana-viale",
+      "title": "Como Cultivar Tus Plantas Multiplicacion Y Cuidado De Especies Vegetales Marcela Demaestri Susana Viale",
+      "author": "Desconegut / Institucional",
+      "filename": "como-cultivar-tus-plantas-multiplicacion-y-cuidado-de-especies-vegetales-marcela-demaestri-susana-viale.pdf",
+      "source_url": null,
+      "file_size_bytes": 6093313,
+      "sha256": "43bdf282bb3ff583fe7c2104bc6e7facfa201f21aab07ca103e61eff84be56d9",
+      "total_pages": 171,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Como Cultivar Tus Plantas Multiplicacion Y Cuidado De Especies Vegetales Marcela Demaestri Susana Viale dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: Multiplicación y cuidado de especies vegetales L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "ISBN 978-987-688-311-5"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Como Cultivar Tus Plantas Multiplicacion Y Cuidado De Especies Vegetales Marcela Demaestri Susana Viale'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/como-cultivar-tus-plantas-multiplicacion-y-cuidado-de-especies-vegetales-marcela-demaestri-susana-viale.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "cultivo-de-verduras-manual-para-principiantes-iniciativa-grow-la-victory-garden",
+      "title": "Cultivo De Verduras Manual Para Principiantes Iniciativa Grow La Victory Garden",
+      "author": "Desconegut / Institucional",
+      "filename": "cultivo-de-verduras-manual-para-principiantes-iniciativa-grow-la-victory-garden.pdf",
+      "source_url": null,
+      "file_size_bytes": 1201190,
+      "sha256": "bcbcf0e14ab6721fad10de2644c136a0cffb015f8c98b5026d7facb05654d81b",
+      "total_pages": 49,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Cultivo De Verduras Manual Para Principiantes Iniciativa Grow La Victory Garden dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Iniciativa Grow L. A. Victory Garden L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Cultivo De Verduras Manual Para Principiantes Iniciativa Grow La Victory Garden'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/cultivo-de-verduras-manual-para-principiantes-iniciativa-grow-la-victory-garden.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "cultivo-del-rosal-juan-gostinchar-8476",
+      "title": "Cultivo del Rosal",
+      "author": "Juan Gostinchar",
+      "filename": "cultivo-del-rosal-juan-gostinchar-8476.pdf",
+      "source_url": null,
+      "file_size_bytes": 687724,
+      "sha256": "94b2698260723ea9a17624bacb19c6ce0a01a4f9edf350095ca8cc47d0dfff36",
+      "total_pages": 17,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Cultivo del Rosal dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Dos son las aplicaciones principales del rosal: L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Cultivo del Rosal'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/cultivo-del-rosal-juan-gostinchar-8476.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "cultivos-de-hortalizas-inatec",
+      "title": "Cultivos De Hortalizas Inatec",
+      "author": "Desconegut / Institucional",
+      "filename": "cultivos-de-hortalizas-inatec.pdf",
+      "source_url": null,
+      "file_size_bytes": 19633360,
+      "sha256": "2ec5c06139031a3e8348484ccbe6382044add3e4c48ac0cc52c22fdb49ffcbe4",
+      "total_pages": 108,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Cultivos De Hortalizas Inatec dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Esta es una publicación del Instituto Nacional Tecnológico INATEC, con el apoyo L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Cultivos De Hortalizas Inatec'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/cultivos-de-hortalizas-inatec.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "curso-de-floricultura-iestp-huando",
+      "title": "Curso De Floricultura Iestp Huando",
+      "author": "Desconegut / Institucional",
+      "filename": "curso-de-floricultura-iestp-huando.pdf",
+      "source_url": null,
+      "file_size_bytes": 7060590,
+      "sha256": "89969eadffcffcc157b5d424ef2cf08f5f941a1ad4d6632ae09abaa8359f1429",
+      "total_pages": 399,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Curso De Floricultura Iestp Huando dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: El curso de floricultura ha sido elaborado con el fin de que el estudiante adquiera nociones L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Curso De Floricultura Iestp Huando'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/curso-de-floricultura-iestp-huando.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "directrices-para-el-mantenimiento-del-arbolado-plan-director-arbolado-sevilla",
+      "title": "Directrices Para El Mantenimiento Del Arbolado Plan Director Arbolado Sevilla",
+      "author": "Desconegut / Institucional",
+      "filename": "directrices-para-el-mantenimiento-del-arbolado-plan-director-arbolado-sevilla.pdf",
+      "source_url": null,
+      "file_size_bytes": 365880,
+      "sha256": "c749c4196fb6c4c8913f847eaf9fa0058af63de8c31e528a445978313a52fab2",
+      "total_pages": 21,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Directrices Para El Mantenimiento Del Arbolado Plan Director Arbolado Sevilla dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: RIEGO ................................................................................................................... 2 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Directrices Para El Mantenimiento Del Arbolado Plan Director Arbolado Sevilla'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/directrices-para-el-mantenimiento-del-arbolado-plan-director-arbolado-sevilla.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "el-arbol-en-la-ciudad-manual-de-arboricultura-urbana-gabriela-benito---marcela-palermo-arce",
+      "title": "El Arbol En La Ciudad Manual De Arboricultura Urbana Gabriela Benito   Marcela Palermo Arce",
+      "author": "Desconegut / Institucional",
+      "filename": "el-arbol-en-la-ciudad-manual-de-arboricultura-urbana-gabriela-benito---marcela-palermo-arce.pdf",
+      "source_url": null,
+      "file_size_bytes": 10096494,
+      "sha256": "33c6224dd93a5960a26fd59a8d4c28464c495297c6b24b6e99537f05d83f16dc",
+      "total_pages": 176,
+      "short_description": "Manual Docent i Tècnic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de El Arbol En La Ciudad Manual De Arboricultura Urbana Gabriela Benito   Marcela Palermo Arce dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: EDITORIAL FACULTAD DE AGRONOMÍA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "ISBN 978-987-3738-35-7"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'El Arbol En La Ciudad Manual De Arboricultura Urbana Gabriela Benito   Marcela Palermo Arce'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-arbol-en-la-ciudad-manual-de-arboricultura-urbana-gabriela-benito---marcela-palermo-arce.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Manual Docent i Tècnic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "floricultura-susana-gomez-posada",
+      "title": "Floricultura Susana Gomez Posada",
+      "author": "Desconegut / Institucional",
+      "filename": "floricultura-susana-gomez-posada.pdf",
+      "source_url": null,
+      "file_size_bytes": 6272476,
+      "sha256": "ca8fd53fc8d022e3dbb5243309eaa5d9f2dc8e4dc252b13ea47af30d332ad272",
+      "total_pages": 474,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Floricultura Susana Gomez Posada dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Escuela de Ciencias Agrícolas, Pecuarias y del Medio Ambiente L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Floricultura Susana Gomez Posada'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/floricultura-susana-gomez-posada.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "guia-ambiental-cultivos-de-flores-y-especies-ornamentales-ministerio-de-ambiente-y-desarrollo-sostenible",
+      "title": "Guia Ambiental Cultivos De Flores Y Especies Ornamentales Ministerio De Ambiente Y Desarrollo Sostenible",
+      "author": "Desconegut / Institucional",
+      "filename": "guia-ambiental-cultivos-de-flores-y-especies-ornamentales-ministerio-de-ambiente-y-desarrollo-sostenible.pdf",
+      "source_url": null,
+      "file_size_bytes": 4718274,
+      "sha256": "9c1c4faa2b76e533b42b9927a64eac301234275897e871dfb555c49968142323",
+      "total_pages": 117,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Guia Ambiental Cultivos De Flores Y Especies Ornamentales Ministerio De Ambiente Y Desarrollo Sostenible dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Ministerio de Ambiente y Desarrollo Sostenible L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "ISBN 978-628-7598-29-4"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Guia Ambiental Cultivos De Flores Y Especies Ornamentales Ministerio De Ambiente Y Desarrollo Sostenible'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-ambiental-cultivos-de-flores-y-especies-ornamentales-ministerio-de-ambiente-y-desarrollo-sostenible.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "guia-de-arborizacion-en-areas-cercanas-a-lineas-electricas-ensa",
+      "title": "Guia De Arborizacion En Areas Cercanas A Lineas Electricas Ensa",
+      "author": "Desconegut / Institucional",
+      "filename": "guia-de-arborizacion-en-areas-cercanas-a-lineas-electricas-ensa.pdf",
+      "source_url": null,
+      "file_size_bytes": 1649341,
+      "sha256": "ca5a1a436ab6d56bd9f4ce185ceb5a9941e18775f475c8d481fd6ac5e3d07e5a",
+      "total_pages": 33,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guia De Arborizacion En Areas Cercanas A Lineas Electricas Ensa dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: en áreas cercanas a líneas eléctricas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Guia De Arborizacion En Areas Cercanas A Lineas Electricas Ensa'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-de-arborizacion-en-areas-cercanas-a-lineas-electricas-ensa.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "guia-de-jardineria-sostenible-elkarkide",
+      "title": "Guia De Jardineria Sostenible Elkarkide",
+      "author": "Desconegut / Institucional",
+      "filename": "guia-de-jardineria-sostenible-elkarkide.pdf",
+      "source_url": null,
+      "file_size_bytes": 981399,
+      "sha256": "e8021a5ac9d14771cf077222a6ab9bb88186235ddfb401c6c251e6b10530c31d",
+      "total_pages": 20,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Guia De Jardineria Sostenible Elkarkide dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Para la elaboración de este Manual L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Guia De Jardineria Sostenible Elkarkide'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-de-jardineria-sostenible-elkarkide.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "guia-de-principios-basicos-en-arboricultura-pnud",
+      "title": "Guia De Principios Basicos En Arboricultura Pnud",
+      "author": "Desconegut / Institucional",
+      "filename": "guia-de-principios-basicos-en-arboricultura-pnud.pdf",
+      "source_url": null,
+      "file_size_bytes": 12388609,
+      "sha256": "a147588269277da1277414443b4acc9bd7ba251c476275f5ae59d105f14181e4",
+      "total_pages": 123,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guia De Principios Basicos En Arboricultura Pnud dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Experiencia en el Corredor Biológico Interurbano María Aguilar (CBIMA) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Guia De Principios Basicos En Arboricultura Pnud'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-de-principios-basicos-en-arboricultura-pnud.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "guia-del-jardin-sostenible-mucho-mas-que-un-jardin-ayuntamiento-de-madrid",
+      "title": "Guia Del Jardin Sostenible Mucho Mas Que Un Jardin Ayuntamiento De Madrid",
+      "author": "Desconegut / Institucional",
+      "filename": "guia-del-jardin-sostenible-mucho-mas-que-un-jardin-ayuntamiento-de-madrid.pdf",
+      "source_url": null,
+      "file_size_bytes": 2292527,
+      "sha256": "26caf4d5d36e56aaabce9e24dd6fcdac7536e6959154a382cdb36c205880835a",
+      "total_pages": 68,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Guia Del Jardin Sostenible Mucho Mas Que Un Jardin Ayuntamiento De Madrid dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Estudi exhaustiu de Guia Del Jardin Sostenible Mucho Mas Que Un Jardin Ayuntamiento De Madrid amb fonaments teòrics i aplicacions pràctiques. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Guia Del Jardin Sostenible Mucho Mas Que Un Jardin Ayuntamiento De Madrid'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-del-jardin-sostenible-mucho-mas-que-un-jardin-ayuntamiento-de-madrid.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "guia-del-jardinero-new-york-restoration-project",
+      "title": "Guia Del Jardinero New York Restoration Project",
+      "author": "Desconegut / Institucional",
+      "filename": "guia-del-jardinero-new-york-restoration-project.pdf",
+      "source_url": null,
+      "file_size_bytes": 1911835,
+      "sha256": "81d8ff7135c8d3eae2a18316756515829d20db5c17348de6efbb9ce64647d600",
+      "total_pages": 59,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guia Del Jardinero New York Restoration Project dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: RECURSOS PARA INICIAR SU JARDÍN L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Guia Del Jardinero New York Restoration Project'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-del-jardinero-new-york-restoration-project.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "guia-para-la-produccion-de-flores-cortadas-ecobusiness-fund",
+      "title": "Guia Para La Produccion De Flores Cortadas Ecobusiness Fund",
+      "author": "Desconegut / Institucional",
+      "filename": "guia-para-la-produccion-de-flores-cortadas-ecobusiness-fund.pdf",
+      "source_url": null,
+      "file_size_bytes": 2751064,
+      "sha256": "1643ad15bf9660169114d775e2076b93831d84a0146e147037fd751fd67575d5",
+      "total_pages": 67,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guia Para La Produccion De Flores Cortadas Ecobusiness Fund dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Siglas.......................................................................................................................... ................................ii L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Guia Para La Produccion De Flores Cortadas Ecobusiness Fund'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-para-la-produccion-de-flores-cortadas-ecobusiness-fund.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "iniciacion-a-la-jardineria-aula-mentor-ministerio-de-educacion-espana-8474",
+      "title": "Iniciación a la Jardinería",
+      "author": "Aula Mentor (Ministerio de Educación, España)",
+      "filename": "iniciacion-a-la-jardineria-aula-mentor-ministerio-de-educacion-espana-8474.pdf",
+      "source_url": null,
+      "file_size_bytes": 1031186,
+      "sha256": "6efaa9264ceb5941ef7c9353fd0e7a2fc849bc1df260800e5e19eeca79b5dcb0",
+      "total_pages": 21,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Iniciación a la Jardinería dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Carlos Alberto Del Valle Dieguez L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Iniciación a la Jardinería'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/iniciacion-a-la-jardineria-aula-mentor-ministerio-de-educacion-espana-8474.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "jardineria-basada-en-la-naturaleza-perfectearth",
+      "title": "Jardineria Basada En La Naturaleza Perfectearth",
+      "author": "Desconegut / Institucional",
+      "filename": "jardineria-basada-en-la-naturaleza-perfectearth.pdf",
+      "source_url": null,
+      "file_size_bytes": 12204860,
+      "sha256": "9046e410d8df01c8463a61dc7ff95b6e9a9bd7ed96ceaa9879de11b44e735fd3",
+      "total_pages": 18,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Jardineria Basada En La Naturaleza Perfectearth dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Creando jardines ecológicamente L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Jardineria Basada En La Naturaleza Perfectearth'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/jardineria-basada-en-la-naturaleza-perfectearth.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-buenas-practicas-en-jardineria-elkarkide",
+      "title": "Manual De Buenas Practicas En Jardineria Elkarkide",
+      "author": "Desconegut / Institucional",
+      "filename": "manual-de-buenas-practicas-en-jardineria-elkarkide.pdf",
+      "source_url": null,
+      "file_size_bytes": 1096622,
+      "sha256": "0a46429f7af8c0a1c4fc5b1a06ba9e949028fd074cc7cb42afeeed1ab8d2c93b",
+      "total_pages": 24,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual De Buenas Practicas En Jardineria Elkarkide dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Para la elaboración de este Manual se han L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual De Buenas Practicas En Jardineria Elkarkide'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-buenas-practicas-en-jardineria-elkarkide.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-buenas-practicas-poscocecha-para-flor-de-corte-y-follajes-asociados-asociacion-colombiana-de-exportadores-de-flores",
+      "title": "Manual De Buenas Practicas Poscocecha Para Flor De Corte Y Follajes Asociados Asociacion Colombiana De Exportadores De Flores",
+      "author": "Desconegut / Institucional",
+      "filename": "manual-de-buenas-practicas-poscocecha-para-flor-de-corte-y-follajes-asociados-asociacion-colombiana-de-exportadores-de-flores.pdf",
+      "source_url": null,
+      "file_size_bytes": 6307522,
+      "sha256": "4c8bd83c7e6c9662351d3bed4f597af7ffe095ed69b64770af5544ed23f93dcb",
+      "total_pages": 150,
+      "short_description": "Manual Docent i Tècnic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Manual De Buenas Practicas Poscocecha Para Flor De Corte Y Follajes Asociados Asociacion Colombiana De Exportadores De Flores dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: BOGOTÁ D.C. COLOMBIA, FEBRERO DE 2010 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual De Buenas Practicas Poscocecha Para Flor De Corte Y Follajes Asociados Asociacion Colombiana De Exportadores De Flores'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-buenas-practicas-poscocecha-para-flor-de-corte-y-follajes-asociados-asociacion-colombiana-de-exportadores-de-flores.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Manual Docent i Tècnic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "manual-de-compostaje-del-agricultor-pilar-roman-maria-m-martinez-y-alberto-pantoja-fao-8477",
+      "title": "Manual de Compostaje del Agricultor",
+      "author": "Pilar Román, María M. Martínez y Alberto Pantoja (FAO)",
+      "filename": "manual-de-compostaje-del-agricultor-pilar-roman-maria-m-martinez-y-alberto-pantoja-fao-8477.pdf",
+      "source_url": null,
+      "file_size_bytes": 3054421,
+      "sha256": "40f2b40cb496439543d9c9372820be7723d450c8b24b9303f90ef3a35664b9db",
+      "total_pages": 112,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Xile que aprofundeix en els fonaments i desenvolupament de Manual de Compostaje del Agricultor dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Xile. El document aborda de manera sistemàtica els conceptes teòrics clau: Organización de las Naciones Unidas para la Alimentación y la Agricultura L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Xile",
+      "normatives_and_standards": [
+        "ISBN 978-92-5-307844-8",
+        "ISBN 978-92-5-307845-5"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual de Compostaje del Agricultor'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-compostaje-del-agricultor-pilar-roman-maria-m-martinez-y-alberto-pantoja-fao-8477.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Xile"
+      ]
+    },
+    {
+      "id": "manual-de-horticultura-direccion-general-de-cultura-y-educacion",
+      "title": "Manual De Horticultura Direccion General De Cultura Y Educacion",
+      "author": "Desconegut / Institucional",
+      "filename": "manual-de-horticultura-direccion-general-de-cultura-y-educacion.pdf",
+      "source_url": null,
+      "file_size_bytes": 3939953,
+      "sha256": "d7e33c5197608b0a10db08f470c92e803fa6d9d67f3c201f8c644bdbc1eb725c",
+      "total_pages": 102,
+      "short_description": "Manual Docent i Tècnic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Manual De Horticultura Direccion General De Cultura Y Educacion dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: La colección de Manuales para las Escuelas Agrarias de la Provincia de Buenos Aires, es L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual De Horticultura Direccion General De Cultura Y Educacion'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-horticultura-direccion-general-de-cultura-y-educacion.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Manual Docent i Tècnic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "manual-huertos-sostenibles-en-casa-diputacion-de-alicante",
+      "title": "Manual Huertos Sostenibles En Casa Diputacion De Alicante",
+      "author": "Desconegut / Institucional",
+      "filename": "manual-huertos-sostenibles-en-casa-diputacion-de-alicante.pdf",
+      "source_url": null,
+      "file_size_bytes": 1406672,
+      "sha256": "9038ae6d16232a2e4eed2ad67c0c50b025b3d9dbed8278c4136a27f3f7319568",
+      "total_pages": 36,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual Huertos Sostenibles En Casa Diputacion De Alicante dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Área de Medio Ambiente. Diputación de Alicante. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual Huertos Sostenibles En Casa Diputacion De Alicante'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-huertos-sostenibles-en-casa-diputacion-de-alicante.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-para-el-cultivo-de-hortalizas-louvain-cooperation",
+      "title": "Manual Para El Cultivo De Hortalizas Louvain Cooperation",
+      "author": "Desconegut / Institucional",
+      "filename": "manual-para-el-cultivo-de-hortalizas-louvain-cooperation.pdf",
+      "source_url": null,
+      "file_size_bytes": 2381114,
+      "sha256": "edb202a22c3de3f406200f6008fee7b8f511b3f2c27bb34e47b905c8377b5654",
+      "total_pages": 71,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual Para El Cultivo De Hortalizas Louvain Cooperation dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: SEGURIDAD ALIMENTARIA Y ECONÓMICA EN EL VALLE CENTRAL DE TARIJA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual Para El Cultivo De Hortalizas Louvain Cooperation'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-para-el-cultivo-de-hortalizas-louvain-cooperation.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-para-el-productor-el-cultivo-de-las-hortalizas-veymar-marcelo-silva",
+      "title": "Manual Para El Productor El Cultivo De Las Hortalizas Veymar Marcelo Silva",
+      "author": "Desconegut / Institucional",
+      "filename": "manual-para-el-productor-el-cultivo-de-las-hortalizas-veymar-marcelo-silva.pdf",
+      "source_url": null,
+      "file_size_bytes": 3641710,
+      "sha256": "a649db965107017e661f0e02b31bd3baecc8e96c2c5a0b3e8c29c129df1b51d8",
+      "total_pages": 28,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual Para El Productor El Cultivo De Las Hortalizas Veymar Marcelo Silva dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: La Oficina de las Naciones Unidas contra la Droga y el Delito L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual Para El Productor El Cultivo De Las Hortalizas Veymar Marcelo Silva'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-para-el-productor-el-cultivo-de-las-hortalizas-veymar-marcelo-silva.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-practico-de-tecnicas-de-compostaje-universidad-de-murcia-campus-sostenible-8478",
+      "title": "Manual Práctico de Técnicas de Compostaje",
+      "author": "Universidad de Murcia (Campus Sostenible)",
+      "filename": "manual-practico-de-tecnicas-de-compostaje-universidad-de-murcia-campus-sostenible-8478.pdf",
+      "source_url": null,
+      "file_size_bytes": 778126,
+      "sha256": "b161906596e86355879490b8073f821874877468628b2864899f0330f505c0b7",
+      "total_pages": 14,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual Práctico de Técnicas de Compostaje dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Este manual pretende apoyar a quienes se decidan a reciclar los restos orgánicos y vegetales generados L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual Práctico de Técnicas de Compostaje'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-practico-de-tecnicas-de-compostaje-universidad-de-murcia-campus-sostenible-8478.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-tecnico-para-la-poda-derribo-y-trasplante-de-arboles-y-arbustos-gobierno-del-distrito-federal-8475",
+      "title": "Manual Técnico para la Poda, Derribo y Trasplante de Árboles y Arbustos",
+      "author": "Gobierno del Distrito Federal",
+      "filename": "manual-tecnico-para-la-poda-derribo-y-trasplante-de-arboles-y-arbustos-gobierno-del-distrito-federal-8475.pdf",
+      "source_url": null,
+      "file_size_bytes": 4661736,
+      "sha256": "a9327345811e33d482281c067d7b388e324f5d339f201eba9fd85ebcd9b266d7",
+      "total_pages": 166,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Manual Técnico para la Poda, Derribo y Trasplante de Árboles y Arbustos dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: MANUAL  TÉCNICO PARA LA PODA, DERRIBO Y TRASPLANTE  DE  ÁRBOLES Y ARBUSTOS DE  LA  CIUDAD DE  MÉXICO L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "ISBN 968-816-330-9"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manual Técnico para la Poda, Derribo y Trasplante de Árboles y Arbustos'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-tecnico-para-la-poda-derribo-y-trasplante-de-arboles-y-arbustos-gobierno-del-distrito-federal-8475.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "mi-casa-mi-huerta-tecnicas-de-agricultura-urbana-janine-schonwald-y-francisco-pescio",
+      "title": "Mi Casa Mi Huerta Tecnicas De Agricultura Urbana Janine Schonwald Y Francisco Pescio",
+      "author": "Desconegut / Institucional",
+      "filename": "mi-casa-mi-huerta-tecnicas-de-agricultura-urbana-janine-schonwald-y-francisco-pescio.pdf",
+      "source_url": null,
+      "file_size_bytes": 8806026,
+      "sha256": "5a8621e1db138950ad943348235c832166820d5c32e64c03ee3de7fcc0f8f584",
+      "total_pages": 66,
+      "short_description": "Tesi Acadèmica d'abast a Argentina (Universidad Nacional de La Plata) que aprofundeix en els fonaments i desenvolupament de Mi Casa Mi Huerta Tecnicas De Agricultura Urbana Janine Schonwald Y Francisco Pescio dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad Nacional de La Plata). El document aborda de manera sistemàtica els conceptes teòrics clau: Janine Schonwald y Francisco Pescio L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad Nacional de La Plata)",
+      "normatives_and_standards": [
+        "ISBN 978-987-521-591-7"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Mi Casa Mi Huerta Tecnicas De Agricultura Urbana Janine Schonwald Y Francisco Pescio'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/mi-casa-mi-huerta-tecnicas-de-agricultura-urbana-janine-schonwald-y-francisco-pescio.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tesi Acadèmica",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "preparacion-del-suelo-y-elaboracion-de-abonos-organicos-fundacion-alternativas",
+      "title": "Preparacion Del Suelo Y Elaboracion De Abonos Organicos Fundacion Alternativas",
+      "author": "Desconegut / Institucional",
+      "filename": "preparacion-del-suelo-y-elaboracion-de-abonos-organicos-fundacion-alternativas.pdf",
+      "source_url": null,
+      "file_size_bytes": 726510,
+      "sha256": "b5abc615f4504e418ddb58306a510bb0dff698ab35c758bf88b73d565a212c82",
+      "total_pages": 40,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Preparacion Del Suelo Y Elaboracion De Abonos Organicos Fundacion Alternativas dins de Jardineria i Horticultura Urbana.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Jardineria i Horticultura Urbana (Horticultura y Jardinería), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: El suelo es la capa más superficial de la tierra; L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Jardineria i Horticultura Urbana.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Preparacion Del Suelo Y Elaboracion De Abonos Organicos Fundacion Alternativas'. Domain: Horticultura y Jardinería (Jardineria i Horticultura Urbana). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/preparacion-del-suelo-y-elaboracion-de-abonos-organicos-fundacion-alternativas.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Jardineria i Horticultura Urbana",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

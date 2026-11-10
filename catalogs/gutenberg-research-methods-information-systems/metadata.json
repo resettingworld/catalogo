@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0.0",
+  "id": "gutenberg-research-methods-information-systems",
+  "name": "Gutenberg: Research Methods & Information Systems",
+  "description": "Mètodes d'investigació empírica, estadística analítica i sistemes d'informació.",
+  "category": {
+    "slug": "gutenberg-technical",
+    "name": "Project Gutenberg Technical Knowledge",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/673"
+  },
+  "domain": "Metodología y Tecnología de la Información",
+  "language": "es",
+  "portal_source": {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/673",
+    "scraped_at": "2026-11-10T00:37:16.665657+00:00"
+  },
+  "tags": [
+    "gutenberg-research-methods-information-systems",
+    "gutenberg",
+    "technical",
+    "non-fiction",
+    "collage-punk",
+    "modular-rag"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "26d7ec31-b901-4482-8ae2-45098b039bf2",
+      "title": "Gutenberg_11562_Francis_Galton",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_11562_Francis_Galton.pdf",
+      "source_url": null,
+      "file_size_bytes": 722941,
+      "sha256": "710b9d9891213166afeaa394a2514ae85099cfe06ff051185bbc5c3b3cb6482a",
+      "page_count": 508,
+      "key_topics": [
+        "Gutenberg: Research Methods & Information Systems"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "0157e6f3-3329-44d3-a603-fc9fea445141",
+      "title": "Gutenberg_20662_Lewis_M__Terman",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_20662_Lewis_M__Terman.pdf",
+      "source_url": null,
+      "file_size_bytes": 780398,
+      "sha256": "2ba211297541cd53f0c5f7a53467c6b8b6c59436ee3163221a83363deee7c6b5",
+      "page_count": 563,
+      "key_topics": [
+        "Gutenberg: Research Methods & Information Systems"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "56befc7f-1282-4f30-b96d-00e11689c8eb",
+      "title": "Gutenberg_34_Brendan_P__Kehoe",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_34_Brendan_P__Kehoe.pdf",
+      "source_url": null,
+      "file_size_bytes": 223245,
+      "sha256": "7b2f657e229cf60d397847b6dba644b57de86cb2a8e5694a5c9233c4487008cd",
+      "page_count": 146,
+      "key_topics": [
+        "Gutenberg: Research Methods & Information Systems"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "13be8a63-5710-411c-b63f-94c49b48408c",
+      "title": "Gutenberg_57359_John_Venn",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_57359_John_Venn.pdf",
+      "source_url": null,
+      "file_size_bytes": 1323457,
+      "sha256": "78ff3c200781207dbd398638c25ddce752692486c68a1d04c1b396b3d49d38d2",
+      "page_count": 814,
+      "key_topics": [
+        "Gutenberg: Research Methods & Information Systems"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "fd12e8c9-5846-40c5-93d2-45d9f34775ed",
+      "title": "Gutenberg_66373_Santiago_Ram_N_Y_Cajal",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_66373_Santiago_Ram_n_y_Cajal.pdf",
+      "source_url": null,
+      "file_size_bytes": 445614,
+      "sha256": "f7e52e323564c8e1c88791c5786d3ae3621c879bf559741bf34c8cecb733d6ce",
+      "page_count": 288,
+      "key_topics": [
+        "Gutenberg: Research Methods & Information Systems"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "gutenberg-research-methods-information-systems",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 5,
+    "total_chunks": 2319,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 5,
+    "total_pages": 2319,
+    "total_size_mb": 3.33
+  },
+  "created_at": "2026-11-10T00:37:16.665719+00:00",
+  "updated_at": "2026-11-10T00:38:21.502344+00:00"
+}

@@ -1,0 +1,822 @@
+{
+  "topic": "Inteligencia Artificial",
+  "domain": "Tecnología e Informática",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 23,
+  "total_pages": 2804,
+  "total_size_mb": 60.33,
+  "books": [
+    {
+      "id": "chatgpt-tus-primeros-prompts-con-100-ejemplos-jose-alberto-hernandez-javier-conde-blanca-querol-656",
+      "title": "ChatGPT: tus primeros prompts con 100 ejemplos",
+      "author": "José Alberto Hernández, Javier Conde, Blanca Querol",
+      "filename": "chatgpt-tus-primeros-prompts-con-100-ejemplos-jose-alberto-hernandez-javier-conde-blanca-querol-656.pdf",
+      "source_url": null,
+      "file_size_bytes": 1761971,
+      "sha256": "d341584a49c0c3e67a78ae5ea420edaf755bfcfa34956e67b82460074a7f80c3",
+      "total_pages": 165,
+      "short_description": "Compendi d'Exercicis i Problemes Resolts d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de ChatGPT: tus primeros prompts con 100 ejemplos dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un compendi d'exercicis i problemes resolts centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Versión en papel disponible en: https://www.amazon.es/ChatGPT-Tus-primeros-prompts- L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Compendi d'Exercicis i Problemes Resolts",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'ChatGPT: tus primeros prompts con 100 ejemplos'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/chatgpt-tus-primeros-prompts-con-100-ejemplos-jose-alberto-hernandez-javier-conde-blanca-querol-656.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Compendi d'Exercicis i Problemes Resolts",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "inteligencia-artificial-y-pensamiento-critico-alexandre-le-voci-sayad-655",
+      "title": "Inteligencia Artificial y Pensamiento Crítico",
+      "author": "Alexandre Le Voci Sayad",
+      "filename": "inteligencia-artificial-y-pensamiento-critico-alexandre-le-voci-sayad-655.pdf",
+      "source_url": null,
+      "file_size_bytes": 1316190,
+      "sha256": "39d100c3ba0a0ba9671a745471f36f3ac6bd273d595453780ae077fbd9cae134",
+      "total_pages": 149,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Inteligencia Artificial y Pensamiento Crítico dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Estudi exhaustiu de Inteligencia Artificial y Pensamiento Crítico amb fonaments teòrics i aplicacions pràctiques. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Inteligencia Artificial y Pensamiento Crítico'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/inteligencia-artificial-y-pensamiento-critico-alexandre-le-voci-sayad-655.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "01_-Inteligencia-Artificial-autor-Varios-autores",
+      "title": "01. Inteligencia Artificial Autor Varios Autores",
+      "author": "Desconegut / Institucional",
+      "filename": "01.-Inteligencia-Artificial-autor-Varios-autores.pdf",
+      "source_url": null,
+      "file_size_bytes": 1832992,
+      "sha256": "e0b26ad5bd2848ce971b115221422a85723c45a9e3052baa4ef8d685af91c0e1",
+      "total_pages": 222,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de 01. Inteligencia Artificial Autor Varios Autores dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: Francisco Javier Ornelas Zapata L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '01. Inteligencia Artificial Autor Varios Autores'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/01_-Inteligencia-Artificial-autor-Varios-autores.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "inteligencia-artificial-naturalmente-nuria-oliver-6804",
+      "title": "Inteligencia Artificial, naturalmente",
+      "author": "Nuria Oliver",
+      "filename": "inteligencia-artificial-naturalmente-nuria-oliver-6804.pdf",
+      "source_url": null,
+      "file_size_bytes": 1684682,
+      "sha256": "ffa2fb6d2fd9981d38f198aa4e2b972ae951ef4554746a5eb23592856ac627dd",
+      "total_pages": 158,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Inteligencia Artificial, naturalmente dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Un manual de convivencia entre humanos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Inteligencia Artificial, naturalmente'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/inteligencia-artificial-naturalmente-nuria-oliver-6804.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "inteligencia-artificial-generativa-ignasi-sebastia-oriol-650",
+      "title": "Inteligencia Artificial Generativa Ignasi Sebastia Oriol 650",
+      "author": "Desconegut / Institucional",
+      "filename": "inteligencia-artificial-generativa-ignasi-sebastia-oriol-650.pdf",
+      "source_url": null,
+      "file_size_bytes": 1297536,
+      "sha256": "558ea643a91e2613a112a431cf98a39b96f98fab9fc5880286dc75473a49ca79",
+      "total_pages": 37,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Inteligencia Artificial Generativa Ignasi Sebastia Oriol 650 dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Inteligencia artificial generativa L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Inteligencia Artificial Generativa Ignasi Sebastia Oriol 650'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/inteligencia-artificial-generativa-ignasi-sebastia-oriol-650.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "Inteligencia-artificial-avanzada-Ra-l-Ben-tez-Andr-s-Cencerrado-Barraqu-Gerard-Escudero-Samir-Kanaan",
+      "title": "Inteligencia Artificial Avanzada Ra L Ben Tez Andr S Cencerrado Barraqu Gerard Escudero Samir Kanaan",
+      "author": "Desconegut / Institucional",
+      "filename": "Inteligencia-artificial-avanzada-Ra-l-Ben-tez-Andr-s-Cencerrado-Barraqu-Gerard-Escudero-Samir-Kanaan.pdf",
+      "source_url": null,
+      "file_size_bytes": 3083554,
+      "sha256": "83a8d6319ba8757670773571de193f65a3df3de6a6572fa869e356de9fd0df52",
+      "total_pages": 251,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Inteligencia Artificial Avanzada Ra L Ben Tez Andr S Cencerrado Barraqu Gerard Escudero Samir Kanaan dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: RAÚL BENÍTEZ, ANDRÉS CENCERRADO L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Inteligencia Artificial Avanzada Ra L Ben Tez Andr S Cencerrado Barraqu Gerard Escudero Samir Kanaan'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Inteligencia-artificial-avanzada-Ra-l-Ben-tez-Andr-s-Cencerrado-Barraqu-Gerard-Escudero-Samir-Kanaan.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "tica-e-inteligencia-artificial-Fundaci-n-SERES",
+      "title": "Tica E Inteligencia Artificial Fundaci N Seres",
+      "author": "Desconegut / Institucional",
+      "filename": "tica-e-inteligencia-artificial-Fundaci-n-SERES.pdf",
+      "source_url": null,
+      "file_size_bytes": 2668926,
+      "sha256": "af2fdcd6c637cab9d9bfb9c1a369a9868fb81c009aaf31e266ccffc9faf688b0",
+      "total_pages": 57,
+      "short_description": "Tesi Acadèmica d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Tica E Inteligencia Artificial Fundaci N Seres dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Un reto estratégico para las empresas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Tica E Inteligencia Artificial Fundaci N Seres'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/tica-e-inteligencia-artificial-Fundaci-n-SERES.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tesi Acadèmica",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "la-inteligencia-artificial-reflexiones-sobre-los-desafios-de-una-tecnologia-divergente-daniel-quintero-santiago-roca-gloria-rondon-658",
+      "title": "La Inteligencia Artificial. Reflexiones sobre los desafíos de una tecnología divergente",
+      "author": "Daniel Quintero, Santiago Roca, Gloria Rondón",
+      "filename": "la-inteligencia-artificial-reflexiones-sobre-los-desafios-de-una-tecnologia-divergente-daniel-quintero-santiago-roca-gloria-rondon-658.pdf",
+      "source_url": null,
+      "file_size_bytes": 2434095,
+      "sha256": "28c104aee4dece0b777f959475c7a3a556c5a7554e83b745bed4b647d343ed86",
+      "total_pages": 198,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Veneçuela que aprofundeix en els fonaments i desenvolupament de La Inteligencia Artificial. Reflexiones sobre los desafíos de una tecnología divergente dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Veneçuela. El document aborda de manera sistemàtica els conceptes teòrics clau: Reﬂexiones sobre los desaf´ıos de una tecnolog´ıa L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Veneçuela",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'La Inteligencia Artificial. Reflexiones sobre los desafíos de una tecnología divergente'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/la-inteligencia-artificial-reflexiones-sobre-los-desafios-de-una-tecnologia-divergente-daniel-quintero-santiago-roca-gloria-rondon-658.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Veneçuela"
+      ]
+    },
+    {
+      "id": "inteligencia-artificial-guia-para-estudiantes-elon-university-651",
+      "title": "Inteligencia artificial: guía para estudiantes",
+      "author": "Elon University",
+      "filename": "inteligencia-artificial-guia-para-estudiantes-elon-university-651.pdf",
+      "source_url": null,
+      "file_size_bytes": 2390306,
+      "sha256": "1bb21149d6aed047fb4e48eb491ca5813064e7c58e0026134bd14c8160cd1382",
+      "total_pages": 23,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Inteligencia artificial: guía para estudiantes dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: La inteligencia artiﬁcial (IA) está transformando nuestro L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Inteligencia artificial: guía para estudiantes'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/inteligencia-artificial-guia-para-estudiantes-elon-university-651.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "guia-para-el-uso-de-las-inteligencias-artificiales-en-el-ambito-educativo-departamento-de-educacion-y-elhuya-654",
+      "title": "Guía para el uso de las inteligencias artificiales en el ámbito educativo",
+      "author": "Departamento de Educación y Elhuya",
+      "filename": "guia-para-el-uso-de-las-inteligencias-artificiales-en-el-ambito-educativo-departamento-de-educacion-y-elhuya-654.pdf",
+      "source_url": null,
+      "file_size_bytes": 1397145,
+      "sha256": "62871dc767b1b4a7388f7b2d7ad911edf7c8aa0a5982e8e10ee2365c0a8096ef",
+      "total_pages": 74,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guía para el uso de las inteligencias artificiales en el ámbito educativo dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Departamento de Educación y Elhuyar L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Guía para el uso de las inteligencias artificiales en el ámbito educativo'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-para-el-uso-de-las-inteligencias-artificiales-en-el-ambito-educativo-departamento-de-educacion-y-elhuya-654.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "inteligencias-artificiales-generativas-2024-juan-guillermo-rivera-berrio-6805",
+      "title": "Inteligencias artificiales generativas 2024",
+      "author": "Juan Guillermo Rivera Berrío",
+      "filename": "inteligencias-artificiales-generativas-2024-juan-guillermo-rivera-berrio-6805.pdf",
+      "source_url": null,
+      "file_size_bytes": 16797941,
+      "sha256": "59cc526b4e3bab42822dc6e7de4b8155ec92ce5acea6c30b1e3fd08a6bf9aacc",
+      "total_pages": 473,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic (UNAM) que aprofundeix en els fonaments i desenvolupament de Inteligencias artificiales generativas 2024 dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Mèxic (UNAM). El document aborda de manera sistemàtica els conceptes teòrics clau: Red Educativa Digital Descartes L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic (UNAM)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Inteligencias artificiales generativas 2024'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/inteligencias-artificiales-generativas-2024-juan-guillermo-rivera-berrio-6805.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "libro-blanco-de-la-inteligencia-artificial-generativa-digitales-6806",
+      "title": "Libro Blanco de la Inteligencia Artificial Generativa",
+      "author": "DigitalES",
+      "filename": "libro-blanco-de-la-inteligencia-artificial-generativa-digitales-6806.pdf",
+      "source_url": null,
+      "file_size_bytes": 7578980,
+      "sha256": "705f9df6608367cb5e6c82e851a21ad7d4d53f3553a27681559b9eac6489809b",
+      "total_pages": 68,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Libro Blanco de la Inteligencia Artificial Generativa dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Grupo de trabajo  IA Generativa, Transformación Digital, DIGITALES L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Libro Blanco de la Inteligencia Artificial Generativa'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/libro-blanco-de-la-inteligencia-artificial-generativa-digitales-6806.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "Qu-es-la-inteligencia-artificial-Vicen-Torra-i-Revent-s",
+      "title": "Qu Es La Inteligencia Artificial Vicen Torra I Revent S",
+      "author": "Desconegut / Institucional",
+      "filename": "Qu-es-la-inteligencia-artificial-Vicen-Torra-i-Revent-s.pdf",
+      "source_url": null,
+      "file_size_bytes": 231944,
+      "sha256": "6f189f287d3d1b1237cd9dd4823fea2ce05ee1eeb84480dc2ce3be7f0ff12dfa",
+      "total_pages": 29,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Qu Es La Inteligencia Artificial Vicen Torra I Revent S dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Tiempo mínimo de dedicación recomendado: 2 horas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Qu Es La Inteligencia Artificial Vicen Torra I Revent S'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Qu-es-la-inteligencia-artificial-Vicen-Torra-i-Revent-s.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "La-Revoluci-n-de-la-Inteligencia-Artificial-en-la-Educaci-n-Superior-Geovanny-Euclides-Silva-Pe-afiel-Byron-Fernando-Castillo-Parra-Katherine-Gissel-Tixi-Gallegos",
+      "title": "La Revoluci N De La Inteligencia Artificial En La Educaci N Superior Geovanny Euclides Silva Pe Afiel Byron Fernando Castillo Parra Katherine Gissel Tixi Gallegos",
+      "author": "Desconegut / Institucional",
+      "filename": "La-Revoluci-n-de-la-Inteligencia-Artificial-en-la-Educaci-n-Superior-Geovanny-Euclides-Silva-Pe-afiel-Byron-Fernando-Castillo-Parra-Katherine-Gissel-Tixi-Gallegos.pdf",
+      "source_url": null,
+      "file_size_bytes": 1558193,
+      "sha256": "54e42ed9c22d1fe8f922e8e1f4ff9a0ea6fedb104d9f6e574b5d74c4e5729b4b",
+      "total_pages": 145,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de La Revoluci N De La Inteligencia Artificial En La Educaci N Superior Geovanny Euclides Silva Pe Afiel Byron Fernando Castillo Parra Katherine Gissel Tixi Gallegos dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: La Revolución de la Inteligencia L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'La Revoluci N De La Inteligencia Artificial En La Educaci N Superior Geovanny Euclides Silva Pe Afiel Byron Fernando Castillo Parra Katherine Gissel Tixi Gallegos'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/La-Revoluci-n-de-la-Inteligencia-Artificial-en-la-Educaci-n-Superior-Geovanny-Euclides-Silva-Pe-afiel-Byron-Fernando-Castillo-Parra-Katherine-Gissel-Tixi-Gallegos.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "Inteligencia-Artificial-Aplicada-con-t-cnicas-de-Procesamiento-de-Lenguaje-Natural-y-Machine-Learning-en-el-campo-de-la-salud-Varela-Tapia-Eleanor-Alexandra-Acosta-Guzm-n-Iva",
+      "title": "Inteligencia Artificial Aplicada Con T Cnicas De Procesamiento De Lenguaje Natural Y Machine Learning En El Campo De La Salud Varela Tapia Eleanor Alexandra Acosta Guzm N Iva",
+      "author": "Desconegut / Institucional",
+      "filename": "Inteligencia-Artificial-Aplicada-con-t-cnicas-de-Procesamiento-de-Lenguaje-Natural-y-Machine-Learning-en-el-campo-de-la-salud-Varela-Tapia-Eleanor-Alexandra-Acosta-Guzm-n-Iva.pdf",
+      "source_url": null,
+      "file_size_bytes": 2237257,
+      "sha256": "b30b28040ace64c68ae3f28b7b25aa95e44774edfc50f8dcd667e639c3d1d0be",
+      "total_pages": 185,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Inteligencia Artificial Aplicada Con T Cnicas De Procesamiento De Lenguaje Natural Y Machine Learning En El Campo De La Salud Varela Tapia Eleanor Alexandra Acosta Guzm N Iva dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Inteligencia Artificial Aplicada con L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Inteligencia Artificial Aplicada Con T Cnicas De Procesamiento De Lenguaje Natural Y Machine Learning En El Campo De La Salud Varela Tapia Eleanor Alexandra Acosta Guzm N Iva'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Inteligencia-Artificial-Aplicada-con-t-cnicas-de-Procesamiento-de-Lenguaje-Natural-y-Machine-Learning-en-el-campo-de-la-salud-Varela-Tapia-Eleanor-Alexandra-Acosta-Guzm-n-Iva.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "guia-de-prompting-harambee-comunidad-ia-652",
+      "title": "Guía de Prompting",
+      "author": "Harambee Comunidad IA",
+      "filename": "guia-de-prompting-harambee-comunidad-ia-652.pdf",
+      "source_url": null,
+      "file_size_bytes": 459007,
+      "sha256": "6f2338e17a25310a1885a2e00a16ac6f86a68f21d26fea96603025c76faa120e",
+      "total_pages": 29,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guía de Prompting dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Esta guía fue desarrollada por la L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Guía de Prompting'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-de-prompting-harambee-comunidad-ia-652.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "como-preguntar-a-la-ia-universitat-oberta-de-catalunya-649",
+      "title": "¿Cómo preguntar a la IA?",
+      "author": "Universitat Oberta de Catalunya",
+      "filename": "como-preguntar-a-la-ia-universitat-oberta-de-catalunya-649.pdf",
+      "source_url": null,
+      "file_size_bytes": 706908,
+      "sha256": "36d33576585be3a6c84d4bd267a7994517d1c7370992cbd66a773b6d771bb71b",
+      "total_pages": 10,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de ¿Cómo preguntar a la IA? dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Dentro del terreno de la inteligencia artiﬁcial (IA) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '¿Cómo preguntar a la IA?'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/como-preguntar-a-la-ia-universitat-oberta-de-catalunya-649.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "nociones-basicas-de-la-inteligencia-artificial-profuturo-653",
+      "title": "Nociones básicas de la Inteligencia Artificial",
+      "author": "ProFuturo",
+      "filename": "nociones-basicas-de-la-inteligencia-artificial-profuturo-653.pdf",
+      "source_url": null,
+      "file_size_bytes": 9726204,
+      "sha256": "8cf4061f7358049bd32e4701bf70952ed7308e70641b41bf0d5c85d94d96fc7c",
+      "total_pages": 14,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Nociones básicas de la Inteligencia Artificial dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: E N C U E N T R O  N A C I O N A L L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Nociones básicas de la Inteligencia Artificial'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/nociones-basicas-de-la-inteligencia-artificial-profuturo-653.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "Integrando-IA-en-los-Nuevos-Paradigmas-de-las-Ciencias-Econ-micas-y-Gesti-n-Empresarial-D-az-Avelino-Jos-Rafael-Casanova-Villalba-C-sar-Iv-n",
+      "title": "Integrando Ia En Los Nuevos Paradigmas De Las Ciencias Econ Micas Y Gesti N Empresarial D Az Avelino Jos Rafael Casanova Villalba C Sar Iv N",
+      "author": "Desconegut / Institucional",
+      "filename": "Integrando-IA-en-los-Nuevos-Paradigmas-de-las-Ciencias-Econ-micas-y-Gesti-n-Empresarial-D-az-Avelino-Jos-Rafael-Casanova-Villalba-C-sar-Iv-n.pdf",
+      "source_url": null,
+      "file_size_bytes": 1550727,
+      "sha256": "7e8edd9ff635f6753e363b8c81bed0de20bd415da756ddce44e9d504ef49c6e4",
+      "total_pages": 134,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Integrando Ia En Los Nuevos Paradigmas De Las Ciencias Econ Micas Y Gesti N Empresarial D Az Avelino Jos Rafael Casanova Villalba C Sar Iv N dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Carrillo-Barragán, César Estuardo L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Integrando Ia En Los Nuevos Paradigmas De Las Ciencias Econ Micas Y Gesti N Empresarial D Az Avelino Jos Rafael Casanova Villalba C Sar Iv N'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Integrando-IA-en-los-Nuevos-Paradigmas-de-las-Ciencias-Econ-micas-y-Gesti-n-Empresarial-D-az-Avelino-Jos-Rafael-Casanova-Villalba-C-sar-Iv-n.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "02_-Introducci-n-a-la-programaci-n-en-Inteligencia-Artificial-autor-Javier-Aroztegui-V-lez-Emilio-Garc-a-Buen-d-a-y-Jos-Mar-a-Benitez-Escario",
+      "title": "02. Introducci N A La Programaci N En Inteligencia Artificial Autor Javier Aroztegui V Lez Emilio Garc A Buen D A Y Jos Mar A Benitez Escario",
+      "author": "Desconegut / Institucional",
+      "filename": "02.-Introducci-n-a-la-programaci-n-en-Inteligencia-Artificial-autor-Javier-Aroztegui-V-lez-Emilio-Garc-a-Buen-d-a-y-Jos-Mar-a-Benitez-Escario.pdf",
+      "source_url": null,
+      "file_size_bytes": 891153,
+      "sha256": "1b2bb6f65d934a1191cc0289e7d12a34b98e616b119f650ffa98a23cd9df9be5",
+      "total_pages": 123,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de 02. Introducci N A La Programaci N En Inteligencia Artificial Autor Javier Aroztegui V Lez Emilio Garc A Buen D A Y Jos Mar A Benitez Escario dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: JAVIER AROZTEGUI VÉLEZ, EMILIO GARCÍA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '02. Introducci N A La Programaci N En Inteligencia Artificial Autor Javier Aroztegui V Lez Emilio Garc A Buen D A Y Jos Mar A Benitez Escario'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/02_-Introducci-n-a-la-programaci-n-en-Inteligencia-Artificial-autor-Javier-Aroztegui-V-lez-Emilio-Garc-a-Buen-d-a-y-Jos-Mar-a-Benitez-Escario.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "IA-y-tu-Gu-a-sobre-IA-para-adolescentes-UNICEF",
+      "title": "Ia Y Tu Gu A Sobre Ia Para Adolescentes Unicef",
+      "author": "Desconegut / Institucional",
+      "filename": "IA-y-tu-Gu-a-sobre-IA-para-adolescentes-UNICEF.pdf",
+      "source_url": null,
+      "file_size_bytes": 223903,
+      "sha256": "149b3851d1b55ec7fcd4ad5f4ccd66b4af6416be762326056aaad29ec33849f5",
+      "total_pages": 5,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Ia Y Tu Gu A Sobre Ia Para Adolescentes Unicef dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Guía sobre IA para adolescentes L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Ia Y Tu Gu A Sobre Ia Para Adolescentes Unicef'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/IA-y-tu-Gu-a-sobre-IA-para-adolescentes-UNICEF.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "12_-Usos-y-efectos-de-la-inteligencia-artificial-en-educaci-n-autor-Ignacion-Jara-y-Juan-Manuel-Ochoa",
+      "title": "12. Usos Y Efectos De La Inteligencia Artificial En Educaci N Autor Ignacion Jara Y Juan Manuel Ochoa",
+      "author": "Desconegut / Institucional",
+      "filename": "12.-Usos-y-efectos-de-la-inteligencia-artificial-en-educaci-n-autor-Ignacion-Jara-y-Juan-Manuel-Ochoa.pdf",
+      "source_url": null,
+      "file_size_bytes": 740455,
+      "sha256": "0a6c7ced320b96dcce12919acfab465c4f2ef0d05dc61cfe1e5d3005f1a214dd",
+      "total_pages": 28,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de 12. Usos Y Efectos De La Inteligencia Artificial En Educaci N Autor Ignacion Jara Y Juan Manuel Ochoa dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: IGNACIO JARA Y JUAN MANUEL OCHOA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '12. Usos Y Efectos De La Inteligencia Artificial En Educaci N Autor Ignacion Jara Y Juan Manuel Ochoa'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/12_-Usos-y-efectos-de-la-inteligencia-artificial-en-educaci-n-autor-Ignacion-Jara-y-Juan-Manuel-Ochoa.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "20_-Inteligencia-Artificial-y-Decisiones-Cl-nicas-autor-Varios-autores",
+      "title": "20. Inteligencia Artificial Y Decisiones Cl Nicas Autor Varios Autores",
+      "author": "Desconegut / Institucional",
+      "filename": "20.-Inteligencia-Artificial-y-Decisiones-Cl-nicas-autor-Varios-autores.pdf",
+      "source_url": null,
+      "file_size_bytes": 689682,
+      "sha256": "f744bbc93a22fb6043d7b43fadd60951dc598809464a21a838d6317afb7285b1",
+      "total_pages": 227,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de 20. Inteligencia Artificial Y Decisiones Cl Nicas Autor Varios Autores dins de Inteligencia Artificial.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Inteligencia Artificial (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Maquetación, impresión y encuadernación: L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Inteligencia Artificial.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '20. Inteligencia Artificial Y Decisiones Cl Nicas Autor Varios Autores'. Domain: Tecnología e Informática (Inteligencia Artificial). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/20_-Inteligencia-Artificial-y-Decisiones-Cl-nicas-autor-Varios-autores.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Inteligencia Artificial",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    }
+  ]
+}
