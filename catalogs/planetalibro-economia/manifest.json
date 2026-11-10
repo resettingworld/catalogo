@@ -1,0 +1,25 @@
+{
+  "rag_id": "planetalibro-economia",
+  "name": "Economía Política y Recursos",
+  "description": "Fonaments del valor, comerç, distribució de recursos i teoria econòmica clàssica.",
+  "version": "1.0.0",
+  "author": "SmartLocal / PlanetaLibro",
+  "created_at": 1794275422.749881,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 124,
+  "total_documents": 6,
+  "total_library_files": 6,
+  "total_images_extracted": 0,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "economia",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}

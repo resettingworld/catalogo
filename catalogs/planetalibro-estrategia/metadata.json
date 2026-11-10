@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0.0",
+  "id": "planetalibro-estrategia",
+  "name": "Estrategia Militar y Organizativa",
+  "description": "Tractats clàssics d'estratègia, organització tàctica i lideratge pragmàtic.",
+  "category": {
+    "slug": "estrategia",
+    "name": "Estrategia Militar y Organizativa",
+    "url": "https://planetalibro.net/tema/estrategia"
+  },
+  "domain": "Estrategia y Organización",
+  "language": "es",
+  "portal_source": {
+    "name": "PlanetaLibro",
+    "url": "https://planetalibro.net/tema/estrategia",
+    "scraped_at": "2026-11-10T00:40:54.545870+00:00"
+  },
+  "tags": [
+    "estrategia",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "794caf3b-8b0b-4564-8b10-bf4dc206b9db",
+      "title": "Robert Greene Las 48 Leyes Del Poder",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "robert-greene-las-48-leyes-del-poder.pdf",
+      "source_url": null,
+      "file_size_bytes": 76284,
+      "sha256": "793fdd59fa3adf3b90846a4d17a7804b46c731cd9414c42be62e42e30ab451dc",
+      "page_count": 10,
+      "key_topics": [
+        "Estrategia Militar y Organizativa"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "f5dd761a-8e6f-4df2-bff8-555321f3d8ae",
+      "title": "Tzu Sun El Arte De La Guerra",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "tzu-sun-el-arte-de-la-guerra.pdf",
+      "source_url": null,
+      "file_size_bytes": 117245,
+      "sha256": "3820afd721a1681b04e24cf1fb3fc77d0b44a5e4176367c7d2f0d75102ff3bb9",
+      "page_count": 14,
+      "key_topics": [
+        "Estrategia Militar y Organizativa"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "planetalibro-estrategia",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 2,
+    "total_chunks": 24,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 2,
+    "total_pages": 24,
+    "total_size_mb": 0.18
+  },
+  "created_at": "2026-11-10T00:40:54.545894+00:00",
+  "updated_at": "2026-11-10T00:40:55.182863+00:00"
+}

@@ -1,0 +1,25 @@
+{
+  "rag_id": "planetalibro-ensayo",
+  "name": "Ensayo",
+  "description": "Compendio de obras fundamentales sobre ensayo",
+  "version": "1.0.0",
+  "author": "SmartLocal / PlanetaLibro",
+  "created_at": 1794275295.022908,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 62,
+  "total_documents": 8,
+  "total_library_files": 8,
+  "total_images_extracted": 0,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "ensayo",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}

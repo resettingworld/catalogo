@@ -1,0 +1,81 @@
+{
+  "topic": "Estrategia Militar y Organizativa",
+  "domain": "Estrategia y Organización",
+  "source_portal": "PlanetaLibro",
+  "tag": "estrategia",
+  "canonical_style_id": "collage-punk-v1",
+  "style_name": "Collage Punk & Underground DIY Zine",
+  "banner_cover": "images/banner.png",
+  "books": [
+    {
+      "id": "robert-greene-las-48-leyes-del-poder",
+      "title": "Robert Greene Las 48 Leyes Del Poder",
+      "author": "Desconegut / Institucional",
+      "filename": "robert-greene-las-48-leyes-del-poder.pdf",
+      "source_url": null,
+      "file_size_bytes": 76284,
+      "sha256": "793fdd59fa3adf3b90846a4d17a7804b46c731cd9414c42be62e42e30ab451dc",
+      "total_pages": 10,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Robert Greene Las 48 Leyes Del Poder dins de Estrategia Militar y Organizativa.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Estrategia Militar y Organizativa (Estrategia y Organización), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Te gustaría aprender las claves para dominar el arte del L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Estrategia Militar y Organizativa.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Robert Greene Las 48 Leyes Del Poder'. Domain: Estrategia y Organización (Estrategia Militar y Organizativa). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/robert-greene-las-48-leyes-del-poder.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Estrategia Militar y Organizativa",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "tzu-sun-el-arte-de-la-guerra",
+      "title": "Tzu Sun El Arte De La Guerra",
+      "author": "Desconegut / Institucional",
+      "filename": "tzu-sun-el-arte-de-la-guerra.pdf",
+      "source_url": null,
+      "file_size_bytes": 117245,
+      "sha256": "3820afd721a1681b04e24cf1fb3fc77d0b44a5e4176367c7d2f0d75102ff3bb9",
+      "total_pages": 14,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Tzu Sun El Arte De La Guerra dins de Estrategia Militar y Organizativa.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Estrategia Militar y Organizativa (Estrategia y Organización), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: LA acción militar es de importancia vital para un país; L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Estrategia Militar y Organizativa.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Tzu Sun El Arte De La Guerra'. Domain: Estrategia y Organización (Estrategia Militar y Organizativa). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/tzu-sun-el-arte-de-la-guerra.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Estrategia Militar y Organizativa",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    }
+  ]
+}

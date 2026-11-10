@@ -1,0 +1,131 @@
+{
+  "schema_version": "1.0.0",
+  "id": "planetalibro-economia",
+  "name": "Economía Política y Recursos",
+  "description": "Fonaments del valor, comerç, distribució de recursos i teoria econòmica clàssica.",
+  "category": {
+    "slug": "economia",
+    "name": "Economía Política y Recursos",
+    "url": "https://planetalibro.net/tema/economia"
+  },
+  "domain": "Economía y Comercio",
+  "language": "es",
+  "portal_source": {
+    "name": "PlanetaLibro",
+    "url": "https://planetalibro.net/tema/economia",
+    "scraped_at": "2026-11-10T01:50:19.288289+00:00"
+  },
+  "tags": [
+    "economia",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "b68270cd-cc9b-49a6-96ea-7d5fd78d9c6b",
+      "title": "Alfred Marshall Principios De Economia",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "alfred-marshall-principios-de-economia.pdf",
+      "source_url": null,
+      "file_size_bytes": 140589,
+      "sha256": "17454ba9664920c6bf343bfa2499a454046e5c902403f42add6f3ae9c0794e43",
+      "page_count": 29,
+      "key_topics": [
+        "Economía Política y Recursos"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "e7702a81-75d0-43e5-ac93-e740bb3d51f2",
+      "title": "Axel Kaiser Parasitos Mentales",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "axel-kaiser-parasitos-mentales.pdf",
+      "source_url": null,
+      "file_size_bytes": 91545,
+      "sha256": "0a841b6f7f1f0896fb727d1a745966e95c7318cc3b1dfe3bdfe161cf6175896d",
+      "page_count": 20,
+      "key_topics": [
+        "Economía Política y Recursos"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "94ce36b8-aa2c-4820-8a1d-1be106b035f0",
+      "title": "Brian Tracy Multiplica Tu Dinero",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "brian-tracy-multiplica-tu-dinero.pdf",
+      "source_url": null,
+      "file_size_bytes": 124590,
+      "sha256": "bcafd07e68481d5b2cbd06d170767f2f63e98aad67c0605495ac73d67e2259aa",
+      "page_count": 18,
+      "key_topics": [
+        "Economía Política y Recursos"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "2803a6a1-fe33-42a7-885e-c8836b1547c4",
+      "title": "Leandro Fortuny Las 38 Cartas De John D Rockefeller A Su Hijo",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "leandro-fortuny-las-38-cartas-de-john-d-rockefeller-a-su-hijo.pdf",
+      "source_url": null,
+      "file_size_bytes": 129560,
+      "sha256": "c91b2b3cb71bdfcf1a68c2638d29b652a82d342e07331c3efb1f5bf0fec89588",
+      "page_count": 24,
+      "key_topics": [
+        "Economía Política y Recursos"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "d95ea929-3908-4257-b2ba-580955030b22",
+      "title": "Morgan Housel La Psicologia Del Dinero",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "morgan-housel-la-psicologia-del-dinero.pdf",
+      "source_url": null,
+      "file_size_bytes": 451544,
+      "sha256": "7705ea110506f25f061fc7a9e7b73bb4deb08c51eb0b22a31148a787304f2d6f",
+      "page_count": 15,
+      "key_topics": [
+        "Economía Política y Recursos"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "bbed3b1b-b972-4d02-80ef-9e111922f2c5",
+      "title": "T Harv Eker Los Secretos De La Mente Millonaria",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "t-harv-eker-los-secretos-de-la-mente-millonaria.pdf",
+      "source_url": null,
+      "file_size_bytes": 123287,
+      "sha256": "13c6e757a9df7b29f13220c2cee860bf43540cb59db538440068fa5067f2b4d1",
+      "page_count": 18,
+      "key_topics": [
+        "Economía Política y Recursos"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "planetalibro-economia",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 6,
+    "total_chunks": 124,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 6,
+    "total_pages": 124,
+    "total_size_mb": 1.01
+  },
+  "created_at": "2026-11-10T01:50:19.288374+00:00",
+  "updated_at": "2026-11-10T01:50:22.749262+00:00"
+}

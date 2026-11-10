@@ -1,0 +1,159 @@
+{
+  "schema_version": "1.0.0",
+  "id": "planetalibro-ensayo",
+  "name": "Ensayo",
+  "description": "Compendio de obras fundamentales sobre ensayo",
+  "category": {
+    "slug": "ensayo",
+    "name": "Ensayo",
+    "url": "https://planetalibro.net/tema/ensayo"
+  },
+  "domain": "Conocimiento General",
+  "language": "es",
+  "portal_source": {
+    "name": "PlanetaLibro",
+    "url": "https://planetalibro.net/tema/ensayo",
+    "scraped_at": "2026-11-10T01:48:13.272468+00:00"
+  },
+  "tags": [
+    "ensayo",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "acbdc8dc-ed0d-4b01-87ed-b8028e8d16a1",
+      "title": "Camus Albert El Mito De Sisifo",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "camus-albert-el-mito-de-sisifo.pdf",
+      "source_url": null,
+      "file_size_bytes": 69728,
+      "sha256": "ecc83b349b25625f5f86cb2c107b5651d2bf4ab5ed315480b6eb14fb762a4ac7",
+      "page_count": 4,
+      "key_topics": [
+        "Ensayo"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "d5f36d65-4393-45b4-a3f2-04643189a1b6",
+      "title": "Dostoievski Fiodor Diario De Un Escritor",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "dostoievski-fiodor-diario-de-un-escritor.pdf",
+      "source_url": null,
+      "file_size_bytes": 101917,
+      "sha256": "58f88d54076f34ac35e596f8ad210241fa5cb236b19ba7d4c66597f967d87625",
+      "page_count": 2,
+      "key_topics": [
+        "Ensayo"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "356830a5-b1f6-4f1e-83d2-e82571366781",
+      "title": "Freud Sigmund Lo Inconsciente",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "freud-sigmund-lo-inconsciente.pdf",
+      "source_url": null,
+      "file_size_bytes": 115482,
+      "sha256": "ee0998810088b1fc6dc51d59129839a591519b0b6fcf2ff75eef31bc9390cfc7",
+      "page_count": 11,
+      "key_topics": [
+        "Ensayo"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "985e0ffb-5a19-414f-a39b-dbbd79c27051",
+      "title": "Kramer Heinrich El Martillo De Las Brujas",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "kramer-heinrich-el-martillo-de-las-brujas.pdf",
+      "source_url": null,
+      "file_size_bytes": 65858,
+      "sha256": "9fde89b2e4b2afcd7806f117705d8f490e7f730e30cf996c4da200aeb54e897e",
+      "page_count": 2,
+      "key_topics": [
+        "Ensayo"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "7274e7d0-30d1-48db-8954-38d16c014adc",
+      "title": "Maquiavelo Nicolas El Principe",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "maquiavelo-nicolas-el-principe.pdf",
+      "source_url": null,
+      "file_size_bytes": 112772,
+      "sha256": "c02a086b1f48c27c6d88978e987a12f37ef61aa4e7233e0a86a88dd68ad9d573",
+      "page_count": 9,
+      "key_topics": [
+        "Ensayo"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "fec20cce-9416-4f1d-b59c-d959c919cf3a",
+      "title": "Nietzsche Friedrich Wilhelm Asi Hablo Zaratustra",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "nietzsche-friedrich-wilhelm-asi-hablo-zaratustra.pdf",
+      "source_url": null,
+      "file_size_bytes": 102098,
+      "sha256": "4bff480b11c922d79d1f939e03511942eafbe20d1ee9c86eb8a07c6951b681a3",
+      "page_count": 2,
+      "key_topics": [
+        "Ensayo"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "7a178926-833e-432b-81c8-29bb5df615f5",
+      "title": "Sam Leith  Me Hablas A Mi ",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "sam-leith--me-hablas-a-mi-.pdf",
+      "source_url": null,
+      "file_size_bytes": 139946,
+      "sha256": "87de9d47ad1553a3086dacd04bb1d0320665ca9f50e577eda54245fe99e72f57",
+      "page_count": 28,
+      "key_topics": [
+        "Ensayo"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "8acca251-e25c-46b4-9354-ca21bb99626d",
+      "title": "Tolstoi Leon El Origen Del Mal",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "tolstoi-leon-el-origen-del-mal.pdf",
+      "source_url": null,
+      "file_size_bytes": 69019,
+      "sha256": "71147c091b1f603c74f34c232d1c7ca96be85c51c2aabad25086ba6660b29749",
+      "page_count": 4,
+      "key_topics": [
+        "Ensayo"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "planetalibro-ensayo",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 8,
+    "total_chunks": 62,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 8,
+    "total_pages": 62,
+    "total_size_mb": 0.74
+  },
+  "created_at": "2026-11-10T01:48:13.272492+00:00",
+  "updated_at": "2026-11-10T01:48:15.022671+00:00"
+}
