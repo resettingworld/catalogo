@@ -1,0 +1,194 @@
+{
+  "topic": "Gutenberg: Mathematics",
+  "domain": "Ciencias Exactas",
+  "source_portal": "Project Gutenberg",
+  "bookshelf_id": "672",
+  "canonical_style_id": "collage-punk-v1",
+  "canonical_style_name": "Collage Punk & Underground DIY Zine",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "collage-punk-v1",
+    "style_name": "Collage Punk & Underground DIY Zine",
+    "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition."
+  },
+  "total_books": 5,
+  "total_pages": 4067,
+  "total_size_mb": 7.29,
+  "books": [
+    {
+      "id": "gutenberg_16713_Henry_Ernest_Dudeney",
+      "title": "Gutenberg_16713_Henry_Ernest_Dudeney",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_16713_Henry_Ernest_Dudeney.pdf",
+      "source_url": null,
+      "file_size_bytes": 1062414,
+      "sha256": "0e80057a8c9f10250827584c83ebbed88cbd0afa6a90a1fa378cd48144cb737e",
+      "total_pages": 829,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_16713_Henry_Ernest_Dudeney dins de Mathematics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Mathematics (Ciencias Exactas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Mathematics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_16713_Henry_Ernest_Dudeney'. Domain: Ciencias Exactas (Mathematics). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_16713_Henry_Ernest_Dudeney.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Mathematics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_28233_Isaac_Newton",
+      "title": "Gutenberg_28233_Isaac_Newton",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_28233_Isaac_Newton.pdf",
+      "source_url": null,
+      "file_size_bytes": 860187,
+      "sha256": "9c1a550892c573e5a76761b94b0333d3c116e2a2ac369d7802dbfb557eb57da5",
+      "total_pages": 620,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_28233_Isaac_Newton dins de Mathematics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Mathematics (Ciencias Exactas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Mathematics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_28233_Isaac_Newton'. Domain: Ciencias Exactas (Mathematics). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_28233_Isaac_Newton.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Mathematics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_39713_Henri_Poincar_",
+      "title": "Gutenberg_39713_Henri_Poincar_",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_39713_Henri_Poincar_.pdf",
+      "source_url": null,
+      "file_size_bytes": 1271902,
+      "sha256": "56dc8a6084e02e65db71a86f5e1009d42078baed75928e867cc3923fb5330d01",
+      "total_pages": 954,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_39713_Henri_Poincar_ dins de Mathematics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Mathematics (Ciencias Exactas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Mathematics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_39713_Henri_Poincar_'. Domain: Ciencias Exactas (Mathematics). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_39713_Henri_Poincar_.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Mathematics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_27635_Henry_Ernest_Dudeney",
+      "title": "Gutenberg_27635_Henry_Ernest_Dudeney",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_27635_Henry_Ernest_Dudeney.pdf",
+      "source_url": null,
+      "file_size_bytes": 413684,
+      "sha256": "3fc5f8306c03aa399946fbab8a0ad4be8c21c2a38f6a1c894dafd95811761ec2",
+      "total_pages": 298,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_27635_Henry_Ernest_Dudeney dins de Mathematics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Mathematics (Ciencias Exactas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Mathematics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_27635_Henry_Ernest_Dudeney'. Domain: Ciencias Exactas (Mathematics). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_27635_Henry_Ernest_Dudeney.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Mathematics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_55264_D_Arcy_Wentworth_Thompson",
+      "title": "Gutenberg_55264_D_Arcy_Wentworth_Thompson",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_55264_D_Arcy_Wentworth_Thompson.pdf",
+      "source_url": null,
+      "file_size_bytes": 4031110,
+      "sha256": "2f9f2f7ed94464919e36cefc794ee3d1262079d30ce97b9edf2cb0fb76ee970f",
+      "total_pages": 1366,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_55264_D_Arcy_Wentworth_Thompson dins de Mathematics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Mathematics (Ciencias Exactas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Mathematics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_55264_D_Arcy_Wentworth_Thompson'. Domain: Ciencias Exactas (Mathematics). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_55264_D_Arcy_Wentworth_Thompson.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Mathematics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

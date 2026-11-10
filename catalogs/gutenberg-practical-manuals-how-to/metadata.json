@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0.0",
+  "id": "gutenberg-practical-manuals-how-to",
+  "name": "Gutenberg: Practical Manuals & How To",
+  "description": "Manuals pràctics d'oficis, procediments tècnics, fusteria, fosa, mecànica i construcció.",
+  "category": {
+    "slug": "gutenberg-technical",
+    "name": "Project Gutenberg Technical Knowledge",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/679"
+  },
+  "domain": "Tecnología Aplicada y Oficios",
+  "language": "es",
+  "portal_source": {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/679",
+    "scraped_at": "2026-11-10T00:38:25.898182+00:00"
+  },
+  "tags": [
+    "gutenberg-practical-manuals-how-to",
+    "gutenberg",
+    "technical",
+    "non-fiction",
+    "collage-punk",
+    "modular-rag"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "705d7ecb-fcf3-4dc5-ba55-76de514a6bfd",
+      "title": "Gutenberg_22298_James_Slough_Zerbe",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_22298_James_Slough_Zerbe.pdf",
+      "source_url": null,
+      "file_size_bytes": 340045,
+      "sha256": "4fc595ab6ad4d8108b4903037e6c7bd894b3a0a5c05fb241efe1c544c89653ef",
+      "page_count": 267,
+      "key_topics": [
+        "Gutenberg: Practical Manuals & How To"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "63235db1-1829-45e7-875e-b81b336a0bb9",
+      "title": "Gutenberg_2274_Arnold_Bennett",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_2274_Arnold_Bennett.pdf",
+      "source_url": null,
+      "file_size_bytes": 119683,
+      "sha256": "7446d2478460d29ffe981fab95b92558141121b99bac6721612f83328cb4a585",
+      "page_count": 60,
+      "key_topics": [
+        "Gutenberg: Practical Manuals & How To"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "6b8a94b4-3468-4e90-aced-1616f8d4a167",
+      "title": "Gutenberg_37134_William_Strunk",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_37134_William_Strunk.pdf",
+      "source_url": null,
+      "file_size_bytes": 137392,
+      "sha256": "2651344bf8a16425cc05a07ff444400d1db06de6a8b4e89b51e10e854a45dd22",
+      "page_count": 84,
+      "key_topics": [
+        "Gutenberg: Practical Manuals & How To"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "ad1f9959-29c3-4ed0-a464-913edc2207c4",
+      "title": "Gutenberg_59844_W__D__Wattles",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_59844_W__D__Wattles.pdf",
+      "source_url": null,
+      "file_size_bytes": 176940,
+      "sha256": "54ce20e15d7c98941c938dacc348bcef48c2d7c88c704f1d9dc4e255c76aaefc",
+      "page_count": 111,
+      "key_topics": [
+        "Gutenberg: Practical Manuals & How To"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "ac1ccab3-d44d-45ce-99df-9c432f32a3dd",
+      "title": "Gutenberg_8581_P__T__Barnum",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_8581_P__T__Barnum.pdf",
+      "source_url": null,
+      "file_size_bytes": 123366,
+      "sha256": "6030b8bec21a2f623e798900c4af898df37186205ff47a0cf736e98b8c5be7be",
+      "page_count": 61,
+      "key_topics": [
+        "Gutenberg: Practical Manuals & How To"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "gutenberg-practical-manuals-how-to",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 5,
+    "total_chunks": 583,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 5,
+    "total_pages": 583,
+    "total_size_mb": 0.86
+  },
+  "created_at": "2026-11-10T00:38:25.898210+00:00",
+  "updated_at": "2026-11-10T00:38:42.522993+00:00"
+}

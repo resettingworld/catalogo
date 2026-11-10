@@ -1,0 +1,194 @@
+{
+  "topic": "Gutenberg: Physics",
+  "domain": "Ciencias Exactas y Naturales",
+  "source_portal": "Project Gutenberg",
+  "bookshelf_id": "667",
+  "canonical_style_id": "bio-punk-v1",
+  "canonical_style_name": "Bio-Punk Zine (Ciencias Naturales)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "bio-punk-v1",
+    "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+    "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free."
+  },
+  "total_books": 5,
+  "total_pages": 3475,
+  "total_size_mb": 4.98,
+  "books": [
+    {
+      "id": "gutenberg_5000_da_Vinci_Leonardo",
+      "title": "Gutenberg_5000_Da_Vinci_Leonardo",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_5000_da_Vinci_Leonardo.pdf",
+      "source_url": null,
+      "file_size_bytes": 1805735,
+      "sha256": "b5e44f07568af760ac140100487a122b77c5ab69d763418b80722b3549746801",
+      "total_pages": 1259,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_5000_Da_Vinci_Leonardo dins de Physics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Physics (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Physics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Gutenberg_5000_Da_Vinci_Leonardo'. Domain: Ciencias Exactas y Naturales (Physics). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_5000_da_Vinci_Leonardo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Physics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_45988_Francis_Bacon",
+      "title": "Gutenberg_45988_Francis_Bacon",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_45988_Francis_Bacon.pdf",
+      "source_url": null,
+      "file_size_bytes": 815748,
+      "sha256": "111608c838cf53680f47530e4f04a2a1213509b83dafde56adb5ed6148680f92",
+      "total_pages": 416,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_45988_Francis_Bacon dins de Physics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Physics (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Physics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Gutenberg_45988_Francis_Bacon'. Domain: Ciencias Exactas y Naturales (Physics). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_45988_Francis_Bacon.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Physics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_33504_Isaac_Newton",
+      "title": "Gutenberg_33504_Isaac_Newton",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_33504_Isaac_Newton.pdf",
+      "source_url": null,
+      "file_size_bytes": 596543,
+      "sha256": "6834c228a8cfbc2332d2fc45a09e54329b8ffd4eb671e404bffa5dc504483a9e",
+      "total_pages": 429,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_33504_Isaac_Newton dins de Physics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Physics (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Physics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Gutenberg_33504_Isaac_Newton'. Domain: Ciencias Exactas y Naturales (Physics). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_33504_Isaac_Newton.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Physics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_75948_The_book_of_wonders____gives_p",
+      "title": "Gutenberg_75948_The_Book_Of_Wonders____Gives_P",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_75948_The_book_of_wonders____gives_p.pdf",
+      "source_url": null,
+      "file_size_bytes": 1769398,
+      "sha256": "bb65ea6cb20ae9a27a0e7e058557ce3990d46dab6ea71adc0dc8752d8d575e1f",
+      "total_pages": 1213,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_75948_The_Book_Of_Wonders____Gives_P dins de Physics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Physics (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Physics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Gutenberg_75948_The_Book_Of_Wonders____Gives_P'. Domain: Ciencias Exactas y Naturales (Physics). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_75948_The_book_of_wonders____gives_p.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Physics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_30155_Albert_Einstein",
+      "title": "Gutenberg_30155_Albert_Einstein",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_30155_Albert_Einstein.pdf",
+      "source_url": null,
+      "file_size_bytes": 239639,
+      "sha256": "881cccaeed3495c2ca8c5da96629b3ff1add5cac96f7a722049dd10df0c802dd",
+      "total_pages": 158,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_30155_Albert_Einstein dins de Physics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Physics (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Physics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Gutenberg_30155_Albert_Einstein'. Domain: Ciencias Exactas y Naturales (Physics). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_30155_Albert_Einstein.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Physics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

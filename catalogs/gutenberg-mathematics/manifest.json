@@ -1,0 +1,26 @@
+{
+  "rag_id": "gutenberg-mathematics",
+  "name": "Gutenberg: Mathematics",
+  "description": "Càlcul, àlgebra, geometria, teoria de nombres i fonaments matemàtics universals.",
+  "version": "1.0.0",
+  "author": "SmartLocal / Project Gutenberg",
+  "created_at": 1794270342.9447098,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 4067,
+  "total_documents": 5,
+  "total_library_files": 5,
+  "total_images_extracted": 0,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "gutenberg-mathematics",
+    "gutenberg",
+    "technical",
+    "non-fiction",
+    "collage-punk",
+    "modular-rag"
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "topic": "Gutenberg: Practical Manuals & How To",
+  "domain": "Tecnología Aplicada y Oficios",
+  "source_portal": "Project Gutenberg",
+  "bookshelf_id": "679",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 5,
+  "total_pages": 583,
+  "total_size_mb": 0.86,
+  "books": [
+    {
+      "id": "gutenberg_37134_William_Strunk",
+      "title": "Gutenberg_37134_William_Strunk",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_37134_William_Strunk.pdf",
+      "source_url": null,
+      "file_size_bytes": 137392,
+      "sha256": "2651344bf8a16425cc05a07ff444400d1db06de6a8b4e89b51e10e854a45dd22",
+      "total_pages": 84,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_37134_William_Strunk dins de Practical Manuals & How To.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Practical Manuals & How To (Tecnología Aplicada y Oficios), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Practical Manuals & How To.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Gutenberg_37134_William_Strunk'. Domain: Tecnología Aplicada y Oficios (Practical Manuals & How To). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_37134_William_Strunk.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Practical Manuals & How To",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_8581_P__T__Barnum",
+      "title": "Gutenberg_8581_P__T__Barnum",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_8581_P__T__Barnum.pdf",
+      "source_url": null,
+      "file_size_bytes": 123366,
+      "sha256": "6030b8bec21a2f623e798900c4af898df37186205ff47a0cf736e98b8c5be7be",
+      "total_pages": 61,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_8581_P__T__Barnum dins de Practical Manuals & How To.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Practical Manuals & How To (Tecnología Aplicada y Oficios), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Practical Manuals & How To.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Gutenberg_8581_P__T__Barnum'. Domain: Tecnología Aplicada y Oficios (Practical Manuals & How To). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_8581_P__T__Barnum.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Practical Manuals & How To",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_59844_W__D__Wattles",
+      "title": "Gutenberg_59844_W__D__Wattles",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_59844_W__D__Wattles.pdf",
+      "source_url": null,
+      "file_size_bytes": 176940,
+      "sha256": "54ce20e15d7c98941c938dacc348bcef48c2d7c88c704f1d9dc4e255c76aaefc",
+      "total_pages": 111,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_59844_W__D__Wattles dins de Practical Manuals & How To.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Practical Manuals & How To (Tecnología Aplicada y Oficios), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Practical Manuals & How To.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Gutenberg_59844_W__D__Wattles'. Domain: Tecnología Aplicada y Oficios (Practical Manuals & How To). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_59844_W__D__Wattles.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Practical Manuals & How To",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_2274_Arnold_Bennett",
+      "title": "Gutenberg_2274_Arnold_Bennett",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_2274_Arnold_Bennett.pdf",
+      "source_url": null,
+      "file_size_bytes": 119683,
+      "sha256": "7446d2478460d29ffe981fab95b92558141121b99bac6721612f83328cb4a585",
+      "total_pages": 60,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_2274_Arnold_Bennett dins de Practical Manuals & How To.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Practical Manuals & How To (Tecnología Aplicada y Oficios), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Practical Manuals & How To.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Gutenberg_2274_Arnold_Bennett'. Domain: Tecnología Aplicada y Oficios (Practical Manuals & How To). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_2274_Arnold_Bennett.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Practical Manuals & How To",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_22298_James_Slough_Zerbe",
+      "title": "Gutenberg_22298_James_Slough_Zerbe",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_22298_James_Slough_Zerbe.pdf",
+      "source_url": null,
+      "file_size_bytes": 340045,
+      "sha256": "4fc595ab6ad4d8108b4903037e6c7bd894b3a0a5c05fb241efe1c544c89653ef",
+      "total_pages": 267,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_22298_James_Slough_Zerbe dins de Practical Manuals & How To.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Practical Manuals & How To (Tecnología Aplicada y Oficios), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Practical Manuals & How To.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Gutenberg_22298_James_Slough_Zerbe'. Domain: Tecnología Aplicada y Oficios (Practical Manuals & How To). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_22298_James_Slough_Zerbe.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Practical Manuals & How To",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

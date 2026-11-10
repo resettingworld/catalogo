@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0.0",
+  "id": "gutenberg-mathematics",
+  "name": "Gutenberg: Mathematics",
+  "description": "Càlcul, àlgebra, geometria, teoria de nombres i fonaments matemàtics universals.",
+  "category": {
+    "slug": "gutenberg-technical",
+    "name": "Project Gutenberg Technical Knowledge",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/672"
+  },
+  "domain": "Ciencias Exactas",
+  "language": "es",
+  "portal_source": {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/672",
+    "scraped_at": "2026-11-10T00:23:51.280530+00:00"
+  },
+  "tags": [
+    "gutenberg-mathematics",
+    "gutenberg",
+    "technical",
+    "non-fiction",
+    "collage-punk",
+    "modular-rag"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "d0fcd193-6cff-49bd-bbe5-06d56490dc5d",
+      "title": "Gutenberg_16713_Henry_Ernest_Dudeney",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_16713_Henry_Ernest_Dudeney.pdf",
+      "source_url": null,
+      "file_size_bytes": 1062414,
+      "sha256": "0e80057a8c9f10250827584c83ebbed88cbd0afa6a90a1fa378cd48144cb737e",
+      "page_count": 829,
+      "key_topics": [
+        "Gutenberg: Mathematics"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "87afcd14-cd84-45d7-a549-3b3291da2141",
+      "title": "Gutenberg_27635_Henry_Ernest_Dudeney",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_27635_Henry_Ernest_Dudeney.pdf",
+      "source_url": null,
+      "file_size_bytes": 413684,
+      "sha256": "3fc5f8306c03aa399946fbab8a0ad4be8c21c2a38f6a1c894dafd95811761ec2",
+      "page_count": 298,
+      "key_topics": [
+        "Gutenberg: Mathematics"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "94799b6f-1fb3-44f6-b894-1f610c19fdfb",
+      "title": "Gutenberg_28233_Isaac_Newton",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_28233_Isaac_Newton.pdf",
+      "source_url": null,
+      "file_size_bytes": 860187,
+      "sha256": "9c1a550892c573e5a76761b94b0333d3c116e2a2ac369d7802dbfb557eb57da5",
+      "page_count": 620,
+      "key_topics": [
+        "Gutenberg: Mathematics"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "36e980e3-cd01-4643-877b-5c9a9d633530",
+      "title": "Gutenberg_39713_Henri_Poincar_",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_39713_Henri_Poincar_.pdf",
+      "source_url": null,
+      "file_size_bytes": 1271902,
+      "sha256": "56dc8a6084e02e65db71a86f5e1009d42078baed75928e867cc3923fb5330d01",
+      "page_count": 954,
+      "key_topics": [
+        "Gutenberg: Mathematics"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "475f60c4-bb11-489f-a981-b01e1b8f9784",
+      "title": "Gutenberg_55264_D_Arcy_Wentworth_Thompson",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_55264_D_Arcy_Wentworth_Thompson.pdf",
+      "source_url": null,
+      "file_size_bytes": 4031110,
+      "sha256": "2f9f2f7ed94464919e36cefc794ee3d1262079d30ce97b9edf2cb0fb76ee970f",
+      "page_count": 1366,
+      "key_topics": [
+        "Gutenberg: Mathematics"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "gutenberg-mathematics",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 5,
+    "total_chunks": 4067,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 5,
+    "total_pages": 4067,
+    "total_size_mb": 7.29
+  },
+  "created_at": "2026-11-10T00:23:51.280561+00:00",
+  "updated_at": "2026-11-10T00:25:42.943999+00:00"
+}

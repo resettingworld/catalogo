@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0.0",
+  "id": "gutenberg-physics",
+  "name": "Gutenberg: Physics",
+  "description": "Mecànica clàssica, termodinàmica, electromagnetisme, òptica i física teòrica.",
+  "category": {
+    "slug": "gutenberg-technical",
+    "name": "Project Gutenberg Technical Knowledge",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/667"
+  },
+  "domain": "Ciencias Exactas y Naturales",
+  "language": "es",
+  "portal_source": {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/667",
+    "scraped_at": "2026-11-10T00:25:57.652244+00:00"
+  },
+  "tags": [
+    "gutenberg-physics",
+    "gutenberg",
+    "technical",
+    "non-fiction",
+    "collage-punk",
+    "modular-rag"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "82721a58-38af-466c-95b4-705428740aaa",
+      "title": "Gutenberg_30155_Albert_Einstein",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_30155_Albert_Einstein.pdf",
+      "source_url": null,
+      "file_size_bytes": 239639,
+      "sha256": "881cccaeed3495c2ca8c5da96629b3ff1add5cac96f7a722049dd10df0c802dd",
+      "page_count": 158,
+      "key_topics": [
+        "Gutenberg: Physics"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "2d66f1cd-855f-4098-8994-763e1580490d",
+      "title": "Gutenberg_33504_Isaac_Newton",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_33504_Isaac_Newton.pdf",
+      "source_url": null,
+      "file_size_bytes": 596543,
+      "sha256": "6834c228a8cfbc2332d2fc45a09e54329b8ffd4eb671e404bffa5dc504483a9e",
+      "page_count": 429,
+      "key_topics": [
+        "Gutenberg: Physics"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "2087a327-08e5-411f-8d9a-1012dbc06f1a",
+      "title": "Gutenberg_45988_Francis_Bacon",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_45988_Francis_Bacon.pdf",
+      "source_url": null,
+      "file_size_bytes": 815748,
+      "sha256": "111608c838cf53680f47530e4f04a2a1213509b83dafde56adb5ed6148680f92",
+      "page_count": 416,
+      "key_topics": [
+        "Gutenberg: Physics"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "7da1a4d0-d5c6-41aa-9ca9-6d49c7695bee",
+      "title": "Gutenberg_5000_Da_Vinci_Leonardo",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_5000_da_Vinci_Leonardo.pdf",
+      "source_url": null,
+      "file_size_bytes": 1805735,
+      "sha256": "b5e44f07568af760ac140100487a122b77c5ab69d763418b80722b3549746801",
+      "page_count": 1259,
+      "key_topics": [
+        "Gutenberg: Physics"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "efc127db-aa4b-40cb-b7cc-bed8ecf67eea",
+      "title": "Gutenberg_75948_The_Book_Of_Wonders____Gives_P",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_75948_The_book_of_wonders____gives_p.pdf",
+      "source_url": null,
+      "file_size_bytes": 1769398,
+      "sha256": "bb65ea6cb20ae9a27a0e7e058557ce3990d46dab6ea71adc0dc8752d8d575e1f",
+      "page_count": 1213,
+      "key_topics": [
+        "Gutenberg: Physics"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "gutenberg-physics",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 5,
+    "total_chunks": 3475,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 5,
+    "total_pages": 3475,
+    "total_size_mb": 4.98
+  },
+  "created_at": "2026-11-10T00:25:57.652289+00:00",
+  "updated_at": "2026-11-10T00:27:34.424275+00:00"
+}
