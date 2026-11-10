@@ -1,0 +1,26 @@
+{
+  "rag_id": "big-data",
+  "name": "Big Data",
+  "description": "Col·lecció completa de llibres i manuals de Big Data (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794270506.5921679,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 1174,
+  "total_documents": 10,
+  "total_library_files": 10,
+  "total_images_extracted": 153,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "big-data",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

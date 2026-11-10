@@ -1,0 +1,26 @@
+{
+  "rag_id": "automatizacion",
+  "name": "Automatizacion",
+  "description": "Col·lecció completa de llibres i manuals de Automatizacion (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794270438.39118,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 3364,
+  "total_documents": 10,
+  "total_library_files": 10,
+  "total_images_extracted": 1345,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "automatizacion",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

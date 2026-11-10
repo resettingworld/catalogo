@@ -1,0 +1,26 @@
+{
+  "rag_id": "bases-de-datos",
+  "name": "Bases De Datos",
+  "description": "Col·lecció completa de llibres i manuals de Bases De Datos (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794269895.9684181,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 3353,
+  "total_documents": 20,
+  "total_library_files": 20,
+  "total_images_extracted": 968,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "bases-de-datos",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

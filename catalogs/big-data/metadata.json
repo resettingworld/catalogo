@@ -1,0 +1,350 @@
+{
+  "schema_version": "1.0.0",
+  "id": "big-data",
+  "name": "Big Data",
+  "description": "Col·lecció completa de llibres i manuals de Big Data (Estil Collage Punk DIY).",
+  "category": {
+    "slug": "informatica",
+    "name": "Informatica",
+    "url": "https://infolibros.org/libros-pdf-gratis/informatica/"
+  },
+  "domain": "Tecnología e Informática",
+  "language": "es",
+  "portal_source": {
+    "name": "InfoLibros",
+    "url": "https://infolibros.org/libros-pdf-gratis/informatica/big-data/",
+    "scraped_at": "2026-11-10T00:27:45.117712+00:00"
+  },
+  "tags": [
+    "big-data",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "9ed8b10a-a87c-40c9-91b5-8d533fec06f5",
+      "title": "Aplicaciones Del Big Data En Pymes Ana Gonzalez Lopez 16977",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "aplicaciones-del-big-data-en-pymes-ana-gonzalez-lopez-16977.pdf",
+      "source_url": null,
+      "file_size_bytes": 984053,
+      "sha256": "89b943b740c06c7e9e45822206f7add769fb6122ed63f1dbf93431ca0be36896",
+      "page_count": 52,
+      "key_topics": [
+        "Big Data"
+      ],
+      "images_extracted": [
+        "img_9ed8b10a-a87c-40c9-91b5-8d533fec06f5_p2_0.jpeg",
+        "img_9ed8b10a-a87c-40c9-91b5-8d533fec06f5_p2_1.jpeg",
+        "img_9ed8b10a-a87c-40c9-91b5-8d533fec06f5_p12_0.png",
+        "img_9ed8b10a-a87c-40c9-91b5-8d533fec06f5_p15_2.png",
+        "img_9ed8b10a-a87c-40c9-91b5-8d533fec06f5_p20_0.jpeg",
+        "img_9ed8b10a-a87c-40c9-91b5-8d533fec06f5_p27_0.jpeg",
+        "img_9ed8b10a-a87c-40c9-91b5-8d533fec06f5_p30_0.jpeg",
+        "img_9ed8b10a-a87c-40c9-91b5-8d533fec06f5_p34_0.jpeg",
+        "img_9ed8b10a-a87c-40c9-91b5-8d533fec06f5_p36_0.png",
+        "img_9ed8b10a-a87c-40c9-91b5-8d533fec06f5_p38_0.jpeg"
+      ]
+    },
+    {
+      "id": "7319d489-4ba2-4ded-8a60-69220a6785ef",
+      "title": "Big Data El Poder De Los Datos Fundacion Innovacion Bankinter",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "big-data-el-poder-de-los-datos-fundacion-innovacion-bankinter.pdf",
+      "source_url": null,
+      "file_size_bytes": 6292082,
+      "sha256": "63c022b3f0e2b283dbe2f80b3e3e08fdf7874864705dfcd5da5c874d4fe9bace",
+      "page_count": 82,
+      "key_topics": [
+        "Big Data"
+      ],
+      "images_extracted": [
+        "img_7319d489-4ba2-4ded-8a60-69220a6785ef_p42_0.jpeg",
+        "img_7319d489-4ba2-4ded-8a60-69220a6785ef_p55_0.jpeg",
+        "img_7319d489-4ba2-4ded-8a60-69220a6785ef_p57_0.jpeg",
+        "img_7319d489-4ba2-4ded-8a60-69220a6785ef_p70_0.jpeg"
+      ]
+    },
+    {
+      "id": "8085aee3-a8b6-42b8-b8b5-df7206a6e79c",
+      "title": "Big Data En Los Entornos De Defensa Y Seguridad Varios Autores",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "big-data-en-los-entornos-de-defensa-y-seguridad-varios-autores.pdf",
+      "source_url": null,
+      "file_size_bytes": 4748759,
+      "sha256": "0d3c053f01c464996a8f47272f1e356c71693843c77dc6f8f192c2b1ba290905",
+      "page_count": 124,
+      "key_topics": [
+        "Big Data"
+      ],
+      "images_extracted": [
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p20_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p20_1.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p29_0.png",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p32_0.png",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p35_0.png",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p36_0.png",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p48_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p58_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p61_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p61_1.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p65_0.png",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p81_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p81_1.png",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p82_0.png",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p83_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p84_0.png",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p84_1.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p88_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p89_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p89_1.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p89_2.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p90_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p92_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p93_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p96_0.png",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p96_1.png",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p97_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p98_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p98_1.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p99_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p101_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p101_1.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p103_0.png",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p105_0.jpeg",
+        "img_8085aee3-a8b6-42b8-b8b5-df7206a6e79c_p107_0.png"
+      ]
+    },
+    {
+      "id": "25a90171-1e98-403e-a1a9-fec601ca5e43",
+      "title": "Big Data Privacidad Y Proteccion De Datos Elena Gil Gonzalez 16974",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "big-data-privacidad-y-proteccion-de-datos-elena-gil-gonzalez-16974.pdf",
+      "source_url": null,
+      "file_size_bytes": 4572793,
+      "sha256": "db2c4943aeafdfa1966951fa434d4984df6f46dfc854f50f837a0d14e731f69d",
+      "page_count": 145,
+      "key_topics": [
+        "Big Data"
+      ],
+      "images_extracted": [
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p1_2.jpeg",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p15_0.jpeg",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p20_0.jpeg",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p24_0.png",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p31_0.png",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p31_1.png",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p32_0.png",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p34_0.jpeg",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p35_0.jpeg",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p36_0.png",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p36_1.png",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p106_0.png",
+        "img_25a90171-1e98-403e-a1a9-fec601ca5e43_p110_0.jpeg"
+      ]
+    },
+    {
+      "id": "bb513937-666e-46ed-837a-8de1bbb54a2f",
+      "title": "Big Data Retos Y Oportunidades Para El Turismo Agencia Valenciana Del Turisme",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "big-data-retos-y-oportunidades-para-el-turismo-agencia-valenciana-del-turisme.pdf",
+      "source_url": null,
+      "file_size_bytes": 5095034,
+      "sha256": "a7038fd34509c71030dbffb49e0c64937d1c817ce4176eb135da06eb2305066b",
+      "page_count": 84,
+      "key_topics": [
+        "Big Data"
+      ],
+      "images_extracted": [
+        "img_bb513937-666e-46ed-837a-8de1bbb54a2f_p3_0.jpeg",
+        "img_bb513937-666e-46ed-837a-8de1bbb54a2f_p8_0.jpeg",
+        "img_bb513937-666e-46ed-837a-8de1bbb54a2f_p22_0.jpeg",
+        "img_bb513937-666e-46ed-837a-8de1bbb54a2f_p33_0.jpeg",
+        "img_bb513937-666e-46ed-837a-8de1bbb54a2f_p47_0.jpeg",
+        "img_bb513937-666e-46ed-837a-8de1bbb54a2f_p62_0.jpeg",
+        "img_bb513937-666e-46ed-837a-8de1bbb54a2f_p64_1.png",
+        "img_bb513937-666e-46ed-837a-8de1bbb54a2f_p68_0.jpeg",
+        "img_bb513937-666e-46ed-837a-8de1bbb54a2f_p68_2.jpeg",
+        "img_bb513937-666e-46ed-837a-8de1bbb54a2f_p70_0.jpeg"
+      ]
+    },
+    {
+      "id": "c3c5c949-ed15-43d8-a3da-17021629016c",
+      "title": "Big Data Solucion O Problema Estrella Pulido Canabate 16979",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "big-data-solucion-o-problema-estrella-pulido-canabate-16979.pdf",
+      "source_url": null,
+      "file_size_bytes": 257370,
+      "sha256": "974c11cfba864a56af842841f906139ee1284f1251d1a0b668185fb6a94825c0",
+      "page_count": 49,
+      "key_topics": [
+        "Big Data"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3",
+      "title": "Conceptos Fundamentales Del Big Data Gaston Addati 16973",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "conceptos-fundamentales-del-big-data-gaston-addati-16973.pdf",
+      "source_url": null,
+      "file_size_bytes": 3252013,
+      "sha256": "6d26d3d6ae6d205cbf55b7f90796b40964ef3a50b6a8ae47a303343aa2a0596a",
+      "page_count": 26,
+      "key_topics": [
+        "Big Data"
+      ],
+      "images_extracted": [
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p3_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p4_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p5_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p6_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p6_1.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p6_2.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p7_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p9_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p9_1.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p10_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p11_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p13_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p14_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p15_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p15_1.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p17_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p18_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p19_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p20_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p21_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p22_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p23_0.jpeg",
+        "img_7c2ed8ee-c9fa-4a6c-a63b-a05d7f894ff3_p25_0.jpeg"
+      ]
+    },
+    {
+      "id": "67d5c64c-c010-4fa3-8302-ce899f37a3b5",
+      "title": "La Creacion De Valor En Las Empresas A Traves Del Big Data Aleix Galimany Suriol 16976",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "la-creacion-de-valor-en-las-empresas-a-traves-del-big-data-aleix-galimany-suriol-16976.pdf",
+      "source_url": null,
+      "file_size_bytes": 1368519,
+      "sha256": "28b88a29bd7c1888c5bb355063dd4056926a0394c82b676e028e82b6c009aade",
+      "page_count": 47,
+      "key_topics": [
+        "Big Data"
+      ],
+      "images_extracted": [
+        "img_67d5c64c-c010-4fa3-8302-ce899f37a3b5_p12_0.jpeg"
+      ]
+    },
+    {
+      "id": "82eee468-bb0f-4636-9908-00de5ae70b22",
+      "title": "Manual Practico Para El Aprendizaje De Big Data Diego Fernandez Sanchez Rios 16978",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "manual-practico-para-el-aprendizaje-de-big-data-diego-fernandez-sanchez-rios-16978.pdf",
+      "source_url": null,
+      "file_size_bytes": 2256247,
+      "sha256": "5280e719903fe125abaf481e163b686d90fad37133a18065ed4fc2970b0f47bb",
+      "page_count": 62,
+      "key_topics": [
+        "Big Data"
+      ],
+      "images_extracted": [
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p22_0.jpeg",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p24_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p25_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p26_0.jpeg",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p29_0.jpeg",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p31_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p33_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p34_0.jpeg",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p35_1.jpeg",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p37_1.jpeg",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p38_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p40_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p40_1.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p42_1.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p43_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p47_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p47_1.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p48_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p48_1.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p49_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p49_1.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p50_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p51_0.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p52_1.png",
+        "img_82eee468-bb0f-4636-9908-00de5ae70b22_p53_0.png"
+      ]
+    },
+    {
+      "id": "ab0934b6-37cb-4443-a17d-8bdd27ce3785",
+      "title": "Manual Sobre Utilidades Del Big Data Para Bienes Publicos Entimema Y Goberna 16975",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "manual-sobre-utilidades-del-big-data-para-bienes-publicos-entimema-y-goberna-16975.pdf",
+      "source_url": null,
+      "file_size_bytes": 4446135,
+      "sha256": "1619673aaea721110c06f66b72a01a1e637dd74cb69d96e597390c99345e7eb4",
+      "page_count": 375,
+      "key_topics": [
+        "Big Data"
+      ],
+      "images_extracted": [
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p54_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p55_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p108_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p136_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p175_0.png",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p221_0.png",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p228_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p240_0.png",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p244_2.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p245_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p248_1.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p249_1.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p254_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p255_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p256_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p298_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p298_1.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p302_0.png",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p309_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p309_1.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p332_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p338_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p339_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p340_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p340_1.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p347_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p347_1.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p348_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p349_0.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p349_1.jpeg",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p375_3.png",
+        "img_ab0934b6-37cb-4443-a17d-8bdd27ce3785_p375_4.png"
+      ]
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "big-data",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 10,
+    "total_chunks": 1174,
+    "total_images_extracted": 153
+  },
+  "stats": {
+    "total_books": 10,
+    "total_pages": 1046,
+    "total_size_mb": 31.73
+  },
+  "created_at": "2026-11-10T00:27:45.117749+00:00",
+  "updated_at": "2026-11-10T00:28:26.591659+00:00"
+}
