@@ -1,0 +1,362 @@
+{
+  "topic": "Control de Plagues i Malalties Agrícoles",
+  "domain": "Agronomía y Sanidad Vegetal",
+  "source_portal": "InfoLibros",
+  "category_slug": "temas-varios",
+  "capsule_slug": "control-de-plagas",
+  "canonical_style_id": "collage-punk-v1",
+  "style_name": "Collage Punk & Underground DIY Zine",
+  "banner_cover": "images/banner.png",
+  "books": [
+    {
+      "id": "como-controlar-las-plagas-de-manera-segura-city-of-new-york",
+      "title": "Como Controlar Las Plagas De Manera Segura City Of New York",
+      "author": "Desconegut / Institucional",
+      "filename": "como-controlar-las-plagas-de-manera-segura-city-of-new-york.pdf",
+      "source_url": null,
+      "file_size_bytes": 1681919,
+      "sha256": "1faf4813abb60a1888eb71a698a61bf49a089673c7b1452fcdd9bd77ea92c9e5",
+      "total_pages": 17,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Como Controlar Las Plagas De Manera Segura City Of New York dins de Control de Plagues i Malalties Agrícoles.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Control de Plagues i Malalties Agrícoles (Agronomía y Sanidad Vegetal), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Cuándo contratar a un profesional...................11 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ley de la"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Control de Plagues i Malalties Agrícoles.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Como Controlar Las Plagas De Manera Segura City Of New York'. Domain: Agronomía y Sanidad Vegetal (Control de Plagues i Malalties Agrícoles). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/como-controlar-las-plagas-de-manera-segura-city-of-new-york.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Control de Plagues i Malalties Agrícoles",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "control-natural-de-plagas-en-huerto-organico-maria-ines-elorza",
+      "title": "Microsoft Word - Control de plagas.doc",
+      "author": "Desconegut / Institucional",
+      "filename": "control-natural-de-plagas-en-huerto-organico-maria-ines-elorza.pdf",
+      "source_url": null,
+      "file_size_bytes": 2282256,
+      "sha256": "313072ad512329ec37b41c0ca33f8204e701c80321ce53a33c3273512ddc04e2",
+      "total_pages": 23,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Microsoft Word - Control de plagas.doc dins de Control de Plagues i Malalties Agrícoles.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Control de Plagues i Malalties Agrícoles (Agronomía y Sanidad Vegetal), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: CONTROL NATURAL DE PLAGAS EN EL L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Control de Plagues i Malalties Agrícoles.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Microsoft Word - Control de plagas.doc'. Domain: Agronomía y Sanidad Vegetal (Control de Plagues i Malalties Agrícoles). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/control-natural-de-plagas-en-huerto-organico-maria-ines-elorza.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Control de Plagues i Malalties Agrícoles",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "el-control-de-plagas-en-la-huerta-familiar-instituto-nacional-de-tecnologia-agropecuaria",
+      "title": "El Control De Plagas En La Huerta Familiar Instituto Nacional De Tecnologia Agropecuaria",
+      "author": "Jose Luis Zampini",
+      "filename": "el-control-de-plagas-en-la-huerta-familiar-instituto-nacional-de-tecnologia-agropecuaria.pdf",
+      "source_url": null,
+      "file_size_bytes": 2481086,
+      "sha256": "5cd154acfe018c876c3415dcf311b0c74fa9419f212ca404079619fc00e44a52",
+      "total_pages": 15,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de El Control De Plagas En La Huerta Familiar Instituto Nacional De Tecnologia Agropecuaria dins de Control de Plagues i Malalties Agrícoles.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Control de Plagues i Malalties Agrícoles (Agronomía y Sanidad Vegetal), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Cartilla       CARTILLA CONTROL DE PLAGAS EN LA HUERTA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Control de Plagues i Malalties Agrícoles.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'El Control De Plagas En La Huerta Familiar Instituto Nacional De Tecnologia Agropecuaria'. Domain: Agronomía y Sanidad Vegetal (Control de Plagues i Malalties Agrícoles). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-control-de-plagas-en-la-huerta-familiar-instituto-nacional-de-tecnologia-agropecuaria.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Control de Plagues i Malalties Agrícoles",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "guia-de-manejo-integrado-de-plagas-para-cuidado-infantil-hogareno-ucsf-california-childcare-health-program-2424",
+      "title": "Guía de manejo integrado de plagas para cuidado infantil hogareño ",
+      "author": "UCSF California Childcare Health Program",
+      "filename": "guia-de-manejo-integrado-de-plagas-para-cuidado-infantil-hogareno-ucsf-california-childcare-health-program-2424.pdf",
+      "source_url": null,
+      "file_size_bytes": 1681415,
+      "sha256": "affee4caaa9f4885e6cba104026e66f861b0cd742d483ea29eb12ad98987ed9c",
+      "total_pages": 63,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Guía de manejo integrado de plagas para cuidado infantil hogareño  dins de Control de Plagues i Malalties Agrícoles.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Control de Plagues i Malalties Agrícoles (Agronomía y Sanidad Vegetal), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: GUÍA DE MANEJO INTEGRADO DE PLAGAS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Control de Plagues i Malalties Agrícoles.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Guía de manejo integrado de plagas para cuidado infantil hogareño '. Domain: Agronomía y Sanidad Vegetal (Control de Plagues i Malalties Agrícoles). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-de-manejo-integrado-de-plagas-para-cuidado-infantil-hogareno-ucsf-california-childcare-health-program-2424.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Control de Plagues i Malalties Agrícoles",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "guia-del-manejo-integrado-de-plagas-mip-para-tecnicos-y-productores-agencia-de-cooperacion-internacional-del-japon",
+      "title": "Guia Del Manejo Integrado De Plagas Mip Para Tecnicos Y Productores Agencia De Cooperacion Internacional Del Japon",
+      "author": "Desconegut / Institucional",
+      "filename": "guia-del-manejo-integrado-de-plagas-mip-para-tecnicos-y-productores-agencia-de-cooperacion-internacional-del-japon.pdf",
+      "source_url": null,
+      "file_size_bytes": 1599708,
+      "sha256": "fe4810c319e6763a609f1529b2dc776becf66963372c1777b65c6e5c967013c0",
+      "total_pages": 33,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guia Del Manejo Integrado De Plagas Mip Para Tecnicos Y Productores Agencia De Cooperacion Internacional Del Japon dins de Control de Plagues i Malalties Agrícoles.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Control de Plagues i Malalties Agrícoles (Agronomía y Sanidad Vegetal), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Guía del Manejo Integrado de Plagas (MIP) para técnicos y productores L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Control de Plagues i Malalties Agrícoles.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Guia Del Manejo Integrado De Plagas Mip Para Tecnicos Y Productores Agencia De Cooperacion Internacional Del Japon'. Domain: Agronomía y Sanidad Vegetal (Control de Plagues i Malalties Agrícoles). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-del-manejo-integrado-de-plagas-mip-para-tecnicos-y-productores-agencia-de-cooperacion-internacional-del-japon.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Control de Plagues i Malalties Agrícoles",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manejo-integrado-de-plagas-fao-2427",
+      "title": "Manejo Integrado de Plagas ",
+      "author": "FAO",
+      "filename": "manejo-integrado-de-plagas-fao-2427.pdf",
+      "source_url": null,
+      "file_size_bytes": 1930160,
+      "sha256": "3af934714eaa2f833ce17ff6ec0a8b7a51566937b8f38aa88fda4ab20584f56a",
+      "total_pages": 20,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manejo Integrado de Plagas  dins de Control de Plagues i Malalties Agrícoles.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Control de Plagues i Malalties Agrícoles (Agronomía y Sanidad Vegetal), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Todos los derecho reservados. Se autoriza la repnxlucd6n y difusión del material contenido en esta L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Control de Plagues i Malalties Agrícoles.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manejo Integrado de Plagas '. Domain: Agronomía y Sanidad Vegetal (Control de Plagues i Malalties Agrícoles). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manejo-integrado-de-plagas-fao-2427.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Control de Plagues i Malalties Agrícoles",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manejo-integrado-de-plagas-urbanas-guia-dssa-2423",
+      "title": "Manejo Integrado de Plagas Urbanas. Guia",
+      "author": "DSSA",
+      "filename": "manejo-integrado-de-plagas-urbanas-guia-dssa-2423.pdf",
+      "source_url": null,
+      "file_size_bytes": 7808349,
+      "sha256": "bbcf36a20e82c2fdb5f5ad666ef01ee09fbc48169b24c322bff05738e6c17e14",
+      "total_pages": 56,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manejo Integrado de Plagas Urbanas. Guia dins de Control de Plagues i Malalties Agrícoles.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Control de Plagues i Malalties Agrícoles (Agronomía y Sanidad Vegetal), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ¿Por qué las plagas se establecen L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Control de Plagues i Malalties Agrícoles.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manejo Integrado de Plagas Urbanas. Guia'. Domain: Agronomía y Sanidad Vegetal (Control de Plagues i Malalties Agrícoles). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manejo-integrado-de-plagas-urbanas-guia-dssa-2423.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Control de Plagues i Malalties Agrícoles",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manejo-integrado-de-plagas-urbanas-ramon-castillo-lachapelle-2425",
+      "title": "Manejo Integrado de Plagas Urbanas",
+      "author": "Ramón Castillo Lachapelle ",
+      "filename": "manejo-integrado-de-plagas-urbanas-ramon-castillo-lachapelle-2425.pdf",
+      "source_url": null,
+      "file_size_bytes": 859057,
+      "sha256": "d998ed30f83b02fa827505f17cbad9e9a3a76e781207819f4f1ac3181da1af85",
+      "total_pages": 33,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manejo Integrado de Plagas Urbanas dins de Control de Plagues i Malalties Agrícoles.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Control de Plagues i Malalties Agrícoles (Agronomía y Sanidad Vegetal), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Santo Domingo, República Dominicana L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Control de Plagues i Malalties Agrícoles.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Manejo Integrado de Plagas Urbanas'. Domain: Agronomía y Sanidad Vegetal (Control de Plagues i Malalties Agrícoles). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manejo-integrado-de-plagas-urbanas-ramon-castillo-lachapelle-2425.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Control de Plagues i Malalties Agrícoles",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-para-el-control-de-roedores-en-el-ambito-domicialiario-instituto-nacional-de-tecnologia-agropecuaria",
+      "title": "Tapa",
+      "author": "Desconegut / Institucional",
+      "filename": "manual-para-el-control-de-roedores-en-el-ambito-domicialiario-instituto-nacional-de-tecnologia-agropecuaria.pdf",
+      "source_url": null,
+      "file_size_bytes": 220580,
+      "sha256": "7e907908e1a9552057451d716b9cfa9a71cc61a86db162535b30e3100ed81f22",
+      "total_pages": 15,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Perú que aprofundeix en els fonaments i desenvolupament de Tapa dins de Control de Plagues i Malalties Agrícoles.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Control de Plagues i Malalties Agrícoles (Agronomía y Sanidad Vegetal), amb especial incidència en el marc acadèmic i professional de Perú. El document aborda de manera sistemàtica els conceptes teòrics clau: Estación Experimental Agropecuaria Bariloche L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Perú",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Control de Plagues i Malalties Agrícoles.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Tapa'. Domain: Agronomía y Sanidad Vegetal (Control de Plagues i Malalties Agrícoles). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-para-el-control-de-roedores-en-el-ambito-domicialiario-instituto-nacional-de-tecnologia-agropecuaria.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Control de Plagues i Malalties Agrícoles",
+        "Tractat i Manual Monogràfic",
+        "Perú"
+      ]
+    },
+    {
+      "id": "metodos-de-control-de-plagas-dr-edgardo-jimenez-m",
+      "title": "Microsoft Word - MetodosControlPlagasultimo.doc",
+      "author": "Administrador",
+      "filename": "metodos-de-control-de-plagas-dr-edgardo-jimenez-m.pdf",
+      "source_url": null,
+      "file_size_bytes": 4297920,
+      "sha256": "68831f5af5cfde58787e0dcf4759c5253c746bb938382a3df7f79c941a3805b9",
+      "total_pages": 145,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Microsoft Word - MetodosControlPlagasultimo.doc dins de Control de Plagues i Malalties Agrícoles.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Control de Plagues i Malalties Agrícoles (Agronomía y Sanidad Vegetal), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Carrera: Ingeniería en Sistemas de Protección Agrícola y Forestal L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Control de Plagues i Malalties Agrícoles.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Microsoft Word - MetodosControlPlagasultimo.doc'. Domain: Agronomía y Sanidad Vegetal (Control de Plagues i Malalties Agrícoles). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/metodos-de-control-de-plagas-dr-edgardo-jimenez-m.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Control de Plagues i Malalties Agrícoles",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

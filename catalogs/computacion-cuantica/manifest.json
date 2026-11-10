@@ -1,0 +1,26 @@
+{
+  "rag_id": "computacion-cuantica",
+  "name": "Computacion Cuantica",
+  "description": "Col·lecció completa de llibres i manuals de Computacion Cuantica (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794271265.722552,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 4258,
+  "total_documents": 53,
+  "total_library_files": 53,
+  "total_images_extracted": 966,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "computacion-cuantica",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

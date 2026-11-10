@@ -1,0 +1,399 @@
+{
+  "schema_version": "1.0.0",
+  "id": "criptografia",
+  "name": "Criptografia",
+  "description": "Col·lecció completa de llibres i manuals de Criptografia (Estil Collage Punk DIY).",
+  "category": {
+    "slug": "informatica",
+    "name": "Informatica",
+    "url": "https://infolibros.org/libros-pdf-gratis/informatica/"
+  },
+  "domain": "Tecnología e Informática",
+  "language": "es",
+  "portal_source": {
+    "name": "InfoLibros",
+    "url": "https://infolibros.org/libros-pdf-gratis/informatica/criptografia/",
+    "scraped_at": "2026-11-10T00:50:27.928168+00:00"
+  },
+  "tags": [
+    "criptografia",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "775d1cfc-1909-48ee-b134-01e4a9b38194",
+      "title": "Criptografia Avanzada Luis Ramirez Loria 3887",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "criptografia-avanzada-luis-ramirez-loria-3887.pdf",
+      "source_url": null,
+      "file_size_bytes": 411510,
+      "sha256": "65ceb0e0eb5ba18342626ed638a005c2e830f2b5122735e7090001a0b674c65e",
+      "page_count": 24,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": [
+        "img_775d1cfc-1909-48ee-b134-01e4a9b38194_p4_0.jpeg",
+        "img_775d1cfc-1909-48ee-b134-01e4a9b38194_p4_1.jpeg",
+        "img_775d1cfc-1909-48ee-b134-01e4a9b38194_p14_0.png",
+        "img_775d1cfc-1909-48ee-b134-01e4a9b38194_p14_2.jpeg"
+      ]
+    },
+    {
+      "id": "886d85f9-e033-4e16-96eb-4895262f4686",
+      "title": "Criptografia Y Mecanismos De Seguridad Lucy Noemy Medina Velandia",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "criptografia-y-mecanismos-de-seguridad-lucy-noemy-medina-velandia.pdf",
+      "source_url": null,
+      "file_size_bytes": 2674668,
+      "sha256": "89e5ceaf18db95a9003fb3c9438e9148b3b317e456522d27bdb240d952552fdc",
+      "page_count": 143,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": [
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p13_0.png",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p14_0.png",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p21_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p26_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p28_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p30_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p30_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p30_2.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p39_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p39_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p40_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p41_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p41_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p42_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p42_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p42_2.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p43_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p44_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p44_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p45_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p45_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p46_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p47_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p47_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p59_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p60_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p60_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p62_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p64_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p68_0.png",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p79_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p80_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p80_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p81_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p82_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p82_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p84_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p85_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p87_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p88_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p89_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p91_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p98_0.png",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p101_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p102_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p103_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p109_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p110_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p110_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p115_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p115_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p115_2.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p116_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p116_2.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p118_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p120_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p126_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p127_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p131_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p131_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p132_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p133_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p136_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p136_1.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p137_0.jpeg",
+        "img_886d85f9-e033-4e16-96eb-4895262f4686_p138_0.jpeg"
+      ]
+    },
+    {
+      "id": "18a83e35-77a1-49ae-954d-3cea285c65fb",
+      "title": "Criptografia Y Seguridad En Computadores Manuel J Lucena Lopez 3883",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "criptografia-y-seguridad-en-computadores-manuel-j-lucena-lopez-3883.pdf",
+      "source_url": null,
+      "file_size_bytes": 1920160,
+      "sha256": "40c2f7bbf1be7690937f279b4829fe7fda6fd1b36f242ad4221678e893361f1b",
+      "page_count": 357,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": [
+        "img_18a83e35-77a1-49ae-954d-3cea285c65fb_p232_0.png",
+        "img_18a83e35-77a1-49ae-954d-3cea285c65fb_p232_1.png",
+        "img_18a83e35-77a1-49ae-954d-3cea285c65fb_p232_2.png",
+        "img_18a83e35-77a1-49ae-954d-3cea285c65fb_p232_3.png"
+      ]
+    },
+    {
+      "id": "619dcdc0-ae33-49d3-ab73-731e6a53e671",
+      "title": "Criptografia Y Seguridad En Computadores Manuel Jose Lucena Lopez",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "criptografia-y-seguridad-en-computadores-manuel-jose-lucena-lopez.pdf",
+      "source_url": null,
+      "file_size_bytes": 741533,
+      "sha256": "6e194fce9af028ee7b04e67167d0e882c218997f4b99cc74928a996a85d6c510",
+      "page_count": 119,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": [
+        "img_619dcdc0-ae33-49d3-ab73-731e6a53e671_p67_0.png",
+        "img_619dcdc0-ae33-49d3-ab73-731e6a53e671_p77_0.png",
+        "img_619dcdc0-ae33-49d3-ab73-731e6a53e671_p78_0.png",
+        "img_619dcdc0-ae33-49d3-ab73-731e6a53e671_p84_0.png",
+        "img_619dcdc0-ae33-49d3-ab73-731e6a53e671_p85_0.png",
+        "img_619dcdc0-ae33-49d3-ab73-731e6a53e671_p100_0.png",
+        "img_619dcdc0-ae33-49d3-ab73-731e6a53e671_p107_0.png",
+        "img_619dcdc0-ae33-49d3-ab73-731e6a53e671_p116_0.png"
+      ]
+    },
+    {
+      "id": "47a5459d-78ed-44f2-965f-7bc78532b146",
+      "title": "Firmas Digitales Firmas Digitales 3884",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "firmas-digitales-firmas-digitales-3884.pdf",
+      "source_url": null,
+      "file_size_bytes": 358382,
+      "sha256": "881b8ee64ce6e8e35dd4b824049d9b321e07171225fcff0e2585257f6f3c5356",
+      "page_count": 20,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": [
+        "img_47a5459d-78ed-44f2-965f-7bc78532b146_p11_1.png"
+      ]
+    },
+    {
+      "id": "0490fc2c-9a33-479c-b45a-604c903374ef",
+      "title": "Fundamentos De Criptografia Josep Domingo Ferrerjordi Herrera Joancomarti",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "fundamentos-de-criptografia-josep-domingo-ferrerjordi-herrera-joancomarti.pdf",
+      "source_url": null,
+      "file_size_bytes": 368500,
+      "sha256": "eae96d170c4d164692df83188ec86330069b20d693ecdc040c0852404287e329",
+      "page_count": 38,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": [
+        "img_0490fc2c-9a33-479c-b45a-604c903374ef_p7_1.png"
+      ]
+    },
+    {
+      "id": "2723b6ec-8e9c-4461-acba-e8f695caa1c0",
+      "title": "Fundamentos Matematicos De La Criptologia Angel Del Rio Mateos",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "fundamentos-matematicos-de-la-criptologia-angel-del-rio-mateos.pdf",
+      "source_url": null,
+      "file_size_bytes": 1372885,
+      "sha256": "0498aa42e7f5b7ebf6d8bf59c42a6e29f9b86e1b5af33eadf3d1e742bad77bba",
+      "page_count": 280,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "29f23cbd-ceec-405c-af7e-69b346b75bab",
+      "title": "Historia De La Criptologia Luis Francisco Urrea 3886",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "historia-de-la-criptologia-luis-francisco-urrea-3886.pdf",
+      "source_url": null,
+      "file_size_bytes": 600304,
+      "sha256": "b481831048e4c02c1328664250f6bed6be4707e26c2aea9fae95e1c0bbe32790",
+      "page_count": 22,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": [
+        "img_29f23cbd-ceec-405c-af7e-69b346b75bab_p5_1.jpeg",
+        "img_29f23cbd-ceec-405c-af7e-69b346b75bab_p8_0.jpeg",
+        "img_29f23cbd-ceec-405c-af7e-69b346b75bab_p11_1.png",
+        "img_29f23cbd-ceec-405c-af7e-69b346b75bab_p18_1.jpeg"
+      ]
+    },
+    {
+      "id": "32296805-48bc-44aa-bc8a-65dab02c929f",
+      "title": "Introduccion A La Criptografia Digital Colectivo Disonancia",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "introduccion-a-la-criptografia-digital-colectivo-disonancia.pdf",
+      "source_url": null,
+      "file_size_bytes": 562622,
+      "sha256": "67f9888b6b6861c7c465cf2d2e5b29abadba4eea80658247301dcf43d06a89a3",
+      "page_count": 12,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": [
+        "img_32296805-48bc-44aa-bc8a-65dab02c929f_p1_5.jpeg",
+        "img_32296805-48bc-44aa-bc8a-65dab02c929f_p3_1.jpeg",
+        "img_32296805-48bc-44aa-bc8a-65dab02c929f_p4_3.png",
+        "img_32296805-48bc-44aa-bc8a-65dab02c929f_p5_0.jpeg",
+        "img_32296805-48bc-44aa-bc8a-65dab02c929f_p8_0.jpeg",
+        "img_32296805-48bc-44aa-bc8a-65dab02c929f_p11_0.jpeg"
+      ]
+    },
+    {
+      "id": "98bda541-e29c-4ffd-8b16-dae8c523ab0a",
+      "title": "Introduccion A La Criptografia Ivan O Sosa Perez Raul A Espejel Morales 3882",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "introduccion-a-la-criptografia-ivan-o-sosa-perez-raul-a-espejel-morales-3882.pdf",
+      "source_url": null,
+      "file_size_bytes": 1393291,
+      "sha256": "f53a7b1ac51c794f98ff0a46b3d2a5a6a53d3c914eaae62c503f7bf3da28b1fd",
+      "page_count": 130,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": [
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p1_3.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p1_6.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p1_9.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p1_10.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p1_12.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p1_13.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p1_19.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p25_0.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p25_1.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p48_0.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p48_1.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p114_0.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p115_0.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p115_1.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p124_0.png",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p130_0.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p130_4.jpeg",
+        "img_98bda541-e29c-4ffd-8b16-dae8c523ab0a_p130_6.jpeg"
+      ]
+    },
+    {
+      "id": "bd1e7017-0317-4a74-a4f0-de0925f01908",
+      "title": "Introduccion A La Criptografia Josep Domingo Ferrer",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "introduccion-a-la-criptografia-josep-domingo-ferrer.pdf",
+      "source_url": null,
+      "file_size_bytes": 404219,
+      "sha256": "799f75aa6d5a6855f8ab816d52d44322f999fe9a2af26a601677ac04abb12771",
+      "page_count": 20,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": [
+        "img_bd1e7017-0317-4a74-a4f0-de0925f01908_p7_1.jpeg",
+        "img_bd1e7017-0317-4a74-a4f0-de0925f01908_p9_1.jpeg",
+        "img_bd1e7017-0317-4a74-a4f0-de0925f01908_p13_0.jpeg",
+        "img_bd1e7017-0317-4a74-a4f0-de0925f01908_p14_1.jpeg"
+      ]
+    },
+    {
+      "id": "02abe344-955d-45c2-b2d7-72684760d1ab",
+      "title": "Introduccion A La Criptologia Angel Del Rios Mateos",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "introduccion-a-la-criptologia-angel-del-rios-mateos.pdf",
+      "source_url": null,
+      "file_size_bytes": 1098632,
+      "sha256": "a2895c7243b72abfca72b6c5f4650d97b2bfaa07e7e4302b35a17c033286dc65",
+      "page_count": 213,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "facb7a6e-d8e8-408a-97e8-9f9a52625443",
+      "title": "Las Curvas Elipticas Y La Criptografia Turing",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "las-curvas-elipticas-y-la-criptografia-turing.pdf",
+      "source_url": null,
+      "file_size_bytes": 631272,
+      "sha256": "4cce663c62c9e8ecae4f60f421d0246ab8af650f036ae19ecc62f4cab2276cf7",
+      "page_count": 50,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": [
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p1_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p7_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p8_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p11_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p13_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p14_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p16_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p20_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p30_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p45_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p45_1.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p47_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p48_0.jpeg",
+        "img_facb7a6e-d8e8-408a-97e8-9f9a52625443_p49_0.jpeg"
+      ]
+    },
+    {
+      "id": "ac98cf40-b8a0-46ce-b7fe-84e264e7d1a0",
+      "title": "Teoria De Numeros Y Criptografia F J Lobillo",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "teoria-de-numeros-y-criptografia-f-j-lobillo.pdf",
+      "source_url": null,
+      "file_size_bytes": 302973,
+      "sha256": "c940b2b89300f373f6956c4519c489571fa18b900c3e23d985b783b34e250818",
+      "page_count": 103,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "3f5cff3f-5208-4e16-8a1f-7af83697bd82",
+      "title": "Una Breve Introduccion A La Criptografia Matematica Aylen Martinez Lopez Y Martin Marfia",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "una-breve-introduccion-a-la-criptografia-matematica-aylen-martinez-lopez-y-martin-marfia.pdf",
+      "source_url": null,
+      "file_size_bytes": 286022,
+      "sha256": "91f02c3a8252fb1cd7869f5732c7c89f84fd1831cf3f5cec5c5a57c5342a807a",
+      "page_count": 57,
+      "key_topics": [
+        "Criptografia"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "criptografia",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 15,
+    "total_chunks": 1705,
+    "total_images_extracted": 130
+  },
+  "stats": {
+    "total_books": 15,
+    "total_pages": 1588,
+    "total_size_mb": 12.52
+  },
+  "created_at": "2026-11-10T00:50:27.928194+00:00",
+  "updated_at": "2026-11-10T00:52:33.493950+00:00"
+}

@@ -1,0 +1,1872 @@
+{
+  "topic": "Computacion Cuantica",
+  "domain": "Tecnología e Informática",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 53,
+  "total_pages": 3339,
+  "total_size_mb": 45.96,
+  "books": [
+    {
+      "id": "principios-fundamentales-de-computacion-cuantica-vicente-moret-bonillo",
+      "title": "PRINCIPIOS FUNDAMENTALES DE COMPUTACIÓN CUÁNTICA",
+      "author": "Vicente",
+      "filename": "principios-fundamentales-de-computacion-cuantica-vicente-moret-bonillo.pdf",
+      "source_url": null,
+      "file_size_bytes": 1885545,
+      "sha256": "3209258f9f79d3d6fd61f1537fdfd75b998588203006644ebb637629c6053bfb",
+      "total_pages": 181,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de PRINCIPIOS FUNDAMENTALES DE COMPUTACIÓN CUÁNTICA dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: PRINCIPIOS FUNDAMENTALES DE COMPUTACIÓN CUÁNTICA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'PRINCIPIOS FUNDAMENTALES DE COMPUTACIÓN CUÁNTICA'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/principios-fundamentales-de-computacion-cuantica-vicente-moret-bonillo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "investigacion-sobre-la-computacion-cuantica-sergio-claramunt-carriles",
+      "title": "Investigación sobre la Computación Cuántica",
+      "author": "Sergio Claramunt Carriles (scc60@alu.ua.es)",
+      "filename": "investigacion-sobre-la-computacion-cuantica-sergio-claramunt-carriles.pdf",
+      "source_url": null,
+      "file_size_bytes": 2057940,
+      "sha256": "566353694aed086c5e111bb0f865e0618bdcd8ddd071f36393854ead2ffa984a",
+      "total_pages": 133,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Investigación sobre la Computación Cuántica dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Grado en Ingeniería Informática L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Investigación sobre la Computación Cuántica'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/investigacion-sobre-la-computacion-cuantica-sergio-claramunt-carriles.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "computadoras-cuanticas-miquel-cesar",
+      "title": "Computadoras Cuanticas Miquel Cesar",
+      "author": "Desconegut / Institucional",
+      "filename": "computadoras-cuanticas-miquel-cesar.pdf",
+      "source_url": null,
+      "file_size_bytes": 2215197,
+      "sha256": "2be798ec2181c0dcbc07e684fcc3f14e7b8166f60fe79b6ea241790537bd233a",
+      "total_pages": 134,
+      "short_description": "Tesi Acadèmica d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Computadoras Cuanticas Miquel Cesar dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Intendente Güiraldes 2160 - C1428EGA - Tel. (++54 +11) 4789-9293 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computadoras Cuanticas Miquel Cesar'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computadoras-cuanticas-miquel-cesar.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tesi Acadèmica",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-computacion-cuantica-y-fundamentos-de-lenguajes-de-programacion-alejandro-diaz-caro",
+      "title": "Introduccion A La Computacion Cuantica Y Fundamentos De Lenguajes De Programacion Alejandro Diaz Caro",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-la-computacion-cuantica-y-fundamentos-de-lenguajes-de-programacion-alejandro-diaz-caro.pdf",
+      "source_url": null,
+      "file_size_bytes": 714484,
+      "sha256": "af1a7101eed776bfa2fe6c44709d70e98be44a4a066d7217c74a8537e217f915",
+      "total_pages": 97,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Introduccion A La Computacion Cuantica Y Fundamentos De Lenguajes De Programacion Alejandro Diaz Caro dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Introducción a la computación cuántica y L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introduccion A La Computacion Cuantica Y Fundamentos De Lenguajes De Programacion Alejandro Diaz Caro'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-computacion-cuantica-y-fundamentos-de-lenguajes-de-programacion-alejandro-diaz-caro.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-nasser-darwish-miranda",
+      "title": "the_great_marsh.dvi",
+      "author": "Desconegut / Institucional",
+      "filename": "computacion-cuantica-nasser-darwish-miranda.pdf",
+      "source_url": null,
+      "file_size_bytes": 477459,
+      "sha256": "06a2a43e8b718a6e6dc2fc65622ab2eede13dec5018eed0d9e21774e872209b4",
+      "total_pages": 92,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de the_great_marsh.dvi dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: 1. Introducción: El por qué de la computación cuántica. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'the_great_marsh.dvi'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-nasser-darwish-miranda.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "elementos-y-conceptos-de-computacion-cuantica-diego-jesus-benjumea-gayango",
+      "title": "Elementos y conceptos de computación cuántica",
+      "author": " Diego Jesús Benjumea Gayango",
+      "filename": "elementos-y-conceptos-de-computacion-cuantica-diego-jesus-benjumea-gayango.pdf",
+      "source_url": null,
+      "file_size_bytes": 759330,
+      "sha256": "19468c893f31f25301723261daa6f20e119d5dc66eba18a64e6255eb9b7cc157",
+      "total_pages": 76,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Elementos y conceptos de computación cuántica dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Grado en Ingeniería de las Tecnologías Industriales L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Elementos y conceptos de computación cuántica'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/elementos-y-conceptos-de-computacion-cuantica-diego-jesus-benjumea-gayango.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-aplicaciones-practicas-que-la-computacion-clasica-no-puede-solucionar-ignacio-kleinman-ruiz",
+      "title": "Computación cuántica: Aplicaciones prácticas que la computación clásica no puede solucionar",
+      "author": "Ignacio Kleinman Ruiz",
+      "filename": "computacion-cuantica-aplicaciones-practicas-que-la-computacion-clasica-no-puede-solucionar-ignacio-kleinman-ruiz.pdf",
+      "source_url": null,
+      "file_size_bytes": 1074561,
+      "sha256": "9aacbfdfa76e28f6843147dc16b974822b0b445b81bc64630f294200ae9e7bdd",
+      "total_pages": 75,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Computación cuántica: Aplicaciones prácticas que la computación clásica no puede solucionar dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Doble Grado en Ingeniería informática y Administración de L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computación cuántica: Aplicaciones prácticas que la computación clásica no puede solucionar'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-aplicaciones-practicas-que-la-computacion-clasica-no-puede-solucionar-ignacio-kleinman-ruiz.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "algoritmos-fundamentales-en-computacion-cuantica-pastor-diaz-ulises",
+      "title": "Algoritmos Fundamentales En Computacion Cuantica Pastor Diaz Ulises",
+      "author": "Desconegut / Institucional",
+      "filename": "algoritmos-fundamentales-en-computacion-cuantica-pastor-diaz-ulises.pdf",
+      "source_url": null,
+      "file_size_bytes": 385597,
+      "sha256": "254b3df88c9b11e59f52c90d5d2c792b3f61a6733a7e624912c3c9727759d002",
+      "total_pages": 70,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Algoritmos Fundamentales En Computacion Cuantica Pastor Diaz Ulises dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Memoria presentada como parte de los requisitos para la obtención L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Algoritmos Fundamentales En Computacion Cuantica Pastor Diaz Ulises'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/algoritmos-fundamentales-en-computacion-cuantica-pastor-diaz-ulises.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-computacion-cuantica-rebeca-carpio-lopez",
+      "title": "Introduccion A La Computacion Cuantica Rebeca Carpio Lopez",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-la-computacion-cuantica-rebeca-carpio-lopez.pdf",
+      "source_url": null,
+      "file_size_bytes": 732373,
+      "sha256": "1d5c1745c09ba15b39f1e1b8c934917f282373d2c9aeaf1145a4c38a11eb6fa0",
+      "total_pages": 68,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Introduccion A La Computacion Cuantica Rebeca Carpio Lopez dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: INTRODUCTION TO QUANTUM COMPUTING L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introduccion A La Computacion Cuantica Rebeca Carpio Lopez'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-computacion-cuantica-rebeca-carpio-lopez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-jesus-garcia-lopez-de-lacalle",
+      "title": "Computacion Cuantica Jesus Garcia Lopez De Lacalle",
+      "author": "Desconegut / Institucional",
+      "filename": "computacion-cuantica-jesus-garcia-lopez-de-lacalle.pdf",
+      "source_url": null,
+      "file_size_bytes": 364695,
+      "sha256": "b0446f837fe3d92daf7c57810c063d486c6caff93e8528314a93e4227aac5053",
+      "total_pages": 66,
+      "short_description": "Compendi d'Exercicis i Problemes Resolts d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Computacion Cuantica Jesus Garcia Lopez De Lacalle dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un compendi d'exercicis i problemes resolts centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Jes´us Garc´ıa L´opez de Lacalle L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Compendi d'Exercicis i Problemes Resolts",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computacion Cuantica Jesus Garcia Lopez De Lacalle'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-jesus-garcia-lopez-de-lacalle.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Compendi d'Exercicis i Problemes Resolts",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "origenes-de-la-teoria-cuantica-universitat-jaume",
+      "title": "Microsoft Word - tema1.doc",
+      "author": "Fernando",
+      "filename": "origenes-de-la-teoria-cuantica-universitat-jaume.pdf",
+      "source_url": null,
+      "file_size_bytes": 131912,
+      "sha256": "de87b491519d2ff8ef2f2969791f4e4b1437b93b334873e68d02f41d75aa5a4b",
+      "total_pages": 24,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Microsoft Word - tema1.doc dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: A finales del siglo XIX y durante el primer cuarto del siglo XX se acumuló cierta L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Microsoft Word - tema1.doc'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/origenes-de-la-teoria-cuantica-universitat-jaume.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-jose-manuel-huidobro",
+      "title": "Computacion Cuantica Jose Manuel Huidobro",
+      "author": "Desconegut / Institucional",
+      "filename": "computacion-cuantica-jose-manuel-huidobro.pdf",
+      "source_url": null,
+      "file_size_bytes": 475651,
+      "sha256": "24faf7e935f1631262107f8b274e75453f7bd754f95e5a79da259c3e4a8f3969",
+      "total_pages": 14,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Computacion Cuantica Jose Manuel Huidobro dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ACTA representa en CEDRO los intereses de los autores científico-técnicos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Ley de Moore"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computacion Cuantica Jose Manuel Huidobro'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-jose-manuel-huidobro.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "el-ordenador-cuantico-miguel-angel-alejo-plana",
+      "title": "El Ordenador Cuantico Miguel Angel Alejo Plana",
+      "author": "laura",
+      "filename": "el-ordenador-cuantico-miguel-angel-alejo-plana.pdf",
+      "source_url": null,
+      "file_size_bytes": 176405,
+      "sha256": "693016de25cfdbd9da21ac3c949dd2ac2aa3456a9dc07b13466edec38a86fb8c",
+      "total_pages": 11,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de El Ordenador Cuantico Miguel Angel Alejo Plana dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: En los últimos años, ha despegado y se ha  constituido toda una nueva disciplina, la L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'El Ordenador Cuantico Miguel Angel Alejo Plana'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-ordenador-cuantico-miguel-angel-alejo-plana.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-que-es-situacion-actual-y-perspectivas-futuras-izertis",
+      "title": "Computacion Cuantica Que Es Situacion Actual Y Perspectivas Futuras Izertis",
+      "author": "Desconegut / Institucional",
+      "filename": "computacion-cuantica-que-es-situacion-actual-y-perspectivas-futuras-izertis.pdf",
+      "source_url": null,
+      "file_size_bytes": 470439,
+      "sha256": "ee36aba143f389dcb6f81d4420a4012881e9151c2dd5abed96d7aa94f5755a92",
+      "total_pages": 10,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Computacion Cuantica Que Es Situacion Actual Y Perspectivas Futuras Izertis dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Frente a los bits de computación clásica, que L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computacion Cuantica Que Es Situacion Actual Y Perspectivas Futuras Izertis'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-que-es-situacion-actual-y-perspectivas-futuras-izertis.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "diseno-e-implementacion-de-una-pagina-web-para-la-ensenanza-de-la-computacion-cuantica-kevin-jofroit-joven-noriega",
+      "title": "Diseno E Implementacion De Una Pagina Web Para La Ensenanza De La Computacion Cuantica Kevin Jofroit Joven Noriega",
+      "author": "Desconegut / Institucional",
+      "filename": "diseno-e-implementacion-de-una-pagina-web-para-la-ensenanza-de-la-computacion-cuantica-kevin-jofroit-joven-noriega.pdf",
+      "source_url": null,
+      "file_size_bytes": 551436,
+      "sha256": "c96892f8ae3e961a94a61a241efe87fd9ba66a8c6d7b70f0e90e1a73dec1075b",
+      "total_pages": 9,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Diseno E Implementacion De Una Pagina Web Para La Ensenanza De La Computacion Cuantica Kevin Jofroit Joven Noriega dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Grupo de Investigación computación cuántica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Diseno E Implementacion De Una Pagina Web Para La Ensenanza De La Computacion Cuantica Kevin Jofroit Joven Noriega'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/diseno-e-implementacion-de-una-pagina-web-para-la-ensenanza-de-la-computacion-cuantica-kevin-jofroit-joven-noriega.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "el-futuro-de-la-computacion-cuantica-matias-duranaxel-penalucas-seijasjuan-cruz-gaglio",
+      "title": "El Futuro De La Computacion Cuantica Matias Duranaxel Penalucas Seijasjuan Cruz Gaglio",
+      "author": "Desconegut / Institucional",
+      "filename": "el-futuro-de-la-computacion-cuantica-matias-duranaxel-penalucas-seijasjuan-cruz-gaglio.pdf",
+      "source_url": null,
+      "file_size_bytes": 392480,
+      "sha256": "c30b7fa465404824c150f72c5311ec592e8718f09844005754504d4c167c5cb0",
+      "total_pages": 9,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de El Futuro De La Computacion Cuantica Matias Duranaxel Penalucas Seijasjuan Cruz Gaglio dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: El futuro de la Computación Cuántica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "código\nde\n \n \n \n \n \nseguridad"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'El Futuro De La Computacion Cuantica Matias Duranaxel Penalucas Seijasjuan Cruz Gaglio'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/el-futuro-de-la-computacion-cuantica-matias-duranaxel-penalucas-seijasjuan-cruz-gaglio.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "algoritmos-cuanticos-basicos-renato-portugal",
+      "title": "Algoritmos Cuanticos Basicos Renato Portugal",
+      "author": "Desconegut / Institucional",
+      "filename": "algoritmos-cuanticos-basicos-renato-portugal.pdf",
+      "source_url": null,
+      "file_size_bytes": 860132,
+      "sha256": "0be26bab3adce9e9847942d565648e461f96801028f65d703f468735dcb759cc",
+      "total_pages": 112,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Algoritmos Cuanticos Basicos Renato Portugal dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Laboratorio Nacional de Computaci´on Cient´ıfica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Algoritmos Cuanticos Basicos Renato Portugal'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/algoritmos-cuanticos-basicos-renato-portugal.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "diseno-de-algoritmos-y-circuitos-cuanticos-jonathan-jose-jimenez-jimenez",
+      "title": "Diseno De Algoritmos Y Circuitos Cuanticos Jonathan Jose Jimenez Jimenez",
+      "author": "Desconegut / Institucional",
+      "filename": "diseno-de-algoritmos-y-circuitos-cuanticos-jonathan-jose-jimenez-jimenez.pdf",
+      "source_url": null,
+      "file_size_bytes": 932004,
+      "sha256": "4a3c044cbf38adc0c078334ce63a1ea146ec65442c0096df20322c3e7380e750",
+      "total_pages": 107,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Diseno De Algoritmos Y Circuitos Cuanticos Jonathan Jose Jimenez Jimenez dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: DESIGN OF QUANTUM ALGORITHMS AND CIRCUITS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Diseno De Algoritmos Y Circuitos Cuanticos Jonathan Jose Jimenez Jimenez'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/diseno-de-algoritmos-y-circuitos-cuanticos-jonathan-jose-jimenez-jimenez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "introduccion-al-paradigma-cuantico-universal-todor-krasimirov-ivanov",
+      "title": "Introduccion Al Paradigma Cuantico Universal Todor Krasimirov Ivanov",
+      "author": "Todor Krasimirov Ivanov",
+      "filename": "introduccion-al-paradigma-cuantico-universal-todor-krasimirov-ivanov.pdf",
+      "source_url": null,
+      "file_size_bytes": 1376108,
+      "sha256": "8f3db38858c1e4be3c9bba80c45b7e451cab8c73a55fe32b7f24470861850373",
+      "total_pages": 97,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Introduccion Al Paradigma Cuantico Universal Todor Krasimirov Ivanov dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA DE SISTEMAS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introduccion Al Paradigma Cuantico Universal Todor Krasimirov Ivanov'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-al-paradigma-cuantico-universal-todor-krasimirov-ivanov.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-analisis-y-ejecucion-de-algoritmos-cuanticos-felipe-rojo-amadeo",
+      "title": "Computación cuántica: Análisis y ejecución de algorítmos cuánticos",
+      "author": "Felipe Rojo Amadeo ",
+      "filename": "computacion-cuantica-analisis-y-ejecucion-de-algoritmos-cuanticos-felipe-rojo-amadeo.pdf",
+      "source_url": null,
+      "file_size_bytes": 795306,
+      "sha256": "62e06e36f3f02e79b27260df43d9051c8250eef978e0382bc3f97ca38f56e3bd",
+      "total_pages": 83,
+      "short_description": "Tesi Acadèmica d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Computación cuántica: Análisis y ejecución de algorítmos cuánticos dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: Computación cuántica: Análisis y ejecución L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computación cuántica: Análisis y ejecución de algorítmos cuánticos'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-analisis-y-ejecucion-de-algoritmos-cuanticos-felipe-rojo-amadeo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tesi Acadèmica",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "implementacion-de-algoritmos-de-shor-y-grover-en-el-computador-cuantico-de-ibm-cesar-augusto-vega-fernandezjohan-sebastian-ramirez-celis",
+      "title": "Computación cuántica: Implementación de algoritmos de Shor y Grover en el computador cuántico de IBM.",
+      "author": "2096724",
+      "filename": "implementacion-de-algoritmos-de-shor-y-grover-en-el-computador-cuantico-de-ibm-cesar-augusto-vega-fernandezjohan-sebastian-ramirez-celis.pdf",
+      "source_url": null,
+      "file_size_bytes": 601768,
+      "sha256": "ad17b805de3a53ec7d58c091da9dba26e40efb92aea8ec56161850cf83ae29ad",
+      "total_pages": 64,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Computación cuántica: Implementación de algoritmos de Shor y Grover en el computador cuántico de IBM. dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: ESCUELA COLOMBIANA DE INGENIERIA JULIO GARAVITO L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computación cuántica: Implementación de algoritmos de Shor y Grover en el computador cuántico de IBM.'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/implementacion-de-algoritmos-de-shor-y-grover-en-el-computador-cuantico-de-ibm-cesar-augusto-vega-fernandezjohan-sebastian-ramirez-celis.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "algunas-variantes-del-algoritmo-cuantico-de-shor-juan-cano-pradas",
+      "title": "Algunas Variantes Del Algoritmo Cuantico De Shor Juan Cano Pradas",
+      "author": "Desconegut / Institucional",
+      "filename": "algunas-variantes-del-algoritmo-cuantico-de-shor-juan-cano-pradas.pdf",
+      "source_url": null,
+      "file_size_bytes": 1471426,
+      "sha256": "3c78725d866d804bdeb8667e85d8b10f48e9641cc449bc371eae0f7152ae3a4d",
+      "total_pages": 63,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Algunas Variantes Del Algoritmo Cuantico De Shor Juan Cano Pradas dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: GRADO DE INGENIERÍA INFORMÁTICA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Algunas Variantes Del Algoritmo Cuantico De Shor Juan Cano Pradas'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/algunas-variantes-del-algoritmo-cuantico-de-shor-juan-cano-pradas.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-el-algoritmo-de-shor-santiago-iglesias-gonzalez",
+      "title": "Computacion Cuantica El Algoritmo De Shor Santiago Iglesias Gonzalez",
+      "author": "Desconegut / Institucional",
+      "filename": "computacion-cuantica-el-algoritmo-de-shor-santiago-iglesias-gonzalez.pdf",
+      "source_url": null,
+      "file_size_bytes": 435033,
+      "sha256": "a33b9bf7b6aa97ad43757e6723c05e017a89d9db4dfe9b0ea3b79d8ebeb4d20f",
+      "total_pages": 56,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Computacion Cuantica El Algoritmo De Shor Santiago Iglesias Gonzalez dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Título: Computación Cuántica: el Algoritmo de Shor. L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computacion Cuantica El Algoritmo De Shor Santiago Iglesias Gonzalez'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-el-algoritmo-de-shor-santiago-iglesias-gonzalez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "desarrollo-de-microprogramas-cuanticos---algoritmo-de-shor-sergio-guerra-arencibia",
+      "title": "Desarrollo De Microprogramas Cuanticos   Algoritmo De Shor Sergio Guerra Arencibia",
+      "author": "Desconegut / Institucional",
+      "filename": "desarrollo-de-microprogramas-cuanticos---algoritmo-de-shor-sergio-guerra-arencibia.pdf",
+      "source_url": null,
+      "file_size_bytes": 478355,
+      "sha256": "eae8bc26d201dad56fc90f7fd94fa4d6a05745bb11e6664ee4a02d3a3b2cfca4",
+      "total_pages": 54,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Desarrollo De Microprogramas Cuanticos   Algoritmo De Shor Sergio Guerra Arencibia dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Desarrollo de microprogramas cuánticos - L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Desarrollo De Microprogramas Cuanticos   Algoritmo De Shor Sergio Guerra Arencibia'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/desarrollo-de-microprogramas-cuanticos---algoritmo-de-shor-sergio-guerra-arencibia.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "estudio-de-qsvm-algoritmo-de-machine-learning-cuantico-guillermo-alonso-alonso-de-linaje",
+      "title": "Estudio De Qsvm Algoritmo De Machine Learning Cuantico Guillermo Alonso Alonso De Linaje",
+      "author": "Desconegut / Institucional",
+      "filename": "estudio-de-qsvm-algoritmo-de-machine-learning-cuantico-guillermo-alonso-alonso-de-linaje.pdf",
+      "source_url": null,
+      "file_size_bytes": 464160,
+      "sha256": "606e4271ff96e23a48392664e0b815b681c6b86b36595b2675f3b21885160d86",
+      "total_pages": 46,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Estudio De Qsvm Algoritmo De Machine Learning Cuantico Guillermo Alonso Alonso De Linaje dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Escuela de Ingenier´ıa Inform´atica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Estudio De Qsvm Algoritmo De Machine Learning Cuantico Guillermo Alonso Alonso De Linaje'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/estudio-de-qsvm-algoritmo-de-machine-learning-cuantico-guillermo-alonso-alonso-de-linaje.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-tests-de-entrelazamiento-y-algoritmo-de-busqueda-de-grover-en-dispositivos-de-ibm-quantum-de-5-cubits-raquel-nicolas-del-alamo",
+      "title": "Computacion Cuantica Tests De Entrelazamiento Y Algoritmo De Busqueda De Grover En Dispositivos De Ibm Quantum De 5 Cubits Raquel Nicolas Del Alamo",
+      "author": "Desconegut / Institucional",
+      "filename": "computacion-cuantica-tests-de-entrelazamiento-y-algoritmo-de-busqueda-de-grover-en-dispositivos-de-ibm-quantum-de-5-cubits-raquel-nicolas-del-alamo.pdf",
+      "source_url": null,
+      "file_size_bytes": 683357,
+      "sha256": "fe79f74f1aea16d33b0bfecb8ad7baa657bfa66bd909296f745d1895eac4bd7d",
+      "total_pages": 46,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Computacion Cuantica Tests De Entrelazamiento Y Algoritmo De Busqueda De Grover En Dispositivos De Ibm Quantum De 5 Cubits Raquel Nicolas Del Alamo dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Leioa, 2021ko ekainaren 16a / Leioa, 16 de junio de 2021 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computacion Cuantica Tests De Entrelazamiento Y Algoritmo De Busqueda De Grover En Dispositivos De Ibm Quantum De 5 Cubits Raquel Nicolas Del Alamo'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-tests-de-entrelazamiento-y-algoritmo-de-busqueda-de-grover-en-dispositivos-de-ibm-quantum-de-5-cubits-raquel-nicolas-del-alamo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "algoritmo-cuantico-para-solucion-eficiente-de-problemas-de-enrutamiento-antonio-diaz-hernandez",
+      "title": "Algoritmo Cuantico Para Solucion Eficiente De Problemas De Enrutamiento Antonio Diaz Hernandez",
+      "author": "Desconegut / Institucional",
+      "filename": "algoritmo-cuantico-para-solucion-eficiente-de-problemas-de-enrutamiento-antonio-diaz-hernandez.pdf",
+      "source_url": null,
+      "file_size_bytes": 507591,
+      "sha256": "11a1dfe40940003b3b3b90fbd712fa07bcf9c42d072eb493e42a6237e00d4cdc",
+      "total_pages": 45,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Algoritmo Cuantico Para Solucion Eficiente De Problemas De Enrutamiento Antonio Diaz Hernandez dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Escuela Técnica Superior de Ingeniería de L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Algoritmo Cuantico Para Solucion Eficiente De Problemas De Enrutamiento Antonio Diaz Hernandez'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/algoritmo-cuantico-para-solucion-eficiente-de-problemas-de-enrutamiento-antonio-diaz-hernandez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-los-algoritmos-cuanticos-ricardo-pena",
+      "title": "Introduccion A Los Algoritmos Cuanticos Ricardo Pena",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-los-algoritmos-cuanticos-ricardo-pena.pdf",
+      "source_url": null,
+      "file_size_bytes": 115401,
+      "sha256": "59a185d994f8f1477ceb6d3a1f47210f98c24a7bb3946910256086855ba1a11e",
+      "total_pages": 15,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Introduccion A Los Algoritmos Cuanticos Ricardo Pena dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducci´on a los algoritmos cu´anticos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introduccion A Los Algoritmos Cuanticos Ricardo Pena'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-los-algoritmos-cuanticos-ricardo-pena.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "algoritmos-cuanticos-giematic",
+      "title": "Microsoft PowerPoint - Leccion3_Algoritmos",
+      "author": "Alfonsa",
+      "filename": "algoritmos-cuanticos-giematic.pdf",
+      "source_url": null,
+      "file_size_bytes": 326047,
+      "sha256": "2f3566911ef59e68e2664f916a063f321c677c94b59b40e76a83d34f3602c959",
+      "total_pages": 11,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Microsoft PowerPoint - Leccion3_Algoritmos dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Alfonsa García, Francisco García1 y Jesús García1 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Microsoft PowerPoint - Leccion3_Algoritmos'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/algoritmos-cuanticos-giematic.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "criptografia-cuantica-aplicada-jesus-martinez-mateo",
+      "title": "Criptografia Cuantica Aplicada Jesus Martinez Mateo",
+      "author": "Desconegut / Institucional",
+      "filename": "criptografia-cuantica-aplicada-jesus-martinez-mateo.pdf",
+      "source_url": null,
+      "file_size_bytes": 2161062,
+      "sha256": "02b2f25cd406c5881116932d2cb6afbea9f2d405808fed014c62aa729e8c62fd",
+      "total_pages": 214,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Criptografia Cuantica Aplicada Jesus Martinez Mateo dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: GIICC Grupo de Investigación en Información y Computación Cuántica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Criptografia Cuantica Aplicada Jesus Martinez Mateo'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/criptografia-cuantica-aplicada-jesus-martinez-mateo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-criptografia-post-cuantica-basada-en-teoria-de-codigos-daniel-felipe-rambaut-lemus",
+      "title": "Introducción a la Criptografía post-cuántica basada en teoría de códigos",
+      "author": "Daniel Felipe Rambaut Lemus Directora: Valérie Gauthier Umaña",
+      "filename": "introduccion-a-la-criptografia-post-cuantica-basada-en-teoria-de-codigos-daniel-felipe-rambaut-lemus.pdf",
+      "source_url": null,
+      "file_size_bytes": 556941,
+      "sha256": "81f9a8c1ce6fb74b309a74130fc32f647ea9b0e211fa82698ca1921afb20704c",
+      "total_pages": 102,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Colòmbia que aprofundeix en els fonaments i desenvolupament de Introducción a la Criptografía post-cuántica basada en teoría de códigos dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Colòmbia. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducción a la Criptografía post-cuántica basada en teoría de códigos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Colòmbia",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introducción a la Criptografía post-cuántica basada en teoría de códigos'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-criptografia-post-cuantica-basada-en-teoria-de-codigos-daniel-felipe-rambaut-lemus.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Colòmbia"
+      ]
+    },
+    {
+      "id": "simulacion-de-computo-cuantico-mireya-paredes-lopez",
+      "title": "Simulacion De Computo Cuantico Mireya Paredes Lopez",
+      "author": "Desconegut / Institucional",
+      "filename": "simulacion-de-computo-cuantico-mireya-paredes-lopez.pdf",
+      "source_url": null,
+      "file_size_bytes": 684323,
+      "sha256": "d893d1f8309e5f5ce0d281c79ebccddd68af68bd37229f4be64d29bec76a837a",
+      "total_pages": 113,
+      "short_description": "Tesi Acadèmica d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Simulacion De Computo Cuantico Mireya Paredes Lopez dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: CENTRO DE INVESTIGACIÓN Y DE ESTUDIOS AVANZADOS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Simulacion De Computo Cuantico Mireya Paredes Lopez'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/simulacion-de-computo-cuantico-mireya-paredes-lopez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tesi Acadèmica",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "diseno-y-simulacion-de-un-procesador-cuantico-jaime-m-coello-de-portugal-vazquez",
+      "title": "Simulado de un computador cuántico sobre un procesador MIPS clásico.",
+      "author": "Jaime Coello de Portugal",
+      "filename": "diseno-y-simulacion-de-un-procesador-cuantico-jaime-m-coello-de-portugal-vazquez.pdf",
+      "source_url": null,
+      "file_size_bytes": 1830139,
+      "sha256": "02875650959378905fc219129412988049129b995b953adc7d2ece734e9c49b3",
+      "total_pages": 167,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Simulado de un computador cuántico sobre un procesador MIPS clásico. dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA INFORMÁTICA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Simulado de un computador cuántico sobre un procesador MIPS clásico.'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/diseno-y-simulacion-de-un-procesador-cuantico-jaime-m-coello-de-portugal-vazquez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "simulacion-de-la-compuerta-cuantica-cnot-en-ibm-q-neftaly-yetlanezi-contreras-santillan-gustavo-gonzalez-quirino",
+      "title": "Simulacion De La Compuerta Cuantica Cnot En Ibm Q Neftaly Yetlanezi Contreras Santillan Gustavo Gonzalez Quirino",
+      "author": "Desconegut / Institucional",
+      "filename": "simulacion-de-la-compuerta-cuantica-cnot-en-ibm-q-neftaly-yetlanezi-contreras-santillan-gustavo-gonzalez-quirino.pdf",
+      "source_url": null,
+      "file_size_bytes": 1890603,
+      "sha256": "2fa36903b5b1efdc0a1f5393160ba8c5300e562bf7c7a2644a42c110cfbde63d",
+      "total_pages": 98,
+      "short_description": "Tesi Acadèmica d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Simulacion De La Compuerta Cuantica Cnot En Ibm Q Neftaly Yetlanezi Contreras Santillan Gustavo Gonzalez Quirino dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: SIMULACIÓN DE LA COMPUERTA CUÁNTICA CNOT EN IBM-Q L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Simulacion De La Compuerta Cuantica Cnot En Ibm Q Neftaly Yetlanezi Contreras Santillan Gustavo Gonzalez Quirino'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/simulacion-de-la-compuerta-cuantica-cnot-en-ibm-q-neftaly-yetlanezi-contreras-santillan-gustavo-gonzalez-quirino.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tesi Acadèmica",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "aplicacion-didactica-sobre-criptografia-y-computacion-cuantica-oscar-agudo-ruano",
+      "title": "Aplicacion Didactica Sobre Criptografia Y Computacion Cuantica Oscar Agudo Ruano",
+      "author": "Óscar Agudo",
+      "filename": "aplicacion-didactica-sobre-criptografia-y-computacion-cuantica-oscar-agudo-ruano.pdf",
+      "source_url": null,
+      "file_size_bytes": 1425493,
+      "sha256": "772ca253de4810ef223d385e1bef663439b47e43b30ccc60d697714e94709e84",
+      "total_pages": 77,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Aplicacion Didactica Sobre Criptografia Y Computacion Cuantica Oscar Agudo Ruano dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Grado en Ingeniería Informática L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aplicacion Didactica Sobre Criptografia Y Computacion Cuantica Oscar Agudo Ruano'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aplicacion-didactica-sobre-criptografia-y-computacion-cuantica-oscar-agudo-ruano.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "aplicaciones-de-computacion-cuantica-a-la-inteligencia-artificial-nicolas-cobellinelson-juambeltzjavier-perezmelisa-techera",
+      "title": "Aplicaciones De Computacion Cuantica A La Inteligencia Artificial Nicolas Cobellinelson Juambeltzjavier Perezmelisa Techera",
+      "author": "Desconegut / Institucional",
+      "filename": "aplicaciones-de-computacion-cuantica-a-la-inteligencia-artificial-nicolas-cobellinelson-juambeltzjavier-perezmelisa-techera.pdf",
+      "source_url": null,
+      "file_size_bytes": 689998,
+      "sha256": "e99b0556778a4b9abeaea81a4f8a099c45b6fd84ab2bc240aeee084c2b86c44d",
+      "total_pages": 77,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Aplicaciones De Computacion Cuantica A La Inteligencia Artificial Nicolas Cobellinelson Juambeltzjavier Perezmelisa Techera dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Aplicaciones de Computaci´on Cu´antica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aplicaciones De Computacion Cuantica A La Inteligencia Artificial Nicolas Cobellinelson Juambeltzjavier Perezmelisa Techera'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aplicaciones-de-computacion-cuantica-a-la-inteligencia-artificial-nicolas-cobellinelson-juambeltzjavier-perezmelisa-techera.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "implementacion-de-un-simulador-de-computador-cuantico-carlos-galvez-aucejo",
+      "title": "Implementación de un simulador de computador cuántico",
+      "author": " Carlos Gálvez Aucejo",
+      "filename": "implementacion-de-un-simulador-de-computador-cuantico-carlos-galvez-aucejo.pdf",
+      "source_url": null,
+      "file_size_bytes": 941102,
+      "sha256": "2109ecccf6870566f86e9ce2bfc10474f72bec4a113787de064a25ad65a9161a",
+      "total_pages": 61,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Implementación de un simulador de computador cuántico dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Escola Tècnica Superior d’Enginyeria Informàtica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Implementación de un simulador de computador cuántico'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/implementacion-de-un-simulador-de-computador-cuantico-carlos-galvez-aucejo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "fundamentos-de-criptografia-cuantica-hernan-ortiz-rojas",
+      "title": "Microsoft Word - Monografía - Fundamentos de Criptografía Cuántica.doc",
+      "author": "Hernán Ortiz",
+      "filename": "fundamentos-de-criptografia-cuantica-hernan-ortiz-rojas.pdf",
+      "source_url": null,
+      "file_size_bytes": 260292,
+      "sha256": "f55852eb5f5eff8e3de78214bd9213778f913aae6e1a1c34aa504901ee098bc4",
+      "total_pages": 58,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Microsoft Word - Monografía - Fundamentos de Criptografía Cuántica.doc dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: FUNDAMENTOS DE CRIPTOGRAFÍA CUÁNTICA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Microsoft Word - Monografía - Fundamentos de Criptografía Cuántica.doc'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-criptografia-cuantica-hernan-ortiz-rojas.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "aplicacion-practica-de-la-computacion-cuantica-a-problemas-financieros-carlos-garcia-martinez",
+      "title": "Aplicacion Practica De La Computacion Cuantica A Problemas Financieros Carlos Garcia Martinez",
+      "author": "Cristina",
+      "filename": "aplicacion-practica-de-la-computacion-cuantica-a-problemas-financieros-carlos-garcia-martinez.pdf",
+      "source_url": null,
+      "file_size_bytes": 2303834,
+      "sha256": "dc4bf828c476f3ea884802ee094d08e16f3a25795a62e396c5cd7fd91e48f54b",
+      "total_pages": 51,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Aplicacion Practica De La Computacion Cuantica A Problemas Financieros Carlos Garcia Martinez dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: FACULTAD DE ESTUDIOS ESTADÍSTICOS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Aplicacion Practica De La Computacion Cuantica A Problemas Financieros Carlos Garcia Martinez'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aplicacion-practica-de-la-computacion-cuantica-a-problemas-financieros-carlos-garcia-martinez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-la-criptografia-cuantica-sergio-miguens-iglesiaspablo-gonzalez-alonso",
+      "title": "Introduccion A La Criptografia Cuantica Sergio Miguens Iglesiaspablo Gonzalez Alonso",
+      "author": "Desconegut / Institucional",
+      "filename": "introduccion-a-la-criptografia-cuantica-sergio-miguens-iglesiaspablo-gonzalez-alonso.pdf",
+      "source_url": null,
+      "file_size_bytes": 308044,
+      "sha256": "fd9349ecf596ae5ef65d1eeb4971e044ada57b576414f319ee911d4db9595080",
+      "total_pages": 20,
+      "short_description": "Llibre de Text Universitari d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Introduccion A La Criptografia Cuantica Sergio Miguens Iglesiaspablo Gonzalez Alonso dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un llibre de text universitari centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Introducción a la criptografía cuántica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Llibre de Text Universitari",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introduccion A La Criptografia Cuantica Sergio Miguens Iglesiaspablo Gonzalez Alonso'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-la-criptografia-cuantica-sergio-miguens-iglesiaspablo-gonzalez-alonso.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Llibre de Text Universitari",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "criptografia-post-cuantica-integrada-en-ssltls-y-https-articulo-diego-cordobamiguel-mendez-garabetti",
+      "title": "Criptografia Post Cuantica Integrada En Ssltls Y Https Articulo Diego Cordobamiguel Mendez Garabetti",
+      "author": "Desconegut / Institucional",
+      "filename": "criptografia-post-cuantica-integrada-en-ssltls-y-https-articulo-diego-cordobamiguel-mendez-garabetti.pdf",
+      "source_url": null,
+      "file_size_bytes": 165575,
+      "sha256": "54d20c1fe8c1a86b0639b429975515c5efe6a99e0cb228636851b406eb1963ff",
+      "total_pages": 6,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Criptografia Post Cuantica Integrada En Ssltls Y Https Articulo Diego Cordobamiguel Mendez Garabetti dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: CRIPTOGRAFÍA POST-CUÁNTICA INTEGRADA EN SSL/TLS Y HTTPS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Criptografia Post Cuantica Integrada En Ssltls Y Https Articulo Diego Cordobamiguel Mendez Garabetti'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/criptografia-post-cuantica-integrada-en-ssltls-y-https-articulo-diego-cordobamiguel-mendez-garabetti.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "electrodinamica-cuantica-de-circuitos-de-qubits-superconductores-mariano-bonifacio",
+      "title": "Electrodinámica Cuántica de Circuitos de Qubits Superconductores",
+      "author": "Bonifacio, Mariano C.",
+      "filename": "electrodinamica-cuantica-de-circuitos-de-qubits-superconductores-mariano-bonifacio.pdf",
+      "source_url": null,
+      "file_size_bytes": 8012780,
+      "sha256": "d7038c4b3431d424ab9c02cb267255111d3f6161d66905c601f5967003a68c8b",
+      "total_pages": 92,
+      "short_description": "Manual Docent i Tècnic d'abast a Argentina que aprofundeix en els fonaments i desenvolupament de Electrodinámica Cuántica de Circuitos de Qubits Superconductores dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina. El document aborda de manera sistemàtica els conceptes teòrics clau: TESIS DE MAESTRÍA EN CIENCIAS FÍSICAS L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Electrodinámica Cuántica de Circuitos de Qubits Superconductores'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/electrodinamica-cuantica-de-circuitos-de-qubits-superconductores-mariano-bonifacio.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Manual Docent i Tècnic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "qubits-superconductores-coherencia-y-decoherencia-ivan-leonardo-zalamea-zamora",
+      "title": "Qubits Superconductores Coherencia Y Decoherencia Ivan Leonardo Zalamea Zamora",
+      "author": "Desconegut / Institucional",
+      "filename": "qubits-superconductores-coherencia-y-decoherencia-ivan-leonardo-zalamea-zamora.pdf",
+      "source_url": null,
+      "file_size_bytes": 590832,
+      "sha256": "53058c668b49e310aefb58e74bc9607518095312c739c3ca93eee68678069912",
+      "total_pages": 58,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Qubits Superconductores Coherencia Y Decoherencia Ivan Leonardo Zalamea Zamora dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Se expone brevemente la teor´ıa BCS sobre la superconductividad y se presenta L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Qubits Superconductores Coherencia Y Decoherencia Ivan Leonardo Zalamea Zamora'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/qubits-superconductores-coherencia-y-decoherencia-ivan-leonardo-zalamea-zamora.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-con-qubits-superconductores-el-transmon-juan-alvarez-carrasco",
+      "title": "Computacion Cuantica Con Qubits Superconductores El Transmon Juan Alvarez Carrasco",
+      "author": "Desconegut / Institucional",
+      "filename": "computacion-cuantica-con-qubits-superconductores-el-transmon-juan-alvarez-carrasco.pdf",
+      "source_url": null,
+      "file_size_bytes": 349806,
+      "sha256": "2272999e549f57ee4f7378175ff7aec98613a7d842b8903dd3a0b3faa15c1346",
+      "total_pages": 51,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Computacion Cuantica Con Qubits Superconductores El Transmon Juan Alvarez Carrasco dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Trabajo Fin de Grado en F´ısica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computacion Cuantica Con Qubits Superconductores El Transmon Juan Alvarez Carrasco'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-con-qubits-superconductores-el-transmon-juan-alvarez-carrasco.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "arquitectura-de-la-computacion-cuantica-la-informacion-es-transmitida-mas-rapido-que-la-velocidad-de-la-luz-natalia-gomezangel-gomezandres-gomez",
+      "title": "Arquitectura De La Computacion Cuantica La Informacion Es Transmitida Mas Rapido Que La Velocidad De La Luz Natalia Gomezangel Gomezandres Gomez",
+      "author": "Desconegut / Institucional",
+      "filename": "arquitectura-de-la-computacion-cuantica-la-informacion-es-transmitida-mas-rapido-que-la-velocidad-de-la-luz-natalia-gomezangel-gomezandres-gomez.pdf",
+      "source_url": null,
+      "file_size_bytes": 177090,
+      "sha256": "379a0648bda3fd6ebcdc8b19934a61785fff5dfc0139e53f6d816ab07a19049a",
+      "total_pages": 10,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Arquitectura De La Computacion Cuantica La Informacion Es Transmitida Mas Rapido Que La Velocidad De La Luz Natalia Gomezangel Gomezandres Gomez dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Arquitectura de la computaci´on cu´antica: La informaci´on L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Arquitectura De La Computacion Cuantica La Informacion Es Transmitida Mas Rapido Que La Velocidad De La Luz Natalia Gomezangel Gomezandres Gomez'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/arquitectura-de-la-computacion-cuantica-la-informacion-es-transmitida-mas-rapido-que-la-velocidad-de-la-luz-natalia-gomezangel-gomezandres-gomez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-lo-que-dicen-y-lo-que-se-espera-thorsten-strasselelsi-mari-borrelli",
+      "title": "Computacion Cuantica Lo Que Dicen Y Lo Que Se Espera Thorsten Strasselelsi Mari Borrelli",
+      "author": "Desconegut / Institucional",
+      "filename": "computacion-cuantica-lo-que-dicen-y-lo-que-se-espera-thorsten-strasselelsi-mari-borrelli.pdf",
+      "source_url": null,
+      "file_size_bytes": 342731,
+      "sha256": "7fb594409efb7761bac0d72ec57cccc39dd5d8a3085b9261d5759abffb8c47af",
+      "total_pages": 6,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Computacion Cuantica Lo Que Dicen Y Lo Que Se Espera Thorsten Strasselelsi Mari Borrelli dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Foto Fig. 01: D-Wave Systems Inc.; fig. 02: IBM, compartida via Kandala et al., Nature and Creative Commons, detalles L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Ley de \nMoore"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computacion Cuantica Lo Que Dicen Y Lo Que Se Espera Thorsten Strasselelsi Mari Borrelli'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-lo-que-dicen-y-lo-que-se-espera-thorsten-strasselelsi-mari-borrelli.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-el-futuro-de-los-procesadores-dr-raul-rossignoli",
+      "title": "Computacion Cuantica El Futuro De Los Procesadores Dr Raul Rossignoli",
+      "author": "Desconegut / Institucional",
+      "filename": "computacion-cuantica-el-futuro-de-los-procesadores-dr-raul-rossignoli.pdf",
+      "source_url": null,
+      "file_size_bytes": 227269,
+      "sha256": "287f73e7e8fb8703842740bfea665af324e1e10eda21be9a0f6ff2080710f615",
+      "total_pages": 3,
+      "short_description": "Tesi Acadèmica d'abast a Argentina (Universidad Nacional de La Plata) que aprofundeix en els fonaments i desenvolupament de Computacion Cuantica El Futuro De Los Procesadores Dr Raul Rossignoli dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad Nacional de La Plata). El document aborda de manera sistemàtica els conceptes teòrics clau: Revista Institucional de la Facultad de Informática | UNLP L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad Nacional de La Plata)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computacion Cuantica El Futuro De Los Procesadores Dr Raul Rossignoli'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-el-futuro-de-los-procesadores-dr-raul-rossignoli.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tesi Acadèmica",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "computacion-cuantica-con-moleculas-magneticas-articulo-guillem-aromi-alejandro-gaita-arino-y-fernando-luis",
+      "title": "Computacion Cuantica Con Moleculas Magneticas Articulo Guillem Aromi Alejandro Gaita Arino Y Fernando Luis",
+      "author": "Desconegut / Institucional",
+      "filename": "computacion-cuantica-con-moleculas-magneticas-articulo-guillem-aromi-alejandro-gaita-arino-y-fernando-luis.pdf",
+      "source_url": null,
+      "file_size_bytes": 385756,
+      "sha256": "8ded272b848a9f0e04a38f92d1e87cbce1325a7a3410cc65d28b1fc03690767c",
+      "total_pages": 4,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Computacion Cuantica Con Moleculas Magneticas Articulo Guillem Aromi Alejandro Gaita Arino Y Fernando Luis dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: RdF  •  30-3  •  Julio-septiembre 2016 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Computacion Cuantica Con Moleculas Magneticas Articulo Guillem Aromi Alejandro Gaita Arino Y Fernando Luis'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/computacion-cuantica-con-moleculas-magneticas-articulo-guillem-aromi-alejandro-gaita-arino-y-fernando-luis.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "lenguajes-de-programacionn-cuantico-brandon-prieto",
+      "title": "Lenguajes De Programacionn Cuantico Brandon Prieto",
+      "author": "Desconegut / Institucional",
+      "filename": "lenguajes-de-programacionn-cuantico-brandon-prieto.pdf",
+      "source_url": null,
+      "file_size_bytes": 117116,
+      "sha256": "63c7a1cecd0b7ab5a233b0f0714762e510addc38e72ab9b87c9ba36f925de815",
+      "total_pages": 29,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Lenguajes De Programacionn Cuantico Brandon Prieto dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Lenguajes de Programaci´on Cu´antico L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Lenguajes De Programacionn Cuantico Brandon Prieto'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/lenguajes-de-programacionn-cuantico-brandon-prieto.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "fundamentos-de-lenguajes-para-computacion-cuantica-alejandro-diaz-caro",
+      "title": "Fundamentos De Lenguajes Para Computacion Cuantica Alejandro Diaz Caro",
+      "author": "Desconegut / Institucional",
+      "filename": "fundamentos-de-lenguajes-para-computacion-cuantica-alejandro-diaz-caro.pdf",
+      "source_url": null,
+      "file_size_bytes": 769330,
+      "sha256": "6f4ad8839b76d6e17a60a0ea415e16f5a846721eea0f13ec2dde38e5ea384bb2",
+      "total_pages": 106,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Fundamentos De Lenguajes Para Computacion Cuantica Alejandro Diaz Caro dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Licenciatura en Ciencias de la Computación L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Postgrau / Recerca Avançada",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de postgrau / recerca avançada, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Fundamentos De Lenguajes Para Computacion Cuantica Alejandro Diaz Caro'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-lenguajes-para-computacion-cuantica-alejandro-diaz-caro.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "desarrollo-de-herramientas-y-metodos-automatizados-para-la-simulacion-y-mejora-de-procesos-de-computacion-cuantica-basados-en-inteligencia-artificial-david-peral-garciajuan-cruz-benito",
+      "title": "Microsoft Word - splnproc1703_mac_revisadoJuan_Fran_2.docm",
+      "author": "Desconegut / Institucional",
+      "filename": "desarrollo-de-herramientas-y-metodos-automatizados-para-la-simulacion-y-mejora-de-procesos-de-computacion-cuantica-basados-en-inteligencia-artificial-david-peral-garciajuan-cruz-benito.pdf",
+      "source_url": null,
+      "file_size_bytes": 356873,
+      "sha256": "c7cc6bfb69080f710aef3e7e0ce3fb12b1b0c8c4bf0e8755c6e7e61bbe28350d",
+      "total_pages": 10,
+      "short_description": "Tesi Acadèmica d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Microsoft Word - splnproc1703_mac_revisadoJuan_Fran_2.docm dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Desarrollo de herramientas y métodos automatizados L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants d'enginyeria, tècnics i investigadors en Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Microsoft Word - splnproc1703_mac_revisadoJuan_Fran_2.docm'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/desarrollo-de-herramientas-y-metodos-automatizados-para-la-simulacion-y-mejora-de-procesos-de-computacion-cuantica-basados-en-inteligencia-artificial-david-peral-garciajuan-cruz-benito.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tesi Acadèmica",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "codigos-clasicos-y-cuanticos-laura-clarajover-galtier",
+      "title": "Codigos Clasicos Y Cuanticos Laura Clarajover Galtier",
+      "author": "Desconegut / Institucional",
+      "filename": "codigos-clasicos-y-cuanticos-laura-clarajover-galtier.pdf",
+      "source_url": null,
+      "file_size_bytes": 250214,
+      "sha256": "d97cb3576b5e0d31a2a95c02040e7e82f2e57d682ec8685ef99bb01ed0297ace",
+      "total_pages": 50,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Codigos Clasicos Y Cuanticos Laura Clarajover Galtier dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Escuela Superior de Tecnolog´ıa y Ciencias Experimentales L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Codigos Clasicos Y Cuanticos Laura Clarajover Galtier'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/codigos-clasicos-y-cuanticos-laura-clarajover-galtier.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "quantumlab-simulador-de-codigo-abierto-para-computacion-cuantica-articulo-laura-gatti-andre-fonseca-de-oliveira-efrain-buksma",
+      "title": "Quantumlab Simulador De Codigo Abierto Para Computacion Cuantica Articulo Laura Gatti Andre Fonseca De Oliveira Efrain Buksma",
+      "author": "Desconegut / Institucional",
+      "filename": "quantumlab-simulador-de-codigo-abierto-para-computacion-cuantica-articulo-laura-gatti-andre-fonseca-de-oliveira-efrain-buksma.pdf",
+      "source_url": null,
+      "file_size_bytes": 1484884,
+      "sha256": "7bf9de443f73e394d84ebb107389ccce817c1f91d6dfc3c04e49b0787b58c31d",
+      "total_pages": 8,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Quantumlab Simulador De Codigo Abierto Para Computacion Cuantica Articulo Laura Gatti Andre Fonseca De Oliveira Efrain Buksma dins de Computacion Cuantica.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Computacion Cuantica (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: QuantumLab: simulador de código abierto para computación cuántica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Computacion Cuantica.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Quantumlab Simulador De Codigo Abierto Para Computacion Cuantica Articulo Laura Gatti Andre Fonseca De Oliveira Efrain Buksma'. Domain: Tecnología e Informática (Computacion Cuantica). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/quantumlab-simulador-de-codigo-abierto-para-computacion-cuantica-articulo-laura-gatti-andre-fonseca-de-oliveira-efrain-buksma.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Computacion Cuantica",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

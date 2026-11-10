@@ -1,0 +1,26 @@
+{
+  "rag_id": "control-de-plagas",
+  "name": "Control de Plagues i Malalties Agrícoles",
+  "description": "Manuals tècnics de Maneig Integrat de Plagues (MIP), control biològic, sanitat vegetal i protecció fitosanitària per a horts i cultius.",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794277414.712762,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 650,
+  "total_documents": 10,
+  "total_library_files": 10,
+  "total_images_extracted": 237,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "control-de-plagas",
+    "agricultura",
+    "cultivo",
+    "plagas",
+    "collage-punk",
+    "smartlocal"
+  ]
+}

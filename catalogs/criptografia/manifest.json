@@ -1,0 +1,26 @@
+{
+  "rag_id": "criptografia",
+  "name": "Criptografia",
+  "description": "Col·lecció completa de llibres i manuals de Criptografia (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794271953.494439,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 1705,
+  "total_documents": 15,
+  "total_library_files": 15,
+  "total_images_extracted": 130,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "criptografia",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}
