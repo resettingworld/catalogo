@@ -1,0 +1,194 @@
+{
+  "topic": "Gutenberg: Health & Medicine",
+  "domain": "Salud y Medicina",
+  "source_portal": "Project Gutenberg",
+  "bookshelf_id": "681",
+  "canonical_style_id": "collage-punk-v1",
+  "canonical_style_name": "Collage Punk & Underground DIY Zine",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "collage-punk-v1",
+    "style_name": "Collage Punk & Underground DIY Zine",
+    "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition."
+  },
+  "total_books": 5,
+  "total_pages": 5697,
+  "total_size_mb": 7.14,
+  "books": [
+    {
+      "id": "gutenberg_49513_Nicholas_Culpeper",
+      "title": "Gutenberg_49513_Nicholas_Culpeper",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_49513_Nicholas_Culpeper.pdf",
+      "source_url": null,
+      "file_size_bytes": 1667698,
+      "sha256": "9a4e6346c7116e6da779f567672457cec471a193a61f4fcad7d467b11c3ced7f",
+      "total_pages": 1262,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_49513_Nicholas_Culpeper dins de Health & Medicine.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Health & Medicine (Salud y Medicina), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Health & Medicine.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_49513_Nicholas_Culpeper'. Domain: Salud y Medicina (Health & Medicine). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_49513_Nicholas_Culpeper.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Health & Medicine",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_10136_Mrs__Beeton",
+      "title": "Gutenberg_10136_Mrs__Beeton",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_10136_Mrs__Beeton.pdf",
+      "source_url": null,
+      "file_size_bytes": 3457517,
+      "sha256": "5d53012731cfbfdfa23f91ca2922b2efe2a098730d26798e3d16c824cd29d8b0",
+      "total_pages": 2613,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_10136_Mrs__Beeton dins de Health & Medicine.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Health & Medicine (Salud y Medicina), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Health & Medicine.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_10136_Mrs__Beeton'. Domain: Salud y Medicina (Health & Medicine). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_10136_Mrs__Beeton.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Health & Medicine",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_12238_E__E__Kellogg",
+      "title": "Gutenberg_12238_E__E__Kellogg",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_12238_E__E__Kellogg.pdf",
+      "source_url": null,
+      "file_size_bytes": 1457270,
+      "sha256": "bf05dfdee814ace07195bc57cfcd6e42285da82c4df2fc48cf6b9539b382dd6b",
+      "total_pages": 1194,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_12238_E__E__Kellogg dins de Health & Medicine.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Health & Medicine (Salud y Medicina), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Health & Medicine.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_12238_E__E__Kellogg'. Domain: Salud y Medicina (Health & Medicine). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_12238_E__E__Kellogg.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Health & Medicine",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_21840_William_J__Robinson",
+      "title": "Gutenberg_21840_William_J__Robinson",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_21840_William_J__Robinson.pdf",
+      "source_url": null,
+      "file_size_bytes": 585899,
+      "sha256": "c58c66be8720ab5c1d87851c1c34714b541f386f486b4c87afddb39d7fbc8922",
+      "total_pages": 416,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_21840_William_J__Robinson dins de Health & Medicine.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Health & Medicine (Salud y Medicina), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Health & Medicine.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_21840_William_J__Robinson'. Domain: Salud y Medicina (Health & Medicine). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_21840_William_J__Robinson.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Health & Medicine",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_17366_Florence_Nightingale",
+      "title": "Gutenberg_17366_Florence_Nightingale",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_17366_Florence_Nightingale.pdf",
+      "source_url": null,
+      "file_size_bytes": 321760,
+      "sha256": "936fb312acd93b98c61dd690a1023956fc93db39fcec72f49dd3119736bddb1a",
+      "total_pages": 212,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_17366_Florence_Nightingale dins de Health & Medicine.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Health & Medicine (Salud y Medicina), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Health & Medicine.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_17366_Florence_Nightingale'. Domain: Salud y Medicina (Health & Medicine). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_17366_Florence_Nightingale.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Health & Medicine",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

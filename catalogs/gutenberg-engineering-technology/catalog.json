@@ -1,0 +1,124 @@
+{
+  "topic": "Gutenberg: Engineering & Technology",
+  "domain": "Ingeniería y Tecnología",
+  "source_portal": "Project Gutenberg",
+  "bookshelf_id": "671",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 3,
+  "total_pages": 1928,
+  "total_size_mb": 2.61,
+  "books": [
+    {
+      "id": "gutenberg_5000_da_Vinci_Leonardo",
+      "title": "Gutenberg_5000_Da_Vinci_Leonardo",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_5000_da_Vinci_Leonardo.pdf",
+      "source_url": null,
+      "file_size_bytes": 1805735,
+      "sha256": "75208439baf0d251c0f2f6d1e435c9b4b019fd58e05ead4339e130d6c8a31830",
+      "total_pages": 1259,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_5000_Da_Vinci_Leonardo dins de Engineering & Technology.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Engineering & Technology (Ingeniería y Tecnología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Engineering & Technology.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Gutenberg_5000_Da_Vinci_Leonardo'. Domain: Ingeniería y Tecnología (Engineering & Technology). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_5000_da_Vinci_Leonardo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Engineering & Technology",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_22298_James_Slough_Zerbe",
+      "title": "Gutenberg_22298_James_Slough_Zerbe",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_22298_James_Slough_Zerbe.pdf",
+      "source_url": null,
+      "file_size_bytes": 340044,
+      "sha256": "3922252af57575cc737a0dca86b02c0668124134936e3efcba6ca25c2f974d57",
+      "total_pages": 267,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_22298_James_Slough_Zerbe dins de Engineering & Technology.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Engineering & Technology (Ingeniería y Tecnología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Engineering & Technology.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Gutenberg_22298_James_Slough_Zerbe'. Domain: Ingeniería y Tecnología (Engineering & Technology). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_22298_James_Slough_Zerbe.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Engineering & Technology",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_7213_Henry_Ford_and_Samuel_Crowther",
+      "title": "Gutenberg_7213_Henry_Ford_And_Samuel_Crowther",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_7213_Henry_Ford_and_Samuel_Crowther.pdf",
+      "source_url": null,
+      "file_size_bytes": 590202,
+      "sha256": "6b815bc05169a4f25d07511f5b8c87ec709054bf169f716de1a48002aa5da027",
+      "total_pages": 402,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_7213_Henry_Ford_And_Samuel_Crowther dins de Engineering & Technology.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Engineering & Technology (Ingeniería y Tecnología), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Engineering & Technology.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Gutenberg_7213_Henry_Ford_And_Samuel_Crowther'. Domain: Ingeniería y Tecnología (Engineering & Technology). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_7213_Henry_Ford_and_Samuel_Crowther.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Engineering & Technology",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

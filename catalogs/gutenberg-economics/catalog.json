@@ -1,0 +1,194 @@
+{
+  "topic": "Gutenberg: Economics",
+  "domain": "Economía y Finanzas",
+  "source_portal": "Project Gutenberg",
+  "bookshelf_id": "696",
+  "canonical_style_id": "collage-punk-v1",
+  "canonical_style_name": "Collage Punk & Underground DIY Zine",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "collage-punk-v1",
+    "style_name": "Collage Punk & Underground DIY Zine",
+    "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition."
+  },
+  "total_books": 5,
+  "total_pages": 3670,
+  "total_size_mb": 5.45,
+  "books": [
+    {
+      "id": "gutenberg_3300_Adam_Smith",
+      "title": "Gutenberg_3300_Adam_Smith",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_3300_Adam_Smith.pdf",
+      "source_url": null,
+      "file_size_bytes": 2489215,
+      "sha256": "a84902935c0c6ec87b6146b00b50585651a92df11835f5698a4e7b9327932668",
+      "total_pages": 1624,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_3300_Adam_Smith dins de Economics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Economics (Economía y Finanzas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Economics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_3300_Adam_Smith'. Domain: Economía y Finanzas (Economics). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_3300_Adam_Smith.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Economics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_45188_Yat-sen_Sun",
+      "title": "Gutenberg_45188_Yat Sen_Sun",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_45188_Yat-sen_Sun.pdf",
+      "source_url": null,
+      "file_size_bytes": 418250,
+      "sha256": "01f9fd7b64bf87a94feb1d4945f179e6672a6dab0d12fddcd4825241637aff55",
+      "total_pages": 296,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_45188_Yat Sen_Sun dins de Economics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Economics (Economía y Finanzas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Economics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_45188_Yat Sen_Sun'. Domain: Economía y Finanzas (Economics). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_45188_Yat-sen_Sun.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Economics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_61_Karl_Marx_and_Friedrich_Engels",
+      "title": "Gutenberg_61_Karl_Marx_And_Friedrich_Engels",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_61_Karl_Marx_and_Friedrich_Engels.pdf",
+      "source_url": null,
+      "file_size_bytes": 116812,
+      "sha256": "e10c1ee3f87d8459627e492b9b52557563ff5838b1ea6e2da2eaaebea6beb3da",
+      "total_pages": 60,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_61_Karl_Marx_And_Friedrich_Engels dins de Economics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Economics (Economía y Finanzas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Economics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_61_Karl_Marx_And_Friedrich_Engels'. Domain: Economía y Finanzas (Economics). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_61_Karl_Marx_and_Friedrich_Engels.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Economics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_60979_Edwin_Lefevre",
+      "title": "Gutenberg_60979_Edwin_Lefevre",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_60979_Edwin_Lefevre.pdf",
+      "source_url": null,
+      "file_size_bytes": 882202,
+      "sha256": "5285a718da4640a68059770efd070138c77bcce45f768ca6b64a592805db37a1",
+      "total_pages": 468,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_60979_Edwin_Lefevre dins de Economics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Economics (Economía y Finanzas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Economics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_60979_Edwin_Lefevre'. Domain: Economía y Finanzas (Economics). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_60979_Edwin_Lefevre.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Economics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_24518_Charles_Mackay",
+      "title": "Gutenberg_24518_Charles_Mackay",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_24518_Charles_Mackay.pdf",
+      "source_url": null,
+      "file_size_bytes": 1807140,
+      "sha256": "dabbcddeffb00592913eeba9cc1a9d1d2bd6eb19a0935819dee38f9666eda662",
+      "total_pages": 1222,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_24518_Charles_Mackay dins de Economics.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Economics (Economía y Finanzas), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Economics.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Gutenberg_24518_Charles_Mackay'. Domain: Economía y Finanzas (Economics). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_24518_Charles_Mackay.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Economics",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

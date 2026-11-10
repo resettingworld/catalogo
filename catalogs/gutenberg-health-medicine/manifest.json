@@ -1,0 +1,26 @@
+{
+  "rag_id": "gutenberg-health-medicine",
+  "name": "Gutenberg: Health & Medicine",
+  "description": "Anatomia humana, cirurgia, patologia, fisiologia mèdica i epidemiologia.",
+  "version": "1.0.0",
+  "author": "SmartLocal / Project Gutenberg",
+  "created_at": 1794270900.026618,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 5697,
+  "total_documents": 5,
+  "total_library_files": 5,
+  "total_images_extracted": 0,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "gutenberg-health-medicine",
+    "gutenberg",
+    "technical",
+    "non-fiction",
+    "collage-punk",
+    "modular-rag"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0.0",
+  "id": "gutenberg-health-medicine",
+  "name": "Gutenberg: Health & Medicine",
+  "description": "Anatomia humana, cirurgia, patologia, fisiologia mèdica i epidemiologia.",
+  "category": {
+    "slug": "gutenberg-technical",
+    "name": "Project Gutenberg Technical Knowledge",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/681"
+  },
+  "domain": "Salud y Medicina",
+  "language": "es",
+  "portal_source": {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/681",
+    "scraped_at": "2026-11-10T00:31:46.781085+00:00"
+  },
+  "tags": [
+    "gutenberg-health-medicine",
+    "gutenberg",
+    "technical",
+    "non-fiction",
+    "collage-punk",
+    "modular-rag"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "e5845bbb-9cda-4a9b-96c6-273ac6a43a1d",
+      "title": "Gutenberg_10136_Mrs__Beeton",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_10136_Mrs__Beeton.pdf",
+      "source_url": null,
+      "file_size_bytes": 3457517,
+      "sha256": "5d53012731cfbfdfa23f91ca2922b2efe2a098730d26798e3d16c824cd29d8b0",
+      "page_count": 2613,
+      "key_topics": [
+        "Gutenberg: Health & Medicine"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "166d2969-29d1-453b-ab4a-63c05526aaf3",
+      "title": "Gutenberg_12238_E__E__Kellogg",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_12238_E__E__Kellogg.pdf",
+      "source_url": null,
+      "file_size_bytes": 1457270,
+      "sha256": "bf05dfdee814ace07195bc57cfcd6e42285da82c4df2fc48cf6b9539b382dd6b",
+      "page_count": 1194,
+      "key_topics": [
+        "Gutenberg: Health & Medicine"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "5c68064d-7722-49bd-943e-f7843b5e2bfd",
+      "title": "Gutenberg_17366_Florence_Nightingale",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_17366_Florence_Nightingale.pdf",
+      "source_url": null,
+      "file_size_bytes": 321760,
+      "sha256": "936fb312acd93b98c61dd690a1023956fc93db39fcec72f49dd3119736bddb1a",
+      "page_count": 212,
+      "key_topics": [
+        "Gutenberg: Health & Medicine"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "261e779c-5913-4029-9203-a98d3b4e6ce9",
+      "title": "Gutenberg_21840_William_J__Robinson",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_21840_William_J__Robinson.pdf",
+      "source_url": null,
+      "file_size_bytes": 585899,
+      "sha256": "c58c66be8720ab5c1d87851c1c34714b541f386f486b4c87afddb39d7fbc8922",
+      "page_count": 416,
+      "key_topics": [
+        "Gutenberg: Health & Medicine"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "c1148abf-28ac-4a04-9baa-0c141b168399",
+      "title": "Gutenberg_49513_Nicholas_Culpeper",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_49513_Nicholas_Culpeper.pdf",
+      "source_url": null,
+      "file_size_bytes": 1667698,
+      "sha256": "9a4e6346c7116e6da779f567672457cec471a193a61f4fcad7d467b11c3ced7f",
+      "page_count": 1262,
+      "key_topics": [
+        "Gutenberg: Health & Medicine"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "gutenberg-health-medicine",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 5,
+    "total_chunks": 5697,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 5,
+    "total_pages": 5697,
+    "total_size_mb": 7.14
+  },
+  "created_at": "2026-11-10T00:31:46.781125+00:00",
+  "updated_at": "2026-11-10T00:35:00.020439+00:00"
+}

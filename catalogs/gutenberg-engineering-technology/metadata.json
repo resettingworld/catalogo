@@ -1,0 +1,90 @@
+{
+  "schema_version": "1.0.0",
+  "id": "gutenberg-engineering-technology",
+  "name": "Gutenberg: Engineering & Technology",
+  "description": "Enginyeria mecànica, elèctrica, aeronàutica, processos industrials i tecnologia històrica.",
+  "category": {
+    "slug": "gutenberg-technical",
+    "name": "Project Gutenberg Technical Knowledge",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/671"
+  },
+  "domain": "Ingeniería y Tecnología",
+  "language": "es",
+  "portal_source": {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/671",
+    "scraped_at": "2026-11-10T00:22:32.010916+00:00"
+  },
+  "tags": [
+    "gutenberg-engineering-technology",
+    "gutenberg",
+    "technical",
+    "non-fiction",
+    "collage-punk",
+    "modular-rag"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "47270c13-71f1-4624-8267-9d8d4d462fa6",
+      "title": "Gutenberg_22298_James_Slough_Zerbe",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_22298_James_Slough_Zerbe.pdf",
+      "source_url": null,
+      "file_size_bytes": 340044,
+      "sha256": "3922252af57575cc737a0dca86b02c0668124134936e3efcba6ca25c2f974d57",
+      "page_count": 267,
+      "key_topics": [
+        "Gutenberg: Engineering & Technology"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "bd3788c4-0250-48f2-a7e5-2e07fc00896e",
+      "title": "Gutenberg_5000_Da_Vinci_Leonardo",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_5000_da_Vinci_Leonardo.pdf",
+      "source_url": null,
+      "file_size_bytes": 1805735,
+      "sha256": "75208439baf0d251c0f2f6d1e435c9b4b019fd58e05ead4339e130d6c8a31830",
+      "page_count": 1259,
+      "key_topics": [
+        "Gutenberg: Engineering & Technology"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "f7181ed0-a3f9-4a87-aee3-524ce500a581",
+      "title": "Gutenberg_7213_Henry_Ford_And_Samuel_Crowther",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_7213_Henry_Ford_and_Samuel_Crowther.pdf",
+      "source_url": null,
+      "file_size_bytes": 590202,
+      "sha256": "6b815bc05169a4f25d07511f5b8c87ec709054bf169f716de1a48002aa5da027",
+      "page_count": 402,
+      "key_topics": [
+        "Gutenberg: Engineering & Technology"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "gutenberg-engineering-technology",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 3,
+    "total_chunks": 1928,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 3,
+    "total_pages": 1928,
+    "total_size_mb": 2.61
+  },
+  "created_at": "2026-11-10T00:22:32.010936+00:00",
+  "updated_at": "2026-11-10T00:23:24.300661+00:00"
+}
