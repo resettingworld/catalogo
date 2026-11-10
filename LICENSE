@@ -1,0 +1,16 @@
+Creative Commons Attribution 4.0 International (CC-BY-4.0) + MIT License
+
+1. CATALOG METADATA & COLLAGE PUNK ARTWORK:
+   All catalog schemas, curated metadata (catalog.json, metadata.json,
+   manifest.json, marketplace_catalog.json), and generated Collage Punk visual
+   covers/banners created by Resetting World Contributors are licensed under
+   CC-BY-4.0 (https://creativecommons.org/licenses/by/4.0/).
+
+2. VALIDATION & BUILD SCRIPTS:
+   Software utilities in scripts/ are licensed under the MIT License.
+
+3. UNDERLYING SOURCE BOOKS:
+   Original third-party PDF manuals and public-domain treatises distributed
+   via GitHub Releases retain their respective original copyrights, public-domain
+   statuses, or Creative Commons / institutional open-access licenses as
+   recorded inside each capsule's metadata.json and catalog.json.
