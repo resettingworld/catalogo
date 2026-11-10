@@ -1,0 +1,194 @@
+{
+  "topic": "Gutenberg: Earth & Agricultural Sciences",
+  "domain": "Ciencias de la Tierra y Agronomía",
+  "source_portal": "Project Gutenberg",
+  "bookshelf_id": "670",
+  "canonical_style_id": "geo-punk-v1",
+  "canonical_style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "geo-punk-v1",
+    "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+    "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free."
+  },
+  "total_books": 5,
+  "total_pages": 3882,
+  "total_size_mb": 5.5,
+  "books": [
+    {
+      "id": "gutenberg_944_Charles_Darwin",
+      "title": "Gutenberg_944_Charles_Darwin",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_944_Charles_Darwin.pdf",
+      "source_url": null,
+      "file_size_bytes": 1340436,
+      "sha256": "ebdf18519c7b4f0ea919cb84678510324fb48f8300d8d4144590deb384cf180b",
+      "total_pages": 896,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_944_Charles_Darwin dins de Earth & Agricultural Sciences.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Earth & Agricultural Sciences (Ciencias de la Tierra y Agronomía), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Earth & Agricultural Sciences.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Gutenberg_944_Charles_Darwin'. Domain: Ciencias de la Tierra y Agronomía (Earth & Agricultural Sciences). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_944_Charles_Darwin.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Earth & Agricultural Sciences",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_12082_Bob_Webster",
+      "title": "Gutenberg_12082_Bob_Webster",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_12082_Bob_Webster.pdf",
+      "source_url": null,
+      "file_size_bytes": 66461,
+      "sha256": "049e485b7eeec447621a3f0d4f647aaa2ffb1ffdfba681f540d5c5ac3afd5302",
+      "total_pages": 26,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_12082_Bob_Webster dins de Earth & Agricultural Sciences.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Earth & Agricultural Sciences (Ciencias de la Tierra y Agronomía), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Earth & Agricultural Sciences.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Gutenberg_12082_Bob_Webster'. Domain: Ciencias de la Tierra y Agronomía (Earth & Agricultural Sciences). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_12082_Bob_Webster.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Earth & Agricultural Sciences",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_27842_C__K__Leith",
+      "title": "Gutenberg_27842_C__K__Leith",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_27842_C__K__Leith.pdf",
+      "source_url": null,
+      "file_size_bytes": 1140468,
+      "sha256": "27ad296ca80e9a3ef59c7b1bf0915d86873e8d6a6052e1c7604f877d02822b08",
+      "total_pages": 851,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_27842_C__K__Leith dins de Earth & Agricultural Sciences.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Earth & Agricultural Sciences (Ciencias de la Tierra y Agronomía), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Earth & Agricultural Sciences.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Gutenberg_27842_C__K__Leith'. Domain: Ciencias de la Tierra y Agronomía (Earth & Agricultural Sciences). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_27842_C__K__Leith.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Earth & Agricultural Sciences",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_38015_Georg_Agricola",
+      "title": "Gutenberg_38015_Georg_Agricola",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_38015_Georg_Agricola.pdf",
+      "source_url": null,
+      "file_size_bytes": 1976316,
+      "sha256": "d38157e688a3b088ec9455a78468e58f6bc33c0ff1a121cb1799959888575a35",
+      "total_pages": 1469,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_38015_Georg_Agricola dins de Earth & Agricultural Sciences.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Earth & Agricultural Sciences (Ciencias de la Tierra y Agronomía), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Earth & Agricultural Sciences.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Gutenberg_38015_Georg_Agricola'. Domain: Ciencias de la Tierra y Agronomía (Earth & Agricultural Sciences). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_38015_Georg_Agricola.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Earth & Agricultural Sciences",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_15491_Robert_Hooke",
+      "title": "Gutenberg_15491_Robert_Hooke",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_15491_Robert_Hooke.pdf",
+      "source_url": null,
+      "file_size_bytes": 1238487,
+      "sha256": "586fc48b63d474967f641f7dfc6ee8b071aae6193d74d10458c51c36c9cfc12e",
+      "total_pages": 640,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_15491_Robert_Hooke dins de Earth & Agricultural Sciences.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Earth & Agricultural Sciences (Ciencias de la Tierra y Agronomía), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Earth & Agricultural Sciences.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "geo-punk-v1",
+        "style_name": "Geo-Punk Collage (Ciencias de la Tierra)",
+        "prompt_template": "Underground Geo-Punk collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "specific_prompt": "Underground Geo-Punk collage artwork for 'Gutenberg_15491_Robert_Hooke'. Domain: Ciencias de la Tierra y Agronomía (Earth & Agricultural Sciences). Aesthetic: Punk fanzine and Dadaist cut-and-paste photomontage. Visual elements: Ripped monochrome geological cross-sections of Earth's mantle and fault lines, vintage seismograph needle engravings, erupting volcano silhouette collaged with radioactive neon magma spray paint (acid orange #ff5500 and electric cyan #00f0ff), xerox dot-matrix halftone grain, masking tape strips, torn newsprint textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_15491_Robert_Hooke.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Earth & Agricultural Sciences",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

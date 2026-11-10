@@ -1,0 +1,26 @@
+{
+  "rag_id": "diseno-web",
+  "name": "Diseno Web",
+  "description": "Col·lecció completa de llibres i manuals de Diseno Web (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794277363.177305,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 36110,
+  "total_documents": 19,
+  "total_library_files": 19,
+  "total_images_extracted": 34261,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "diseno-web",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

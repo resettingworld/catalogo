@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0.0",
+  "id": "gutenberg-chemistry-biochemistry",
+  "name": "Gutenberg: Chemistry & Biochemistry",
+  "description": "Química orgànica i inorgànica, anàlisi química, biofísica i processos moleculars.",
+  "category": {
+    "slug": "gutenberg-technical",
+    "name": "Project Gutenberg Technical Knowledge",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/668"
+  },
+  "domain": "Ciencias Exactas y Naturales",
+  "language": "es",
+  "portal_source": {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/668",
+    "scraped_at": "2026-11-10T00:27:48.877063+00:00"
+  },
+  "tags": [
+    "gutenberg-chemistry-biochemistry",
+    "gutenberg",
+    "technical",
+    "non-fiction",
+    "collage-punk",
+    "modular-rag"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "2665afd5-44bc-4a5f-9b4a-ff16b427b115",
+      "title": "Gutenberg_14474_Michael_Faraday",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_14474_Michael_Faraday.pdf",
+      "source_url": null,
+      "file_size_bytes": 472176,
+      "sha256": "001c06025fd789810e0e6ae42fdfeb131e13de172b6ecf65cfadcc9782ee4528",
+      "page_count": 164,
+      "key_topics": [
+        "Gutenberg: Chemistry & Biochemistry"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "c34c1b0b-139b-47c6-9653-11b5a523fb36",
+      "title": "Gutenberg_20848_William_Mcpherson_And_William_",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_20848_William_McPherson_and_William_.pdf",
+      "source_url": null,
+      "file_size_bytes": 830603,
+      "sha256": "4ca1b478416065225eb8736465c04968d28b0a93236be53ed266a3b039ff936c",
+      "page_count": 656,
+      "key_topics": [
+        "Gutenberg: Chemistry & Biochemistry"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "d7c315a6-db34-4a6d-bd99-626b1d57b814",
+      "title": "Gutenberg_21724_W__H__Simmons_And_H__A__Applet",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_21724_W__H__Simmons_and_H__A__Applet.pdf",
+      "source_url": null,
+      "file_size_bytes": 490193,
+      "sha256": "8721a9044db12a67bafdce50e0e40cf50d546f01f2eb86851b1b553dcf9d4bea",
+      "page_count": 376,
+      "key_topics": [
+        "Gutenberg: Chemistry & Biochemistry"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "aecbeb86-c5f4-47a8-a229-10287739b8a3",
+      "title": "Gutenberg_30775_Antoine_Laurent_Lavoisier",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_30775_Antoine_Laurent_Lavoisier.pdf",
+      "source_url": null,
+      "file_size_bytes": 744885,
+      "sha256": "209419f2e94985f5f17d50ca13733f292b6ab047c83eaba9e4faef08739f674e",
+      "page_count": 557,
+      "key_topics": [
+        "Gutenberg: Chemistry & Biochemistry"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "a976616f-1573-4987-9671-b0b8fef46ee7",
+      "title": "Gutenberg_75948_The_Book_Of_Wonders____Gives_P",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_75948_The_book_of_wonders____gives_p.pdf",
+      "source_url": null,
+      "file_size_bytes": 1769398,
+      "sha256": "92df188eb32980359f17258825933fbd035c3771dfe5dc0819147ea0cf219b43",
+      "page_count": 1213,
+      "key_topics": [
+        "Gutenberg: Chemistry & Biochemistry"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "gutenberg-chemistry-biochemistry",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 5,
+    "total_chunks": 2966,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 5,
+    "total_pages": 2966,
+    "total_size_mb": 4.11
+  },
+  "created_at": "2026-11-10T00:27:48.877136+00:00",
+  "updated_at": "2026-11-10T00:29:10.208265+00:00"
+}

@@ -1,0 +1,118 @@
+{
+  "schema_version": "1.0.0",
+  "id": "gutenberg-earth-agricultural-sciences",
+  "name": "Gutenberg: Earth & Agricultural Sciences",
+  "description": "Geologia, mineralogia, agronomia, edafologia i maneig de recursos naturals.",
+  "category": {
+    "slug": "gutenberg-technical",
+    "name": "Project Gutenberg Technical Knowledge",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/670"
+  },
+  "domain": "Ciencias de la Tierra y Agronomía",
+  "language": "es",
+  "portal_source": {
+    "name": "Project Gutenberg",
+    "url": "https://www.gutenberg.org/ebooks/bookshelf/670",
+    "scraped_at": "2026-11-10T00:29:27.970366+00:00"
+  },
+  "tags": [
+    "gutenberg-earth-agricultural-sciences",
+    "gutenberg",
+    "technical",
+    "non-fiction",
+    "collage-punk",
+    "modular-rag"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "51bffeb7-269e-4e62-b5ba-d9bc821fce62",
+      "title": "Gutenberg_12082_Bob_Webster",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_12082_Bob_Webster.pdf",
+      "source_url": null,
+      "file_size_bytes": 66461,
+      "sha256": "049e485b7eeec447621a3f0d4f647aaa2ffb1ffdfba681f540d5c5ac3afd5302",
+      "page_count": 26,
+      "key_topics": [
+        "Gutenberg: Earth & Agricultural Sciences"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "27350bce-ed11-4bc4-8b4d-e72532d085ca",
+      "title": "Gutenberg_15491_Robert_Hooke",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_15491_Robert_Hooke.pdf",
+      "source_url": null,
+      "file_size_bytes": 1238487,
+      "sha256": "586fc48b63d474967f641f7dfc6ee8b071aae6193d74d10458c51c36c9cfc12e",
+      "page_count": 640,
+      "key_topics": [
+        "Gutenberg: Earth & Agricultural Sciences"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "9fba44d3-bbb8-4ba3-afff-c69ea970cd53",
+      "title": "Gutenberg_27842_C__K__Leith",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_27842_C__K__Leith.pdf",
+      "source_url": null,
+      "file_size_bytes": 1140468,
+      "sha256": "27ad296ca80e9a3ef59c7b1bf0915d86873e8d6a6052e1c7604f877d02822b08",
+      "page_count": 851,
+      "key_topics": [
+        "Gutenberg: Earth & Agricultural Sciences"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "96fc114a-4296-4a77-b27c-939b1d7e293b",
+      "title": "Gutenberg_38015_Georg_Agricola",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_38015_Georg_Agricola.pdf",
+      "source_url": null,
+      "file_size_bytes": 1976316,
+      "sha256": "d38157e688a3b088ec9455a78468e58f6bc33c0ff1a121cb1799959888575a35",
+      "page_count": 1469,
+      "key_topics": [
+        "Gutenberg: Earth & Agricultural Sciences"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "330c0b08-df48-49b1-a588-12f6bd7b94a6",
+      "title": "Gutenberg_944_Charles_Darwin",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "gutenberg_944_Charles_Darwin.pdf",
+      "source_url": null,
+      "file_size_bytes": 1340436,
+      "sha256": "ebdf18519c7b4f0ea919cb84678510324fb48f8300d8d4144590deb384cf180b",
+      "page_count": 896,
+      "key_topics": [
+        "Gutenberg: Earth & Agricultural Sciences"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "gutenberg-earth-agricultural-sciences",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 5,
+    "total_chunks": 3882,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 5,
+    "total_pages": 3882,
+    "total_size_mb": 5.5
+  },
+  "created_at": "2026-11-10T00:29:27.970421+00:00",
+  "updated_at": "2026-11-10T00:31:17.734390+00:00"
+}

@@ -1,0 +1,194 @@
+{
+  "topic": "Gutenberg: Chemistry & Biochemistry",
+  "domain": "Ciencias Exactas y Naturales",
+  "source_portal": "Project Gutenberg",
+  "bookshelf_id": "668",
+  "canonical_style_id": "bio-punk-v1",
+  "canonical_style_name": "Bio-Punk Zine (Ciencias Naturales)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "bio-punk-v1",
+    "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+    "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free."
+  },
+  "total_books": 5,
+  "total_pages": 2966,
+  "total_size_mb": 4.11,
+  "books": [
+    {
+      "id": "gutenberg_75948_The_book_of_wonders____gives_p",
+      "title": "Gutenberg_75948_The_Book_Of_Wonders____Gives_P",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_75948_The_book_of_wonders____gives_p.pdf",
+      "source_url": null,
+      "file_size_bytes": 1769398,
+      "sha256": "92df188eb32980359f17258825933fbd035c3771dfe5dc0819147ea0cf219b43",
+      "total_pages": 1213,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_75948_The_Book_Of_Wonders____Gives_P dins de Chemistry & Biochemistry.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Chemistry & Biochemistry (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Chemistry & Biochemistry.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Gutenberg_75948_The_Book_Of_Wonders____Gives_P'. Domain: Ciencias Exactas y Naturales (Chemistry & Biochemistry). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_75948_The_book_of_wonders____gives_p.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Chemistry & Biochemistry",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_14474_Michael_Faraday",
+      "title": "Gutenberg_14474_Michael_Faraday",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_14474_Michael_Faraday.pdf",
+      "source_url": null,
+      "file_size_bytes": 472176,
+      "sha256": "001c06025fd789810e0e6ae42fdfeb131e13de172b6ecf65cfadcc9782ee4528",
+      "total_pages": 164,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_14474_Michael_Faraday dins de Chemistry & Biochemistry.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Chemistry & Biochemistry (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Chemistry & Biochemistry.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Gutenberg_14474_Michael_Faraday'. Domain: Ciencias Exactas y Naturales (Chemistry & Biochemistry). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_14474_Michael_Faraday.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Chemistry & Biochemistry",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_20848_William_McPherson_and_William_",
+      "title": "Gutenberg_20848_William_Mcpherson_And_William_",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_20848_William_McPherson_and_William_.pdf",
+      "source_url": null,
+      "file_size_bytes": 830603,
+      "sha256": "4ca1b478416065225eb8736465c04968d28b0a93236be53ed266a3b039ff936c",
+      "total_pages": 656,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_20848_William_Mcpherson_And_William_ dins de Chemistry & Biochemistry.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Chemistry & Biochemistry (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Chemistry & Biochemistry.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Gutenberg_20848_William_Mcpherson_And_William_'. Domain: Ciencias Exactas y Naturales (Chemistry & Biochemistry). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_20848_William_McPherson_and_William_.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Chemistry & Biochemistry",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_30775_Antoine_Laurent_Lavoisier",
+      "title": "Gutenberg_30775_Antoine_Laurent_Lavoisier",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_30775_Antoine_Laurent_Lavoisier.pdf",
+      "source_url": null,
+      "file_size_bytes": 744885,
+      "sha256": "209419f2e94985f5f17d50ca13733f292b6ab047c83eaba9e4faef08739f674e",
+      "total_pages": 557,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_30775_Antoine_Laurent_Lavoisier dins de Chemistry & Biochemistry.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Chemistry & Biochemistry (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Chemistry & Biochemistry.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Gutenberg_30775_Antoine_Laurent_Lavoisier'. Domain: Ciencias Exactas y Naturales (Chemistry & Biochemistry). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_30775_Antoine_Laurent_Lavoisier.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Chemistry & Biochemistry",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "gutenberg_21724_W__H__Simmons_and_H__A__Applet",
+      "title": "Gutenberg_21724_W__H__Simmons_And_H__A__Applet",
+      "author": "Desconegut / Institucional",
+      "filename": "gutenberg_21724_W__H__Simmons_and_H__A__Applet.pdf",
+      "source_url": null,
+      "file_size_bytes": 490193,
+      "sha256": "8721a9044db12a67bafdce50e0e40cf50d546f01f2eb86851b1b553dcf9d4bea",
+      "total_pages": 376,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Gutenberg_21724_W__H__Simmons_And_H__A__Applet dins de Chemistry & Biochemistry.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Chemistry & Biochemistry (Ciencias Exactas y Naturales), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ========================================================== L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Chemistry & Biochemistry.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "bio-punk-v1",
+        "style_name": "Bio-Punk Zine (Ciencias Naturales)",
+        "prompt_template": "Bio-Punk underground collage artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "specific_prompt": "Bio-Punk underground collage artwork for 'Gutenberg_21724_W__H__Simmons_And_H__A__Applet'. Domain: Ciencias Exactas y Naturales (Chemistry & Biochemistry). Aesthetic: Radical ecological zine and mutant botanical montage. Visual elements: High-contrast xeroxed 19th-century Ernst Haeckel biological illustrations and deep-sea radiolarians, cellular mitosis diagrams violently collaged with toxic acid green (#39ff14) and shocking pink spray paint, ripped kraft paper edges, halftone screentone patterns, grunge printmaking textures, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/gutenberg_21724_W__H__Simmons_and_H__A__Applet.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Chemistry & Biochemistry",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}
