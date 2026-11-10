@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0.0",
+  "id": "planetalibro-filosofia",
+  "name": "Filosofía y Razón Clásica",
+  "description": "Compendi de tractats filosòfics, ètica, epistemologia i diàlegs fonamentals.",
+  "category": {
+    "slug": "filosofia",
+    "name": "Filosofía y Razón Clásica",
+    "url": "https://planetalibro.net/tema/filosofia"
+  },
+  "domain": "Filosofía y Epistemología",
+  "language": "es",
+  "portal_source": {
+    "name": "PlanetaLibro",
+    "url": "https://planetalibro.net/tema/filosofia",
+    "scraped_at": "2026-11-10T00:40:08.140845+00:00"
+  },
+  "tags": [
+    "filosofia",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "f6d138dc-0d92-4b9c-be5b-b2a1072ec604",
+      "title": "Camus Albert La Peste",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "camus-albert-la-peste.pdf",
+      "source_url": null,
+      "file_size_bytes": 66908,
+      "sha256": "fb79a8fec74a44262ba83e76b1f4e1bdaaadffa1cb525fdb2c18414a4d2b9585",
+      "page_count": 2,
+      "key_topics": [
+        "Filosofía y Razón Clásica"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "ac3880a2-32cc-4a35-8f75-9a2079615608",
+      "title": "Dan Brown El Ultimo Secreto",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "dan-brown-el-ultimo-secreto.pdf",
+      "source_url": null,
+      "file_size_bytes": 134777,
+      "sha256": "ab382146fff6b4e3b0e1e2533984a32b80ac679430935858192f81c8da54a928",
+      "page_count": 23,
+      "key_topics": [
+        "Filosofía y Razón Clásica"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "planetalibro-filosofia",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 2,
+    "total_chunks": 25,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 2,
+    "total_pages": 25,
+    "total_size_mb": 0.19
+  },
+  "created_at": "2026-11-10T00:40:08.140869+00:00",
+  "updated_at": "2026-11-10T00:40:08.864148+00:00"
+}

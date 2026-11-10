@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.0.0",
+  "id": "planetalibro-historia",
+  "name": "Historia",
+  "description": "Compendio de obras fundamentales sobre historia",
+  "category": {
+    "slug": "historia",
+    "name": "Historia",
+    "url": "https://planetalibro.net/tema/historia"
+  },
+  "domain": "Conocimiento General",
+  "language": "es",
+  "portal_source": {
+    "name": "PlanetaLibro",
+    "url": "https://planetalibro.net/tema/historia",
+    "scraped_at": "2026-11-10T01:46:55.070170+00:00"
+  },
+  "tags": [
+    "historia",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "f252596f-7712-4fe8-8e2f-e2b5cf5de43a",
+      "title": "Anonimo Biblia Kolbrin",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "anonimo-biblia-kolbrin.pdf",
+      "source_url": null,
+      "file_size_bytes": 66127,
+      "sha256": "b2ab336f91e4dda8d75e5a3f484a2388afe3340b10593ef04d1b4672104732c7",
+      "page_count": 2,
+      "key_topics": [
+        "Historia"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "3e73a007-f685-4844-9197-dfa4f1086e65",
+      "title": "Anonimo El Libro De Enoc 2 Apocrifo Eslavo",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "anonimo-el-libro-de-enoc-2-apocrifo-eslavo.pdf",
+      "source_url": null,
+      "file_size_bytes": 79908,
+      "sha256": "c667e9b8fc03b6bd2479483877700b0b58f644720d52cd4f1d99a6a98f3c759f",
+      "page_count": 12,
+      "key_topics": [
+        "Historia"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "51c995e3-c96e-4037-8eaa-7b7f51abf7a2",
+      "title": "Boccaccio Giovanni El Decameron",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "boccaccio-giovanni-el-decameron.pdf",
+      "source_url": null,
+      "file_size_bytes": 64914,
+      "sha256": "490fcde55fa9dbf74c054558e4b9b9ed818f6aab5ec95b0572e7e2cfceb9e916",
+      "page_count": 1,
+      "key_topics": [
+        "Historia"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "0ebbb82a-2d06-4635-b4dd-5743e9e58d2e",
+      "title": "Caletti Alberto Mario La Barra De Los Tres Golpes",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "caletti-alberto-mario-la-barra-de-los-tres-golpes.pdf",
+      "source_url": null,
+      "file_size_bytes": 104088,
+      "sha256": "87d24b00fb6b12dce7e9c9f674c0972dae4ab432e1607c38b762822097ba7a6b",
+      "page_count": 3,
+      "key_topics": [
+        "Historia"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "35345d41-cc78-4c0a-b5a0-3a0b8d538c7d",
+      "title": "Homero La Iliada",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "homero-la-iliada.pdf",
+      "source_url": null,
+      "file_size_bytes": 66003,
+      "sha256": "5bf52051811e432680b23edc372ae987d85f024276761a25fb68e93a876d6ad8",
+      "page_count": 2,
+      "key_topics": [
+        "Historia"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "2fade825-74f0-44de-b1a5-ec47e4f28bc3",
+      "title": "Jesse Souza El Pobre De Derecha",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "jesse-souza-el-pobre-de-derecha.pdf",
+      "source_url": null,
+      "file_size_bytes": 120909,
+      "sha256": "f7cc76cbab18b8ed9a73d6cf103700538c7c5dc5fb14c34572921c857019c227",
+      "page_count": 15,
+      "key_topics": [
+        "Historia"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "793e819d-5731-4a74-8607-542a5f4130e4",
+      "title": "Leandro Fortuny Las 38 Cartas De John D Rockefeller A Su Hijo",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "leandro-fortuny-las-38-cartas-de-john-d-rockefeller-a-su-hijo.pdf",
+      "source_url": null,
+      "file_size_bytes": 129560,
+      "sha256": "fd924081a433e228f491438712c59b7a217ed5eee0a1668ebb41d60fbb9ea115",
+      "page_count": 24,
+      "key_topics": [
+        "Historia"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "fcc26914-0524-41cf-a9a4-24197245b142",
+      "title": "Robert Greene Las 48 Leyes Del Poder",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "robert-greene-las-48-leyes-del-poder.pdf",
+      "source_url": null,
+      "file_size_bytes": 76284,
+      "sha256": "0ac79f846d1b51c4838996d40a0538b9daa40bed2e3bb19bb14e0b55bba9c839",
+      "page_count": 10,
+      "key_topics": [
+        "Historia"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "529d85b5-24f0-4d2c-9dac-d7d4eb225a69",
+      "title": "Varios Autores El Libro De Enoc",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "varios-autores-el-libro-de-enoc.pdf",
+      "source_url": null,
+      "file_size_bytes": 68714,
+      "sha256": "5e7b2b77d2169194d81cc8f3eb3d14072a5063da01385c3365f77d8045ccbc08",
+      "page_count": 4,
+      "key_topics": [
+        "Historia"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "planetalibro-historia",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 9,
+    "total_chunks": 73,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 9,
+    "total_pages": 73,
+    "total_size_mb": 0.74
+  },
+  "created_at": "2026-11-10T01:46:55.070193+00:00",
+  "updated_at": "2026-11-10T01:46:57.099916+00:00"
+}

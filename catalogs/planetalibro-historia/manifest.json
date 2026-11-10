@@ -1,0 +1,25 @@
+{
+  "rag_id": "planetalibro-historia",
+  "name": "Historia",
+  "description": "Compendio de obras fundamentales sobre historia",
+  "version": "1.0.0",
+  "author": "SmartLocal / PlanetaLibro",
+  "created_at": 1794275217.100152,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 73,
+  "total_documents": 9,
+  "total_library_files": 9,
+  "total_images_extracted": 0,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "historia",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}

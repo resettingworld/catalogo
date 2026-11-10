@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.0.0",
+  "id": "planetalibro-politica",
+  "name": "Doctrina Política y Estado",
+  "description": "Tractats clàssics sobre governança, l'Estat, la llei i la societat civil.",
+  "category": {
+    "slug": "politica",
+    "name": "Doctrina Política y Estado",
+    "url": "https://planetalibro.net/tema/politica"
+  },
+  "domain": "Ciencias Políticas",
+  "language": "es",
+  "portal_source": {
+    "name": "PlanetaLibro",
+    "url": "https://planetalibro.net/tema/politica",
+    "scraped_at": "2026-11-10T01:45:12.190208+00:00"
+  },
+  "tags": [
+    "politica",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ],
+  "subtopics_covered": [],
+  "cover_image": null,
+  "books": [
+    {
+      "id": "beb33eeb-755d-4cfa-bdef-93e4095e82f1",
+      "title": "Alfred Marshall Principios De Economia",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "alfred-marshall-principios-de-economia.pdf",
+      "source_url": null,
+      "file_size_bytes": 140589,
+      "sha256": "8fc9ce77aca9317685fd3daf514e9db5d66b456d4e9a7fc4c7c6d3f28f2e8821",
+      "page_count": 29,
+      "key_topics": [
+        "Doctrina Política y Estado"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "b235a3f5-f5eb-4640-88fc-cdb4596a4470",
+      "title": "Axel Kaiser Parasitos Mentales",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "axel-kaiser-parasitos-mentales.pdf",
+      "source_url": null,
+      "file_size_bytes": 91545,
+      "sha256": "593d1840432856299fc7ca92a46c8a564fd96e8f2457d098952cc856b2d8a9d4",
+      "page_count": 20,
+      "key_topics": [
+        "Doctrina Política y Estado"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "1aa3acc8-5913-45c5-a21c-d1b9536ef041",
+      "title": "Jesse Souza El Pobre De Derecha",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "jesse-souza-el-pobre-de-derecha.pdf",
+      "source_url": null,
+      "file_size_bytes": 120909,
+      "sha256": "1e7fe8ca9ee8b7da6c00a09c79789495a019f723b4abe38da970468c651698f4",
+      "page_count": 15,
+      "key_topics": [
+        "Doctrina Política y Estado"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "54fe5fd0-ad07-4c6c-b999-2eae7dab04e8",
+      "title": "Ken Follett Nunca",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "ken-follett-nunca.pdf",
+      "source_url": null,
+      "file_size_bytes": 85162,
+      "sha256": "a9418d91ff23dd18b7e8a39bbc7dab15b0370878abe2a547187e51ec02800819",
+      "page_count": 18,
+      "key_topics": [
+        "Doctrina Política y Estado"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "0c82071c-73f5-46c4-ad91-c12a78115b99",
+      "title": "Orwell George 1984",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "orwell-george-1984.pdf",
+      "source_url": null,
+      "file_size_bytes": 66670,
+      "sha256": "4eee9e0a1e8cf8a0f26ff0c563e6224b248d9c0a31237c195d4c1bb23d75acfc",
+      "page_count": 2,
+      "key_topics": [
+        "Doctrina Política y Estado"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "aa9768aa-7b03-460c-9e68-28a93b6bd867",
+      "title": "Robert Greene Las 48 Leyes Del Poder",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "robert-greene-las-48-leyes-del-poder.pdf",
+      "source_url": null,
+      "file_size_bytes": 76284,
+      "sha256": "4d65a440d1217668c9ed88e29848da3a949eddf9a986fcfe5ef7bd7d216d0c79",
+      "page_count": 10,
+      "key_topics": [
+        "Doctrina Política y Estado"
+      ],
+      "images_extracted": []
+    },
+    {
+      "id": "8d4ae6f4-66ce-449a-80ca-6a985da82cb0",
+      "title": "Victoria De Masi Karina",
+      "author": "InfoLibros / Dominio Público",
+      "filename": "victoria-de-masi-karina.pdf",
+      "source_url": null,
+      "file_size_bytes": 79350,
+      "sha256": "ef05cd1368a181527ccca3b5e9804b443384b4306c73209aff1b61ee4ca4ebd6",
+      "page_count": 11,
+      "key_topics": [
+        "Doctrina Política y Estado"
+      ],
+      "images_extracted": []
+    }
+  ],
+  "rag_spec": {
+    "rag_id": "planetalibro-politica",
+    "embedding_model": "embeddinggemma-2",
+    "generator_model": "gemma-4-e4b",
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "index_db": "index.db",
+    "total_documents": 7,
+    "total_chunks": 105,
+    "total_images_extracted": 0
+  },
+  "stats": {
+    "total_books": 7,
+    "total_pages": 105,
+    "total_size_mb": 0.63
+  },
+  "created_at": "2026-11-10T01:45:12.190231+00:00",
+  "updated_at": "2026-11-10T01:45:15.059990+00:00"
+}

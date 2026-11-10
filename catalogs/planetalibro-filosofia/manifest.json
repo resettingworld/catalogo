@@ -1,0 +1,25 @@
+{
+  "rag_id": "planetalibro-filosofia",
+  "name": "Filosofía y Razón Clásica",
+  "description": "Compendi de tractats filosòfics, ètica, epistemologia i diàlegs fonamentals.",
+  "version": "1.0.0",
+  "author": "SmartLocal / PlanetaLibro",
+  "created_at": 1794271208.864393,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 25,
+  "total_documents": 2,
+  "total_library_files": 2,
+  "total_images_extracted": 0,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "filosofia",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}

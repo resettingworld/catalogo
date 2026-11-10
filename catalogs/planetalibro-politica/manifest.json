@@ -1,0 +1,25 @@
+{
+  "rag_id": "planetalibro-politica",
+  "name": "Doctrina Política y Estado",
+  "description": "Tractats clàssics sobre governança, l'Estat, la llei i la societat civil.",
+  "version": "1.0.0",
+  "author": "SmartLocal / PlanetaLibro",
+  "created_at": 1794275115.0602372,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 105,
+  "total_documents": 7,
+  "total_library_files": 7,
+  "total_images_extracted": 0,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "politica",
+    "planetalibro",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}
