@@ -1,0 +1,26 @@
+{
+  "rag_id": "desarrollo-web",
+  "name": "Desarrollo Web",
+  "description": "Col·lecció completa de llibres i manuals de Desarrollo Web (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794272292.1322508,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 743,
+  "total_documents": 7,
+  "total_library_files": 7,
+  "total_images_extracted": 189,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "desarrollo-web",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}

@@ -1,0 +1,718 @@
+{
+  "topic": "Diseno Grafico",
+  "domain": "Tecnología e Informática",
+  "canonical_style_id": "cyber-mechanic-punk-v1",
+  "canonical_style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+  "banner_image": {
+    "rel_path": "images/banner.jpg",
+    "style_id": "cyber-mechanic-punk-v1",
+    "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+    "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free."
+  },
+  "total_books": 20,
+  "total_pages": 2020,
+  "total_size_mb": 62.74,
+  "books": [
+    {
+      "id": "El-Dise-o-Gr-fico-M-nica-de-la-Barrera-Medina",
+      "title": "El Dise O Gr Fico M Nica De La Barrera Medina",
+      "author": "Desconegut / Institucional",
+      "filename": "El-Dise-o-Gr-fico-M-nica-de-la-Barrera-Medina.pdf",
+      "source_url": null,
+      "file_size_bytes": 9214073,
+      "sha256": "d96fb8a98fedcbc2885334cd3040ca327fcb911cc29140779ab08ff87dff33de",
+      "total_pages": 326,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de El Dise O Gr Fico M Nica De La Barrera Medina dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Las transformaciones tecnológicas L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'El Dise O Gr Fico M Nica De La Barrera Medina'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/El-Dise-o-Gr-fico-M-nica-de-la-Barrera-Medina.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "conceptos-basicos-de-diseno-grafico-jordi-alberich-david-gomez-fontanills-alba-ferrer-franquesa-12575",
+      "title": "Conceptos básicos de diseño gráfico",
+      "author": "Jordi Alberich, David Gómez Fontanills, Alba Ferrer Franquesa",
+      "filename": "conceptos-basicos-de-diseno-grafico-jordi-alberich-david-gomez-fontanills-alba-ferrer-franquesa-12575.pdf",
+      "source_url": null,
+      "file_size_bytes": 5428122,
+      "sha256": "c4f6f66171ca9542b62b4b6d94b6e52312c787bcf20f9524b1b2843a2c863a30",
+      "total_pages": 99,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Conceptos básicos de diseño gráfico dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Haciendo CLICK AQUÍ puedes acceder a la colección L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Conceptos básicos de diseño gráfico'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/conceptos-basicos-de-diseno-grafico-jordi-alberich-david-gomez-fontanills-alba-ferrer-franquesa-12575.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "percepcion-visual-jordi-alberich-david-gomez-fontanills-alba-ferrer-franquesa-12576",
+      "title": "Percepción Visual",
+      "author": "Jordi Alberich, David Gómez Fontanills, Alba Ferrer Franquesa",
+      "filename": "percepcion-visual-jordi-alberich-david-gomez-fontanills-alba-ferrer-franquesa-12576.pdf",
+      "source_url": null,
+      "file_size_bytes": 1879583,
+      "sha256": "2724a0aa297355ef623222d61c3aa41585ce90e3e921bf751c13eee644b01cb5",
+      "total_pages": 67,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Percepción Visual dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Los textos e imágenes publicados en esta obra están sujetos –excepto que se indique lo contrario– a una licencia de L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Percepción Visual'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/percepcion-visual-jordi-alberich-david-gomez-fontanills-alba-ferrer-franquesa-12576.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "graficos-digitales-david-gomez-fontanills-alba-ferrer-franquesa-12577",
+      "title": "Gráficos digitales",
+      "author": "David Gómez Fontanills, Alba Ferrer Franquesa",
+      "filename": "graficos-digitales-david-gomez-fontanills-alba-ferrer-franquesa-12577.pdf",
+      "source_url": null,
+      "file_size_bytes": 2111391,
+      "sha256": "b2909b14fd5d6ad7328589ff4ebc5e5f10589f0ad783fda1aac9cd1909593d80",
+      "total_pages": 71,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Gráficos digitales dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: DAVID GÓMEZ FONTANILLS, ALBA FERRER L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Gráficos digitales'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/graficos-digitales-david-gomez-fontanills-alba-ferrer-franquesa-12577.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "4_-El-dise-o-gr-fico-autor-Manuel-V-lez-y-Adela-Gonz-lez-Pastor",
+      "title": "El diseño gráfico",
+      "author": "Vélez / González",
+      "filename": "4.-El-dise-o-gr-fico-autor-Manuel-V-lez-y-Adela-Gonz-lez-Pastor.pdf",
+      "source_url": null,
+      "file_size_bytes": 996449,
+      "sha256": "580af96ab7b72afbdabc83deb8fa6fc8bca8057f23b5c8009af973c975192961",
+      "total_pages": 53,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de El diseño gráfico dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Última modificación: 21/12/2001 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'El diseño gráfico'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/4_-El-dise-o-gr-fico-autor-Manuel-V-lez-y-Adela-Gonz-lez-Pastor.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "fundamentos-de-diseno-grafico-ecotec-12578",
+      "title": "Fundamentos de Diseño Gráfico",
+      "author": "Ecotec",
+      "filename": "fundamentos-de-diseno-grafico-ecotec-12578.pdf",
+      "source_url": null,
+      "file_size_bytes": 400727,
+      "sha256": "401356c0c2eb2aff3ea288b36a4c67403b55189fdfd7eff22e20cc04a7ace0d3",
+      "total_pages": 42,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Fundamentos de Diseño Gráfico dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Las diversas tecnologías y métodos utilizados antiguamente para la manipulación y L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Fundamentos de Diseño Gráfico'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/fundamentos-de-diseno-grafico-ecotec-12578.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "diseno-grafico-basico-escuela-andaluza-de-salud-publica-12579",
+      "title": "Diseño Gráfico Básico",
+      "author": "Escuela Andaluza de Salud Pública",
+      "filename": "diseno-grafico-basico-escuela-andaluza-de-salud-publica-12579.pdf",
+      "source_url": null,
+      "file_size_bytes": 462870,
+      "sha256": "53722a60006bb6b9f2d61fac583c44a123e7b8be21412f372c2bafed26b9493f",
+      "total_pages": 18,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Diseño Gráfico Básico dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ESCUELA ANDALUZA DE SALUD PÚBLICA L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Diseño Gráfico Básico'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/diseno-grafico-basico-escuela-andaluza-de-salud-publica-12579.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "Manual-introducci-n-al-dise-o-gr-fico-SDQ-Training-Center",
+      "title": "Manual Introducci N Al Dise O Gr Fico Sdq Training Center",
+      "author": "Desconegut / Institucional",
+      "filename": "Manual-introducci-n-al-dise-o-gr-fico-SDQ-Training-Center.pdf",
+      "source_url": null,
+      "file_size_bytes": 2890279,
+      "sha256": "f016c55ac428c174d4d79b447d4c36df34eea7ff1381e4d84e9b61aeffd1e84e",
+      "total_pages": 37,
+      "short_description": "Tesi Acadèmica d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual Introducci N Al Dise O Gr Fico Sdq Training Center dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tesi acadèmica centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Diseño, composición y portada: Joel Combes L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "ley de tercios"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tesi Acadèmica",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Manual Introducci N Al Dise O Gr Fico Sdq Training Center'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Manual-introducci-n-al-dise-o-gr-fico-SDQ-Training-Center.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tesi Acadèmica",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "3_-Manual-b-sico-de-dise-o-gr-fico-para-emprendedoras-autor-Emprendedoras-de-la-Mancomunidad-THAM",
+      "title": "3. Manual B Sico De Dise O Gr Fico Para Emprendedoras Autor Emprendedoras De La Mancomunidad Tham",
+      "author": "Desconegut / Institucional",
+      "filename": "3.-Manual-b-sico-de-dise-o-gr-fico-para-emprendedoras-autor-Emprendedoras-de-la-Mancomunidad-THAM.pdf",
+      "source_url": null,
+      "file_size_bytes": 1007407,
+      "sha256": "dd7be820f594483b35be67ade5c9affee844817711077e9f5b913c9f9025bfe6",
+      "total_pages": 28,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de 3. Manual B Sico De Dise O Gr Fico Para Emprendedoras Autor Emprendedoras De La Mancomunidad Tham dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Cofinanciación del 50% por parte del FSE L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for '3. Manual B Sico De Dise O Gr Fico Para Emprendedoras Autor Emprendedoras De La Mancomunidad Tham'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/3_-Manual-b-sico-de-dise-o-gr-fico-para-emprendedoras-autor-Emprendedoras-de-la-Mancomunidad-THAM.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "Proyecto-II-Dise-o-Editorial-Isabel-Garc-a-Fern-ndez",
+      "title": "Proyecto II: diseño editorial, septiembre 2017",
+      "author": "Isabel García Fernández",
+      "filename": "Proyecto-II-Dise-o-Editorial-Isabel-Garc-a-Fern-ndez.pdf",
+      "source_url": null,
+      "file_size_bytes": 7221637,
+      "sha256": "5c6974b26a2c51306190575e4c9ccc33e53e21d06a8bd86ceaaf899509e0857f",
+      "total_pages": 146,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Proyecto II: diseño editorial, septiembre 2017 dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: ÍNDICE ............................................................................................................................................. 2 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Proyecto II: diseño editorial, septiembre 2017'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Proyecto-II-Dise-o-Editorial-Isabel-Garc-a-Fern-ndez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "Dise-o-Editorial-Laura-Silvia-I-igo-Dehud-Antonio-Makhlouf-Akl",
+      "title": "Dise O Editorial Laura Silvia I Igo Dehud Antonio Makhlouf Akl",
+      "author": "Desconegut / Institucional",
+      "filename": "Dise-o-Editorial-Laura-Silvia-I-igo-Dehud-Antonio-Makhlouf-Akl.pdf",
+      "source_url": null,
+      "file_size_bytes": 15812676,
+      "sha256": "c1bfa6a9178e3fe031040eaa9e3f36f43e8636af6cec6a5c28c8d7dfdabad897",
+      "total_pages": 128,
+      "short_description": "Manual Docent i Tècnic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Dise O Editorial Laura Silvia I Igo Dehud Antonio Makhlouf Akl dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Diseño Editorial. Manual de conceptos básicos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "ISBN   978-607-8332-47-2",
+        "ISBN 978-607-8332-47-2"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Dise O Editorial Laura Silvia I Igo Dehud Antonio Makhlouf Akl'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/Dise-o-Editorial-Laura-Silvia-I-igo-Dehud-Antonio-Makhlouf-Akl.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Manual Docent i Tècnic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "ayuda-de-adobe-illustrator-cc-adobe-help-center-12580",
+      "title": "Ayuda de Adobe Illustrator CC",
+      "author": "Adobe Help Center",
+      "filename": "ayuda-de-adobe-illustrator-cc-adobe-help-center-12580.pdf",
+      "source_url": null,
+      "file_size_bytes": 8482594,
+      "sha256": "601192b37a081884940d1a97f26ba9365600e0c837d54a028ffc9868baadcfbd",
+      "total_pages": 708,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Ayuda de Adobe Illustrator CC dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Ayuda de Adobe® Illustrator® CC L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Ayuda de Adobe Illustrator CC'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/ayuda-de-adobe-illustrator-cc-adobe-help-center-12580.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-photoshop-basico-professionalscat-12581",
+      "title": "Manual Photoshop básico",
+      "author": "ProfessionalsCat",
+      "filename": "manual-photoshop-basico-professionalscat-12581.pdf",
+      "source_url": null,
+      "file_size_bytes": 569526,
+      "sha256": "5a4d7ce57a5598870c026b79ef5e768a0c8f4148833548b1a37ba92f059ef2a6",
+      "total_pages": 38,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual Photoshop básico dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Photoshop es un programa de diseño gráfico, que quizá es el programa más completo que existe L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Manual Photoshop básico'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-photoshop-basico-professionalscat-12581.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "9_-Curso-de-Introducci-n-a-Photoshop-autor-Pablo-Garc-a-S-nchez",
+      "title": "Curso de Photosho",
+      "author": "Pablo García Sánchez",
+      "filename": "9.-Curso-de-Introducci-n-a-Photoshop-autor-Pablo-Garc-a-S-nchez.pdf",
+      "source_url": null,
+      "file_size_bytes": 1979119,
+      "sha256": "aaa0016fe0caaa134f1e82706ffd206a4858fc3a37f61f12fd06ab9d42e3bc78",
+      "total_pages": 49,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Curso de Photosho dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Curso de Introducción a Photoshop L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Curso de Photosho'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/9_-Curso-de-Introducci-n-a-Photoshop-autor-Pablo-Garc-a-S-nchez.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-de-photoshop-alcaldia-de-leticia-12582",
+      "title": "Manual de Photoshop",
+      "author": "Alcaldía de Leticia",
+      "filename": "manual-de-photoshop-alcaldia-de-leticia-12582.pdf",
+      "source_url": null,
+      "file_size_bytes": 424084,
+      "sha256": "b5203b1dc6bf5a082e7a483454650175a53459ec5fcb6a138a0dcb197ca887f9",
+      "total_pages": 31,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual de Photoshop dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Todas las herramientas tienen opciones configurables para poder ponerlas a nuestra L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Manual de Photoshop'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-de-photoshop-alcaldia-de-leticia-12582.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "12_-Dise-o-Gr-fico_-Adobe-Illustrator-autor-Universidad-Monte-vila",
+      "title": "manual illustrator intro",
+      "author": "Desconegut / Institucional",
+      "filename": "12.-Dise-o-Gr-fico.-Adobe-Illustrator-autor-Universidad-Monte-vila.pdf",
+      "source_url": null,
+      "file_size_bytes": 1991655,
+      "sha256": "3d9d9fd1638e848e26d139869b037ac5411c4dd776356bbe36c5b333bf89ba54",
+      "total_pages": 45,
+      "short_description": "Manual Docent i Tècnic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de manual illustrator intro dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Se reﬁere al uso de fórmulas geométricas para representar imágenes por software L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'manual illustrator intro'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/12_-Dise-o-Gr-fico_-Adobe-Illustrator-autor-Universidad-Monte-vila.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Manual Docent i Tècnic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "manual-illustrator-cs5-uneweb-12583",
+      "title": "Manual Illustrator CS5",
+      "author": "Uneweb",
+      "filename": "manual-illustrator-cs5-uneweb-12583.pdf",
+      "source_url": null,
+      "file_size_bytes": 774367,
+      "sha256": "47fde41cf85b5b6a62cede97cc139c349a98416d4fd79dd070bd2b3e72307c73",
+      "total_pages": 30,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Manual Illustrator CS5 dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Illustrator CS5 es una de las herramientas vectoriales más usadas en el mundo que lleva casi dos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Manual Illustrator CS5'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/manual-illustrator-cs5-uneweb-12583.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "introduccion-a-indesign-guia-basica-francesc-morera-vidal-12584",
+      "title": "Introducción a InDesign: Guía básica",
+      "author": "Francesc Morera Vidal",
+      "filename": "introduccion-a-indesign-guia-basica-francesc-morera-vidal-12584.pdf",
+      "source_url": null,
+      "file_size_bytes": 238253,
+      "sha256": "5c51c8f2497703e1db16064053a5616e857abdbfb2fff2adc19cacc3ee34f56e",
+      "total_pages": 12,
+      "short_description": "Manual Docent i Tècnic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Introducción a InDesign: Guía básica dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un manual docent i tècnic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Diseño Gráfico / Grado en Multimedia L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Manual Docent i Tècnic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Introducción a InDesign: Guía básica'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/introduccion-a-indesign-guia-basica-francesc-morera-vidal-12584.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Manual Docent i Tècnic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "guia-de-uso-de-la-herramienta-de-diseno-grafico-canva-salome-romero-perez-12585",
+      "title": "Guía de uso de la herramienta de Diseño Gráfico Canva",
+      "author": "Salomé Romero Pérez",
+      "filename": "guia-de-uso-de-la-herramienta-de-diseno-grafico-canva-salome-romero-perez-12585.pdf",
+      "source_url": null,
+      "file_size_bytes": 1276316,
+      "sha256": "fc1afd3b2ae6a9a21213aac9a0acf1af01f09c9d917ada7591aa3de26e077a24",
+      "total_pages": 35,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Guía de uso de la herramienta de Diseño Gráfico Canva dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: Para contestar a estas preguntas debemos L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Guía de uso de la herramienta de Diseño Gráfico Canva'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/guia-de-uso-de-la-herramienta-de-diseno-grafico-canva-salome-romero-perez-12585.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    },
+    {
+      "id": "tutorial-canva-jose-aurelio-pina-romero-12586",
+      "title": "Tutorial Canva",
+      "author": "José Aurelio Pina Romero",
+      "filename": "tutorial-canva-jose-aurelio-pina-romero-12586.pdf",
+      "source_url": null,
+      "file_size_bytes": 2625101,
+      "sha256": "a4ba4c753b4d53cee608b871ffb85a5a410a33885ea62b1aacfc8c019c8f03be",
+      "total_pages": 57,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Internacional / Àmbit Global en Llengua Espanyola que aprofundeix en els fonaments i desenvolupament de Tutorial Canva dins de Diseno Grafico.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Diseno Grafico (Tecnología e Informática), amb especial incidència en el marc acadèmic i professional de Internacional / Àmbit Global en Llengua Espanyola. El document aborda de manera sistemàtica els conceptes teòrics clau: José Aurelio Pina (@pina_agost) L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Internacional / Àmbit Global en Llengua Espanyola",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Diseno Grafico.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "cyber-mechanic-punk-v1",
+        "style_name": "Cyber-Mechanic Punk (Ciencias Aplicadas)",
+        "prompt_template": "Industrial Cyber-Mechanic Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "specific_prompt": "Industrial Cyber-Mechanic Punk collage for 'Tutorial Canva'. Domain: Tecnología e Informática (Diseno Grafico). Aesthetic: Post-industrial DIY zine and cybernetic scrap-metal montage. Visual elements: Ripped blueprint schematics, high-contrast mechanical brass cogs and clockwork gears, refractive glass prism splitting laser beams, bionic hand cutouts, fluorescent hazard yellow and hot magenta spray stencils, photocopier streaks, electrical duct tape, raw tactile DIY printmaking, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/tutorial-canva-jose-aurelio-pina-romero-12586.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Diseno Grafico",
+        "Tractat i Manual Monogràfic",
+        "Internacional / Àmbit Global en Llengua Espanyola"
+      ]
+    }
+  ]
+}

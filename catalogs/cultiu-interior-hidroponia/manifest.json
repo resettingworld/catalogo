@@ -1,0 +1,26 @@
+{
+  "rag_id": "cultiu-interior-hidroponia",
+  "name": "Cultiu en Interior i Hidroponia",
+  "description": "Tractats de cultiu hidropònic (NFT, arrel flotant, substrat inert), formulació de solucions nutritives i entorns controlats d'interior.",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794277580.8822389,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 1789,
+  "total_documents": 16,
+  "total_library_files": 16,
+  "total_images_extracted": 860,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "hidroponia",
+    "agricultura",
+    "cultivo",
+    "plagas",
+    "collage-punk",
+    "smartlocal"
+  ]
+}

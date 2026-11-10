@@ -1,0 +1,26 @@
+{
+  "rag_id": "diseno-grafico",
+  "name": "Diseno Grafico",
+  "description": "Col·lecció completa de llibres i manuals de Diseno Grafico (Estil Collage Punk DIY).",
+  "version": "1.0.0",
+  "author": "SmartLocal / InfoLibros",
+  "created_at": 1794274412.1050692,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 3278,
+  "total_documents": 20,
+  "total_library_files": 20,
+  "total_images_extracted": 1287,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "diseno-grafico",
+    "informatica",
+    "collage-punk",
+    "diy-zine",
+    "modular-rag",
+    "smartlocal"
+  ]
+}
