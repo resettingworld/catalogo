@@ -1,0 +1,151 @@
+{
+  "topic": "Historia y Crónica Universal",
+  "domain": "Historia y Civilización",
+  "source_portal": "textos.info",
+  "tag": "historia",
+  "canonical_style_id": "collage-punk-v1",
+  "style_name": "Collage Punk & Underground DIY Zine",
+  "banner_cover": "images/banner.png",
+  "books": [
+    {
+      "id": "abate-turquet-cinco-anos-de-destierro-en-la-isla-de-cabrera",
+      "title": "Cinco Años de Destierro en la Isla de Cabrera",
+      "author": "Abate Turquet",
+      "filename": "abate-turquet-cinco-anos-de-destierro-en-la-isla-de-cabrera.pdf",
+      "source_url": null,
+      "file_size_bytes": 542666,
+      "sha256": "3ece25e876bd092042d29e7488bc73174c644abd2756c25ee57848e4bf8b3f2b",
+      "total_pages": 95,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Cinco Años de Destierro en la Isla de Cabrera dins de Historia y Crónica Universal.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Historia y Crónica Universal (Historia y Civilización), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Cinco Años de Destierro en la Isla L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Historia y Crónica Universal.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Cinco Años de Destierro en la Isla de Cabrera'. Domain: Historia y Civilización (Historia y Crónica Universal). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/abate-turquet-cinco-anos-de-destierro-en-la-isla-de-cabrera.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Historia y Crónica Universal",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "anonimo-comentarios-de-la-guerra-de-africa",
+      "title": "Comentarios de la Guerra de África",
+      "author": "Anónimo",
+      "filename": "anonimo-comentarios-de-la-guerra-de-africa.pdf",
+      "source_url": null,
+      "file_size_bytes": 92184,
+      "sha256": "8fe1ed7aed66a6753a8585c01b7f35500b3226a0bad53966ef481d65eba204c6",
+      "total_pages": 45,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Comentarios de la Guerra de África dins de Historia y Crónica Universal.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Historia y Crónica Universal (Historia y Civilización), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Comentarios de la Guerra de África L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Historia y Crónica Universal.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Comentarios de la Guerra de África'. Domain: Historia y Civilización (Historia y Crónica Universal). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/anonimo-comentarios-de-la-guerra-de-africa.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Historia y Crónica Universal",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "anonimo-comentarios-de-la-guerra-de-espana",
+      "title": "Comentarios de la Guerra de España",
+      "author": "Anónimo",
+      "filename": "anonimo-comentarios-de-la-guerra-de-espana.pdf",
+      "source_url": null,
+      "file_size_bytes": 45596,
+      "sha256": "63f3b91d020a2fbd22304530a369f3cf0b6e71212c6391076ed2b957de55526a",
+      "total_pages": 23,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Comentarios de la Guerra de España dins de Historia y Crónica Universal.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Historia y Crónica Universal (Historia y Civilización), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Título: Comentarios de la Guerra de España L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Educació Secundària / Batxillerat",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de educació secundària / batxillerat, docents i investigadors en l'àmbit de Historia y Crónica Universal.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Comentarios de la Guerra de España'. Domain: Historia y Civilización (Historia y Crónica Universal). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/anonimo-comentarios-de-la-guerra-de-espana.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Historia y Crónica Universal",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "titus-six-cokaine",
+      "title": "Cokaine",
+      "author": "Titus Six",
+      "filename": "titus-six-cokaine.pdf",
+      "source_url": null,
+      "file_size_bytes": 755571,
+      "sha256": "4ffec6ccf70e28d44834a289a9e4e2a6c6596319892117440c5bd02205859ca5",
+      "total_pages": 245,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic que aprofundeix en els fonaments i desenvolupament de Cokaine dins de Historia y Crónica Universal.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Historia y Crónica Universal (Historia y Civilización), amb especial incidència en el marc acadèmic i professional de Mèxic. El document aborda de manera sistemàtica els conceptes teòrics clau: Etiquetas: Novela, Humor, Erótico, Filosofía, História, Comedia L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Historia y Crónica Universal.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Cokaine'. Domain: Historia y Civilización (Historia y Crónica Universal). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/titus-six-cokaine.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Historia y Crónica Universal",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    }
+  ]
+}

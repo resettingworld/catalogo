@@ -1,0 +1,25 @@
+{
+  "rag_id": "textos-info-historia",
+  "name": "Historia y Crónica Universal",
+  "description": "Cròniques històriques, fonts primàries i anàlisi de transformacions civilitzatòries.",
+  "version": "1.0.0",
+  "author": "SmartLocal / textos.info",
+  "created_at": 1794271454.519941,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 741,
+  "total_documents": 4,
+  "total_library_files": 4,
+  "total_images_extracted": 333,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "historia",
+    "textos-info",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}

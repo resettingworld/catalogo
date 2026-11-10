@@ -1,0 +1,81 @@
+{
+  "topic": "Filosofía Clásica y Moderna",
+  "domain": "Filosofía y Pensamiento Crítico",
+  "source_portal": "textos.info",
+  "tag": "filosofia",
+  "canonical_style_id": "collage-punk-v1",
+  "style_name": "Collage Punk & Underground DIY Zine",
+  "banner_cover": "images/banner.png",
+  "books": [
+    {
+      "id": "aristoteles-acerca-del-alma",
+      "title": "Acerca del Alma",
+      "author": "Aristóteles",
+      "filename": "aristoteles-acerca-del-alma.pdf",
+      "source_url": null,
+      "file_size_bytes": 252054,
+      "sha256": "eb8199b9e16a98d3a39fb8d573643c07613458a945304c6db360dd287e506ac1",
+      "total_pages": 100,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Acerca del Alma dins de Filosofía Clásica y Moderna.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Filosofía Clásica y Moderna (Filosofía y Pensamiento Crítico), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Fecha de creación: 7 de enero de 2019 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Filosofía Clásica y Moderna.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Acerca del Alma'. Domain: Filosofía y Pensamiento Crítico (Filosofía Clásica y Moderna). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/aristoteles-acerca-del-alma.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Filosofía Clásica y Moderna",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "luis-de-los-reyes-mihalic-valdivia-alli-donde-se-reunen-las-almas",
+      "title": "Allí donde se reúnen las Almas",
+      "author": "Luis de los Reyes Mihalic Valdivia",
+      "filename": "luis-de-los-reyes-mihalic-valdivia-alli-donde-se-reunen-las-almas.pdf",
+      "source_url": null,
+      "file_size_bytes": 110745,
+      "sha256": "cf0c6140ed915a8ca84e27a60a3fe00653d5e7bb2787210ae6f5cae3894fea0c",
+      "total_pages": 8,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Allí donde se reúnen las Almas dins de Filosofía Clásica y Moderna.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Filosofía Clásica y Moderna (Filosofía y Pensamiento Crítico), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Luis de los Reyes Mihalic Valdivia L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Filosofía Clásica y Moderna.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "collage-punk-v1",
+        "style_name": "Collage Punk & Underground DIY Zine",
+        "prompt_template": "Underground Collage Punk & DIY Zine artwork for '{title}'. Domain: {domain} ({topic}). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "specific_prompt": "Underground Collage Punk & DIY Zine artwork for 'Allí donde se reúnen las Almas'. Domain: Filosofía y Pensamiento Crítico (Filosofía Clásica y Moderna). Aesthetic: 1980s DIY punk fanzine and Dadaist photomontage. Visual elements: Ripped xerox photocopier paper edges, gritty black-and-white halftone textures, vintage scientific engraving cutouts juxtaposed with energetic neon spray paint splatters (hot magenta, acid green, electric cyan, hazard yellow), distorted stencils, duct tape strips, torn newsprint typography, raw rebellious counter-culture energy, widescreen 16:9, typography-free composition.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/luis-de-los-reyes-mihalic-valdivia-alli-donde-se-reunen-las-almas.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Filosofía Clásica y Moderna",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "rag_id": "textos-info-ensayo",
+  "name": "Ensayo Científico y Humanista",
+  "description": "Tractats analítics, crítica d'art, ciència i reflexió humanista.",
+  "version": "1.0.0",
+  "author": "SmartLocal / textos.info",
+  "created_at": 1794271953.849331,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 1961,
+  "total_documents": 9,
+  "total_library_files": 9,
+  "total_images_extracted": 1156,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "ensayo",
+    "textos-info",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}

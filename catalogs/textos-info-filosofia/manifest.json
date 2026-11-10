@@ -1,0 +1,25 @@
+{
+  "rag_id": "textos-info-filosofia",
+  "name": "Filosofía Clásica y Moderna",
+  "description": "Tractats filosòfics, dialèctica, epistemologia i ètica clàssica i contemporània.",
+  "version": "1.0.0",
+  "author": "SmartLocal / textos.info",
+  "created_at": 1794271165.140346,
+  "embedding_model": "embeddinggemma-2",
+  "generator_model": "gemma-4-e4b",
+  "total_chunks": 208,
+  "total_documents": 2,
+  "total_library_files": 2,
+  "total_images_extracted": 100,
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "tags": [
+    "filosofia",
+    "textos-info",
+    "collage-punk",
+    "non-fiction",
+    "smartlocal"
+  ]
+}

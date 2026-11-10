@@ -1,0 +1,326 @@
+{
+  "topic": "Ensayo Científico y Humanista",
+  "domain": "Ensayo y Epistemología",
+  "source_portal": "textos.info",
+  "tag": "ensayo",
+  "canonical_style_id": "anarcho-social-punk-v1",
+  "style_name": "Anarcho-Social Punk (Ciencias Sociales)",
+  "banner_cover": "images/banner.png",
+  "books": [
+    {
+      "id": "horacio-quiroga-biografias-ejemplares",
+      "title": "Biografías Ejemplares",
+      "author": "Horacio Quiroga",
+      "filename": "horacio-quiroga-biografias-ejemplares.pdf",
+      "source_url": null,
+      "file_size_bytes": 310008,
+      "sha256": "d3827134a169f2f4f7fdb0e9827e2014221626bdcdfd3b67549e0e05c0bca01c",
+      "total_pages": 50,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Biografías Ejemplares dins de Ensayo Científico y Humanista.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ensayo Científico y Humanista (Ensayo y Epistemología), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Etiquetas: Ensayo, Biografia, Articulo L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ensayo Científico y Humanista.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "anarcho-social-punk-v1",
+        "style_name": "Anarcho-Social Punk (Ciencias Sociales)",
+        "prompt_template": "Agitprop Anarcho-Social Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "specific_prompt": "Agitprop Anarcho-Social Punk collage for 'Biografías Ejemplares'. Domain: Ensayo y Epistemología (Ensayo Científico y Humanista). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/horacio-quiroga-biografias-ejemplares.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ensayo Científico y Humanista",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "jose-enrique-rodo-ariel",
+      "title": "Ariel",
+      "author": "José Enrique Rodó",
+      "filename": "jose-enrique-rodo-ariel.pdf",
+      "source_url": null,
+      "file_size_bytes": 362387,
+      "sha256": "ab34c73d801ddb40889d815ee642f601810ad8078760e2e9fd6443b7f6eaa10a",
+      "total_pages": 64,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Ariel dins de Ensayo Científico y Humanista.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ensayo Científico y Humanista (Ensayo y Epistemología), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Fecha de creación: 28 de diciembre de 2016 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ensayo Científico y Humanista.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "anarcho-social-punk-v1",
+        "style_name": "Anarcho-Social Punk (Ciencias Sociales)",
+        "prompt_template": "Agitprop Anarcho-Social Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "specific_prompt": "Agitprop Anarcho-Social Punk collage for 'Ariel'. Domain: Ensayo y Epistemología (Ensayo Científico y Humanista). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/jose-enrique-rodo-ariel.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ensayo Científico y Humanista",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "juan-valera-a-vuela-pluma",
+      "title": "A Vuela Pluma",
+      "author": "Juan Valera",
+      "filename": "juan-valera-a-vuela-pluma.pdf",
+      "source_url": null,
+      "file_size_bytes": 515036,
+      "sha256": "f07092c20f4fcfa9fb39ccbb692d9498564e85cd3b23466d0d305da149fd20b6",
+      "total_pages": 221,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de A Vuela Pluma dins de Ensayo Científico y Humanista.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ensayo Científico y Humanista (Ensayo y Epistemología), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Etiquetas: Ensayo, Artículo, Crítica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ensayo Científico y Humanista.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "anarcho-social-punk-v1",
+        "style_name": "Anarcho-Social Punk (Ciencias Sociales)",
+        "prompt_template": "Agitprop Anarcho-Social Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "specific_prompt": "Agitprop Anarcho-Social Punk collage for 'A Vuela Pluma'. Domain: Ensayo y Epistemología (Ensayo Científico y Humanista). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/juan-valera-a-vuela-pluma.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ensayo Científico y Humanista",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "juan-valera-algo-de-todo",
+      "title": "Algo de Todo",
+      "author": "Juan Valera",
+      "filename": "juan-valera-algo-de-todo.pdf",
+      "source_url": null,
+      "file_size_bytes": 372017,
+      "sha256": "566f2e7f3b0c70e9637048891728adcf6f66ac774f9db3a7494812386e51a026",
+      "total_pages": 144,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Algo de Todo dins de Ensayo Científico y Humanista.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ensayo Científico y Humanista (Ensayo y Epistemología), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Etiquetas: Artículo, Ensayo, Crítica L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ensayo Científico y Humanista.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "anarcho-social-punk-v1",
+        "style_name": "Anarcho-Social Punk (Ciencias Sociales)",
+        "prompt_template": "Agitprop Anarcho-Social Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "specific_prompt": "Agitprop Anarcho-Social Punk collage for 'Algo de Todo'. Domain: Ensayo y Epistemología (Ensayo Científico y Humanista). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/juan-valera-algo-de-todo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ensayo Científico y Humanista",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "juan-valera-cartas-americanas",
+      "title": "Cartas Americanas",
+      "author": "Juan Valera",
+      "filename": "juan-valera-cartas-americanas.pdf",
+      "source_url": null,
+      "file_size_bytes": 629865,
+      "sha256": "6b0192d7ea5abb1288d370fd5f3f560eb320364480b573abaac83bfed7212cfd",
+      "total_pages": 214,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Cartas Americanas dins de Ensayo Científico y Humanista.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ensayo Científico y Humanista (Ensayo y Epistemología), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Libros gratis - biblioteca digital abierta L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ensayo Científico y Humanista.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "anarcho-social-punk-v1",
+        "style_name": "Anarcho-Social Punk (Ciencias Sociales)",
+        "prompt_template": "Agitprop Anarcho-Social Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "specific_prompt": "Agitprop Anarcho-Social Punk collage for 'Cartas Americanas'. Domain: Ensayo y Epistemología (Ensayo Científico y Humanista). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/juan-valera-cartas-americanas.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ensayo Científico y Humanista",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "leopoldo-alas-clarin-canovas-y-su-tiempo",
+      "title": "Cánovas y su Tiempo",
+      "author": "Leopoldo Alas \"Clarín\"",
+      "filename": "leopoldo-alas-clarin-canovas-y-su-tiempo.pdf",
+      "source_url": null,
+      "file_size_bytes": 361100,
+      "sha256": "4a3695bdff2318a98b43539e020693f4db0e653eed494cfe59dd984881de36c8",
+      "total_pages": 68,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Espanya que aprofundeix en els fonaments i desenvolupament de Cánovas y su Tiempo dins de Ensayo Científico y Humanista.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ensayo Científico y Humanista (Ensayo y Epistemología), amb especial incidència en el marc acadèmic i professional de Espanya. El document aborda de manera sistemàtica els conceptes teòrics clau: Libros gratis - biblioteca digital abierta L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Espanya",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ensayo Científico y Humanista.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "anarcho-social-punk-v1",
+        "style_name": "Anarcho-Social Punk (Ciencias Sociales)",
+        "prompt_template": "Agitprop Anarcho-Social Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "specific_prompt": "Agitprop Anarcho-Social Punk collage for 'Cánovas y su Tiempo'. Domain: Ensayo y Epistemología (Ensayo Científico y Humanista). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/leopoldo-alas-clarin-canovas-y-su-tiempo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ensayo Científico y Humanista",
+        "Tractat i Manual Monogràfic",
+        "Espanya"
+      ]
+    },
+    {
+      "id": "miguel-de-unamuno-adentro",
+      "title": "¡Adentro!",
+      "author": "Miguel de Unamuno",
+      "filename": "miguel-de-unamuno-adentro.pdf",
+      "source_url": null,
+      "file_size_bytes": 70522,
+      "sha256": "a48927ef7ee52e0a2818f97eb6711a29eec1053cac93c9f4f9a143bb9b34b4cb",
+      "total_pages": 11,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic (UNAM) que aprofundeix en els fonaments i desenvolupament de ¡Adentro! dins de Ensayo Científico y Humanista.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ensayo Científico y Humanista (Ensayo y Epistemología), amb especial incidència en el marc acadèmic i professional de Mèxic (UNAM). El document aborda de manera sistemàtica els conceptes teòrics clau: Fecha de creación: 13 de septiembre de 2018 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic (UNAM)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ensayo Científico y Humanista.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "anarcho-social-punk-v1",
+        "style_name": "Anarcho-Social Punk (Ciencias Sociales)",
+        "prompt_template": "Agitprop Anarcho-Social Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "specific_prompt": "Agitprop Anarcho-Social Punk collage for '¡Adentro!'. Domain: Ensayo y Epistemología (Ensayo Científico y Humanista). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/miguel-de-unamuno-adentro.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ensayo Científico y Humanista",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    },
+    {
+      "id": "miguel-de-unamuno-almas-de-jovenes",
+      "title": "Almas de Jóvenes",
+      "author": "Miguel de Unamuno",
+      "filename": "miguel-de-unamuno-almas-de-jovenes.pdf",
+      "source_url": null,
+      "file_size_bytes": 83018,
+      "sha256": "b9f7fc574a4c2f6e8f49e9ec117cc8f39c68a07be0bd7ba68014e7f6eb89f859",
+      "total_pages": 17,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Argentina (Universidad de Buenos Aires) que aprofundeix en els fonaments i desenvolupament de Almas de Jóvenes dins de Ensayo Científico y Humanista.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ensayo Científico y Humanista (Ensayo y Epistemología), amb especial incidència en el marc acadèmic i professional de Argentina (Universidad de Buenos Aires). El document aborda de manera sistemàtica els conceptes teòrics clau: Fecha de creación: 13 de septiembre de 2018 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Argentina (Universidad de Buenos Aires)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari / Educació Superior",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari / educació superior, docents i investigadors en l'àmbit de Ensayo Científico y Humanista.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "anarcho-social-punk-v1",
+        "style_name": "Anarcho-Social Punk (Ciencias Sociales)",
+        "prompt_template": "Agitprop Anarcho-Social Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "specific_prompt": "Agitprop Anarcho-Social Punk collage for 'Almas de Jóvenes'. Domain: Ensayo y Epistemología (Ensayo Científico y Humanista). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/miguel-de-unamuno-almas-de-jovenes.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ensayo Científico y Humanista",
+        "Tractat i Manual Monogràfic",
+        "Argentina"
+      ]
+    },
+    {
+      "id": "miguel-de-unamuno-ciudad-y-campo",
+      "title": "Ciudad y Campo",
+      "author": "Miguel de Unamuno",
+      "filename": "miguel-de-unamuno-ciudad-y-campo.pdf",
+      "source_url": null,
+      "file_size_bytes": 83394,
+      "sha256": "9a6aac6ed0df4e2e4fda2e7ee98ca4b34c4eea3dd6d2d2d8d3dee44abbea93e8",
+      "total_pages": 16,
+      "short_description": "Tractat i Manual Monogràfic d'abast a Mèxic (UNAM) que aprofundeix en els fonaments i desenvolupament de Ciudad y Campo dins de Ensayo Científico y Humanista.",
+      "long_description": "Aquesta obra constitueix un tractat i manual monogràfic centrat en la disciplina de Ensayo Científico y Humanista (Ensayo y Epistemología), amb especial incidència en el marc acadèmic i professional de Mèxic (UNAM). El document aborda de manera sistemàtica els conceptes teòrics clau: Fecha de creación: 30 de septiembre de 2019 L'enfocament metodològic combina explicacions analítiques, desenvolupament conceptual per capítols i referències tècniques, oferint una base sòlida per a l'aprenentatge modular i la integració en sistemes de recuperació augmentada de coneixement (RAG).",
+      "regional_scope": "Mèxic (UNAM)",
+      "normatives_and_standards": [
+        "Bones Pràctiques Acadèmiques i Estàndards Científics Generals"
+      ],
+      "academic_level": "Grau Universitari i Consulta Professional",
+      "document_type": "Tractat i Manual Monogràfic",
+      "target_audience": "Estudiants de grau universitari i consulta professional, docents i investigadors en l'àmbit de Ensayo Científico y Humanista.",
+      "language": "es",
+      "cover_image": {
+        "style_id": "anarcho-social-punk-v1",
+        "style_name": "Anarcho-Social Punk (Ciencias Sociales)",
+        "prompt_template": "Agitprop Anarcho-Social Punk collage for '{title}'. Domain: {domain} ({topic}). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "specific_prompt": "Agitprop Anarcho-Social Punk collage for 'Ciudad y Campo'. Domain: Ensayo y Epistemología (Ensayo Científico y Humanista). Aesthetic: Revolutionary street poster, constructivist montage and punk fanzine. Visual elements: Ripped archival newspaper headlines and legal code documents, high-contrast stencil silhouettes of human assemblies and civic forums, symbolic scales of justice cut from textured cardboard, bold crimson red and gold spray graffiti, distressed xerox photocopier degradation, tape stickers, 16:9, typography-free.",
+        "generator": "banana-pi",
+        "rel_path": "images/covers/miguel-de-unamuno-ciudad-y-campo.png",
+        "width": 1024,
+        "height": 576
+      },
+      "key_thematic_axes": [
+        "Ensayo Científico y Humanista",
+        "Tractat i Manual Monogràfic",
+        "Mèxic"
+      ]
+    }
+  ]
+}
